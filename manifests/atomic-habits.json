@@ -1,0 +1,3013 @@
+{
+  "forks": [
+    {
+      "_id": "atomic-habits",
+      "title": "Atomic Habits",
+      "description": "How tiny changes create remarkable results, the proven system for building good habits and breaking bad ones.\n\nAll rights belong to the author and publisher. This is a summary/review, buy the book below from the author.",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/fork_202603271213.jpeg",
+      "feedIds": [
+        "atomic-habits-the-power-of-tiny-changes",
+        "atomic-habits-identity-based-habits",
+        "atomic-habits-make-it-obvious",
+        "atomic-habits-your-environment-is-everything",
+        "atomic-habits-make-it-attractive",
+        "atomic-habits-make-it-easy",
+        "atomic-habits-the-two-minute-rule",
+        "atomic-habits-make-it-satisfying",
+        "atomic-habits-mastery-and-beyond",
+        "atomic-habits-quiz"
+      ],
+      "actionLabel": "Buy the book",
+      "actionUrl": "https://www.amazon.com/s?k=Atomic+Habits+James+Clear"
+    }
+  ],
+  "feeds": [
+    {
+      "_id": "atomic-habits-the-power-of-tiny-changes",
+      "title": "The Power of Tiny Changes",
+      "description": "How a near-fatal accident led to a revolutionary insight about small improvements",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "atomic-habits-identity-based-habits",
+      "title": "Identity-Based Habits",
+      "description": "Why who you become matters more than what you achieve",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "atomic-habits-make-it-obvious",
+      "title": "Make It Obvious",
+      "description": "The first law of behavior change and the art of awareness",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "atomic-habits-your-environment-is-everything",
+      "title": "Your Environment Is Everything",
+      "description": "Why motivation is overrated and surroundings shape behavior",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "atomic-habits-make-it-attractive",
+      "title": "Make It Attractive",
+      "description": "The science of craving and why we imitate three groups",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "atomic-habits-make-it-easy",
+      "title": "Make It Easy",
+      "description": "Why repetition beats perfection and friction is your secret weapon",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "atomic-habits-the-two-minute-rule",
+      "title": "The Two-Minute Rule",
+      "description": "How to beat procrastination by scaling any habit down to two minutes",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "atomic-habits-make-it-satisfying",
+      "title": "Make It Satisfying",
+      "description": "The cardinal rule, paper clips, and the power of accountability",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "atomic-habits-mastery-and-beyond",
+      "title": "Mastery and Beyond",
+      "description": "Genes, boredom, and the path from good habits to true greatness",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "atomic-habits-quiz",
+      "title": "Quiz",
+      "description": "Test your knowledge of Atomic Habits",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/10_202603271213.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    }
+  ],
+  "cards": [
+    {
+      "_id": "5922eb59-3c16-4d2f-9346-f42b6172c9b1",
+      "feedId": "atomic-habits-the-power-of-tiny-changes",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1_202603271213.jpeg",
+          "title": "The Power of Tiny Changes",
+          "subtitle": "How a near-fatal accident led to a revolutionary insight about small improvements"
+        }
+      ]
+    },
+    {
+      "_id": "2cfc39ee-31d1-4bf6-948a-6e587bc1e2e6",
+      "feedId": "atomic-habits-the-power-of-tiny-changes",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Day Everything Changed"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "On the final day of his sophomore year of high school, James Clear's life changed in an instant. A classmate's baseball bat slipped mid-swing and struck him directly between the eyes. The impact shattered both eye sockets, broke his nose, and fractured his skull in multiple places. His brain swelled dangerously, and doctors placed him in a medically induced coma.\n\nThe recovery was long and humbling. Clear had to relearn basic tasks that most people take for granted, from walking in a straight line to breathing without assistance. For nine months he could not drive a car. When he finally returned to the baseball field a full year later, he was a shadow of his former self, logging just eleven innings of varsity baseball as a junior.\n\nBut something shifted when Clear arrived at Denison University. Rather than chasing dramatic improvements, he focused on tiny daily habits. He went to bed early. He kept his room clean. He lifted weights consistently. He refined his study routines. None of these changes felt significant on any given day, but they compounded over time in ways he never expected.\n\nSix years after the accident that nearly ended his life, Clear was named the top male athlete at Denison University and selected for the ESPN Academic All-America Team. The transformation was not the result of one defining moment. It was the product of hundreds of small choices, repeated daily, stacking on top of one another until they produced something remarkable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "880f9e32-7f4a-4d41-bb59-9389ae9e5c9f",
+      "feedId": "atomic-habits-the-power-of-tiny-changes",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The 1% Rule"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Here is a simple math problem that reveals an extraordinary truth about improvement. If you get just one percent better at something each day for an entire year, you end up roughly thirty-seven times better than where you started. The formula is straightforward: 1.01 raised to the power of 365 equals 37.78.\n\nThe flip side is equally striking. If you get one percent worse each day, declining just slightly through neglect or poor choices, you shrink down to nearly zero over the same period. 0.99 raised to the power of 365 equals just 0.03.\n\nClear uses this calculation as a powerful illustration of how small differences compound over time. The daily impact of any single choice is almost invisible. Eating one healthy meal will not transform your body. Studying for twenty extra minutes will not make you an expert. Skipping one workout will not ruin your fitness. But the direction of these choices matters enormously when they accumulate across months and years.\n\nThis is what Clear means by \"atomic\" habits. The word atomic carries three meanings that define his entire philosophy. First, atomic means tiny, like an atom. Second, atoms are the source of immense energy when combined. Third, atoms are the fundamental building blocks of larger systems. An atomic habit is a small routine that is easy to perform on its own but serves as a building block of a much larger system of continuous improvement. The results only become visible once the compound effect has had time to work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ebb4dbc1-c7ba-4819-aa8e-3daff4a4910f",
+      "feedId": "atomic-habits-the-power-of-tiny-changes",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Brailsford Revolution"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In 2003, a man named Dave Brailsford took over as performance director of British Cycling, a program that had been mediocre for nearly a century. Since 1908, British cyclists had won just a single Olympic gold medal. In 110 years of competition, no British rider had ever won the Tour de France. The sport's governing body was so unsuccessful that one of Europe's top bike manufacturers reportedly refused to sell them bikes, fearing it would damage their brand.\n\nBrailsford introduced a strategy he called the aggregation of marginal gains. The core idea was simple: search for a tiny improvement in everything you do. Instead of trying to revolutionize the program overnight, he broke down every aspect of cycling performance and looked for one percent improvements in each area.\n\nHis team redesigned the bike seats to make them more comfortable. They rubbed alcohol on tires for better grip. They tested different types of massage gels to find which one led to the fastest muscle recovery. They hired a surgeon to teach every rider proper hand-washing technique, reducing the chances of catching a cold during training.\n\nSome improvements were remarkably unconventional. The team painted the inside of their equipment truck white so they could spot tiny specks of dust that might degrade bike performance. They tested different fabrics in a wind tunnel and had riders wear electrically heated overshorts to maintain ideal muscle temperature between races. No detail was too small to optimize."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "68605e25-10f3-4cdc-8fda-d94e09527cb9",
+      "feedId": "atomic-habits-the-power-of-tiny-changes",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Marginal Gains in Action"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The results of Brailsford's approach were staggering, and they arrived faster than anyone expected. Just five years after he took over, British cyclists dominated the 2008 Beijing Olympics, winning an astonishing sixty percent of the available gold medals in cycling events. The team that no manufacturer wanted to sponsor had become the most dominant force in the sport.\n\nBut that was only the beginning. In 2012 at the London Olympics, the British team set nine Olympic records and seven world records. Between 2007 and 2017, British cyclists won 178 world championships, 66 Olympic or Paralympic gold medals, and captured five Tour de France victories in a race they had never won before Brailsford arrived.\n\nThe lesson Clear draws from this story goes beyond cycling. Brailsford did not discover some secret training method or recruit superhuman athletes. He simply committed to finding small improvements everywhere and letting them accumulate. Each individual change, whether it was a better pillow for sleep or a more aerodynamic helmet, was almost insignificant on its own. But when hundreds of these tiny improvements combined, they produced results that seemed impossible from the outside.\n\nThis pattern, where small changes appear to make no difference until they suddenly produce massive results, is at the heart of how atomic habits work. The aggregation of marginal gains is not just a sports strategy. It is a universal principle of how improvement actually happens in every domain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a9abf8a3-763a-484f-94c2-092c9bc5bf37",
+      "feedId": "atomic-habits-the-power-of-tiny-changes",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Plateau of Latent Potential"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear introduces one of the book's most important mental models through a simple analogy involving an ice cube. Imagine an ice cube sitting on a table in a cold room. The temperature is twenty-five degrees Fahrenheit. You slowly raise the temperature one degree at a time: twenty-six, twenty-seven, twenty-eight. Nothing happens. Twenty-nine, thirty, thirty-one. Still nothing. The ice cube just sits there, unchanged.\n\nThen the temperature hits thirty-two degrees. The ice begins to melt. A single degree shift, no different from any of the previous ones, has triggered a visible transformation. But the melting did not happen because of that final degree alone. It happened because of all the energy that was stored and accumulated during the earlier degrees. Those earlier increases were not wasted. They were latent.\n\nClear calls this the Plateau of Latent Potential, and it explains why people quit habits too early. We expect progress to be linear. We put in effort and expect to see results immediately and proportionally. But real growth follows an exponential curve. For weeks or even months, the results of your efforts remain hidden beneath the surface, building up potential energy that has not yet been released.\n\nThe gap between what you expect and what you actually experience in the early stages is what Clear calls the Valley of Disappointment. This is where most people give up. They conclude their efforts are not working and abandon the habit. But the work was not wasted. It was simply being stored, waiting for the moment when it could finally break through."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2928d745-19cc-4d50-9fcc-f9e0fa56d8e3",
+      "feedId": "atomic-habits-the-power-of-tiny-changes",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Systems Beat Goals"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of Clear's most provocative arguments is that goals are not what separate winners from losers. Everyone who enters a competition shares the same goal: to win. Every aspiring novelist wants to write a bestseller. Every job candidate wants to get hired. The goal is identical, yet only some people succeed. The difference, Clear argues, is not in the ambition but in the systems.\n\nA system is the collection of daily habits and processes that move you toward or away from your desired outcome. A goal is the result you want to achieve. A system is the process you follow to get there. Clear identifies four specific problems with relying on goals instead of systems.\n\nFirst, winners and losers share the same goals, so goals alone cannot explain success. Second, achieving a goal produces only a momentary change. You might clean your room when it becomes unbearable, but without a system for tidiness, it will return to chaos. Third, goals restrict your happiness by creating an either-or framework where you are either successful or failing with nothing in between. Fourth, goals are at odds with long-term progress because once achieved, the motivation to continue disappears.\n\nThe alternative is to commit to a system of daily practices that operates independently of any single outcome. When you fall in love with the process rather than the product, you do not have to wait for permission to be happy. You can find satisfaction at every stage while the system handles the results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "82503e2a-c7dd-41f5-bd4e-ee039ca92d03",
+      "feedId": "atomic-habits-the-power-of-tiny-changes",
+      "order": 7,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Your Trajectory Matters More"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear offers a reframe that changes how many readers think about their current position in life. He argues that you should be far more concerned with your current trajectory than with your current results. The question that matters is not where you stand today but which direction you are heading.\n\nIf you are a millionaire but you spend more than you earn each month, your trajectory is bad regardless of your current wealth. If you are broke but saving a small amount consistently, your trajectory is excellent regardless of your current bank balance. The same logic applies to health, relationships, career growth, and every other domain of life.\n\nThis insight connects back to the compound growth model. Small habits do not produce dramatic results on any given day. A single workout does not transform your physique. One hour of focused study does not make you an expert. But these actions shift your trajectory. They bend the arc of your daily life in a slightly different direction, and over months and years, that slight bend leads to a completely different destination.\n\nClear's opening story embodies this principle perfectly. After his baseball bat injury, he was nowhere close to becoming a top athlete. But each small habit he built at Denison University, from consistent sleep to regular weightlifting, shifted his trajectory incrementally. None of those individual days felt transformative. But the accumulated direction change carried him to a place that seemed impossible from where he started."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2ac38250-daae-413a-9d26-6e7f1487a552",
+      "feedId": "atomic-habits-identity-based-habits",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2_202603271213.jpeg",
+          "title": "Identity-Based Habits",
+          "subtitle": "Why who you become matters more than what you achieve"
+        }
+      ]
+    },
+    {
+      "_id": "8dfe077a-4469-4a39-996a-8fb13ceefe13",
+      "feedId": "atomic-habits-identity-based-habits",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Three Layers of Change"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear describes behavior change as occurring across three concentric layers, like rings of an onion. The outermost layer is outcomes, the things you get. The middle layer is processes, the things you do. The innermost layer is identity, the things you believe about yourself.\n\nMost people begin their change efforts at the outermost layer. They set outcome-based goals: lose twenty pounds, publish a novel, double their income. Then they try to figure out what process or system will deliver that result. The identity layer rarely enters the conversation at all.\n\nClear argues this is backwards. True behavior change starts at the core, with identity, and works outward. When you begin by deciding what kind of person you want to be, the processes and outcomes follow naturally. A person who identifies as a runner does not need to debate whether to go for a morning jog. The behavior is simply what someone like them does.\n\nThe distinction is subtle but powerful. Outcome-based habits say: I want to lose weight, so I will diet. Identity-based habits say: I am a healthy person, so I eat well. The first framing treats the habit as a means to an end. The second treats it as an expression of who you are. When a habit becomes part of your self-concept, you are no longer pursuing a change. You are acting in alignment with the person you have already decided to become. This shift from having to being is what makes habits stick."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0052326e-3453-432e-a4e5-e977f770d423",
+      "feedId": "atomic-habits-identity-based-habits",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Becoming, Not Achieving"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear illustrates the identity shift with a series of reframes that make the concept concrete. The goal is not to read a book. The goal is to become a reader. The goal is not to run a marathon. The goal is to become a runner. The goal is not to learn an instrument. The goal is to become a musician.\n\nIn each case, the focus moves from a one-time achievement to an ongoing identity. Achievements have endpoints, which means motivation evaporates once you reach them. Identities are continuous, which means the behaviors they produce are self-sustaining. A reader reads. A runner runs. A musician practices. These are not tasks to be completed but expressions of who that person is.\n\nThis reframe also changes how setbacks feel. When your identity is tied to a goal, failure feels personal and devastating. When your identity is tied to a type of person, a single bad day does not threaten who you are. A runner who misses one workout is still a runner. A writer who skips one morning session is still a writer. The identity absorbs the setback rather than being destroyed by it.\n\nClear emphasizes that you do not need to have the identity fully formed before you begin. You build it through action. Each small habit is a piece of evidence that reinforces the new identity. Over time, the evidence accumulates until the belief becomes automatic and the behaviors flow from it effortlessly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ab20fabe-73b8-4205-b7e3-9a653bd83b0f",
+      "feedId": "atomic-habits-identity-based-habits",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Voting for Your Identity"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear uses a voting metaphor to explain how identity actually forms. He argues that every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.\n\nThink of it like an election. You do not need a unanimous vote to win an election. You just need a majority. Similarly, you do not need every moment of every day to align with your desired identity. You just need enough consistent actions to build a convincing body of evidence.\n\nThis is liberating because it removes the pressure of perfection. Missing a vote here or there does not change the outcome of the election. What matters is the overall pattern. If you meditate for five minutes most mornings, you are casting votes for being a mindful person even on the days you skip. If you choose the salad over the burger most lunches, you are building evidence for being someone who eats well even when you occasionally indulge.\n\nThe voting metaphor also explains why small habits are so effective at identity change. Each tiny repetition is another vote. A single pushup is a vote for being athletic. A single page of reading is a vote for being studious. A single saved dollar is a vote for being financially responsible. These votes are individually insignificant, but collectively they reshape how you see yourself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "794e52a8-4912-4b51-99e1-401f3c07e476",
+      "feedId": "atomic-habits-identity-based-habits",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Habit Loop"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Before introducing his framework for changing habits, Clear lays out the science of how habits actually work in the brain. He describes a four-stage loop that every habit follows: cue, craving, response, and reward.\n\nThe cue is the trigger that initiates the behavior. It is a bit of information that predicts a reward, like the smell of coffee in the morning or the buzz of a notification on your phone. The craving is the motivational force behind every habit. You do not crave the cigarette itself but the feeling of relief it provides. You do not crave checking social media but the sense of connection it offers. The response is the actual behavior you perform, which can be a thought or an action. The reward is the end goal of the habit loop, the satisfaction that teaches your brain which behaviors are worth remembering.\n\nClear's four-stage model builds on earlier work by Charles Duhigg, who described a three-stage habit loop of cue, routine, and reward. Clear added craving as a distinct step because he argues that without the motivational component, the cue alone is not enough to produce action. You might notice a plate of cookies on the counter (cue) but if you have no desire for sweets in that moment (no craving), the habit loop never advances to the response stage.\n\nThis four-stage loop becomes the scaffolding for the entire book. Each stage maps directly to one of the Four Laws of Behavior Change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5bd95201-1cb5-48ad-a44f-abd8577302a4",
+      "feedId": "atomic-habits-identity-based-habits",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Four Laws of Behavior Change"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The four stages of the habit loop, cue, craving, response, and reward, map directly onto Clear's framework for building good habits and breaking bad ones. He calls them the Four Laws of Behavior Change.\n\nThe First Law is Make It Obvious. This targets the cue stage. If you want to build a good habit, make the trigger visible and unavoidable. Place your running shoes by the front door. Put a book on your pillow. Set your vitamins next to your coffee maker. The more obvious the cue, the more likely you are to act on it.\n\nThe Second Law is Make It Attractive. This targets the craving stage. The more appealing an activity seems, the more likely you are to follow through. Pair habits you need to do with habits you want to do. Surround yourself with people who make the behavior seem normal and desirable.\n\nThe Third Law is Make It Easy. This targets the response stage. Reduce friction between you and good behaviors. Lower the number of steps required. Simplify the process. The less effort a habit demands, the more likely it is to happen.\n\nThe Fourth Law is Make It Satisfying. This targets the reward stage. We repeat behaviors that deliver immediate pleasure. Find ways to make good habits feel rewarding right away rather than only offering delayed benefits.\n\nEach law also has an inversion for breaking bad habits: make it invisible, make it unattractive, make it difficult, and make it unsatisfying."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "284484d8-5dec-4301-b4e8-e741299004fb",
+      "feedId": "atomic-habits-identity-based-habits",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Building Your Evidence"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear closes the foundation section with a practical two-step process for changing your identity through habits. The first step is to decide the type of person you want to be. The second step is to prove it to yourself with small wins.\n\nThe deciding part does not require a grand vision or elaborate soul-searching. It can start with broad questions. What kind of person could get the outcome I want? What would a healthy person do? How would a productive person organize their morning? These questions point you toward an identity rather than just an outcome.\n\nThe proving part is where atomic habits enter. Each small action becomes a piece of evidence that supports your new identity. If you want to be a writer, write one sentence. That is evidence. If you want to be fit, do five pushups. That is evidence. If you want to be organized, put one thing back in its place. Each piece of evidence is small, but it accumulates rapidly.\n\nClear emphasizes that this process is not about achieving perfection or accumulating a perfect record. It is about casting enough votes in the right direction to build a credible case for who you are becoming. The goal is a gradual evolution, not a dramatic transformation. You are not overhauling your entire life in a single day. You are slowly editing your beliefs by showing up and doing the work, one atomic habit at a time. The identity follows the evidence, and the evidence comes from the habits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "60387aa6-6b3b-4dea-8153-afb6e2f989f7",
+      "feedId": "atomic-habits-make-it-obvious",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3_202603271213.jpeg",
+          "title": "Make It Obvious",
+          "subtitle": "The first law of behavior change and the art of awareness"
+        }
+      ]
+    },
+    {
+      "_id": "c90f0455-16ba-47e8-9303-87084d558d7e",
+      "feedId": "atomic-habits-make-it-obvious",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Woman Who Saved a Life"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear opens the First Law with a striking story about unconscious awareness. A paramedic was attending a family gathering when she looked at her father-in-law and felt something was wrong. She could not explain exactly what she noticed, but years of working with cardiac patients had trained her brain to detect subtle patterns that signaled danger. She insisted he go to the hospital immediately.\n\nDoctors discovered that a major artery was severely blocked. He was on the verge of a heart attack. Her unconscious pattern recognition, built through thousands of patient encounters, had detected something that no one else in the room could see. She literally saved his life by noticing what she could not consciously articulate.\n\nClear uses this story to introduce a crucial insight about habits: most of our behaviors operate below the level of conscious awareness. We do not deliberately choose most of our daily actions. We perform them automatically, driven by cues we barely register. This automaticity is what makes habits powerful, but it is also what makes them dangerous. Bad habits can persist for years simply because we never become aware enough to notice them.\n\nThe first step in changing any habit, whether building a good one or breaking a bad one, is to bring it into conscious awareness. You cannot change what you do not notice. Before you can make a habit obvious, you must first make yourself aware of the habits you already have. This is where the journey of the First Law begins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c611660b-b042-43af-bff1-128f51190126",
+      "feedId": "atomic-habits-make-it-obvious",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Pointing and Calling"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Japan's railway system is one of the most efficient and punctual in the world, and one of the key reasons is a safety practice called pointing-and-calling. As each train approaches a station, the conductor physically points at different signals and objects while calling out their status aloud. They point at the speedometer and say the speed. They point at the signal light and announce its color. They point at the platform and confirm it is clear.\n\nThis might look strange to outside observers, but the results speak for themselves. Studies have shown that pointing-and-calling reduces errors by up to eighty-five percent and cuts accidents by thirty percent. The practice works by forcing the operator to move an unconscious, automatic check into a conscious, deliberate one. When you physically point and verbally announce, you cannot sleepwalk through the process.\n\nClear adapts this principle for personal habit change. The idea is that you need a system for raising your awareness of automatic behaviors. Most of us go through our daily routines on autopilot: grabbing our phone first thing in the morning, reaching for a snack while watching television, scrolling social media during lunch. These behaviors happen so automatically that we barely register them.\n\nPointing-and-calling for everyday life means narrating your actions as they happen. When you catch yourself reaching for a cookie, say aloud: I am about to eat this cookie. I do not need it. I am eating it because I am bored. The simple act of verbal acknowledgment can interrupt the automatic loop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a664dcf-e428-4732-99da-68ec1c8157fc",
+      "feedId": "atomic-habits-make-it-obvious",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Habits Scorecard"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Building on the pointing-and-calling principle, Clear introduces a practical exercise called the Habits Scorecard. The process is simple. Take a piece of paper and list every single action you perform during a typical day, from the moment you wake up to the moment you go to sleep.\n\nWake up. Check phone. Use the bathroom. Brush teeth. Make coffee. Check email. Eat breakfast. Drive to work. The list continues through every routine and micro-behavior that fills your day. Most people are surprised by how many actions they perform automatically without any deliberate thought.\n\nOnce you have the full list, mark each habit with a plus sign, a minus sign, or an equals sign. Plus means the habit is positive and serves you well. Minus means the habit is negative and works against you. Equals means the habit is neutral.\n\nThe critical instruction is that you are not trying to change anything at this stage. The sole purpose of the Habits Scorecard is to build awareness. Judging yourself or trying to fix everything at once will only create overwhelm and guilt. The goal is simply to observe and catalog, like a scientist taking notes on a specimen.\n\nThis exercise reveals patterns that are otherwise invisible. You might discover that you check your phone forty times a day, or that you snack every time you walk past the kitchen, or that you have a productive window in the morning that you routinely waste on email. Awareness is the first step. Change comes later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ba766832-9237-4489-88d9-0a7293d4bda2",
+      "feedId": "atomic-habits-make-it-obvious",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "When and Where"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Once you are aware of your existing habits, Clear introduces the first practical tool for building new ones: the implementation intention. Research has consistently shown that people who make a specific plan for when and where they will perform a new behavior are significantly more likely to follow through than people who simply rely on motivation or willpower.\n\nThe formula is straightforward: I will perform this behavior at this time in this location. Not \"I will exercise more\" but \"I will exercise at 7 AM in my home gym.\" Not \"I will read more\" but \"I will read for twenty minutes at 8 PM in the living room chair.\" Not \"I will meditate\" but \"I will meditate for five minutes at 6:30 AM at my kitchen table.\"\n\nThe specificity matters because vague intentions leave too much room for your brain to negotiate its way out. When the time and place are predetermined, the decision is already made. You do not have to spend mental energy deciding whether, when, or where to do the thing. You just do it when the conditions match your plan.\n\nMany people think they lack motivation when what they really lack is clarity. They have not decided exactly when and where they will act. Implementation intentions remove that ambiguity. They transform a fuzzy aspiration into a concrete commitment that is tied to a specific moment in your day. The cue becomes impossible to miss because you have already defined exactly what it looks like."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e9f4848a-8783-4e14-819e-d3a28d9e3334",
+      "feedId": "atomic-habits-make-it-obvious",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Stacking Your Habits"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear builds on implementation intentions with a more powerful variation called habit stacking, a concept adapted from Stanford behavior scientist BJ Fogg. The formula is: after I complete a current habit, I will perform this new habit.\n\nThe insight behind habit stacking is that you already have a robust network of habits that carry you through each day. You already make coffee, brush your teeth, check your phone, drive the same route to work. These existing routines are deeply encoded in your brain through years of repetition. Rather than building new cues from scratch, you can link new behaviors to these established anchors.\n\nAfter I pour my morning coffee, I will meditate for sixty seconds. After I sit down at my desk at work, I will write my priorities for the day. After I take off my work shoes at home, I will immediately change into workout clothes. Each new habit gets stacked onto a behavior that is already reliable.\n\nThe key to effective habit stacking is choosing the right anchor. The anchor habit should happen at the same frequency as the new habit you want to build. If you want a daily habit, stack it onto something you do daily. If you want a weekly habit, find a weekly anchor. The anchor should also occur at a time when you have the energy and opportunity to perform the new behavior. Stacking a demanding new habit onto the end of an exhausting day is a recipe for failure.\n\nHabit stacking turns your existing routines into a launchpad for new behaviors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3fe58ca4-6c74-4840-a87a-a3d0c3467c9a",
+      "feedId": "atomic-habits-make-it-obvious",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Diderot Effect"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear tells the story of Denis Diderot, an eighteenth-century French philosopher who lived most of his life in poverty. When Catherine the Great of Russia bought his personal library for a sum worth roughly one hundred and fifty thousand dollars in today's money, Diderot suddenly had wealth he had never known.\n\nOne of his first purchases was a beautiful scarlet robe. But the new robe made everything else he owned look shabby by comparison. So he replaced his old rug with a new one. Then he upgraded his sculptures, his chairs, his mirror. One purchase triggered a cascade of spending that left him in debt once again.\n\nThis pattern, where obtaining a new possession creates a spiral of additional consumption, is now known as the Diderot Effect. Clear uses it to illustrate a broader truth about habits: behaviors do not happen in isolation. They are part of chains, and one action often triggers the next.\n\nThe Diderot Effect can work against you, as it did with Diderot's spending spiral, or you can harness it intentionally through habit stacking. When you link behaviors together in a deliberate sequence, you create a positive cascade where one good habit naturally flows into the next. The morning coffee leads to meditation, which leads to journaling, which leads to planning the day. Each habit becomes both the reward for the previous one and the cue for the next. The chain carries you forward without requiring a fresh decision at each step."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f3e6cd9f-684f-47e3-b6a3-3ba76874583e",
+      "feedId": "atomic-habits-your-environment-is-everything",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4_202603271213.jpeg",
+          "title": "Your Environment Is Everything",
+          "subtitle": "Why motivation is overrated and surroundings shape behavior"
+        }
+      ]
+    },
+    {
+      "_id": "637cb383-bba6-4f3e-80ee-8e310763c24e",
+      "feedId": "atomic-habits-your-environment-is-everything",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Motivation Is Overrated"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In 1936, psychologist Kurt Lewin wrote a simple equation that Clear considers one of the most important formulas in behavioral science: B equals f of P and E. Behavior is a function of the person in their environment. It is not determined by the person alone. It is shaped by the interaction between the person and their surroundings.\n\nThis equation challenges a deeply held assumption that most people carry: that behavior change is primarily about willpower, discipline, and internal motivation. We tell ourselves that if we just wanted it badly enough, we would eat better, exercise more, and stop procrastinating. When we fail, we blame our lack of motivation or our weak character.\n\nClear argues that this framing is fundamentally wrong. The people who appear to have extraordinary self-control are not better at resisting temptation. They are better at structuring their lives so that they rarely encounter temptation in the first place. They spend less time in environments that trigger bad habits and more time in environments that support good ones.\n\nMotivation is real, but it is unreliable. It fluctuates with your mood, energy level, stress, sleep quality, and a hundred other variables you cannot fully control. Environment, by contrast, is something you can design deliberately. When you set up your surroundings to make good behaviors easy and bad behaviors hard, you stop depending on the fickle resource of motivation and start relying on the stable architecture of your physical world."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5172fd96-c63b-48bf-9fda-d553c39c343f",
+      "feedId": "atomic-habits-your-environment-is-everything",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Cafeteria Experiment"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of the most compelling examples of environment design comes from Anne Thorndike, a doctor at Massachusetts General Hospital in Boston. Thorndike wanted to improve the eating habits of thousands of hospital staff and visitors without telling a single person to change their behavior.\n\nHer approach was elegantly simple. She redesigned the hospital cafeteria. Water bottles, which had previously only been available at the drink station next to the sodas, were now placed beside every food station throughout the cafeteria. You could grab a water bottle at the sandwich counter, at the salad bar, at the checkout line. Water was everywhere.\n\nNo signs were posted. No lectures were given. No one was told to drink more water or less soda. The only thing that changed was the physical environment and the visibility of the options.\n\nThe results were dramatic. Over the following three months, soda sales dropped by 11.4 percent while bottled water sales increased by 25.7 percent. People shifted their behavior significantly without anyone asking them to do so, without any appeals to willpower or health consciousness, and without any awareness that they were part of an experiment.\n\nClear uses this study to drive home a core principle of the First Law: you do not need to be the victim of your environment. You can be the architect of it. By making healthy cues more visible and unhealthy cues less visible, you can reshape behavior at scale without relying on motivation or conscious effort."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "753d272d-8b0f-472c-83c9-cfc2468a34fd",
+      "feedId": "atomic-habits-your-environment-is-everything",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Designing Your World"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear translates the cafeteria insight into practical strategies anyone can apply at home and work. The core principle is to make the cues of good habits obvious in your physical environment and make the cues of bad habits invisible.\n\nIf you want to practice guitar more, place the guitar on a stand in the middle of the living room rather than tucking it away in a closet. If you want to eat more fruit, put a bowl of apples on the kitchen counter. If you want to read before bed, place a book on your pillow each morning. If you want to drink more water, fill water bottles and place them in common areas around your home.\n\nThe inverse works for bad habits. If you want to watch less television, unplug the TV after each use and only plug it back in when you can say out loud what you want to watch. If you want to spend less time on social media, remove the apps from your phone's home screen or log out after each session so that opening them requires extra steps.\n\nClear emphasizes that every habit is initiated by a cue, and the most common cues are visual. Humans are visual creatures, and what we see most frequently tends to direct our behavior most powerfully. When you redesign your visual environment, you reshape the landscape of cues that guide your behavior throughout the day. The goal is to live in a world where doing the right thing requires no reminder."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "400d1651-25c5-4c54-8244-5912f078a6d1",
+      "feedId": "atomic-habits-your-environment-is-everything",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Vietnam Paradox"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In 1971, two United States congressmen visited the troops in Vietnam and returned with alarming news. Their research, later confirmed by a study led by researcher Lee Robins, found that roughly thirty-five percent of U.S. soldiers stationed in Vietnam had tried heroin and as many as twenty percent were actively addicted. With tens of thousands of addicted soldiers about to return home, the government braced for a public health catastrophe.\n\nBut the catastrophe never materialized. When Robins followed up with the returning veterans, she found that only five percent of those who had been addicted in Vietnam became re-addicted after returning to the United States. This was a stunning result. At the time, conventional wisdom held that heroin addiction was virtually permanent, with relapse rates typically cited around ninety percent.\n\nWhat happened? The prevailing explanation was environment. In Vietnam, heroin was cheap, easily available, and widely used by peers. The stress of combat created a powerful craving. The entire context, social pressure, physical availability, emotional state, supported the habit.\n\nWhen soldiers returned home, that context vanished completely. They were surrounded by different people, in different places, facing different daily routines. The cues that triggered heroin use in Vietnam simply did not exist in their American neighborhoods. Without those environmental triggers, the habit lost its grip.\n\nClear uses this study to make his most forceful argument for environment design. Context is not just one factor among many. In many cases it is the dominant factor driving behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "925c3fd3-4884-45ac-9d69-8753f91c0a09",
+      "feedId": "atomic-habits-your-environment-is-everything",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Context Is the Cue"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Vietnam study leads Clear to a deeper insight about how habits form. People often think of a cue as a single trigger, like the sound of an alarm clock or the sight of a candy bar. But Clear argues that the true cue for a habit is not a single sensory event. It is the entire context surrounding the behavior.\n\nYour couch is associated with watching TV and eating snacks. Your desk is associated with working. Your bed is associated with sleeping (or, for many people, scrolling their phone). Over time, your habits become tied not to a single trigger but to an entire environment. The context becomes the cue.\n\nThis has practical implications for anyone trying to change their habits. If you always eat junk food while sitting on a particular couch watching a particular show, that entire context triggers the craving. Trying to resist the craving while sitting in the same spot watching the same show is like trying to swim against a current. You are fighting the full weight of your environmental associations.\n\nClear's recommendation is to create new environments for new habits whenever possible. Want to study more effectively? Find a place that you use only for studying. Want to sleep better? Use your bed only for sleep. When a space is associated with a single behavior, the context itself becomes a powerful cue that pulls you toward that behavior automatically. One space, one use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "99e3909c-a659-4d67-aa79-87129e1e7712",
+      "feedId": "atomic-habits-your-environment-is-everything",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Inversion: Make It Invisible"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Every law in Clear's framework has an inversion for breaking bad habits. The inversion of Make It Obvious is Make It Invisible. If good habits should be triggered by visible cues, bad habits should be starved by removing their cues from your environment.\n\nThis is where Clear challenges the popular narrative around self-control. People who appear to have iron willpower are not, in most cases, better at resisting temptation in the moment. They are better at avoiding tempting situations in the first place. They structure their environments so that the cues for bad habits rarely appear.\n\nIf you want to stop eating cookies, do not keep cookies in your house and rely on willpower to resist them. Remove them entirely. If you want to reduce your screen time, charge your phone in a different room overnight. If you want to stop impulse shopping online, delete the shopping apps and remove saved credit card information so that purchasing requires more steps.\n\nClear frames self-control as a short-term strategy, not a long-term solution. In the short term, you can white-knuckle your way past a temptation. But willpower is a depletable resource. The more you rely on it, the more likely it is to fail when you need it most. The long-term solution is to design an environment where you never need self-control in the first place, where the path of least resistance leads directly to the behavior you want.\n\nMake the bad habit invisible, and the fight is already half won."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6f24472d-359f-4c06-8b18-4099da2bbe2d",
+      "feedId": "atomic-habits-make-it-attractive",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5_202603271213.jpeg",
+          "title": "Make It Attractive",
+          "subtitle": "The science of craving and why we imitate three groups"
+        }
+      ]
+    },
+    {
+      "_id": "070ec1d8-fe77-447e-9315-ae367a39e312",
+      "feedId": "atomic-habits-make-it-attractive",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Dopamine Surprise"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Most people assume that dopamine, the brain chemical often associated with habits and motivation, is released when you experience pleasure. You eat a delicious meal and dopamine floods your brain. You win a prize and dopamine spikes. But neuroscience tells a more nuanced story, and Clear uses it to explain why some habits are so much more compelling than others.\n\nDopamine is released not only when you experience pleasure but, more importantly, when you anticipate it. Studies have shown that the dopamine spike is actually larger during the anticipation phase than during the reward itself. Your brain gets more excited about the possibility of a reward than about the actual experience of receiving it.\n\nThis is why checking your phone is so addictive. The buzz of a notification creates anticipation: who texted? What did they say? The moment of opening the message often delivers less satisfaction than the moment of wondering about it. The craving, not the reward, is the real driver of behavior.\n\nClear uses this insight to explain the Second Law. If habits are driven more by anticipation than by actual pleasure, then making a habit attractive is about creating a sense of eager anticipation around it. You want your brain to associate the habit with excitement and possibility, not just with the eventual payoff. The more attractive you can make a behavior feel before you do it, the stronger the pull to actually follow through. Dopamine is not just a reward chemical. It is a motivation chemical."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d1aacc83-5e5f-44b4-815d-eaf6c915e2ef",
+      "feedId": "atomic-habits-make-it-attractive",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Temptation Bundling"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of the most practical strategies Clear offers for the Second Law is temptation bundling, a concept developed by behavioral scientist Katy Milkman at the University of Pennsylvania's Wharton School. The idea is to pair an action you need to do with an action you want to do, making the necessary behavior more attractive by linking it to something enjoyable.\n\nClear illustrates this with the story of Ronan Byrne, an engineering student in Dublin who loved watching Netflix but knew he needed to exercise more. Byrne hacked together a program that connected his laptop to his stationary bike. Netflix would only play if he was pedaling above a certain speed. If he slowed down or stopped, the show paused. The result was a system where watching Netflix and exercising became inseparable.\n\nThe psychological basis for temptation bundling is Premack's Principle, which states that more probable behaviors will reinforce less probable behaviors. In plain language: the things you naturally want to do can be used to motivate the things you need to do.\n\nClear suggests combining temptation bundling with habit stacking for maximum effect. The formula becomes: after I complete a current habit, I will do the habit I need. After I do the habit I need, I will do the habit I want. For example: after I get home from work, I will do ten minutes of exercise. After ten minutes of exercise, I will check my social media feed. The reward becomes the pull that makes the required behavior feel worth doing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a7c9944a-8d74-49d7-810e-935090c78906",
+      "feedId": "atomic-habits-make-it-attractive",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Supernormal Stimuli"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear introduces a concept from animal behavior research that explains why modern temptations are so difficult to resist. Dutch scientist Niko Tinbergen studied herring gulls and discovered something surprising about how animals respond to cues. Gull chicks instinctively peck at the red dot on their mother's beak to signal hunger. When Tinbergen created fake beaks with larger, brighter red dots, the chicks pecked at them even more eagerly than at real beaks. The exaggerated version of the cue triggered a stronger response than the real thing.\n\nTinbergen called these exaggerated triggers supernormal stimuli, and they appear throughout the animal kingdom. Birds will sit on fake eggs that are larger and more colorful than real eggs, preferring them over their own. Beetles will attempt to mate with beer bottles whose shape and color resemble a female beetle.\n\nClear draws a direct line from this research to modern human behavior. Junk food is a supernormal stimulus for hunger, engineered to be saltier, sweeter, and fattier than anything found in nature. Social media is a supernormal stimulus for social connection, delivering more \"likes\" and notifications than any real-world relationship. Video games are supernormal stimuli for achievement, providing faster and more reliable feedback than any real accomplishment.\n\nUnderstanding supernormal stimuli helps explain why willpower fails against modern temptations. You are not battling a normal cue. You are fighting a cue that has been artificially amplified beyond what your brain evolved to handle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7f483dc7-8cbc-4d5e-baa0-4f734b6b5064",
+      "feedId": "atomic-habits-make-it-attractive",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Chess Family"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "To illustrate how social environment shapes habits, Clear tells the extraordinary story of the Polgar family. In 1965, a Hungarian man named Laszlo Polgar began writing letters to a woman named Klara, arguing a bold thesis: with the right training, any child could be raised to become a genius in virtually any field. Talent, he insisted, was not born but built. The two eventually married and decided to test his theory with their own children.\n\nThey chose chess as the domain and immersed their three daughters in the game from early childhood. Susan, the eldest, began playing at age four and was defeating adults within six months. Sofia became a strong player as well. But it was Judit, the youngest, who proved the most extraordinary. By age five she could beat her father. At twelve she became the youngest player ever listed among the top one hundred chess players in the world. At fifteen years and four months, she became the youngest grandmaster in history.\n\nClear uses the Polgar story not primarily as an argument about talent or practice but as an illustration of how culture shapes behavior. The Polgar sisters grew up in a household where chess was the norm. It was not an extracurricular activity or a chore. It was simply what their family did. The habit of practicing chess was made attractive because it was embedded in their social identity.\n\nWhen a behavior is normal in your group, it becomes attractive to you. When it is abnormal, it becomes unattractive. Culture is the invisible force that makes certain habits irresistible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11d69edd-350a-47e3-b469-4da78f7d7409",
+      "feedId": "atomic-habits-make-it-attractive",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Three Groups We Copy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear identifies three specific social groups whose habits we tend to imitate, each for a different evolutionary reason.\n\nThe first group is the close: family, friends, and colleagues. We absorb the habits of the people nearest to us almost by osmosis. If your five closest friends exercise regularly, you are far more likely to exercise. If they drink heavily, so will you. Proximity creates conformity. This is why joining a group where your desired behavior is the default is one of the most effective strategies for behavior change.\n\nThe second group is the many: society at large. Humans have a deep instinct to conform with the majority. When a behavior is popular, it feels attractive. When it goes against the crowd, it feels threatening. This tribal instinct served our ancestors well because going along with the group meant safety. But it can also keep us stuck in bad habits if the people around us normalize them.\n\nThe third group is the powerful: people with status and prestige. We are drawn to behaviors that earn respect, approval, and admiration. If a successful person endorses a particular morning routine or productivity system, we are naturally inclined to try it. The association with status makes the behavior attractive.\n\nClear's practical advice from this insight is direct: join a culture where your desired behavior is the normal behavior and where you already have something in common with the group. When belonging and behavior align, change becomes nearly effortless because you are swimming with the social current instead of against it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d28b1e89-765d-43e8-978a-2b9fca32c280",
+      "feedId": "atomic-habits-make-it-attractive",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Inversion: Make It Unattractive"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The inversion of the Second Law is to make bad habits unattractive. Clear approaches this by examining the underlying motivations behind every craving. On the surface, we crave specific things: a cigarette, a social media scroll, a slice of pizza. But underneath those surface cravings are deeper motives that are universal to all humans: the desire to reduce uncertainty, gain social approval, achieve status, find connection, avoid pain, or experience pleasure.\n\nA smoker does not truly crave a cigarette. They crave the feeling of calm that nicotine temporarily provides. A social media user does not crave the app itself. They crave connection and validation. Once you identify the deeper motive behind a craving, you can find alternative behaviors that address the same underlying need in a healthier way.\n\nClear suggests a specific reframing technique. Instead of telling yourself that you have to go to the gym, tell yourself that you get to go to the gym. Instead of thinking of saving money as a sacrifice, think of it as building freedom. Instead of framing a diet as deprivation, frame it as fueling your body. The behavior stays the same, but the association changes from negative to positive.\n\nThis reframing works because habits are driven by predictions. Your brain constantly predicts what behaviors will satisfy your needs. When you change the prediction, you change the craving. Making a bad habit unattractive is really about changing the story your brain tells about what that habit will deliver."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "65275ac5-d2a0-4b9b-86a8-6cbcdc2c3815",
+      "feedId": "atomic-habits-make-it-easy",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6_202603271213.jpeg",
+          "title": "Make It Easy",
+          "subtitle": "Why repetition beats perfection and friction is your secret weapon"
+        }
+      ]
+    },
+    {
+      "_id": "ca0714af-f1f0-4ab3-a274-ce390cbdbe62",
+      "feedId": "atomic-habits-make-it-easy",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Photography Experiment"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Jerry Uelsmann, a professor at the University of Florida, once divided his film photography class into two groups. The first group, the quantity group, would be graded solely on the volume of work they produced. One hundred photos earned an A, ninety photos a B, eighty a C, and so on. Quality did not matter. Only quantity.\n\nThe second group, the quality group, would be graded on excellence alone. They needed to produce just one photo for the entire semester, but it had to be nearly perfect to earn an A.\n\nAt the end of the semester, Uelsmann reviewed the work and found a striking pattern. All of the best photographs were produced by the quantity group. While the quality group sat around theorizing about perfection, analyzing composition, and debating technique, the quantity group was busy taking photos, learning from their mistakes, experimenting with lighting and angles, and improving through sheer repetition.\n\nClear uses this experiment to introduce the Third Law with a provocative claim: the most effective form of learning is practice, not planning. We tend to think that the path to mastery runs through careful study and preparation. But the evidence suggests that you learn far more by doing something repeatedly than by thinking about doing it perfectly.\n\nThis does not mean quality is irrelevant. It means that quality emerges from quantity. The quantity group produced better photos not despite their lack of concern for perfection but because they practiced more and improved faster through direct experience."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a7b952c9-604d-4cb6-aba1-44ceea3ac3fa",
+      "feedId": "atomic-habits-make-it-easy",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Motion vs Action"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear draws a sharp distinction between two activities that feel similar but produce very different results: motion and action. Motion is when you plan, strategize, and learn without producing an outcome. Action is when you actually do the thing that produces a result.\n\nOutlining twenty ideas for articles is motion. Writing and publishing an article is action. Searching for a better diet plan is motion. Actually eating a healthy meal is action. Researching the best workout program is motion. Doing a set of pushups is action.\n\nMotion is seductive because it feels productive without risking failure. When you are in motion, you can tell yourself you are making progress without facing the vulnerability of actually putting something out into the world. It is a form of procrastination disguised as preparation.\n\nClear is not saying that planning has no value. Sometimes preparation is necessary and useful. But he argues that motion should never become a substitute for action. If you find yourself endlessly researching, planning, and optimizing without ever starting, you are stuck in motion.\n\nThe photography experiment demonstrates this perfectly. The quality group was trapped in motion, theorizing about the perfect photograph. The quantity group was in action, producing real work and improving through practice. The Third Law, Make It Easy, is fundamentally about removing the barriers between motion and action. The easier you make it to start doing the actual thing, the less time you spend stuck in the planning phase."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "07a4c4ed-76e0-491e-8247-46aa337d2e0c",
+      "feedId": "atomic-habits-make-it-easy",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Law of Least Effort"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Humans are wired to conserve energy. Given two options that produce a similar reward, we will almost always choose the one that requires less effort. This is not laziness. It is a deep evolutionary instinct. Our ancestors survived by conserving energy for truly important tasks, and our brains still operate on the same principle.\n\nClear calls this the Law of Least Effort, and he argues it is the most important concept in the Third Law. If you want a behavior to happen, reduce the friction between you and that behavior. If you want a behavior to stop, increase the friction.\n\nFriction is measured in steps. Every additional step between you and a habit reduces the probability that you will do it. Want to exercise in the morning? Sleep in your workout clothes, set your shoes by the bed, and eliminate every possible barrier between waking up and starting the workout. Want to eat healthier? Prep your meals on Sunday so that healthy food is the easiest option available during the week.\n\nThe inverse applies to bad habits. Want to watch less television? Unplug the TV after each use and put the remote in a drawer in a different room. Want to scroll social media less? Delete the apps from your phone and only access them through a web browser. Each additional step creates friction, and friction is the enemy of behavior.\n\nThe goal is to reduce the friction for good habits to near zero and increase the friction for bad habits until they become inconvenient enough to avoid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4333bb0f-ddc4-4e85-b710-2fe0e9b459ab",
+      "feedId": "atomic-habits-make-it-easy",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Hugo's Radical Strategy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear tells one of history's most extreme examples of friction manipulation through the story of Victor Hugo. In the summer of 1830, the legendary French author faced a deadline problem. He had promised his publisher a new book, but he had spent the past year attending parties and entertaining guests instead of writing. The deadline was February 1831, and Hugo had almost nothing on paper.\n\nHis solution was radical. Hugo collected all of his clothes and asked his assistant to lock them away in a large chest. With nothing to wear except a single large shawl, he could not leave the house. He was effectively imprisoned in his own home with nothing to do but write.\n\nThe strategy worked spectacularly. Hugo wrote furiously through the fall and winter, and The Hunchback of Notre Dame was published on January 14, 1831, two weeks ahead of schedule.\n\nClear uses this story to illustrate the extreme version of friction reduction for good habits and friction addition for bad habits. Hugo did not try to increase his motivation to write. He did not give himself an inspiring pep talk or develop a detailed writing schedule. He simply made it physically impossible to do anything else. He increased the friction on his bad habits (socializing, going out) to infinity and reduced the friction on his good habit (writing) to near zero.\n\nMost of us do not need to lock away our clothes. But the principle applies in countless smaller ways throughout daily life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "03969656-8bfb-4de3-a244-652522ee40a9",
+      "feedId": "atomic-habits-make-it-easy",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Reducing Friction"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear provides a series of practical strategies for reducing friction that go beyond the obvious. The most powerful is what he calls environment priming: setting up your physical space so that the next good action is as easy as possible to perform.\n\nWant to cook a healthy breakfast? Chop vegetables and set out pans the night before. Want to draw more? Leave your sketchbook open on your desk with pencils beside it. Want to go running? Lay out your running clothes, shoes, and water bottle before bed. These are not dramatic life changes. They are tiny environmental adjustments that eliminate the micro-decisions and small efforts that accumulate into resistance.\n\nClear also highlights one-time actions that deliver ongoing returns. Buying a good mattress improves every night's sleep without any daily effort. Setting up automatic savings improves your finances without monthly decisions. Buying smaller plates reduces portion sizes without any willpower. Unsubscribing from marketing emails eliminates daily temptation without ongoing vigilance.\n\nThese one-time choices are what Clear calls the decisive actions that shape your default behavior. They reset the baseline of your environment so that the path of least resistance leads to better outcomes. The beauty of this approach is that it works even on your worst days. When your motivation is low and your willpower is depleted, you default to whatever is easiest. If you have designed your environment well, what is easiest also happens to be what is best."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "fc1ea395-7deb-4640-9837-41bf3bda0fde",
+      "feedId": "atomic-habits-make-it-easy",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Resetting the Room"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear profiles Oswald Nuckols, an IT developer from Natchez, Mississippi, who practices a simple daily ritual he calls resetting the room. After watching television in the evening, Nuckols tidies the living room, puts the remote back on the TV stand, and arranges the pillows on the couch. After using the kitchen, he cleans the counters and sets out the items he needs for breakfast the next morning.\n\nThis practice serves a dual purpose. First, it is a closing ritual that signals the end of one activity and creates a clean separation between different parts of the day. Second, and more importantly, it primes the environment for the next good behavior. When Nuckols walks into the kitchen in the morning, everything is already set up for a healthy breakfast. When he sits down in the living room, it is clean and inviting rather than cluttered from the night before.\n\nThe concept of resetting the room is a microcosm of Clear's entire philosophy about the Third Law. You are not relying on motivation to make good choices in the morning. You are relying on your past self to set up the environment so that good choices are the default. Each reset is a small investment of effort that pays dividends the following day.\n\nClear encourages readers to apply this principle to every space they use regularly. Reset your desk at the end of each workday. Reset your gym bag after each workout. Reset your bedroom before sleep. When each environment is primed for its intended purpose, the friction between you and good behavior vanishes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f149f7b8-1aef-4817-8966-4d5bbe602bce",
+      "feedId": "atomic-habits-the-two-minute-rule",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7_202603271213.jpeg",
+          "title": "The Two-Minute Rule",
+          "subtitle": "How to beat procrastination by scaling any habit down to two minutes"
+        }
+      ]
+    },
+    {
+      "_id": "1abd6336-2fdf-4007-a1d5-bda0d1e8fbb5",
+      "feedId": "atomic-habits-the-two-minute-rule",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Procrastination Trap"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear opens this section by examining why we procrastinate even on things we genuinely want to do. The answer, he argues, is not laziness or lack of desire. It is that the habits we want to build often feel too large to start. Running five miles sounds exhausting. Writing a chapter sounds overwhelming. Meditating for thirty minutes sounds impossible for a scattered mind.\n\nThe problem is that we think about the final form of the habit rather than the starting point. We picture the full workout, the completed manuscript, the deep meditative state, and the gap between where we are and where we want to be feels so wide that we never take the first step. We procrastinate not because we do not care but because the imagined effort feels crushing.\n\nClear argues that the solution is not to push through the resistance with brute force motivation. That approach works occasionally but fails consistently because motivation is unreliable. The solution is to make the habit so small that starting it requires almost no effort at all.\n\nThis is the foundation of what Clear calls the Two-Minute Rule, perhaps the single most practical tool in the entire book. It addresses the most common failure point in habit formation, which is not maintaining a habit over time but simply getting started in the first place. If you can solve the starting problem, the continuation often takes care of itself. The hardest part of any workout is putting on your shoes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a60eb064-8b27-4119-b835-d7517a17658c",
+      "feedId": "atomic-habits-the-two-minute-rule",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Scale It Down"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Two-Minute Rule states that when you start a new habit, it should take less than two minutes to do. Any habit can be scaled down to a two-minute version. Read before bed each night becomes read one page. Do thirty minutes of yoga becomes take out my yoga mat. Study for class becomes open my notes. Run three miles becomes put on my running shoes and step outside. Fold the laundry becomes fold one pair of socks.\n\nThis sounds almost absurdly simple, and that is exactly the point. The Two-Minute Rule is not about the result. It is about mastering the art of showing up. Anyone can read one page. Anyone can take out a yoga mat. Anyone can fold a pair of socks. The barrier to entry is so low that it is nearly impossible to say no.\n\nClear acknowledges that some readers will feel like this is a trick. They know they need to do more than just open their notes or put on their running shoes. But he argues that the ritual of showing up is the most important part of the process. A habit must be established before it can be improved.\n\nYou cannot optimize a habit that does not exist. The Two-Minute Rule ensures that the habit exists first. Once the routine is established and the identity of showing up is in place, you can gradually expand the scope. Two minutes of reading naturally extends to ten. Putting on running shoes naturally leads to a jog around the block."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "58b32f5f-17e4-4197-bc61-1c07d412dea7",
+      "feedId": "atomic-habits-the-two-minute-rule",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Gateway Habits"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear describes the two-minute version of any habit as a gateway habit. It is the entry point into a larger routine, like a door that leads to an entire house. You do not need to walk through the whole house every day. You just need to open the door.\n\nThe power of gateway habits lies in the psychology of momentum. Once you have started a behavior, continuing is much easier than starting from zero. Taking out the yoga mat often leads to doing a few stretches, which leads to a full session. Opening your notes often leads to reviewing a few lines, which leads to genuine studying. The two-minute gateway lowers the activation energy required to begin.\n\nClear provides a hierarchy of habit phases to illustrate how gateway habits work. Phase one is showing up, the two-minute version. Phase two is continuing for a short time. Phase three is performing the full habit at a moderate level. Phase four is performing the habit at a high level. Phase five is performing the habit at an exceptional level.\n\nThe critical insight is that you cannot jump to phase five without passing through phase one. Many people skip the gateway entirely and try to leap straight to the ambitious version of the habit. They inevitably fail and conclude that they lack discipline. The truth is they skipped the foundation. The Two-Minute Rule ensures you build each phase in order, starting with the simplest possible version and letting the habit grow naturally from there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "15699d2c-5824-4ab1-830b-e1efb66344e5",
+      "feedId": "atomic-habits-the-two-minute-rule",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Decisive Moments"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear introduces the concept of decisive moments to explain why certain small choices carry disproportionate weight in shaping the rest of your day. A decisive moment is a choice that functions like a fork in the road, determining the trajectory of the next several minutes or hours.\n\nWalking into a restaurant is a decisive moment. Once you sit down, the menu constrains your options, and the quality of your meal is largely determined. Picking up your phone when you get home from work is a decisive moment. Once you start scrolling, the next hour is likely gone. Opening your laptop at a coffee shop is a decisive moment. Whether you open your work project or social media sets the tone for your entire session.\n\nClear argues that your day is not shaped by one hundred individual decisions but by a handful of decisive moments that set the default for everything that follows. The choices that happen at these fork-in-the-road moments are the ones that matter most, and they are often the smallest and most automatic choices you make.\n\nThis connects directly to the Two-Minute Rule. The decisive moment is often the first two minutes of a larger behavior. If you can master the decisive moment, if you can choose to put on your running shoes instead of sitting on the couch, the behavior that follows is much more likely to be positive. Control the decisive moments and you control the day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8c7f5f2a-47ac-4095-8ab1-59b5496527bb",
+      "feedId": "atomic-habits-the-two-minute-rule",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Locking In Good Behavior"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear describes commitment devices as choices you make in the present that lock in better behavior in the future. A commitment device removes the option to quit or change your mind when temptation arrives later.\n\nThe classic example is Odysseus ordering his sailors to tie him to the mast of his ship so he could hear the Sirens' song without being lured to his death. He made the choice to restrict his future options while his mind was clear, knowing that his future self would not have the willpower to resist.\n\nModern commitment devices are less dramatic but equally effective. If you want to save money, set up automatic transfers to a savings account on payday. The money is moved before you have a chance to spend it. If you want to cut screen time, use an app blocker that locks you out of social media after a daily limit. If you want to eat less at meals, buy smaller plates. Each of these decisions is made once but pays dividends repeatedly.\n\nClear distinguishes commitment devices from willpower by emphasizing their one-time nature. You do not need discipline every day to maintain an automatic savings transfer. You needed discipline once, when you set it up. After that, the system handles the behavior on your behalf. The best commitment devices make bad behavior impossible rather than merely difficult. When you eliminate the option entirely, the internal debate disappears."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1bc7f791-2353-48a7-a7fb-7f3b07d70432",
+      "feedId": "atomic-habits-the-two-minute-rule",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Inversion: Make It Difficult"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The inversion of Make It Easy is Make It Difficult. Just as reducing friction promotes good habits, increasing friction can break bad ones. The goal is to add enough steps between yourself and the unwanted behavior that the effort required exceeds the strength of the craving.\n\nClear provides a spectrum of friction levels. At the lowest level, you add a small inconvenience: logging out of social media so you have to type your password each time. At a medium level, you remove the tool: deleting the app from your phone so you have to reinstall it. At the highest level, you make the behavior physically impossible: leaving your phone in a different room, giving the TV remote to a friend, or having your internet automatically shut off at 10 PM.\n\nThe strategy of automation deserves special attention here. Technology can be a powerful ally in making bad habits difficult. Website blockers, app timers, automatic bill payments, and scheduled do-not-disturb modes all use technology to restrict future choices and remove the need for daily willpower.\n\nClear emphasizes that the best way to break a bad habit is not to try harder but to restructure your life so that you do not encounter the cue in the first place. Between Make It Invisible from the First Law and Make It Difficult from the Third Law, you have two complementary strategies: remove the trigger, and if the trigger still appears, make the response so inconvenient that the effort is not worth the reward."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3d974cbe-7b4a-4e75-99b0-c7132a107eff",
+      "feedId": "atomic-habits-make-it-satisfying",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8_202603271213.jpeg",
+          "title": "Make It Satisfying",
+          "subtitle": "The cardinal rule, paper clips, and the power of accountability"
+        }
+      ]
+    },
+    {
+      "_id": "a31f150c-0c46-426b-bd4c-7657bb9916fe",
+      "feedId": "atomic-habits-make-it-satisfying",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Cardinal Rule"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear opens the Fourth Law with what he calls the cardinal rule of behavior change: what is immediately rewarded is repeated, and what is immediately punished is avoided. This rule operates at a level deeper than conscious decision-making. It is wired into the fundamental architecture of how our brains learn.\n\nThe first three laws, Make It Obvious, Make It Attractive, and Make It Easy, increase the odds that a behavior will be performed this time. The Fourth Law increases the odds that a behavior will be repeated next time. Without a satisfying conclusion, the habit loop does not close properly. The brain does not tag the behavior as worth remembering, and the next time the cue appears, the motivation to respond is weaker.\n\nThis creates a fundamental challenge for building good habits. Most of the habits that will improve your life in the long run, exercising, saving money, eating well, studying, deliver their rewards on a delayed timeline. You do not feel the benefits of today's workout for weeks or months. The payoff from this month's savings does not materialize for years.\n\nBad habits, by contrast, deliver immediate satisfaction. The cigarette provides instant calm. The cookie provides instant pleasure. The social media scroll provides instant entertainment. The mismatch between the timing of rewards creates a systematic bias in favor of bad habits and against good ones. The cardinal rule tells us we need to find ways to make good habits feel rewarding right now, not just in the distant future."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7ff93b7e-86db-420b-84e4-db588855fe57",
+      "feedId": "atomic-habits-make-it-satisfying",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Mismatch Problem"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear explains the timing mismatch through an evolutionary lens. For most of human history, life was an immediate-return environment. Our ancestors lived in what scientists call a \"present-focused\" world. If you were hungry, you foraged or hunted and ate. If you were cold, you built a fire. If you were threatened, you fought or fled. The consequences of every action were immediate and tangible.\n\nModern society operates on a completely different timeline. We live in a delayed-return environment. You work today but get paid at the end of the month. You exercise today but see physical changes in months. You save today but benefit in decades. The rewards for most good behaviors are separated from the behavior itself by long stretches of time.\n\nOur brains, however, have not caught up. The same neural circuitry that helped our ancestors survive in an immediate-return world is now driving our decisions in a delayed-return world. The brain still prioritizes what feels good right now over what will benefit us later.\n\nThis is why good habits feel like a sacrifice in the moment. The costs are immediate (effort, discomfort, boredom) while the benefits are delayed (health, wealth, skill). Bad habits offer the reverse: immediate pleasure with delayed costs. The cardinal rule says we repeat what is immediately rewarded, which means our default wiring consistently favors bad habits.\n\nClear's solution is not to fight this wiring but to work with it by adding an immediate layer of satisfaction to habits whose real benefits are delayed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5e13f382-f133-47b3-a51c-dbe6b1a4aefe",
+      "feedId": "atomic-habits-make-it-satisfying",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Paper Clip Strategy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of the book's most memorable stories involves a twenty-three-year-old stockbroker named Trent Dyrsmid who was hired by a bank in Abbotsford, Canada in 1993. Dyrsmid was unknown and inexperienced, but he had a simple system that made him extraordinarily productive.\n\nEach morning, he placed two jars on his desk. One jar was filled with 120 paper clips. The other was empty. After each sales call, he moved one paper clip from the full jar to the empty jar. He did not stop making calls until all 120 clips had been transferred.\n\nThe system worked brilliantly. Within eighteen months, Dyrsmid was bringing in five million dollars in revenue for the firm. By age twenty-four, he was earning seventy-five thousand dollars a year, roughly equivalent to one hundred and twenty-five thousand dollars today.\n\nClear uses this story to illustrate the power of visual measurement as a form of immediate satisfaction. Each transferred paper clip provided a tiny hit of progress and accomplishment. Dyrsmid could see his work accumulating throughout the day in the growing pile of clips in the empty jar. The visual evidence of effort made the repetitive work of cold-calling feel tangible and rewarding.\n\nThe paper clip strategy works because it converts an abstract goal (make lots of sales calls) into a concrete, visible process (move 120 clips from one jar to another). The satisfaction comes not from the calls themselves but from watching the physical evidence of your consistency grow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "daeb186d-73fc-4882-b713-3df66fbdfcbb",
+      "feedId": "atomic-habits-make-it-satisfying",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Track Your Progress"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Building on the paper clip story, Clear explores the broader practice of habit tracking. The simplest version is the calendar method, often associated with comedian Jerry Seinfeld. The practice is straightforward: pick a habit, get a calendar, and put an X on each day you complete the habit. After a few days, you have a chain of X marks. The visual chain itself becomes a source of motivation.\n\nHabit tracking works for three reasons. First, it creates a visual cue that reminds you to act. The calendar on the wall is a constant reminder that you have a streak to maintain. Second, it is inherently motivating. Seeing your progress displayed as a growing chain of marks provides a hit of immediate satisfaction each time you add another entry. Third, it provides evidence for your identity change. Each X is a small piece of proof that you are becoming the kind of person who shows up consistently.\n\nClear recommends keeping the tracking method as simple as possible. Complex tracking systems with multiple metrics and categories tend to become burdensome and are abandoned quickly. The best habit tracker is one you will actually use. A simple calendar with X marks, a notebook with checkboxes, or a basic app with a daily toggle are all sufficient.\n\nThe most important guideline Clear offers is to record each measurement immediately after the habit occurs, not at the end of the day. Immediate tracking closes the feedback loop and reinforces the behavior right when it matters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "28176ea1-6d96-4b67-b251-b6e7e38bfb30",
+      "feedId": "atomic-habits-make-it-satisfying",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Never Miss Twice"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear acknowledges that even the best tracking system will face interruptions. Life happens. You get sick, you travel, your schedule gets disrupted. Missing a day is inevitable. The question is what you do next.\n\nHis answer is a simple but powerful rule: never miss twice. Missing one day is an accident. Missing two days is the beginning of a new habit. The first missed day breaks the streak. The second missed day starts building a counter-streak of not doing the habit.\n\nThis rule is psychologically important because it reframes perfection as unnecessary. You do not need a flawless record. You need a strong recovery pattern. The person who misses one workout but shows up the next day is still on track. The person who misses one workout and then misses four more has fundamentally changed their trajectory.\n\nClear points out that bad days are actually the most important days for habit building. When you show up on days when you do not feel like it, when the conditions are bad, when your motivation is at its lowest, those are the days that contribute the most to your identity. Anyone can show up when they are motivated and energized. The person who shows up when it is hard is casting the most powerful votes for who they want to become.\n\nThe never-miss-twice rule is also forgiving enough to be sustainable. It acknowledges that humans are imperfect while still setting a clear standard for what comes next after a slip."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e2783de5-cfa8-4fb3-a9ac-eeddf123adad",
+      "feedId": "atomic-habits-make-it-satisfying",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Accountability Effect"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear introduces the concept of the habit contract as a way to add social stakes to behavior change. A habit contract is a verbal or written agreement in which you state your commitment to a particular habit and the specific punishment that will follow if you fail to keep it. An accountability partner cosigns the agreement, adding the weight of social obligation.\n\nThe most entertaining example is Bryan Harris, an entrepreneur from Nashville, Tennessee, who wanted to lose weight. Harris created a contract with escalating consequences. If he missed his daily carbohydrate and protein targets, he owed his trainer one hundred dollars. If he forgot to weigh himself, he owed his wife five hundred dollars. And if he missed a scheduled sprint workout, he had to dress up for work every day and wear an Alabama hat for the rest of the quarter, a particularly painful punishment for a devoted Auburn fan.\n\nWith his wife and trainer serving as accountability partners, Harris followed through and lost the weight. The social cost of failing, embarrassment, financial loss, and wearing a rival team's colors, made the bad behaviors genuinely unattractive.\n\nClear also highlights Thomas Frank, an entrepreneur in Boulder, Colorado, who set up an automated tweet that would fire at 6:10 AM saying \"It's 6:10 and I'm not up because I'm lazy!\" if he did not disable it by waking up at 5:55 AM. The threat of public embarrassment kept him honest every single morning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b0d2425a-1816-40b8-a300-2d7d4fdf503c",
+      "feedId": "atomic-habits-make-it-satisfying",
+      "order": 7,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Inversion: Make It Unsatisfying"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The inversion of the Fourth Law is to make bad habits unsatisfying. If immediate rewards drive repetition, then immediate consequences drive avoidance. The key is to make the cost of a bad behavior visible and painful right now rather than at some vague future date.\n\nClear illustrates this with one of the book's most provocative examples. Roger Fisher, a professor at Harvard, once proposed a radical solution to the problem of nuclear weapons. He suggested implanting the nuclear launch codes in a capsule placed inside the chest cavity of a volunteer who would always accompany the President. If the President wanted to launch nuclear weapons, he would first have to personally kill this volunteer with a butcher knife to retrieve the codes.\n\nFisher's reasoning was that the President should feel the weight of killing before ordering the deaths of millions. The current system made mass destruction abstract and easy. Fisher wanted to make the first death immediate, personal, and visceral. The Pentagon rejected the proposal, reportedly saying it would distort the President's judgment. But Clear notes that was precisely the point. The goal was to make the consequences of a terrible decision feel real in the moment of the decision.\n\nWhile most of us do not face nuclear dilemmas, the underlying principle applies broadly. The more immediate and tangible you can make the consequences of a bad habit, the less likely you are to repeat it. Accountability partners, habit contracts, and automatic penalties all serve to bring future consequences into the present."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5549f2cf-71cb-4a01-9285-cf7b3b93e9af",
+      "feedId": "atomic-habits-mastery-and-beyond",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9_202603271213.jpeg",
+          "title": "Mastery and Beyond",
+          "subtitle": "Genes, boredom, and the path from good habits to true greatness"
+        }
+      ]
+    },
+    {
+      "_id": "ad2486ff-5a40-487e-a47d-994438b22d29",
+      "feedId": "atomic-habits-mastery-and-beyond",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Talent Question"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "After establishing the Four Laws, Clear addresses a question that many readers are thinking: does genetics matter? His answer is nuanced. Genes do not determine your destiny, but they do determine your areas of opportunity.\n\nHe illustrates this with a striking comparison between Michael Phelps, the most decorated swimmer in Olympic history, and Hicham El Guerrouj, the world champion middle-distance runner. Phelps stands six feet four inches tall with a long torso and relatively short legs, the ideal build for swimming. El Guerrouj has incredibly long legs and a short upper body, the ideal build for running. Despite Phelps being significantly taller, the two men wear the same length inseam on their pants.\n\nIf you put Phelps on a running track, he would be mediocre at best. If you put El Guerrouj in a swimming pool, the same would be true. Their genetic advantages are domain-specific. In the right context, their natural traits are superpowers. In the wrong context, those same traits become liabilities.\n\nClear's argument is not that effort and habits are irrelevant. They are essential. But the habits you build should be aligned with your natural abilities and interests. You do not need to build the habits of a swimmer if your body and temperament are suited for running. The goal is to find the game where the odds are in your favor and then apply the power of atomic habits within that domain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "57ee2c6b-656a-4c31-a2dc-4119b1ece679",
+      "feedId": "atomic-habits-mastery-and-beyond",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Explore, Then Exploit"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "How do you find the right domain for your habits? Clear recommends what he calls the explore-exploit tradeoff. In the early stages of any new endeavor, you should explore broadly. Try many things. Sample different activities, projects, and approaches. Cast a wide net.\n\nDuring this exploration phase, you are gathering data about what suits your natural inclinations. What comes easily to you that seems hard for others? What activities make you lose track of time? What gives you energy rather than draining it? These questions help you identify your areas of natural advantage.\n\nOnce you have identified a promising area, you shift from exploration to exploitation. Now you narrow your focus and apply the principles of atomic habits with full intensity. You build systems, stack routines, and optimize your environment for this specific domain. The exploration phase tells you where to aim. The exploitation phase is where the real compounding happens.\n\nClear cautions against staying in exploration mode forever. Some people spend their entire lives sampling new hobbies, careers, and interests without ever committing deeply enough to any single one to see the compound returns. Exploration is necessary at the beginning, but at some point you need to pick a lane and commit.\n\nThe ideal balance shifts over time. Early in your career or a new pursuit, explore more. As you identify what works, exploit more. But never stop exploring entirely. Keep a small portion of your time reserved for trying new things so that you continue gathering information about yourself and the world."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5fd8fb99-cd25-49b2-abde-ccca19f11df5",
+      "feedId": "atomic-habits-mastery-and-beyond",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Goldilocks Zone"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear introduces the Goldilocks Rule to explain why some people maintain motivation over long periods while others burn out or lose interest. The rule states that humans experience peak motivation when working on tasks that are right at the edge of their current abilities. Not too easy, not too hard, but just right.\n\nResearch in psychology suggests that the optimal zone of difficulty is approximately four percent beyond your current ability level. When a task is significantly below your ability, you get bored. When it is significantly above your ability, you get discouraged. But when it sits right at the boundary between what you can do and what you cannot quite do yet, you enter a state of deep focus and engagement that psychologists call flow.\n\nClear illustrates this with the career of comedian Steve Martin. Early in his career, Martin expanded his routines gradually, adding only a minute or two of new material each performance. At age nineteen, he was good enough to be hired by better comedy clubs. By the mid-1970s, he was a regular on The Tonight Show and Saturday Night Live. Each step was just challenging enough to keep him engaged without overwhelming him.\n\nThe Goldilocks Rule has a practical implication for habit building. When you first establish a habit, keep it easy using the Two-Minute Rule. But once the habit is firmly in place, you need to increase the challenge gradually. A habit that stays too easy eventually becomes boring, and boredom is the silent killer of consistency."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "15e9786c-13b2-4901-91b1-8cf33359e567",
+      "feedId": "atomic-habits-mastery-and-beyond",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Falling in Love with Boredom"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear makes what might be his most counterintuitive argument in this section. He states that the greatest threat to success is not failure. It is boredom. The Goldilocks Rule explains how to find the right level of challenge, but even at the optimal difficulty, there will be days when the work feels repetitive and unexciting. Mastery requires doing the same fundamentals over and over again, and that repetition inevitably produces boredom.\n\nThe difference between professionals and amateurs, Clear argues, is not that professionals never get bored. It is that professionals show up and do the work anyway. Amateurs let boredom dictate their behavior. When the initial excitement fades and the habit becomes routine, they look for something new. Professionals understand that boredom is a natural part of the process and push through it.\n\nThis applies to every domain. The athlete who wants to become elite must repeat the same drills thousands of times. The musician who wants to perform at the highest level must practice scales even when they are tedious. The writer who wants to produce great work must sit at the desk even on days when inspiration is absent.\n\nClear is careful to distinguish productive boredom from genuine misalignment. If you are bored because the activity does not suit your nature, that is a signal to explore something new. But if you are bored because the fundamentals are no longer exciting even though the work itself matters to you, that is a signal to push through. Falling in love with boredom is the price of mastery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6d0e0757-22b2-46ea-99ff-9cce73727063",
+      "feedId": "atomic-habits-mastery-and-beyond",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Downside of Habits"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In one of the book's most surprising chapters, Clear turns his own framework on itself and examines the potential dangers of building strong habits. The very thing that makes habits powerful, their automaticity, can also become a liability if left unchecked.\n\nWhen a behavior becomes automatic, you stop paying attention to it. You go through the motions without thinking. For basic routines this is fine. You do not need to consciously think about brushing your teeth or driving to work. But for skills that require growth and refinement, autopilot can lead to stagnation.\n\nClear uses the example of a worker who has been doing the same job for twenty years. People might say that person has twenty years of experience. But if they stopped improving after the first year, they really have one year of experience repeated twenty times. The habit of showing up became so automatic that they stopped pushing for improvement.\n\nThis is the downside of habits: they can lock you into previous patterns of thinking and acting. When everything is running on autopilot, you stop noticing small errors, missed opportunities, and areas where your performance has slipped. You become competent enough to get by but never excellent enough to stand out.\n\nClear is not arguing against habits. He is arguing against habits without reflection. The solution is not to abandon routines but to combine them with a system of periodic review that keeps you aware of how well your habits are actually serving you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "96d2d83c-dc61-40a2-b290-ddf3c6c7c283",
+      "feedId": "atomic-habits-mastery-and-beyond",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Habits Plus Deliberate Practice"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Clear's formula for reaching the highest levels of performance is simple: habits plus deliberate practice equals mastery. Habits handle the fundamentals automatically, freeing up mental bandwidth. Deliberate practice targets the areas where you are still weak, pushing you beyond your current ability level.\n\nTo illustrate how this works at the elite level, Clear tells the story of coach Pat Riley and the Los Angeles Lakers. In November 1986, Riley introduced what he called the Career Best Effort system. Rather than tracking conventional statistics like points or rebounds, Riley measured the intangible contributions that most coaches ignored: diving for loose balls, helping a teammate get open, taking a charge from an opposing player, contesting a shot.\n\nEach player received a score after every game based on these effort metrics. The system made invisible contributions visible and gave players a concrete way to track whether they were giving their maximum effort. The following season, the Lakers won the NBA Championship.\n\nClear draws from Riley's approach to recommend two annual reviews for anyone serious about long-term improvement. The first is an annual review where you reflect on the previous year's habits: what went well, what did not, and what you learned. The second is an integrity report where you examine whether your habits are still aligned with the person you want to become.\n\nThese reviews prevent the autopilot problem. They force you to step back from the daily routine and evaluate whether your habits are still serving your goals or whether they need updating. Mastery is not about perfecting one set of habits forever. It is about continuously refining them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "92c9b69d-0b99-4bb8-a498-146605c322e5",
+      "feedId": "atomic-habits-quiz",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1_202603271213.jpeg",
+          "title": "The Power of Tiny Changes",
+          "subtitle": "How a near-fatal accident led to a revolutionary insight about small improvements"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What injury did James Clear suffer in high school that inspired his journey toward atomic habits?",
+              "options": [
+                {
+                  "label": "He broke his leg in a football game",
+                  "correct": false
+                },
+                {
+                  "label": "He was hit in the face by a baseball bat",
+                  "correct": true
+                },
+                {
+                  "label": "He injured his shoulder pitching in a championship",
+                  "correct": false
+                },
+                {
+                  "label": "He suffered a concussion in a car accident",
+                  "correct": false
+                }
+              ],
+              "explanation": "On the final day of his sophomore year of high school, a classmate's baseball bat slipped mid-swing and struck Clear between the eyes, causing skull fractures, shattered eye sockets, and brain swelling that required a medically induced coma."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to the 1% rule, if you improve by 1% every day for a year, how many times better will you be?",
+              "options": [
+                {
+                  "label": "About 3.7 times better",
+                  "correct": false
+                },
+                {
+                  "label": "About 12 times better",
+                  "correct": false
+                },
+                {
+                  "label": "About 37 times better",
+                  "correct": true
+                },
+                {
+                  "label": "About 365 times better",
+                  "correct": false
+                }
+              ],
+              "explanation": "1.01 raised to the power of 365 equals approximately 37.78. This illustrates how small daily improvements compound into massive results over time."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What strategy did Dave Brailsford use to transform British Cycling?",
+              "options": [
+                {
+                  "label": "Recruiting the best cyclists from other countries",
+                  "correct": false
+                },
+                {
+                  "label": "The aggregation of marginal gains",
+                  "correct": true
+                },
+                {
+                  "label": "Doubling the team's training hours",
+                  "correct": false
+                },
+                {
+                  "label": "Switching to a revolutionary new bike design",
+                  "correct": false
+                }
+              ],
+              "explanation": "Brailsford's strategy was the aggregation of marginal gains, seeking 1% improvements in every area from bike seats to hand-washing technique. Within five years, British Cycling won 60% of gold medals at the 2008 Beijing Olympics."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Clear call the gap between expected linear progress and actual exponential reality?",
+              "options": [
+                {
+                  "label": "The Compound Gap",
+                  "correct": false
+                },
+                {
+                  "label": "The Motivation Trough",
+                  "correct": false
+                },
+                {
+                  "label": "The Valley of Disappointment",
+                  "correct": true
+                },
+                {
+                  "label": "The Habit Plateau",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Valley of Disappointment is the period where you expect to see results based on your effort but the growth curve has not yet reached its inflection point. Most people quit in this valley because early results feel disappointing."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Clear, what is the main difference between winners and losers?",
+              "options": [
+                {
+                  "label": "Winners have bigger goals",
+                  "correct": false
+                },
+                {
+                  "label": "Winners have better systems",
+                  "correct": true
+                },
+                {
+                  "label": "Winners have more willpower",
+                  "correct": false
+                },
+                {
+                  "label": "Winners start earlier in life",
+                  "correct": false
+                }
+              ],
+              "explanation": "Clear argues that winners and losers often share the same goals. The difference is in their systems: the collection of daily habits and processes that move them toward their desired outcomes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "71a8b87e-cf12-4ea4-ab19-f57c095cb613",
+      "feedId": "atomic-habits-quiz",
+      "order": 1,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2_202603271213.jpeg",
+          "title": "Identity-Based Habits",
+          "subtitle": "Why who you become matters more than what you achieve"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What are the three layers of behavior change, from outermost to innermost?",
+              "options": [
+                {
+                  "label": "Goals, habits, values",
+                  "correct": false
+                },
+                {
+                  "label": "Outcomes, processes, identity",
+                  "correct": true
+                },
+                {
+                  "label": "Actions, routines, beliefs",
+                  "correct": false
+                },
+                {
+                  "label": "Results, methods, motivation",
+                  "correct": false
+                }
+              ],
+              "explanation": "Clear describes three concentric layers: outcomes (what you get) on the outside, processes (what you do) in the middle, and identity (what you believe) at the core. He argues you should start from the inside out."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Clear, what is every action you take?",
+              "options": [
+                {
+                  "label": "A step toward your goal",
+                  "correct": false
+                },
+                {
+                  "label": "A test of your willpower",
+                  "correct": false
+                },
+                {
+                  "label": "A vote for the type of person you wish to become",
+                  "correct": true
+                },
+                {
+                  "label": "A chance to build momentum",
+                  "correct": false
+                }
+              ],
+              "explanation": "Clear uses a voting metaphor: every action is a vote for your identity. No single vote is decisive, but the accumulated votes build evidence for who you are becoming."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many stages does Clear's habit loop have, and what did he add to earlier models?",
+              "options": [
+                {
+                  "label": "Three stages; he added reward",
+                  "correct": false
+                },
+                {
+                  "label": "Four stages; he added craving",
+                  "correct": true
+                },
+                {
+                  "label": "Five stages; he added reflection",
+                  "correct": false
+                },
+                {
+                  "label": "Four stages; he added environment",
+                  "correct": false
+                }
+              ],
+              "explanation": "Clear expanded Charles Duhigg's three-stage model (cue, routine, reward) to four stages: cue, craving, response, and reward. The addition of craving as a distinct step emphasizes the motivational force behind every habit."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the correct identity-based reframe for wanting to read more?",
+              "options": [
+                {
+                  "label": "I want to read 30 books this year",
+                  "correct": false
+                },
+                {
+                  "label": "I will read for 20 minutes every night",
+                  "correct": false
+                },
+                {
+                  "label": "I want to become a reader",
+                  "correct": true
+                },
+                {
+                  "label": "I need to find better books",
+                  "correct": false
+                }
+              ],
+              "explanation": "Identity-based habits shift the focus from what you want to achieve to who you want to become. Instead of setting an outcome goal (read 30 books) or a process goal (read 20 minutes), you adopt the identity: I am a reader."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What are the Four Laws of Behavior Change in order?",
+              "options": [
+                {
+                  "label": "Make it visible, desirable, simple, rewarding",
+                  "correct": false
+                },
+                {
+                  "label": "Make it obvious, attractive, easy, satisfying",
+                  "correct": true
+                },
+                {
+                  "label": "Make it clear, exciting, effortless, pleasurable",
+                  "correct": false
+                },
+                {
+                  "label": "Make it noticeable, appealing, convenient, enjoyable",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Four Laws map to the four stages of the habit loop: Make It Obvious (cue), Make It Attractive (craving), Make It Easy (response), and Make It Satisfying (reward). Each law also has an inversion for breaking bad habits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "393aa6a9-1066-4edd-9850-ebb52b401395",
+      "feedId": "atomic-habits-quiz",
+      "order": 2,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3_202603271213.jpeg",
+          "title": "Make It Obvious",
+          "subtitle": "The first law of behavior change and the art of awareness"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which safety system from Japanese railways reduces errors by up to 85%?",
+              "options": [
+                {
+                  "label": "Signal verification",
+                  "correct": false
+                },
+                {
+                  "label": "Pointing-and-calling",
+                  "correct": true
+                },
+                {
+                  "label": "Double-check protocol",
+                  "correct": false
+                },
+                {
+                  "label": "Voice confirmation system",
+                  "correct": false
+                }
+              ],
+              "explanation": "Pointing-and-calling is a Japanese railway safety practice where conductors physically point at objects and call out their status aloud. This forces unconscious checks into conscious awareness, reducing errors by 85% and accidents by 30%."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the implementation intention formula?",
+              "options": [
+                {
+                  "label": "If I feel motivated, then I will act",
+                  "correct": false
+                },
+                {
+                  "label": "I will [BEHAVIOR] at [TIME] in [LOCATION]",
+                  "correct": true
+                },
+                {
+                  "label": "After [HABIT], I will [NEW HABIT]",
+                  "correct": false
+                },
+                {
+                  "label": "When [CUE] appears, I will [RESPOND]",
+                  "correct": false
+                }
+              ],
+              "explanation": "The implementation intention formula is: I will [BEHAVIOR] at [TIME] in [LOCATION]. Research shows people who make specific plans for when and where they will act are significantly more likely to follow through."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the habit stacking formula?",
+              "options": [
+                {
+                  "label": "I will [BEHAVIOR] at [TIME] in [LOCATION]",
+                  "correct": false
+                },
+                {
+                  "label": "After [CURRENT HABIT], I will [NEW HABIT]",
+                  "correct": true
+                },
+                {
+                  "label": "When I feel [CRAVING], I will [RESPONSE]",
+                  "correct": false
+                },
+                {
+                  "label": "Before [ACTIVITY], I will [PREPARATION]",
+                  "correct": false
+                }
+              ],
+              "explanation": "Habit stacking links a new behavior to an existing routine: After [CURRENT HABIT], I will [NEW HABIT]. The concept was adapted from BJ Fogg's Tiny Habits program and leverages established behaviors as anchors."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the Diderot Effect?",
+              "options": [
+                {
+                  "label": "The tendency to stick with habits once started",
+                  "correct": false
+                },
+                {
+                  "label": "The spiral where one new purchase triggers more purchases",
+                  "correct": true
+                },
+                {
+                  "label": "The boost in motivation after a small win",
+                  "correct": false
+                },
+                {
+                  "label": "The decline in satisfaction from repeated rewards",
+                  "correct": false
+                }
+              ],
+              "explanation": "Named after philosopher Denis Diderot, who bought a scarlet robe that made everything else look shabby, leading to a cascade of replacement purchases. Clear uses it to show how behaviors chain together, for better or worse."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the purpose of the Habits Scorecard?",
+              "options": [
+                {
+                  "label": "To rank your habits from best to worst",
+                  "correct": false
+                },
+                {
+                  "label": "To set goals for habit improvement",
+                  "correct": false
+                },
+                {
+                  "label": "To build awareness of your current habits without trying to change them",
+                  "correct": true
+                },
+                {
+                  "label": "To track your daily habit completion rate",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Habits Scorecard involves listing all your daily habits and marking each as positive (+), negative (-), or neutral (=). The purpose is purely to build awareness, not to change anything. Awareness is the first step before change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1b8b0880-e2ff-4041-9bb6-df4de358339e",
+      "feedId": "atomic-habits-quiz",
+      "order": 3,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4_202603271213.jpeg",
+          "title": "Your Environment Is Everything",
+          "subtitle": "Why motivation is overrated and surroundings shape behavior"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who wrote the equation B = f(P,E), meaning behavior is a function of the person and their environment?",
+              "options": [
+                {
+                  "label": "BJ Fogg",
+                  "correct": false
+                },
+                {
+                  "label": "Charles Duhigg",
+                  "correct": false
+                },
+                {
+                  "label": "Kurt Lewin",
+                  "correct": true
+                },
+                {
+                  "label": "Edward Thorndike",
+                  "correct": false
+                }
+              ],
+              "explanation": "Psychologist Kurt Lewin wrote this equation in 1936. Clear considers it one of the most important formulas in behavioral science because it shows that behavior is not determined by the person alone but by the interaction between the person and their environment."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "In Anne Thorndike's hospital cafeteria experiment, what happened when water was placed at every food station?",
+              "options": [
+                {
+                  "label": "Soda sales dropped 25% and water rose 11%",
+                  "correct": false
+                },
+                {
+                  "label": "Soda sales dropped 11.4% and water rose 25.7%",
+                  "correct": true
+                },
+                {
+                  "label": "There was no significant change",
+                  "correct": false
+                },
+                {
+                  "label": "People bought both more water and more soda",
+                  "correct": false
+                }
+              ],
+              "explanation": "Without any signs or instructions to change behavior, simply placing water bottles at every food station caused soda sales to drop 11.4% and water sales to increase 25.7%. The environment change alone shifted behavior."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What percentage of U.S. soldiers who were addicted to heroin in Vietnam became re-addicted after returning home?",
+              "options": [
+                {
+                  "label": "About 5%",
+                  "correct": true
+                },
+                {
+                  "label": "About 35%",
+                  "correct": false
+                },
+                {
+                  "label": "About 50%",
+                  "correct": false
+                },
+                {
+                  "label": "About 90%",
+                  "correct": false
+                }
+              ],
+              "explanation": "Researcher Lee Robins found that only about 5% of soldiers who were addicted in Vietnam became re-addicted after returning to the United States, compared to the typical 90% relapse rate. The radical change in environment removed the cues that sustained the habit."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the inversion of the First Law (Make It Obvious)?",
+              "options": [
+                {
+                  "label": "Make It Unattractive",
+                  "correct": false
+                },
+                {
+                  "label": "Make It Difficult",
+                  "correct": false
+                },
+                {
+                  "label": "Make It Invisible",
+                  "correct": true
+                },
+                {
+                  "label": "Make It Unsatisfying",
+                  "correct": false
+                }
+              ],
+              "explanation": "The inversion of Make It Obvious is Make It Invisible. To break bad habits, remove the cues that trigger them from your environment. If you do not see the trigger, you are far less likely to act on it."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Clear, what is the key lesson from the Vietnam heroin study?",
+              "options": [
+                {
+                  "label": "Addiction is primarily genetic",
+                  "correct": false
+                },
+                {
+                  "label": "Willpower can overcome any addiction",
+                  "correct": false
+                },
+                {
+                  "label": "Context and environment are often the dominant factors driving behavior",
+                  "correct": true
+                },
+                {
+                  "label": "Military discipline builds better habits",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Vietnam study demonstrated that addiction was tied more to environmental context than to individual weakness. When the entire context changed (different people, places, and routines), the habit lost its grip on most soldiers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "82cfaf70-0cca-4ed0-bf5b-6b75487c9dac",
+      "feedId": "atomic-habits-quiz",
+      "order": 4,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5_202603271213.jpeg",
+          "title": "Make It Attractive",
+          "subtitle": "The science of craving and why we imitate three groups"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does neuroscience reveal about dopamine and habits?",
+              "options": [
+                {
+                  "label": "Dopamine is released only when you receive a reward",
+                  "correct": false
+                },
+                {
+                  "label": "Dopamine is released more during anticipation than during the reward itself",
+                  "correct": true
+                },
+                {
+                  "label": "Dopamine has no role in habit formation",
+                  "correct": false
+                },
+                {
+                  "label": "Dopamine decreases with each repetition of a habit",
+                  "correct": false
+                }
+              ],
+              "explanation": "Studies show that the dopamine spike is actually larger during the anticipation phase than when you receive the reward. This is why the craving stage of the habit loop is so powerful, and why making habits attractive works."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did engineering student Ronan Byrne do to combine exercise with entertainment?",
+              "options": [
+                {
+                  "label": "He built a treadmill desk for working",
+                  "correct": false
+                },
+                {
+                  "label": "He programmed Netflix to only play while he pedaled a bike above a certain speed",
+                  "correct": true
+                },
+                {
+                  "label": "He created a playlist that only worked during runs",
+                  "correct": false
+                },
+                {
+                  "label": "He designed an app that rewarded workouts with show episodes",
+                  "correct": false
+                }
+              ],
+              "explanation": "Byrne, an engineering student in Dublin, hacked his stationary bike to connect to his laptop so Netflix would pause if he stopped pedaling fast enough. This is a perfect example of temptation bundling."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "At what age did Judit Polgar become the youngest chess grandmaster in history?",
+              "options": [
+                {
+                  "label": "12 years old",
+                  "correct": false
+                },
+                {
+                  "label": "13 years old",
+                  "correct": false
+                },
+                {
+                  "label": "15 years old",
+                  "correct": true
+                },
+                {
+                  "label": "17 years old",
+                  "correct": false
+                }
+              ],
+              "explanation": "Judit Polgar became the youngest grandmaster at 15 years and 4 months. Her father Laszlo had argued before having children that genius could be cultivated through deliberate practice. All three Polgar sisters became elite chess players."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What are the three social groups whose habits we tend to imitate?",
+              "options": [
+                {
+                  "label": "Friends, celebrities, politicians",
+                  "correct": false
+                },
+                {
+                  "label": "The close, the many, the powerful",
+                  "correct": true
+                },
+                {
+                  "label": "Family, coworkers, influencers",
+                  "correct": false
+                },
+                {
+                  "label": "Leaders, peers, mentors",
+                  "correct": false
+                }
+              ],
+              "explanation": "We imitate the close (family and friends, because proximity creates conformity), the many (society at large, because we instinctively conform with the majority), and the powerful (people with status, because we are drawn to behaviors that earn prestige)."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who developed the concept of temptation bundling?",
+              "options": [
+                {
+                  "label": "James Clear",
+                  "correct": false
+                },
+                {
+                  "label": "BJ Fogg",
+                  "correct": false
+                },
+                {
+                  "label": "Katy Milkman",
+                  "correct": true
+                },
+                {
+                  "label": "Charles Duhigg",
+                  "correct": false
+                }
+              ],
+              "explanation": "Temptation bundling was developed by behavioral scientist Katy Milkman at the Wharton School. The concept pairs an action you need to do with an action you want to do, based on Premack's Principle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "98c719b6-a4d8-4613-80ad-e5818636d50a",
+      "feedId": "atomic-habits-quiz",
+      "order": 5,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6_202603271213.jpeg",
+          "title": "Make It Easy",
+          "subtitle": "Why repetition beats perfection and friction is your secret weapon"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "In Jerry Uelsmann's photography experiment, which group produced all the best photos?",
+              "options": [
+                {
+                  "label": "The quality group that aimed for one perfect photo",
+                  "correct": false
+                },
+                {
+                  "label": "The quantity group that was graded on volume",
+                  "correct": true
+                },
+                {
+                  "label": "Both groups produced equally good work",
+                  "correct": false
+                },
+                {
+                  "label": "A control group that had no specific instructions",
+                  "correct": false
+                }
+              ],
+              "explanation": "The quantity group produced all the best photos because they practiced more, experimented more, and improved through repetition. The quality group spent the semester theorizing about perfection and had little to show for it."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the difference between motion and action according to Clear?",
+              "options": [
+                {
+                  "label": "Motion is physical; action is mental",
+                  "correct": false
+                },
+                {
+                  "label": "Motion is planning without producing results; action produces actual outcomes",
+                  "correct": true
+                },
+                {
+                  "label": "Motion is slow progress; action is fast progress",
+                  "correct": false
+                },
+                {
+                  "label": "They are the same thing described differently",
+                  "correct": false
+                }
+              ],
+              "explanation": "Motion is planning, strategizing, and learning without producing an outcome. Action is doing the thing that produces a result. Outlining articles is motion; publishing one is action. Motion can become procrastination disguised as preparation."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did Victor Hugo do to force himself to write The Hunchback of Notre Dame?",
+              "options": [
+                {
+                  "label": "He moved to a remote cabin with no distractions",
+                  "correct": false
+                },
+                {
+                  "label": "He had his clothes locked away so he could not leave the house",
+                  "correct": true
+                },
+                {
+                  "label": "He hired someone to watch him write every day",
+                  "correct": false
+                },
+                {
+                  "label": "He bet his publisher he could finish in one month",
+                  "correct": false
+                }
+              ],
+              "explanation": "Hugo collected all his clothes and had an assistant lock them in a chest, leaving only a large shawl. Unable to go outdoors, he wrote furiously and finished The Hunchback of Notre Dame two weeks ahead of his deadline."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Oswald Nuckols call his daily practice of tidying spaces after use?",
+              "options": [
+                {
+                  "label": "Environment priming",
+                  "correct": false
+                },
+                {
+                  "label": "Friction reduction",
+                  "correct": false
+                },
+                {
+                  "label": "Resetting the room",
+                  "correct": true
+                },
+                {
+                  "label": "Habit staging",
+                  "correct": false
+                }
+              ],
+              "explanation": "Nuckols calls his practice 'resetting the room.' After each activity, he tidies the space and sets it up for the next good behavior. This primes the environment so the next positive habit requires minimal effort."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the Law of Least Effort?",
+              "options": [
+                {
+                  "label": "The easiest habits are the most effective",
+                  "correct": false
+                },
+                {
+                  "label": "People naturally gravitate toward the option requiring the least work",
+                  "correct": true
+                },
+                {
+                  "label": "Small efforts compound faster than large ones",
+                  "correct": false
+                },
+                {
+                  "label": "The best habit is the one that takes less than two minutes",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Law of Least Effort states that given two options producing a similar reward, humans will choose the one requiring less effort. Clear uses this principle to argue for reducing friction on good habits and increasing friction on bad ones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b053764f-abbe-48e8-a191-e19aeab89701",
+      "feedId": "atomic-habits-quiz",
+      "order": 6,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7_202603271213.jpeg",
+          "title": "The Two-Minute Rule",
+          "subtitle": "How to beat procrastination by scaling any habit down to two minutes"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does the Two-Minute Rule state?",
+              "options": [
+                {
+                  "label": "You should spend at least two minutes on every habit",
+                  "correct": false
+                },
+                {
+                  "label": "When you start a new habit, it should take less than two minutes to do",
+                  "correct": true
+                },
+                {
+                  "label": "Wait two minutes before giving in to a bad habit",
+                  "correct": false
+                },
+                {
+                  "label": "Review your habits for two minutes each morning",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Two-Minute Rule says any new habit should be scaled down to a two-minute version. 'Read before bed' becomes 'read one page.' The goal is to master showing up first, then expand the habit over time."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is a gateway habit?",
+              "options": [
+                {
+                  "label": "A habit that unlocks a specific reward",
+                  "correct": false
+                },
+                {
+                  "label": "A two-minute entry point into a larger routine",
+                  "correct": true
+                },
+                {
+                  "label": "The first habit you build in a new system",
+                  "correct": false
+                },
+                {
+                  "label": "A habit shared between two people",
+                  "correct": false
+                }
+              ],
+              "explanation": "A gateway habit is the two-minute version of any larger routine. It is the entry point, like a door that leads to a whole house. Putting on running shoes is a gateway to a full workout. The small start creates momentum."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What are decisive moments?",
+              "options": [
+                {
+                  "label": "The moment you decide to start a new habit",
+                  "correct": false
+                },
+                {
+                  "label": "Small choices that determine the trajectory of the next minutes or hours",
+                  "correct": true
+                },
+                {
+                  "label": "The critical point where a habit becomes automatic",
+                  "correct": false
+                },
+                {
+                  "label": "Times when you must choose between two competing habits",
+                  "correct": false
+                }
+              ],
+              "explanation": "Decisive moments are fork-in-the-road choices that set the default for what follows. Walking into a restaurant determines what you eat. Picking up your phone determines how the next hour is spent. Controlling these moments controls the day."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is a commitment device?",
+              "options": [
+                {
+                  "label": "A written promise to complete a habit",
+                  "correct": false
+                },
+                {
+                  "label": "A choice made now that locks in better behavior in the future",
+                  "correct": true
+                },
+                {
+                  "label": "A reward you give yourself after completing a habit",
+                  "correct": false
+                },
+                {
+                  "label": "A tool for tracking daily habit completion",
+                  "correct": false
+                }
+              ],
+              "explanation": "A commitment device is a present decision that constrains future options. Automatic savings transfers, app blockers, and buying smaller plates are all commitment devices. They require discipline once, not every day."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the inversion of the Third Law (Make It Easy)?",
+              "options": [
+                {
+                  "label": "Make It Invisible",
+                  "correct": false
+                },
+                {
+                  "label": "Make It Unattractive",
+                  "correct": false
+                },
+                {
+                  "label": "Make It Difficult",
+                  "correct": true
+                },
+                {
+                  "label": "Make It Unsatisfying",
+                  "correct": false
+                }
+              ],
+              "explanation": "The inversion of Make It Easy is Make It Difficult. Add friction to bad habits by increasing the number of steps required. Delete apps, unplug devices, use website blockers. The more friction, the less likely the bad behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3a999681-6b4f-4f47-ad8a-5c2942572a15",
+      "feedId": "atomic-habits-quiz",
+      "order": 7,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8_202603271213.jpeg",
+          "title": "Make It Satisfying",
+          "subtitle": "The cardinal rule, paper clips, and the power of accountability"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the cardinal rule of behavior change?",
+              "options": [
+                {
+                  "label": "Start small and build gradually",
+                  "correct": false
+                },
+                {
+                  "label": "What is immediately rewarded is repeated; what is immediately punished is avoided",
+                  "correct": true
+                },
+                {
+                  "label": "Consistency matters more than intensity",
+                  "correct": false
+                },
+                {
+                  "label": "Identity drives behavior",
+                  "correct": false
+                }
+              ],
+              "explanation": "The cardinal rule operates at the deepest level of behavioral learning. It explains why bad habits (immediate pleasure, delayed cost) are easier to maintain than good habits (immediate cost, delayed reward)."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many paper clips did Trent Dyrsmid place in his jar each morning?",
+              "options": [
+                {
+                  "label": "50",
+                  "correct": false
+                },
+                {
+                  "label": "100",
+                  "correct": false
+                },
+                {
+                  "label": "120",
+                  "correct": true
+                },
+                {
+                  "label": "200",
+                  "correct": false
+                }
+              ],
+              "explanation": "Dyrsmid started each morning with 120 paper clips in one jar and an empty jar beside it. After each sales call, he moved one clip. Within 18 months, this simple visual tracking system helped him bring $5 million in revenue to his firm."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Clear's 'never miss twice' rule?",
+              "options": [
+                {
+                  "label": "Never make the same mistake in a habit twice",
+                  "correct": false
+                },
+                {
+                  "label": "If you miss one day, never miss the next day",
+                  "correct": true
+                },
+                {
+                  "label": "Always do your habit at least twice a day",
+                  "correct": false
+                },
+                {
+                  "label": "Try at least two approaches before quitting a habit",
+                  "correct": false
+                }
+              ],
+              "explanation": "Missing one day is an accident; missing two is the start of a new (bad) habit. The never-miss-twice rule is forgiving enough to be sustainable while maintaining the standard that recovery matters more than perfection."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Bryan Harris's most memorable punishment for missing his fitness goals?",
+              "options": [
+                {
+                  "label": "Donating $1,000 to charity",
+                  "correct": false
+                },
+                {
+                  "label": "Running an extra five miles",
+                  "correct": false
+                },
+                {
+                  "label": "Wearing an Alabama hat (his rival team) to work",
+                  "correct": true
+                },
+                {
+                  "label": "Posting his weight publicly on social media",
+                  "correct": false
+                }
+              ],
+              "explanation": "Harris, a devoted Auburn fan, had to dress up for work and wear an Alabama hat for the rest of the quarter if he missed sprint workouts. The emotional sting of wearing a rival's colors was more motivating than any financial penalty."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/8b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did Harvard professor Roger Fisher propose about nuclear launch codes?",
+              "options": [
+                {
+                  "label": "They should be changed daily to prevent theft",
+                  "correct": false
+                },
+                {
+                  "label": "They should be implanted near a volunteer's heart, requiring the President to kill them first",
+                  "correct": true
+                },
+                {
+                  "label": "They should require approval from all cabinet members",
+                  "correct": false
+                },
+                {
+                  "label": "They should be hidden in a time-locked vault",
+                  "correct": false
+                }
+              ],
+              "explanation": "Fisher proposed making the consequences of nuclear war visceral and immediate by requiring the President to personally kill someone to access the codes. The Pentagon rejected it, but Clear uses it to illustrate how immediate consequences change behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "85234286-dcf4-406d-ad59-3ab498aa8bbc",
+      "feedId": "atomic-habits-quiz",
+      "order": 8,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9_202603271213.jpeg",
+          "title": "Mastery and Beyond",
+          "subtitle": "Genes, boredom, and the path from good habits to true greatness"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What surprising physical trait do Michael Phelps and Hicham El Guerrouj share?",
+              "options": [
+                {
+                  "label": "They have the same arm span",
+                  "correct": false
+                },
+                {
+                  "label": "They wear the same length inseam on their pants",
+                  "correct": true
+                },
+                {
+                  "label": "They have the same shoe size",
+                  "correct": false
+                },
+                {
+                  "label": "They weigh the same despite different heights",
+                  "correct": false
+                }
+              ],
+              "explanation": "Despite Phelps being 6'4\" with a long torso (ideal for swimming) and El Guerrouj having long legs and a short torso (ideal for running), they wear the same inseam. This illustrates how genetic advantages are domain-specific."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the Goldilocks Rule?",
+              "options": [
+                {
+                  "label": "Start with the smallest possible habit",
+                  "correct": false
+                },
+                {
+                  "label": "Peak motivation occurs when tasks are at the edge of your current abilities",
+                  "correct": true
+                },
+                {
+                  "label": "Balance three habits at once for optimal growth",
+                  "correct": false
+                },
+                {
+                  "label": "Never increase difficulty by more than 10%",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Goldilocks Rule says humans are most motivated when working on tasks of just manageable difficulty, roughly 4% beyond current ability. Too easy leads to boredom, too hard leads to discouragement. The sweet spot creates flow."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Clear, what is the greatest threat to success?",
+              "options": [
+                {
+                  "label": "Failure",
+                  "correct": false
+                },
+                {
+                  "label": "Lack of talent",
+                  "correct": false
+                },
+                {
+                  "label": "Boredom",
+                  "correct": true
+                },
+                {
+                  "label": "Bad habits",
+                  "correct": false
+                }
+              ],
+              "explanation": "Clear argues boredom is a bigger threat than failure. Professionals and amateurs both experience boredom with repeated practice, but professionals show up anyway. Amateurs let boredom push them to abandon the habit and seek novelty."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What system did coach Pat Riley introduce to the LA Lakers?",
+              "options": [
+                {
+                  "label": "The Marginal Gains System",
+                  "correct": false
+                },
+                {
+                  "label": "The Career Best Effort system",
+                  "correct": true
+                },
+                {
+                  "label": "The Four Laws of Teamwork",
+                  "correct": false
+                },
+                {
+                  "label": "The Habit Tracking Protocol",
+                  "correct": false
+                }
+              ],
+              "explanation": "Riley's Career Best Effort system tracked intangible contributions like diving for loose balls and helping teammates. By making invisible effort visible and measurable, the Lakers won the NBA Championship the following season."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Clear's formula for mastery?",
+              "options": [
+                {
+                  "label": "Talent + effort = mastery",
+                  "correct": false
+                },
+                {
+                  "label": "Goals + systems = mastery",
+                  "correct": false
+                },
+                {
+                  "label": "Habits + deliberate practice = mastery",
+                  "correct": true
+                },
+                {
+                  "label": "Identity + consistency = mastery",
+                  "correct": false
+                }
+              ],
+              "explanation": "Habits handle the fundamentals automatically, freeing up mental bandwidth. Deliberate practice targets areas where you are still weak. Together, they create a system for continuous improvement that leads to true mastery over time."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

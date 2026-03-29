@@ -1,0 +1,2971 @@
+{
+  "forks": [
+    {
+      "_id": "how-to-win-friends-and-influence-people",
+      "title": "How to Win Friends and Influence People",
+      "description": "The timeless classic on building relationships, winning trust, and leading people, with 30 million copies sold since 1936.\n\nAll rights belong to the author and publisher. This is a summary/review, buy the book below from the author.",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/fork_202603272056.jpeg",
+      "feedIds": [
+        "how-to-win-friends-and-influence-people-the-man-behind-the-method",
+        "how-to-win-friends-and-influence-people-the-three-fundamentals",
+        "how-to-win-friends-and-influence-people-genuine-interest",
+        "how-to-win-friends-and-influence-people-the-art-of-listening",
+        "how-to-win-friends-and-influence-people-win-without-arguing",
+        "how-to-win-friends-and-influence-people-the-socratic-secret",
+        "how-to-win-friends-and-influence-people-appeal-to-the-heart",
+        "how-to-win-friends-and-influence-people-correct-without-offending",
+        "how-to-win-friends-and-influence-people-inspire-greatness",
+        "how-to-win-friends-and-influence-people-quiz"
+      ],
+      "actionLabel": "Buy the book",
+      "actionUrl": "https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People+Dale+Carnegie"
+    }
+  ],
+  "feeds": [
+    {
+      "_id": "how-to-win-friends-and-influence-people-the-man-behind-the-method",
+      "title": "The Man Behind the Method",
+      "description": "How a Missouri farm boy taught the world to connect",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/1_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "how-to-win-friends-and-influence-people-the-three-fundamentals",
+      "title": "The Three Fundamentals",
+      "description": "Stop criticizing, start appreciating, and learn what people truly want",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/2_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "how-to-win-friends-and-influence-people-genuine-interest",
+      "title": "Genuine Interest",
+      "description": "Why caring about others is the fastest path to being liked",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/3_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "how-to-win-friends-and-influence-people-the-art-of-listening",
+      "title": "The Art of Listening",
+      "description": "The surprising power of shutting up and paying attention",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/4_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "how-to-win-friends-and-influence-people-win-without-arguing",
+      "title": "Win Without Arguing",
+      "description": "How to change minds without triggering defensiveness",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/5_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "how-to-win-friends-and-influence-people-the-socratic-secret",
+      "title": "The Socratic Secret",
+      "description": "Ancient persuasion techniques that still work today",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/6_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "how-to-win-friends-and-influence-people-appeal-to-the-heart",
+      "title": "Appeal to the Heart",
+      "description": "Reaching people through emotion, drama, and challenge",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/7_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "how-to-win-friends-and-influence-people-correct-without-offending",
+      "title": "Correct Without Offending",
+      "description": "How leaders give feedback without creating resentment",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/8_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "how-to-win-friends-and-influence-people-inspire-greatness",
+      "title": "Inspire Greatness",
+      "description": "The art of encouraging people to become their best selves",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/9_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "how-to-win-friends-and-influence-people-quiz",
+      "title": "Quiz",
+      "description": "Test your knowledge of How to Win Friends and Influence People",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/10_202603272056.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    }
+  ],
+  "cards": [
+    {
+      "_id": "3682aa40-8481-456a-ac95-a9ae07c542f5",
+      "feedId": "how-to-win-friends-and-influence-people-the-man-behind-the-method",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/1_202603272056.jpeg",
+          "title": "The Man Behind the Method",
+          "subtitle": "How a Missouri farm boy taught the world to connect"
+        }
+      ]
+    },
+    {
+      "_id": "f0a5c113-ba28-46c9-b80d-b3c4a0986012",
+      "feedId": "how-to-win-friends-and-influence-people-the-man-behind-the-method",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "From Poverty to the Stage"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie grew up on a farm in Maryville, Missouri, waking at three in the morning to feed pigs and milk cows before walking to school. His family was so poor that classmates mocked his ill-fitting clothes. He attended Missouri State Normal School on a shoestring budget, riding his horse to campus because he could not afford room and board.\n\nAfter school, Carnegie tried his hand at selling. He became a traveling salesman for Armour and Company, peddling bacon, soap, and lard across southern Nebraska. He was remarkably good at it, turning his territory into the top-performing region in the country. But sales was not his dream. He quit with two hundred dollars in savings to pursue acting at the American Academy of Dramatic Arts in New York.\n\nThe acting career went nowhere. He landed a small role in a touring production of \"Polly of the Circus,\" but the big break never came. Broke and living at the YMCA in Harlem, Carnegie found himself at a crossroads. He had failed at the one thing he thought he wanted. What came next would change millions of lives, but at the time, it felt like rock bottom.\n\nThe irony is rich: a man who would teach the world how to connect with people started his adult life failing at the most public of professions. Every rejection on stage was quietly teaching him something about human nature that textbooks never could."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e1d31304-797a-4b5b-8503-34b1143a72a0",
+      "feedId": "how-to-win-friends-and-influence-people-the-man-behind-the-method",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The YMCA Breakthrough"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In 1912, Carnegie walked into the YMCA on 125th Street in New York with a proposition. He wanted to teach evening classes in public speaking. The manager was skeptical, so Carnegie offered a deal: no salary, just eighty percent of the net proceeds. If the class flopped, the YMCA risked nothing.\n\nThe first sessions followed a standard format, with Carnegie lecturing on technique and structure. But one evening, he ran out of prepared material early. Thinking fast, he asked a student to stand up and talk about something that made them angry. The room transformed. Suddenly, people who had been paralyzed with fear were speaking passionately, gesturing wildly, holding the room's attention without notes or preparation.\n\nCarnegie had stumbled onto something powerful. Fear of public speaking was not a knowledge problem. It was an emotional problem. People did not need more rules about posture and diction. They needed a reason to speak that was stronger than their fear. By tapping into genuine emotion, he unlocked voices that formal instruction could never reach.\n\nWithin two years, Carnegie was earning five hundred dollars a week from these classes, a staggering sum equivalent to roughly sixteen thousand dollars today. Word spread. Business leaders, sales teams, and professionals from every industry enrolled. What began as an improvised evening class became the foundation for the most influential people skills program in history."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "06a1cc16-bbc5-4057-8ca3-baf92c0b2a2c",
+      "feedId": "how-to-win-friends-and-influence-people-the-man-behind-the-method",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Born During the Depression"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "When \"How to Win Friends and Influence People\" hit bookstores in November 1936, America was in crisis. The Great Depression had devastated the economy for seven years. One in four families depended on government relief. The myth of the rugged individual, the self-made man who succeeds through sheer willpower, lay in ruins.\n\nCarnegie offered a different message. Success, he argued, does not come from going it alone. It comes from getting along with others. In a world where jobs were scarce and competition fierce, the ability to build relationships, earn trust, and work with people was not a soft skill. It was a survival skill.\n\nThe timing was perfect. Americans were desperate for practical advice that could help them right now, not abstract theories about economics or politics. Carnegie delivered exactly that: simple, actionable principles illustrated with real stories about real people. His writing style was conversational and warm, like a friend offering advice over coffee rather than a professor delivering a lecture.\n\nThe public response was explosive. The first printing sold out in weeks. Simon and Schuster ordered printing after printing, seventeen in the first year alone. Within three months, a quarter of a million copies were in circulation. The book did not just sell well. It became a cultural phenomenon, a shared reference point for an entire generation learning to navigate a world that had knocked them down."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "bfcdd367-85df-448b-aed5-1c4972d24522",
+      "feedId": "how-to-win-friends-and-influence-people-the-man-behind-the-method",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Not Written, But Grown"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie never sat down at a desk to write a book in the traditional sense. \"How to Win Friends and Influence People\" grew out of twenty-four years of teaching, testing, and refining ideas with real people in real situations. Carnegie himself described the process by saying the book grew as a child grows, developed from the experiences of thousands of adults.\n\nThe process was genuinely collaborative. Carnegie would teach a principle in his courses, then send students out into the world to test it. They returned the next week with reports: what worked, what failed, what surprised them. Each principle was refined through this cycle of teaching, testing, and feedback, long before the phrase \"evidence-based\" became popular.\n\nThe book might have stayed as course material forever if not for Leon Shimkin. In 1934, Shimkin, an executive at Simon and Schuster, enrolled in one of Carnegie's fourteen-week courses. He was so impressed that he hired a stenographer to transcribe the lectures. Shimkin then presented the transcript to Carnegie and urged him to turn it into a book. Carnegie edited and revised the raw material, and the result was published two years later.\n\nThis origin explains why the book reads differently from most self-help titles. It has the rhythm of spoken language, the warmth of a classroom conversation, and the credibility of advice that was tested by thousands of people before a single word was printed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "94428100-b776-4945-8490-fa58a744ed6e",
+      "feedId": "how-to-win-friends-and-influence-people-the-man-behind-the-method",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Name Game"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Dale Carnegie was not born Dale Carnegie. He entered the world as Dale Carnagey in 1888, the son of a struggling Missouri farmer. The spelling change came around 1922, after Carnegie spoke to a sold-out crowd at Carnegie Hall in New York. By aligning his name with that of Andrew Carnegie, the famous industrialist, Dale demonstrated a principle he would later teach millions: association matters.\n\nThis was not deception. It was a deliberate choice to frame himself in a way that resonated with his audience. Andrew Carnegie represented success, philanthropy, and the American dream. By sharing the spelling, Dale made his name easier to remember and gave it an instant emotional charge. He was practicing what he preached before he ever wrote it down.\n\nThe name change also reveals something deeper about Carnegie's understanding of human nature. He recognized that first impressions are not built on logic. They are built on feeling, on the subtle cues that make someone seem trustworthy, successful, or worth listening to. A name is the first of those cues. Carnegie understood that the associations your name carries matter as much as what you say after introducing yourself.\n\nThis instinct for understanding what makes people tick, for reading the unspoken currents beneath polite conversation, is what made Carnegie's advice so effective. He did not theorize about human behavior from a distance. He lived it, tested it, and refined it every day of his professional life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e35efb08-0d75-4410-8169-ca6a525e96b3",
+      "feedId": "how-to-win-friends-and-influence-people-the-man-behind-the-method",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "A Legacy in Millions"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Since its publication in 1936, \"How to Win Friends and Influence People\" has sold over thirty million copies worldwide and continues to sell more than two hundred and fifty thousand copies every year. A 2013 Library of Congress survey ranked it the seventh most influential book in American history. Time Magazine placed it at number nineteen on its list of the one hundred most influential books of all time.\n\nThe book's influence extends far beyond sales figures. Warren Buffett took Carnegie's public speaking course as a young man and was so transformed by the experience that he displays his Dale Carnegie diploma in his office instead of his degrees from the University of Nebraska and Columbia Business School. Buffett has said the hundred-dollar course gave him the most important credential he has.\n\nOther notable figures shaped by Carnegie's methods include Lee Iacocca, the executive who saved Chrysler from bankruptcy, and Tom Monaghan, the founder of Domino's Pizza. Over eight million people have graduated from Dale Carnegie Training courses worldwide. The organization Carnegie founded still operates in more than eighty countries.\n\nPerhaps the most remarkable thing about the book is how little its core advice has aged. The anecdotes may reference 1930s figures, but the underlying psychology, the human craving for appreciation, the aversion to criticism, the desire to feel important, remains as true today as it was when Carnegie first put it into words nearly ninety years ago."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ed762cee-a535-4358-87c6-8b8f5ae57610",
+      "feedId": "how-to-win-friends-and-influence-people-the-three-fundamentals",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/2_202603272056.jpeg",
+          "title": "The Three Fundamentals",
+          "subtitle": "Stop criticizing, start appreciating, and learn what people truly want"
+        }
+      ]
+    },
+    {
+      "_id": "e75489b6-4c1c-4822-9928-37ec458f1917",
+      "feedId": "how-to-win-friends-and-influence-people-the-three-fundamentals",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Two Gun Crowley's Confession"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie opens his book with one of the most striking examples in all of self-help literature. In 1931, a killer named Francis \"Two Gun\" Crowley was cornered in his girlfriend's apartment on West End Avenue in New York. One hundred and fifty police officers surrounded the building. Crowley fired back with a machine gun while bystanders watched from behind overturned cars. When police finally stormed the apartment with tear gas, they found a blood-soaked note Crowley had written during the siege. It read: \"Under my coat is a weary heart, but a kind one, one that would do nobody any harm.\"\n\nCarnegie then points to Al Capone, the most notorious gangster of the era. Capone once described himself as a public benefactor who had been misunderstood and unfairly targeted. Dutch Schultz, another infamous criminal, called himself a public benefactor before he was killed.\n\nThe lesson Carnegie draws is not about criminals. It is about human nature. If the most violent people in America could not bring themselves to accept blame for their actions, what hope does criticism have against ordinary people? When you criticize someone, they do not examine their behavior and resolve to change. They dig in. They justify. They resent.\n\nCarnegie's first principle follows directly from this insight: do not criticize, condemn, or complain. Not because bad behavior should be ignored, but because criticism almost never achieves the change you want. It only makes the other person defensive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "376e4c07-0715-41d5-8f3a-80cacb7c2bec",
+      "feedId": "how-to-win-friends-and-influence-people-the-three-fundamentals",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Lincoln's Unsent Letter"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Abraham Lincoln was famously diplomatic as president, but he learned that skill through a painful near-disaster. Carnegie tells the story of a young Lincoln who wrote a scathing public letter mocking a political rival in Illinois. The letter was published in a local newspaper and humiliated its target so thoroughly that the man challenged Lincoln to a duel. Lincoln accepted, and the two men met on a sandbar with cavalry swords before seconds intervened and negotiated a truce.\n\nThe experience shook Lincoln deeply. He resolved never to publicly ridicule anyone again, and he held to that commitment for the rest of his life, even under the extraordinary pressures of the Civil War.\n\nCarnegie illustrates the mature Lincoln with the story of the Battle of Gettysburg. After the Union victory, Confederate General Robert E. Lee began retreating south with his battered army. Lincoln saw an opportunity to end the war and ordered General George Meade to pursue and destroy Lee's forces. Meade hesitated, and Lee escaped across the Potomac River. Lincoln was furious. He sat down and wrote a blistering letter to Meade, expressing his profound disappointment.\n\nBut Lincoln never sent the letter. It was found among his papers after his death, still in its envelope. Lincoln had realized that sending it would only demoralize a general he still needed. The man who nearly fought a duel over a public insult had learned that expressing anger, however justified, rarely produces the result you actually want."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "305965ea-ec8f-4347-a100-528e34ce6e2f",
+      "feedId": "how-to-win-friends-and-influence-people-the-three-fundamentals",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Deepest Human Craving"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie grounds his second principle in the thinking of three intellectual giants. William James, the father of American psychology, declared that the deepest principle in human nature is the craving to be appreciated. Carnegie emphasizes that James chose the word \"craving\" deliberately, not \"wish\" or \"desire\" or \"longing,\" but craving, a word that suggests something as urgent and persistent as hunger.\n\nJohn Dewey, the philosopher and educator, put it differently but arrived at the same place: the deepest urge in human nature is the desire to be important. And Sigmund Freud argued that almost everything a person does springs from two motivations: the desire for physical connection and the desire to be great.\n\nCarnegie saw these three thinkers converging on a single truth. Every person you meet, no matter how confident or successful they appear, is carrying an insatiable need to feel valued. This need drives behavior in ways most people never recognize. It explains why a small compliment from a stranger can brighten an entire day. It explains why a dismissive comment from a boss can poison months of otherwise good work.\n\nThe practical implication is Carnegie's second principle: give honest and sincere appreciation. Not flattery, not empty praise, but genuine recognition of something real. Carnegie argues that most people go through life so starved for appreciation that the simple act of noticing their contributions creates loyalty and goodwill that no amount of money or authority can buy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "69259a45-a53e-4721-874e-829e99908aa0",
+      "feedId": "how-to-win-friends-and-influence-people-the-three-fundamentals",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Appreciation vs. Flattery"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie draws a sharp line between appreciation and flattery, and he considers the distinction critical. Appreciation, he explains, is sincere. It comes from the heart. It requires you to actually observe someone, recognize something genuinely good about what they have done, and express that recognition honestly. Flattery is the opposite: insincere, selfish, and universally detected. Carnegie summarizes it bluntly: one comes from the heart out, the other from the teeth out.\n\nTo illustrate genuine appreciation in action, Carnegie tells the story of Charles Schwab, who ran Andrew Carnegie's steel operations. Schwab was reportedly paid a million dollars a year, an astonishing sum in the early 1900s. When asked why, Schwab explained that it was not his technical knowledge that made him valuable. It was his ability to deal with people. His secret was being hearty in his approbation and lavish in his praise.\n\nSchwab did not flatter his workers. He noticed specific things they did well and told them so. The difference matters because flattery is about the speaker's agenda while appreciation is about the other person's value. People can sense the difference instantly.\n\nCarnegie also tells the story of a young blind boy at school. A teacher recognized the boy's extraordinary hearing and asked him to help locate a mouse in the classroom. That single act of appreciation for a genuine ability changed the trajectory of the boy's life. That boy grew up to become the legendary musician Stevie Wonder."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1ff27ef4-3564-489b-9723-4ba056d69d58",
+      "feedId": "how-to-win-friends-and-influence-people-the-three-fundamentals",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "See It Their Way"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's third fundamental principle is deceptively simple: arouse in the other person an eager want. The idea is that the only way to influence anyone is to talk about what they want and show them how to get it. This sounds obvious, but Carnegie argues that most people violate it constantly by leading with their own needs and expecting others to care.\n\nHe cites Henry Ford, who said that if there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own. Carnegie considers this insight so important that he returns to it repeatedly throughout the book. It is the thread that connects all thirty principles.\n\nThe power of this approach lies in reframing. Instead of saying \"I need you to do this,\" you find a way to say \"here is how doing this benefits you.\" Instead of asking someone to change their behavior because it bothers you, you help them see how the change serves their own goals. The request stays the same. The frame changes everything.\n\nCarnegie illustrates this by imagining a simple scenario: if you want someone to do something, do not begin by talking about what you want. Begin by understanding what they want, what motivates them, what they care about. Then connect your request to their motivation. People do not resist good ideas. They resist ideas that feel like obligations imposed by someone else."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "97cc1802-bc31-42e6-8d95-4a8b54c83eff",
+      "feedId": "how-to-win-friends-and-influence-people-the-three-fundamentals",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Carnegie Nephew Trick"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie loved practical examples, and one of his favorites involved Andrew Carnegie's dealings with his two nephews at Yale. The boys had been so busy with college life that they neglected to write home, and the family was frustrated by the silence. Andrew Carnegie made a bet that he could get a reply without even asking for one.\n\nHe wrote the boys a chatty letter about campus life and family news. In a postscript, he mentioned casually that he was enclosing five dollars for each of them. Then he deliberately left the money out of the envelope.\n\nThe reply came almost immediately. The boys thanked their uncle warmly for the letter and noted, with conspicuous politeness, that he had forgotten to include the five dollars he mentioned. Carnegie had not asked them to write. He had not scolded them for their silence. He had simply created a situation where writing back served their own interest. The want was there. He just gave it a reason to surface.\n\nThis anecdote captures the essence of Carnegie's third principle in miniature. People act when they see a personal benefit in acting. If you can frame your request so that the other person sees it as their idea, their interest, their gain, cooperation becomes natural rather than forced. The alternative, trying to compel behavior through guilt, authority, or nagging, almost always produces resistance. Carnegie's genius was understanding that influence is not about power. It is about alignment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c55967e8-6c82-4236-9fe6-c72f2dae38b6",
+      "feedId": "how-to-win-friends-and-influence-people-genuine-interest",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/3_202603272056.jpeg",
+          "title": "Genuine Interest",
+          "subtitle": "Why caring about others is the fastest path to being liked"
+        }
+      ]
+    },
+    {
+      "_id": "d149a5a1-629a-4865-9c5f-9f3408007bd5",
+      "feedId": "how-to-win-friends-and-influence-people-genuine-interest",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Dog Principle"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie opens his section on making people like you with an observation about dogs. A dog makes a living by giving you nothing but love and genuine excitement. When you walk through the door, a dog acts as if you are the most important person in the world. Dogs do not need to read books on interpersonal skills. They succeed at winning friends by being genuinely, unconditionally happy to see people.\n\nThe contrast with human behavior is the point. Most people approach social situations thinking about how to make others interested in them. They rehearse impressive stories, polish their credentials, and think about what they can say to stand out. Carnegie argues this is exactly backward.\n\nYou can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you. This is not a technique to be performed. It is a shift in orientation. Instead of walking into a room wondering what people think of you, you walk in wondering what makes them tick.\n\nThe key word is \"genuinely.\" Carnegie repeatedly stresses that fake interest is transparent and counterproductive. People can sense when someone is asking about their life just to steer the conversation back to themselves. Genuine interest means actually caring about the answer, actually wanting to know what someone's life is like, what excites them, and what keeps them up at night. That kind of attention is so rare that it becomes irresistible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d81562f0-395d-4a47-ad20-872e7fb86248",
+      "feedId": "how-to-win-friends-and-influence-people-genuine-interest",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Two Months vs. Two Years"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie backs up his claim about genuine interest with examples from psychology and show business. He cites a study of telephone conversations that found the word \"I\" was used more than any other word. People are overwhelmingly focused on themselves, their problems, their interests, and their experiences. This is not selfishness. It is simply human nature.\n\nThe practical implication is clear: if you want to connect with someone, stop competing for attention and start giving it. Ask about their work, their family, their passions. Listen to the answers with real curiosity. Follow up with questions that show you were paying attention. Carnegie argues that this approach is not just more effective than self-promotion. It is also more enjoyable. When you genuinely care about the people around you, conversations stop being performances and start being discoveries.\n\nCarnegie tells the story of a magician named Howard Thurston, who was the leading magician of his era. Thurston's secret was not his technical skill, though that was considerable. His real advantage was that before every show, he would stand backstage and repeat to himself that he loved his audience. That genuine warmth radiated through his performance and made audiences feel valued rather than merely entertained.\n\nThe lesson extends far beyond the stage. Whether you are meeting a client, joining a dinner party, or starting a new job, the person who shows genuine interest in others becomes the person everyone wants to be around."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d6905810-70e6-438c-a7c8-05de00fad0a3",
+      "feedId": "how-to-win-friends-and-influence-people-genuine-interest",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Power of a Smile"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's second principle for being liked is the simplest one in the entire book: smile. He argues that your facial expression communicates more about your attitude than anything you say. A genuine smile tells the other person you are happy to see them, that they matter, and that you approach the world with warmth rather than suspicion.\n\nCarnegie is careful to distinguish genuine smiles from forced ones. An insincere grin fools nobody. People can read faces with remarkable accuracy, and a pasted-on smile signals discomfort or manipulation rather than warmth. The smile must come from a real place, from genuinely choosing to approach each interaction with goodwill.\n\nHe cites William James, who argued that action and feeling are not separate systems. We do not just smile because we are happy. We also become happier because we smile. By deliberately choosing to greet the world with warmth, you shift your own emotional state. The smile changes you as much as it changes the people around you.\n\nCarnegie tells the story of a stock exchange employee who decided to test this principle. The man spent one week deliberately smiling at everyone he encountered: his wife, the doorman, colleagues, strangers on the subway. The results shocked him. People who had been cold or distant for years suddenly became friendly. His wife said the change in him was remarkable. Nothing had changed in his circumstances. Everything had changed in how he showed up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "effa47af-9096-4d3f-b8b8-a37b6a03b27a",
+      "feedId": "how-to-win-friends-and-influence-people-genuine-interest",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Sweetest Sound"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's third people-pleasing principle focuses on something most people take for granted: names. He argues that a person's name is, to that person, the sweetest and most important sound in any language. It is not just a label. It is a marker of identity, individuality, and worth. Using someone's name in conversation signals that you see them as a specific person, not a generic face in the crowd.\n\nTo illustrate this point, Carnegie tells the story of Jim Farley, who rose from a small-town upbringing without a high school education to become chairman of the Democratic National Committee and Postmaster General of the United States. Farley's secret weapon was his extraordinary memory for names. He traveled the country meeting people, and after every encounter he recorded the person's name in a notebook along with details about their family, their work, and their interests.\n\nWhen Farley later wrote to those people, addressing them by name and asking about specific details of their lives, the impact was profound. People felt remembered, valued, and connected to Farley in a way that no generic correspondence could achieve. This practice helped Franklin Roosevelt win the presidency, because Farley's personal touch turned casual acquaintances into devoted supporters.\n\nCarnegie's point is not that you need Farley's superhuman memory. It is that making the effort to remember and use someone's name sends a powerful signal: you matter enough for me to remember who you are."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9cc2b9ac-cd72-4afb-9b7a-978c743a5c92",
+      "feedId": "how-to-win-friends-and-influence-people-genuine-interest",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Napoleon's Name Strategy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie reinforces the power of names with an example from one of history's most ambitious leaders. Napoleon Bonaparte, despite commanding armies of hundreds of thousands, made a deliberate effort to remember the names of individual officers he met. His method was methodical: he would write a name down on paper, study it carefully, fix it in his memory, then tear up the paper. The physical act of writing and the focused attention made the name stick.\n\nNapoleon understood something that modern leadership research has confirmed: people give more to leaders who recognize them as individuals. A general who remembers your name is a general you will follow into danger. A boss who greets you by name in the hallway is a boss whose requests you prioritize. The name is not just a social nicety. It is a tool of connection and influence.\n\nCarnegie also notes that Napoleon created the Legion of Honor and distributed fifteen hundred crosses to his soldiers. He made eighteen of his generals \"Marshals of France\" and called his troops the \"Grand Army.\" When criticized for giving \"toys\" to veterans, Napoleon replied that men are ruled by toys. He understood that symbols of recognition, titles, medals, and names, speak directly to the human need for importance.\n\nThe connection to everyday life is direct. When you remember someone's name and use it naturally in conversation, you are doing what Napoleon did with medals: acknowledging their individual worth. It costs nothing, but its impact is enormous."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "95462483-c3ff-4af0-afec-5ba1b42ac135",
+      "feedId": "how-to-win-friends-and-influence-people-genuine-interest",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Names Open Doors"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie offers practical advice for improving your ability to remember names, and his methods are surprisingly simple. First, concentrate during introductions. Most people forget names not because of poor memory but because they never fully heard the name in the first place. They were too busy thinking about what to say next. Second, if you miss the name, ask the person to repeat it immediately. No one is offended by this request. In fact, most people are flattered that you care enough to get it right.\n\nThird, if the name is unusual, ask how it is spelled. This forces you to process the name more deeply and gives the other person a chance to share something personal about their identity. Fourth, use the name several times during the conversation. Repetition in context is the most natural and effective way to cement a name in memory. Fifth, associate the name with something visual or memorable about the person. Carnegie practiced these techniques himself and considered them essential to building genuine relationships.\n\nThe deeper lesson beneath these practical tips is about attention. Remembering a name requires you to be fully present during an interaction rather than mentally rehearsing your next comment. This kind of focused presence is rare and magnetic. People can feel when someone is truly paying attention to them, and they respond with warmth and openness.\n\nCarnegie saw names as the entry point to deeper connection. Get the name right, and you have opened a door that no amount of cleverness can unlock."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "977b6426-8402-493b-aab2-288bcff07e3c",
+      "feedId": "how-to-win-friends-and-influence-people-the-art-of-listening",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/4_202603272056.jpeg",
+          "title": "The Art of Listening",
+          "subtitle": "The surprising power of shutting up and paying attention"
+        }
+      ]
+    },
+    {
+      "_id": "df674e91-deaf-4724-8a2b-9bf4a2591242",
+      "feedId": "how-to-win-friends-and-influence-people-the-art-of-listening",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Best Conversationalist"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie makes a claim that surprises most people: the secret to being a great conversationalist is not talking well. It is listening well. He tells the story of attending a dinner party where he spent nearly the entire evening listening to a botanist describe exotic plants. Carnegie asked questions, expressed genuine fascination, and barely said a word about himself. At the end of the evening, the botanist told the host that Carnegie was one of the most interesting conversationalists he had ever met.\n\nCarnegie had barely spoken. But he had done something far more valuable: he had made someone feel heard. The botanist walked away feeling important, intelligent, and appreciated, and he attributed those feelings to Carnegie's conversational skill. In reality, Carnegie's skill was the absence of conversation and the presence of attention.\n\nThis principle challenges a deeply held assumption. Most people prepare for social situations by thinking about what they will say, which stories they will tell, which opinions they will share. Carnegie suggests the opposite approach: prepare to listen. Come with questions, not stories. Be curious, not impressive.\n\nThe psychology behind this is straightforward. Every person in a room believes their experiences and opinions are the most interesting ones present. When you listen attentively, you confirm that belief. When you talk about yourself, you compete with it. Listening is not passive. It is a generous act that makes the other person feel valued, and people remember how you made them feel long after they forget what you said."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7bec1257-7496-43bf-90ea-d882c5e4ebfa",
+      "feedId": "how-to-win-friends-and-influence-people-the-art-of-listening",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Talk About Their Interests"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's fifth principle for making people like you is to talk in terms of the other person's interests. To illustrate this, he shares one of his favorite examples: Theodore Roosevelt's preparation ritual. Before meeting any visitor at the White House, Roosevelt would stay up late the night before, reading about whatever subject he knew his guest cared about most.\n\nIf a visitor was passionate about horse breeding, Roosevelt studied horse breeding. If they cared about banking reform, he read about banking reform. By the time the guest arrived, Roosevelt could hold an informed conversation about the thing that mattered most to that person. The visitor left feeling that the President of the United States genuinely understood and shared their interests.\n\nCarnegie argues this was not a manipulation tactic. Roosevelt was genuinely curious about the world and enjoyed learning about diverse subjects. But he was also strategic enough to recognize that the fastest route to someone's heart is through their passion. When you talk about what someone cares about, you are not just making conversation. You are telling them that their world matters.\n\nThe practical application is simple but often neglected. Before meeting someone new, do a small amount of research. Find out what they are working on, what they care about, what excites them. Then ask about it. The conversation will come alive in a way that no amount of small talk about weather or weekend plans could produce. People light up when someone takes a genuine interest in their world."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8bf5fcc8-5757-4a8d-bd9a-03c5159ee517",
+      "feedId": "how-to-win-friends-and-influence-people-the-art-of-listening",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Roosevelt Method"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Roosevelt's approach to making people feel important went beyond reading up on their interests. Carnegie describes how Roosevelt treated everyone he met, regardless of rank or status, with the same personal attention. He greeted White House servants by name. He remembered details about their families and asked about them. He made time for brief but genuine conversations with people most leaders would have ignored entirely.\n\nOne story captures this quality perfectly. After Roosevelt left the White House, his former valet, James Amos, published a memoir. In it, Amos described how Roosevelt once asked his wife about quail. When she replied that she had never tasted quail, Roosevelt sent a portion to her. Amos wrote that this kind of thoughtful consideration was typical of Roosevelt. He noticed people, remembered what mattered to them, and acted on it without being asked.\n\nCarnegie uses Roosevelt not as an unreachable example of greatness but as a practical model anyone can follow. The essence of the Roosevelt method is preparation plus attention. You prepare by learning what matters to the other person. You pay attention during the interaction by listening actively and responding to what they actually say rather than steering toward your own agenda.\n\nThe combination is powerful because most people experience the opposite in daily life. They meet people who are distracted, self-absorbed, or going through social motions without genuine engagement. Someone who shows up prepared and present stands out immediately. Roosevelt was a master at making every person feel like the only person in the room."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "580aebee-05dc-4fff-b942-025d5d6a920b",
+      "feedId": "how-to-win-friends-and-influence-people-the-art-of-listening",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Make Them Feel Important"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's sixth and final principle for being liked brings all the previous ones together: make the other person feel important, and do it sincerely. He attributes this insight partly to Benjamin Disraeli, who served as Prime Minister of Britain and was considered one of the shrewdest political operators in the history of the British Empire. Disraeli's advice was simple: talk to people about themselves and they will listen for hours.\n\nCarnegie argues that the desire to feel important is one of the most powerful forces in human psychology. It drives people to work longer hours, take on impossible challenges, and go far beyond what external rewards alone could motivate. When you satisfy this desire in someone, you create a bond that transcends ordinary social politeness.\n\nThe critical modifier in this principle is \"sincerely.\" Carnegie knew that insincere flattery is worse than silence. If you tell someone they are important while your eyes wander around the room, you achieve the opposite of your goal. Sincerity requires effort. It requires you to find something genuinely admirable about the other person and express it without exaggeration or ulterior motive.\n\nCarnegie believed this principle was so fundamental that it amounted to a golden rule of human relations. Treat every person you meet as if they are the most important person in the room, not because they are, but because to themselves, they are. That simple act of recognition, delivered sincerely, creates goodwill, trust, and lasting connection that no other approach can match."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "461f25b2-cc9a-417d-a27c-d83e4b279b37",
+      "feedId": "how-to-win-friends-and-influence-people-the-art-of-listening",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Golden Rule of Conversation"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie steps back from individual techniques to make a broader argument about what makes people compelling. The six principles he has outlined, be interested, smile, remember names, listen, talk about their interests, and make them feel important, are not isolated tricks. They are facets of a single underlying attitude: genuine respect for other people.\n\nMost conversation advice focuses on technique: how to break the ice, how to tell a compelling story, how to handle awkward silences. Carnegie argues that technique without genuine care is hollow. A person who memorizes names purely to close deals will eventually be exposed as a manipulator. A person who asks questions without caring about the answers will come across as hollow. The techniques work only when they spring from real warmth and curiosity.\n\nThis distinction matters because it addresses the most common criticism of Carnegie's work, that it teaches manipulation disguised as friendliness. Carnegie responds directly to this concern throughout the book. The principles fail when practiced insincerely. They succeed when they reflect a genuine decision to value other people.\n\nThe practical takeaway is that becoming more likable is not about adding a layer of polish to your personality. It is about training yourself to notice and appreciate the people around you. Once that shift in perspective happens, the techniques follow naturally. You smile because you are glad to see someone. You listen because you are genuinely curious. You remember names because people matter to you. The technique is just the outward expression of the attitude."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "621f6128-3cf9-452f-929a-2e597e632648",
+      "feedId": "how-to-win-friends-and-influence-people-the-art-of-listening",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Putting It All Together"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie illustrates the combined power of his six principles with a challenge to the reader. The next time you meet someone new, try an experiment. Smile genuinely when you greet them. Use their name in conversation. Ask about their work, their hobbies, their family. Listen to the answers without planning what you will say next. Find something about them that you genuinely admire and tell them so. Then watch what happens.\n\nThe results, Carnegie promises, will be immediate and visible. People respond to this kind of attention with warmth, openness, and trust. Conversations that might have lasted two minutes stretch into twenty. People who might have been guarded become generous with their time and ideas. Relationships that might have stayed superficial begin to develop real depth.\n\nCarnegie reminds readers that these principles are not new discoveries. Philosophers and religious teachers have advocated kindness, empathy, and genuine interest in others for thousands of years. What Carnegie did was translate those timeless ideals into specific, actionable behaviors that anyone can practice in daily life.\n\nThe key is consistency. Carnegie warns against the temptation to use these principles only when you want something. They work best when they become habits, when smiling, listening, and showing interest become your default way of engaging with the world rather than tools you pull out for special occasions. The transformation happens not in a single conversation but over months of practice, as the techniques gradually reshape both how others see you and how you see yourself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "bf66a703-fb54-42c2-ae38-f5f9855574d3",
+      "feedId": "how-to-win-friends-and-influence-people-win-without-arguing",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/5_202603272056.jpeg",
+          "title": "Win Without Arguing",
+          "subtitle": "How to change minds without triggering defensiveness"
+        }
+      ]
+    },
+    {
+      "_id": "0ecb7fcc-b29d-4ae1-b941-18873adb5d05",
+      "feedId": "how-to-win-friends-and-influence-people-win-without-arguing",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Argument Paradox"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie opens his section on persuasion with a paradox: the only way to get the best of an argument is to avoid it. He argues that arguments are fundamentally unwinnable. If you lose, you lose. But if you win, you still lose, because you have made the other person feel inferior, humiliated their pride, and created resentment that will outlast whatever point you proved.\n\nCarnegie backs this up with a phrase he returns to throughout the book: a man convinced against his will is of the same opinion still. Logical victory does not produce genuine agreement. It produces a person who appears to agree while quietly seething and waiting for an opportunity to prove you wrong. You may win the battle, but you lose the war.\n\nThis principle runs counter to how many people approach disagreements. The instinct when challenged is to fight harder, present more evidence, and argue more persuasively. Carnegie suggests doing the opposite. When you feel an argument starting, resist the urge to engage. Listen to the other person's position fully. Look for points of agreement. Express appreciation for their perspective. Then quietly steer the conversation toward common ground.\n\nCarnegie tells the story of a salesman who spent years arguing with customers and winning zero arguments that also resulted in sales. The moment he stopped trying to prove customers wrong and started listening to their concerns, his sales numbers transformed. The arguments he won cost him nothing. The ones he avoided earned him everything."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ee3885ee-1b41-4736-ad41-c29a1940a454",
+      "feedId": "how-to-win-friends-and-influence-people-win-without-arguing",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Never Say You're Wrong"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's second persuasion principle attacks one of the most common conversational habits: telling someone they are wrong. He argues that the phrase \"you're wrong\" is one of the most destructive combinations of words in any language, because it strikes directly at the other person's intelligence, judgment, and self-respect.\n\nWhen you tell someone they are wrong, you are not starting a productive conversation. You are starting a fight. The other person's immediate reaction is not to reconsider their position. It is to defend it more fiercely. Their pride is at stake, and pride is far more powerful than logic. Carnegie cites research showing that people who are told they are wrong become more entrenched in their original position, not less.\n\nThe alternative Carnegie proposes is disarmingly simple: show respect for the other person's opinion. Instead of saying \"you're wrong,\" say something like \"I see it differently, and I may be wrong. Let me take another look at the facts.\" This approach accomplishes two things. First, it lowers the emotional temperature by removing the confrontation. Second, it signals that you are open-minded, which makes the other person more willing to be open-minded in return.\n\nCarnegie was not suggesting that you abandon your convictions or pretend to agree with everything. He was suggesting that the delivery matters as much as the content. You can share a different perspective without attacking the other person's perspective. The goal is not to prove them wrong. The goal is to help them see a different possibility while keeping their dignity intact."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "44d73d08-6d9b-4075-8a11-a8e9aa32a454",
+      "feedId": "how-to-win-friends-and-influence-people-win-without-arguing",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Power of Quick Admission"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "When you are wrong, Carnegie advises, admit it quickly and emphatically. He illustrates this with one of the most charming stories in the book: his own encounter with a park ranger while walking his dog Rex.\n\nCarnegie regularly walked Rex off-leash in a park where leash laws were enforced. The first time a mounted officer caught him, Carnegie promised to comply and was let off with a warning. But old habits returned, and within a week Carnegie was again walking Rex without a leash. The same officer spotted him.\n\nThis time, Carnegie did not wait for the scolding. Before the officer could speak, Carnegie launched into a full confession: he was guilty, he had no excuse, he had been warned before and had broken his promise, and the officer had every right to give him the maximum penalty. He was caught completely red-handed.\n\nThe officer's demeanor changed instantly. Instead of issuing a fine, he waved Carnegie off with a smile and told him to just keep the dog out of the way. By taking the words out of the officer's mouth, Carnegie had left the man with nothing to do but be magnanimous.\n\nCarnegie argues that quick, emphatic admission disarms people because it satisfies their need to feel right without requiring a confrontation. When you defend yourself, you force the other person to attack harder. When you admit fault before they can accuse you, you steal the ammunition and leave room for generosity. Self-criticism is always more tolerable than external criticism."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b0ef7f8d-6449-481e-8810-d0782efbf113",
+      "feedId": "how-to-win-friends-and-influence-people-win-without-arguing",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "A Drop of Honey"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie titles one of his chapters with a quote attributed to Lincoln: a drop of honey catches more flies than a gallon of gall. The principle is simple but Carnegie believes most people ignore it: begin every interaction in a friendly way, especially when you disagree.\n\nTo drive this point home, Carnegie retells Aesop's fable of the sun and the wind. The wind and the sun had a contest to see who could get an old man to remove his coat. The wind blew with all its force, howling and raging. The old man clutched his coat tighter and hunched against the gale. Then the sun took its turn. It shone gently, warming the air. Within minutes, the old man mopped his brow and took off his coat willingly.\n\nCarnegie saw this fable as a perfect metaphor for persuasion. Force, aggression, and confrontation make people grip their positions tighter. Warmth, friendliness, and genuine kindness make people open up. The point is not that you should be passive or avoid difficult conversations. The point is that how you begin a conversation determines where it can go.\n\nWhen you approach someone with hostility, their defenses go up before you say your first substantive word. When you approach with warmth and goodwill, those same defenses stay down. The ideas you present are the same either way. But a friendly opening creates the conditions for those ideas to actually be heard. Carnegie argues that friendliness is not a weakness in difficult conversations. It is the most powerful strategic advantage you can have."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "be242a9d-ce33-488b-a4e2-aff03cdbe06e",
+      "feedId": "how-to-win-friends-and-influence-people-win-without-arguing",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Begin in a Friendly Way"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie extends the honey principle with stories from business and diplomacy. He tells of a landlord who faced a tenant threatening to break the lease. Instead of responding with legal threats, the landlord visited the tenant and began by praising how well the apartment had been maintained. He expressed genuine appreciation for the tenant's years of punctual payments and good care.\n\nOnly after establishing this warm foundation did the landlord mention the challenges of the current situation. By then, the tenant's attitude had shifted entirely. The conversation that could have been hostile became collaborative, and the two reached an agreement that satisfied both parties.\n\nCarnegie saw this pattern everywhere. In labor disputes, the managers who began with appreciation for workers' contributions reached agreements faster than those who opened with demands. In sales, the representatives who started by understanding the customer's situation closed more deals than those who launched straight into their pitch.\n\nThe underlying psychology is about lowering defensiveness. When someone expects a fight and instead receives warmth, they experience a moment of cognitive disruption. Their prepared counterarguments have no target. Their emotional shields have nothing to block. In that moment of openness, real communication becomes possible.\n\nCarnegie warns that this principle requires patience. The temptation when you feel wronged or frustrated is to lead with the grievance. But leading with warmth does not mean ignoring the problem. It means creating the conditions where the problem can be discussed productively. The conversation gets to the same place. The journey determines whether anyone is still listening when you arrive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "87d7ea5d-267e-461b-bb12-6cd55bd31855",
+      "feedId": "how-to-win-friends-and-influence-people-win-without-arguing",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Four Rules Combined"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie intended his persuasion principles to work as an integrated system rather than isolated tactics. The first four principles, avoid arguments, never say someone is wrong, admit your own mistakes quickly, and begin in a friendly way, form a powerful foundation for changing minds without creating enemies.\n\nConsider how they work together in a real scenario. Your colleague proposes an approach you believe is flawed. Your instinct might be to explain why they are wrong and present your better idea. Carnegie's system suggests a different path.\n\nFirst, resist the urge to argue. Listen fully to their proposal. Ask questions to understand their reasoning. Second, never tell them they are wrong, even if you are certain they are. Instead, acknowledge the merits of their thinking. Third, if your own past work has made similar mistakes, say so openly. Fourth, frame the entire conversation in a friendly, collaborative tone. You are not opponents. You are two people trying to solve the same problem.\n\nCarnegie argues that this approach is not just nicer. It is more effective. When people feel heard, respected, and unthreatened, they become genuinely open to new ideas. When they feel attacked, even the best arguments bounce off their defensive walls. The goal is never to defeat someone's position. The goal is to create conditions where they can comfortably change their own mind.\n\nThese four principles together transform disagreements from battles into conversations, and conversations are where real influence happens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4280308b-01cd-4c3f-bf94-3156598ef34a",
+      "feedId": "how-to-win-friends-and-influence-people-the-socratic-secret",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/6_202603272056.jpeg",
+          "title": "The Socratic Secret",
+          "subtitle": "Ancient persuasion techniques that still work today"
+        }
+      ]
+    },
+    {
+      "_id": "df74d92f-9ab2-4f1c-bf67-befa558696d4",
+      "feedId": "how-to-win-friends-and-influence-people-the-socratic-secret",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Yes, Yes, Yes"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie names one of his most powerful persuasion techniques after the ancient Greek philosopher Socrates. The principle is straightforward: when trying to win someone over, begin by asking questions they will answer with \"yes.\" Get them saying yes as early and as often as possible before approaching any point of disagreement.\n\nSocrates perfected this method over two thousand years ago. Instead of telling his opponents they were wrong, he asked a series of questions they had to agree with. Each \"yes\" led naturally to the next question, and by the end of the conversation, his opponents found themselves embracing conclusions they would have rejected outright five minutes earlier. The approach was so effective that it became known as the Socratic method and remains a cornerstone of legal education and philosophical inquiry today.\n\nCarnegie explains the psychology behind the technique. When a person says \"yes,\" their entire physiological and psychological state moves toward openness and acceptance. When they say \"no,\" their body tenses and their mind shifts into a defensive mode that resists everything that follows, regardless of its merit. The first few moments of any conversation set the emotional trajectory for everything that comes after.\n\nThe practical application is to front-load your conversations with agreement. Find common ground first. Establish shared goals. Get the other person nodding before you introduce anything they might resist. Carnegie argues that most failed persuasion attempts collapse because the speaker leads with the controversial point instead of building a foundation of agreement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f500593b-3fb8-48a0-ae66-2c1f34d91793",
+      "feedId": "how-to-win-friends-and-influence-people-the-socratic-secret",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Psychology of Yes"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie goes deeper into why the Socratic yes-yes technique works by examining what happens in the brain during agreement and disagreement. When someone says \"no\" to a proposition, their entire body participates in the rejection. Muscles tense. Attention narrows. The glandular and nervous systems shift into a withdrawal pattern that resists new information.\n\nBut when someone says \"yes,\" the opposite happens. The body relaxes. Attention broadens. The mind becomes receptive to what comes next. Carnegie argues that getting a \"no\" at the beginning of a conversation is so damaging that all your subsequent logic may not be enough to reverse it.\n\nThis is why experienced negotiators and salespeople pay careful attention to the opening of every conversation. They do not begin with their ask. They begin with questions designed to establish agreement: do you want to save money? Do you care about quality? Each \"yes\" moves the conversation forward and makes the eventual request feel like a natural continuation rather than an imposition.\n\nCarnegie also notes that this approach respects the other person's autonomy. Instead of telling them what to do, you are guiding them through a series of their own conclusions. The final decision still feels like their choice, because in a sense, it is. You have not manipulated them into agreement. You have helped them see a path to agreement that they might have missed.\n\nThe most persuasive people, Carnegie concludes, are not the ones who talk the most. They are the ones who ask the right questions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "763d3d3f-a89f-43f7-9ca4-8b0ded0fe92f",
+      "feedId": "how-to-win-friends-and-influence-people-the-socratic-secret",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Let Them Do the Talking"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's sixth persuasion principle addresses one of the most common mistakes in communication: talking too much. When people want to convince someone or resolve a complaint, their instinct is to explain, justify, and present their case at length. Carnegie argues this instinct is almost always counterproductive.\n\nMost people, he writes, try to win others to their way of thinking by doing too much talking. Instead, let the other person do the talking. Let them tell you about their situation, their frustrations, their hopes. Listen without interrupting. Ask follow-up questions that encourage them to keep going.\n\nCarnegie calls this the \"safety valve\" principle. When someone has a complaint or a strong opinion, they are carrying emotional pressure that needs to be released before any productive conversation can happen. If you try to talk over that pressure, it builds. If you let them release it by speaking freely, it dissipates. Once the emotional energy has been spent, the person becomes dramatically more receptive to your perspective.\n\nThis principle applies beyond complaints. In any conversation where you want to persuade, letting the other person talk first gives you crucial information. You learn what they care about, what they fear, and what they value. You discover the real objection behind the stated one. And you give them the experience of feeling heard, which creates goodwill that makes your eventual point land more effectively.\n\nCarnegie puts it simply: when you listen, people feel respected. When people feel respected, they listen back."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d3007f31-3be0-487b-bda7-d44fa6547d58",
+      "feedId": "how-to-win-friends-and-influence-people-the-socratic-secret",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Make It Their Idea"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's seventh persuasion principle taps into one of the deepest currents in human psychology: people have infinitely more faith in ideas they discover themselves than in ideas handed to them by someone else.\n\nThis means that the most effective way to get someone to adopt your idea is to let them believe it is their idea. Carnegie is not suggesting deception. He is suggesting a shift in how you present information. Instead of saying \"here is what we should do,\" ask questions that lead the other person to reach the same conclusion independently.\n\nCarnegie illustrates this with examples from business. A manager who tells employees exactly what to do gets compliance. A manager who describes the problem and asks employees to propose solutions gets enthusiasm, creativity, and ownership. The outcome may be identical, but the emotional investment is completely different.\n\nThe reason this works is rooted in how humans process ownership. When you generate an idea yourself, your ego becomes invested in its success. You feel proud of it. You defend it. You work harder to make it succeed. When someone else's idea is imposed on you, none of that psychological ownership exists. You comply, but your heart is not in it.\n\nCarnegie argues that skilled leaders and communicators understand this dynamic intuitively. They guide conversations, ask leading questions, and create situations where other people \"discover\" the right answer. The credit goes to the other person, which feels generous but is actually strategic. Carnegie knew that credit is cheap and cooperation is priceless."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e305c841-e4bb-4d81-b163-6b88e0bd5536",
+      "feedId": "how-to-win-friends-and-influence-people-the-socratic-secret",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Walk in Their Shoes"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie considers the ability to see things from another person's perspective the single most important skill in human relations. He returns to this theme again and again throughout the book, and in the persuasion section he makes it an explicit principle: try honestly to see things from the other person's point of view.\n\nThe emphasis is on \"honestly.\" Carnegie is not asking you to pretend you understand someone else's position while secretly dismissing it. He is asking you to genuinely inhabit their perspective, to think about what their day looks like, what pressures they face, what fears and ambitions drive their behavior. When you do this sincerely, your entire approach to the conversation changes.\n\nCarnegie argues that most conflicts and persuasion failures stem from the same root cause: each person is so absorbed in their own perspective that they never pause to consider the other person's reality. When you break this pattern by genuinely trying to understand where someone is coming from, you gain two advantages. First, you understand their actual objections, which are often different from their stated ones. Second, you earn their trust, because empathy is one of the rarest and most valued qualities in human interaction.\n\nThis principle has a practical corollary: before any difficult conversation, spend five minutes imagining the situation from the other person's point of view. What do they want? What are they afraid of? What would make them feel good about the outcome? If you can answer these questions honestly, you will enter the conversation with a massive advantage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4bf2e146-2bc7-4384-b83f-c4dbd42221c1",
+      "feedId": "how-to-win-friends-and-influence-people-the-socratic-secret",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "From Opponents to Allies"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie wraps up the middle section of his persuasion principles by showing how they transform the fundamental dynamic of a disagreement. Without these principles, disagreements follow a predictable pattern: each person defends their position, attacks the other's, and the conversation escalates until someone gives in or walks away. The winner feels vindicated. The loser feels humiliated. Nothing productive is accomplished.\n\nWith Carnegie's principles in play, the dynamic changes completely. You begin by finding common ground and getting agreement. You listen more than you talk. You let the other person feel that the emerging solution is partly their creation. You see things from their perspective. You give them room to change their mind without losing face.\n\nThe result is not just agreement but genuine buy-in. The other person does not feel defeated. They feel heard, respected, and invested in the outcome. This is the difference between compliance and cooperation, and Carnegie argues it is the most important difference in human relations.\n\nCarnegie was practical enough to acknowledge that these techniques do not work in every situation. Some people are genuinely unreasonable. Some conflicts involve non-negotiable positions. But he maintained that the vast majority of disagreements in professional and personal life are not about irreconcilable differences. They are about hurt pride, poor communication, and the failure to acknowledge the other person's perspective.\n\nWhen you approach disagreements as opportunities for collaboration rather than battles to be won, Carnegie argues, you transform not just the conversation but the relationship itself. Opponents become allies, and allies accomplish more than either person could alone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ed1d4abc-ce08-46c0-8620-41c4bb91ed18",
+      "feedId": "how-to-win-friends-and-influence-people-appeal-to-the-heart",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/7_202603272056.jpeg",
+          "title": "Appeal to the Heart",
+          "subtitle": "Reaching people through emotion, drama, and challenge"
+        }
+      ]
+    },
+    {
+      "_id": "e3ee6d70-35c0-4a9e-9fb4-2216d6747a34",
+      "feedId": "how-to-win-friends-and-influence-people-appeal-to-the-heart",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Magic Phrase"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie offers what he calls a magic phrase, a sentence so powerful that it can stop arguments, eliminate ill feeling, create good will, and make the other person listen attentively. The phrase is simple: \"I don't blame you one iota for feeling as you do. If I were you, I would undoubtedly feel just as you do.\"\n\nThis sentence works because it validates the other person's emotional experience without necessarily agreeing with their position. There is a crucial difference between saying \"you're right\" and saying \"I understand why you feel that way.\" The first concedes the argument. The second acknowledges the humanity behind it.\n\nCarnegie argues that three quarters of the people you will ever meet are starving for sympathy. Give it to them, and they will love you. This is not manipulation. It is recognition of a basic human need. When people feel that their emotions are understood and accepted, the emotional charge of the conversation drops dramatically. The defensiveness melts. The walls come down. Only then does genuine communication become possible.\n\nCarnegie illustrates this with examples from customer service, family disputes, and workplace conflicts. In each case, the person who offered sympathy and understanding before attempting to resolve the issue achieved dramatically better results than the person who jumped straight to problem-solving. People do not care about your solution until they feel that you understand their problem. Emotional validation is not a detour from productive conversation. It is the on-ramp."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6aba3a08-c893-4ad7-b34f-4abbcea6d6f8",
+      "feedId": "how-to-win-friends-and-influence-people-appeal-to-the-heart",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Two Reasons for Everything"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie borrows an insight from J. Pierpont Morgan, the legendary financier, who observed that a person usually has two reasons for doing anything: one that sounds good, and the real one. Carnegie uses this observation not as a basis for cynicism but as a tool for persuasion.\n\nThe key insight is that people prefer to think of themselves as acting from noble motives. Even when self-interest is the primary driver, most people want to believe they are making decisions based on fairness, generosity, or principle. Carnegie argues that you should appeal to this self-image rather than to the real, usually more self-interested motivation.\n\nThis is not about dishonesty. It is about framing. When you appeal to someone's nobler motives, you are inviting them to live up to the best version of themselves. And people often rise to meet that invitation. A customer who might ignore a policy-based argument will often comply when you frame the request in terms of fairness or integrity. An employee who resists a directive will embrace it when it is framed as a matter of professional pride.\n\nCarnegie tells the story of a landlord who needed tenants to vacate before their leases expired. Instead of threatening legal action, the landlord wrote to each tenant expressing respect for their character and confidence that they would honor their word. Most tenants voluntarily complied. By appealing to their self-image as honest, fair-minded people, the landlord achieved through respect what coercion would have failed to accomplish."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "97e90383-a05f-4fcf-b7ea-6506ec54bd62",
+      "feedId": "how-to-win-friends-and-influence-people-appeal-to-the-heart",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Appeal to the Nobler Motives"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie expands on the principle of appealing to nobler motives with examples that illustrate its surprising range. He argues that this approach works not because people are inherently noble but because they want to be seen as noble. The desire to appear principled, fair, and generous is one of the most powerful motivational forces in human behavior.\n\nWhen John D. Rockefeller wanted newspaper photographers to stop taking pictures of his children, he did not threaten or demand. He appealed to their sense of decency as parents. Some of you have children, Rockefeller said. You know that it is not good for youngsters to get too much publicity. The photographers stopped, not because they feared Rockefeller's power, but because he had framed the request in terms of something they already believed: children deserve privacy.\n\nCarnegie applies this principle broadly. In business negotiations, framing a request as a matter of fairness rather than profit often produces better results. In personal relationships, asking someone to do something because you know they value a particular quality is more effective than arguing about the thing itself.\n\nThe underlying mechanism is identity. People make decisions that are consistent with how they see themselves. If you frame a request in a way that aligns with their self-image, they are psychologically inclined to comply. If you frame it in a way that threatens their self-image, they resist even when compliance would be in their interest. Carnegie's genius was recognizing that framing a request as an appeal to character is almost always more effective than framing it as an appeal to logic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3da1049b-ef5b-4b2b-bd26-8d28fe59aee1",
+      "feedId": "how-to-win-friends-and-influence-people-appeal-to-the-heart",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Dramatize Your Ideas"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's eleventh persuasion principle reflects his background as a performer and showman: dramatize your ideas. He argues that simply stating a truth is not enough to make people act on it. The truth has to be made vivid, interesting, and dramatic. This is the age of showmanship, Carnegie writes, and merely stating facts is no longer sufficient.\n\nCarnegie illustrates this with a business example. A company selling cash registers was losing market share. Instead of presenting more sales data, they devised a dramatic demonstration. They placed coins on a store counter, then swept them onto the floor to illustrate how much money the store was losing to cashier errors every week. The visual impact of coins scattering across the floor communicated more powerfully than any spreadsheet could.\n\nThe principle applies far beyond sales. A teacher who dramatizes a history lesson captures attention better than one who recites dates. A manager who uses a vivid metaphor to explain a strategy inspires more action than one who distributes a bullet-point memo. A parent who turns a chore into a game gets more cooperation than one who issues commands.\n\nCarnegie traces this instinct back to the movies and radio, which were transforming entertainment in his era. Audiences had come to expect vivid, emotional experiences. Dry facts could not compete. Carnegie argues that the same is true in every conversation. If you want people to care about your idea, you have to present it in a way that engages their imagination and emotions, not just their logic. Facts inform. Drama motivates."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "54bee743-2370-4e34-9d09-3f6f0d835fa1",
+      "feedId": "how-to-win-friends-and-influence-people-appeal-to-the-heart",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Throw Down a Challenge"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's final persuasion principle plays on a fundamental aspect of competitive human nature: the desire to excel. When nothing else works, Carnegie says, throw down a challenge. Give people a chance to prove themselves, to outperform, to rise to the occasion, and watch motivation appear where none existed before.\n\nCarnegie's most vivid example involves Charles Schwab and a steel mill that was underperforming. Schwab visited the mill at the end of a day shift and asked the crew how many heats they had produced. Six, they said. Schwab took a piece of chalk, wrote a large \"6\" on the factory floor, and walked away without saying a word.\n\nWhen the night shift arrived and asked about the \"6,\" the day workers explained that the big boss had come by and written down their output. The night shift took it as a challenge. By morning, they had rubbed out the \"6\" and written \"7.\" The day shift came back and saw the \"7.\" By evening, they had written \"10.\" Competition and pride accomplished what no amount of pleading, threatening, or incentive plans had achieved.\n\nCarnegie connects this to a broader truth: people crave the chance to prove their worth. When you frame a task as a challenge or a competition, you tap into a motivational force that goes far deeper than money or obligation. The desire to be great, to excel, to show the world what you are capable of, is one of the most powerful drivers of human behavior. Smart leaders know how to activate it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c69ff379-c33f-44ca-b4fa-f903877d4a70",
+      "feedId": "how-to-win-friends-and-influence-people-appeal-to-the-heart",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Emotion Beats Logic"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie closes his persuasion section with an overarching insight that ties all twelve principles together: when dealing with people, remember that you are not dealing with creatures of logic. You are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.\n\nThis is not a cynical observation. Carnegie did not think less of people for being emotional. He simply believed that understanding this truth was essential to working effectively with anyone. The principles in his persuasion section, from avoiding arguments to dramatizing ideas, all share a common foundation: they work because they address how people actually think and feel, not how we imagine they should think and feel.\n\nLogic has its place. Facts matter. Evidence is important. But Carnegie's central argument is that none of these things gain traction until you have first addressed the emotional landscape of the person you are trying to reach. If someone feels defensive, the best argument in the world bounces off. If someone feels respected and heard, even a mediocre argument gets a fair hearing.\n\nThis insight is what separates Carnegie's approach from pure manipulation. A manipulator exploits emotions for personal gain. Carnegie teaches you to understand emotions so that productive communication becomes possible. The difference lies in intent. If your goal is to help both parties reach a better outcome, emotional intelligence is a tool for collaboration. If your goal is purely selfish, the same tools become weapons. Carnegie was clear about which side he stood on: sincerity was not optional."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "94b35d32-2ba7-4b25-8553-c987774dfa75",
+      "feedId": "how-to-win-friends-and-influence-people-correct-without-offending",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/8_202603272056.jpeg",
+          "title": "Correct Without Offending",
+          "subtitle": "How leaders give feedback without creating resentment"
+        }
+      ]
+    },
+    {
+      "_id": "180a68e7-15e1-4fd7-ac64-1030c39bfedf",
+      "feedId": "how-to-win-friends-and-influence-people-correct-without-offending",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Novocain Principle"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie opens his leadership section with an analogy that every reader remembers: beginning with praise is like the dentist who begins work with Novocain. The patient still gets a drilling, but the painkiller removes the sting. Criticism delivered after genuine praise lands very differently from criticism delivered cold.\n\nThis principle seems simple, but Carnegie identifies a subtle trap that many people fall into. They praise, then immediately follow with the word \"but,\" which signals that the praise was only a setup for the real message. \"You did excellent work on the report, but your analysis was incomplete.\" The moment the other person hears \"but,\" they discount everything that came before it. The praise becomes retroactively insincere.\n\nCarnegie considers this pattern so destructive that he dedicates an entire principle to fixing it. The solution is to replace \"but\" with \"and.\" \"You did excellent work on the report, and if you deepen the analysis in the next draft, it will be outstanding.\" The same feedback, but the delivery preserves the praise as genuine and frames the improvement as an addition rather than a correction.\n\nThe psychology behind this is about sequence and framing. When the brain receives positive input first, it relaxes and becomes receptive to subsequent information. When it receives negative input, it contracts and resists. By leading with genuine praise, you create a neurological environment where constructive feedback can be absorbed rather than deflected. The drill still happens. But the Novocain makes all the difference."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "346abc41-7235-4aa4-91a4-0c1049bd1c03",
+      "feedId": "how-to-win-friends-and-influence-people-correct-without-offending",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The But Trap"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie identifies a pattern so common that most people never notice it: the compliment followed by \"but.\" Parents do it with children: \"Your grades improved, but you still need to work harder in math.\" Managers do it with employees: \"Great presentation, but you went over time.\" Friends do it in everyday conversation: \"I love your new place, but the commute must be terrible.\"\n\nThe word \"but\" functions as an eraser. Everything positive that came before it vanishes, and the listener is left only with the criticism that follows. The praise was not genuine. It was a preamble, a spoonful of sugar designed to make the medicine go down. And people can feel the manipulation, even when they cannot articulate it.\n\nCarnegie's fix is deceptively simple: swap \"but\" for \"and.\" \"Your grades improved, and if you focus more on math, you could really excel.\" The difference is dramatic. \"But\" creates opposition between the praise and the criticism. \"And\" connects them. With \"but,\" the listener feels corrected. With \"and,\" they feel encouraged.\n\nThis small linguistic shift reflects a larger philosophical difference. When you use \"but,\" you are saying: the good thing does not matter, here is the problem. When you use \"and,\" you are saying: the good thing is real, and here is how to build on it. Carnegie understood that the way you connect ideas shapes how people receive them. A single word can determine whether your feedback motivates someone or deflates them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3e3fac65-32b6-4114-86d4-3beff4e600f2",
+      "feedId": "how-to-win-friends-and-influence-people-correct-without-offending",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Confess First"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's third leadership principle asks you to do something that feels counterintuitive: before criticizing anyone else's mistakes, talk about your own. He argues that it is far easier to listen to criticism of your work after the other person has admitted they are not perfect either.\n\nThis approach works because it dismantles the power dynamic that makes criticism feel threatening. When a boss or a parent delivers feedback from a position of assumed superiority, the listener feels judged from above. When the same person begins by confessing their own similar mistakes, the conversation transforms into a shared exploration of how to do better.\n\nCarnegie tells stories of managers who improved team performance by opening feedback conversations with their own past failures. \"When I first started managing budgets, I made the same mistake you are making now. Here is what I learned.\" This framing accomplishes several things simultaneously. It normalizes the mistake. It demonstrates empathy. It removes the sting of judgment. And it positions the feedback as wisdom from shared experience rather than criticism from above.\n\nThe principle extends beyond professional contexts. Parents who tell their children about their own childhood struggles before addressing behavior problems build stronger relationships than those who simply lay down rules. Friends who share their own vulnerabilities before offering advice create deeper trust than those who position themselves as having all the answers.\n\nCarnegie's insight is that vulnerability is not weakness. In the context of leadership and influence, vulnerability is a strategic tool that creates the safety people need to hear difficult truths."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4eaddd29-83db-4fb1-a4c5-0c260140b99c",
+      "feedId": "how-to-win-friends-and-influence-people-correct-without-offending",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Questions Over Orders"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's fourth leadership principle transforms how you make requests: ask questions instead of giving direct orders. Instead of saying \"file these reports by Friday,\" ask \"do you think you could have these reports ready by Friday?\" Instead of \"change the color scheme,\" ask \"what do you think of trying a different color scheme here?\"\n\nThe difference between an order and a question might seem trivial, but Carnegie argues it is enormous. Orders put people in a subordinate position. They reduce the other person to someone who executes instructions rather than someone who participates in decisions. Questions do the opposite. They stimulate creativity, preserve pride, and give the other person a sense of ownership over the outcome.\n\nCarnegie observed that people who feel they have contributed to a decision work harder to make it succeed. When a team member suggests a timeline rather than being assigned one, they feel personally responsible for meeting it. When an employee chooses an approach rather than being told to follow one, they invest their professional pride in making it work.\n\nThis principle does not mean abandoning leadership or avoiding clear direction. Carnegie was not suggesting that managers run everything as a committee. He was suggesting that the form of the request matters. The same direction can be delivered as a command or as a question, and the question almost always produces better results. People do not resist reasonable requests. They resist feeling controlled. By framing direction as collaboration rather than command, you preserve both your authority and their dignity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0b71fee7-19b4-4753-b6dc-7eaf12255336",
+      "feedId": "how-to-win-friends-and-influence-people-correct-without-offending",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Let Them Save Face"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie considers this one of the most important principles in the entire book: always let the other person save face. He argues that damaging someone's dignity achieves nothing except creating an enemy, even when you are right and they are wrong.\n\nCarnegie tells the story of a company that needed to demote a talented engineer who had been promoted beyond his abilities. The obvious approach was to tell him he was failing and move him back to his previous role. Instead, the company gave him a new title, \"Consulting Engineer,\" acknowledged his technical expertise publicly, and shifted his responsibilities to work that matched his strengths. The engineer's dignity was preserved, his contributions continued, and the company avoided losing a valuable employee.\n\nThe cost of this approach was essentially zero: a creative title and a few minutes of thoughtful planning. The benefit was enormous: a loyal employee who continued to contribute rather than a bitter former employee who might have left and damaged the company's reputation on his way out.\n\nCarnegie argues that most people are thoughtless about dignity in professional settings. They fire people in front of colleagues, deliver criticism in public meetings, and correct mistakes in ways that humiliate rather than educate. Every one of these actions creates lasting resentment and costs more than it gains.\n\nThe alternative is not softness or avoiding accountability. It is thoughtfulness. There is always a way to deliver difficult messages while preserving the other person's self-respect. Carnegie believed that finding that way was not just kind but required for anyone who wants to lead effectively."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "dd43925c-4b9e-43ad-8f8f-b1b72ee727b6",
+      "feedId": "how-to-win-friends-and-influence-people-correct-without-offending",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Five Tools for Leaders"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie presents the first five principles of his leadership section as an integrated toolkit for giving feedback that actually produces change. Used together, they create an environment where people can hear difficult truths without becoming defensive, resentful, or demoralized.\n\nThe sequence matters. Begin with honest praise so the other person's guard comes down. Call attention to the issue indirectly, using \"and\" instead of \"but\" so the feedback feels like building on strengths rather than exposing weaknesses. Confess your own similar mistakes first so the conversation feels like shared learning. Ask questions rather than giving orders so the other person retains ownership and dignity. Always let them save face.\n\nCarnegie saw these principles as the foundation of what he called leadership without resentment. The goal was not to avoid accountability. It was to deliver accountability in a way that inspired people to improve rather than retreat. Most managers, Carnegie observed, did the opposite: they were blunt, public, and focused on what went wrong rather than how to go forward.\n\nThe difference in results was dramatic. Teams led by leaders who followed these principles showed higher engagement, more creative problem-solving, and lower turnover. Teams led by leaders who relied on direct criticism and commands produced compliance at best and sabotage at worst.\n\nCarnegie was clear that these were not soft or permissive approaches. They required more thought, more preparation, and more emotional intelligence than simply telling someone what they did wrong. That extra effort was the difference between a boss people endured and a leader people followed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1f133955-9f94-40c3-a46c-7222a10af8c6",
+      "feedId": "how-to-win-friends-and-influence-people-inspire-greatness",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/9_202603272056.jpeg",
+          "title": "Inspire Greatness",
+          "subtitle": "The art of encouraging people to become their best selves"
+        }
+      ]
+    },
+    {
+      "_id": "50efa778-85df-4fa4-b953-768bc3ebfe45",
+      "feedId": "how-to-win-friends-and-influence-people-inspire-greatness",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Praise Every Improvement"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's sixth leadership principle asks you to do something that feels excessive: praise the slightest improvement and praise every improvement. Be, as he puts it, hearty in your approbation and lavish in your praise. Not measured praise. Not occasional recognition. Constant, enthusiastic acknowledgment of every step forward.\n\nThis principle draws on the same psychology that makes animal training work. Trainers do not wait until a dolphin performs a perfect triple flip before offering a reward. They reinforce each small approximation of the desired behavior. Step by step, encouragement by encouragement, the dolphin progresses from basic movements to spectacular performances.\n\nCarnegie argues that humans respond to the same principle but receive far less reinforcement. Most people experience a steady diet of criticism punctuated by rare, grudging praise. The result is exactly what you would expect: people perform just well enough to avoid criticism and never push toward their potential.\n\nWhen you flip the ratio, praising improvements generously while addressing problems gently, behavior changes dramatically. A child who is told \"your handwriting is getting so much better\" practices more eagerly than one who is told \"you still need to work on your handwriting.\" An employee who hears \"that presentation was a real improvement over last month's\" puts more effort into the next one than someone who hears nothing at all.\n\nCarnegie believed that encouragement was the single most underused tool in leadership. The cost of genuine praise is zero. The return on that investment is extraordinary. Most people will work harder for recognition than for money."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b72fdac7-7975-48c8-ade2-337b2dbeed37",
+      "feedId": "how-to-win-friends-and-influence-people-inspire-greatness",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Give a Dog a Good Name"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie titles one of his most powerful leadership principles with a folk saying: give a dog a good name. The full principle is this: give the other person a fine reputation to live up to. If you treat someone as if they already possess the quality you want to develop, they will make extraordinary efforts to prove you right.\n\nCarnegie illustrates this with examples from business and education. When a manager tells a new employee, \"I have heard you are exceptionally detail-oriented, and that is exactly why we hired you for this role,\" the employee internalizes that reputation and works to maintain it. When a teacher tells a struggling student, \"you have a real talent for creative thinking,\" the student begins to see themselves through that lens and behaves accordingly.\n\nThe principle is rooted in the psychology of self-fulfilling prophecy. People tend to behave in ways that are consistent with how they believe others see them. If you communicate that you see someone as capable, responsible, or talented, you create an expectation they feel compelled to meet. The reputation becomes a bridge to better behavior.\n\nCarnegie contrasts this with the common approach of pointing out deficiencies. Telling someone they are disorganized, lazy, or careless does not motivate improvement. It reinforces the identity you want to change. The person thinks \"I guess that is just who I am\" and behaves accordingly.\n\nCarnegie's approach flips the script: instead of labeling people with their worst qualities, label them with their best. Give them a name worth living up to, and more often than not, they will."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "029113e0-e7bb-4945-86df-e226e90859da",
+      "feedId": "how-to-win-friends-and-influence-people-inspire-greatness",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Self-Fulfilling Prophecy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's reputation principle connects to one of the most well-documented phenomena in psychology, though he wrote about it decades before formal research confirmed the effect. When you tell people they are capable of excellence, they tend to produce it. When you tell them they are likely to fail, they tend to fulfill that prediction too.\n\nThis pattern has been documented in classrooms, workplaces, and military settings. Teachers who were told their students were \"late bloomers\" with exceptional potential treated those students differently, with more warmth, more attention, and higher expectations. The students responded by actually performing better, even though the \"late bloomer\" designation had been assigned randomly.\n\nCarnegie understood this dynamic intuitively. He saw that expectations function as invisible instructions. When you express confidence in someone's ability, you are not just being polite. You are programming their self-concept. They begin to see themselves through the lens you provided, and their behavior adjusts to match.\n\nThe practical application is straightforward. When you want someone to be more responsible, do not criticize their irresponsibility. Tell them you have noticed their growing sense of responsibility and you appreciate it. When you want someone to be more creative, do not complain about their conventional thinking. Tell them you value their original perspective and want to see more of it.\n\nCarnegie frames this as one of the most generous things you can do for another person: see their potential before they see it themselves, and reflect it back to them clearly enough that they believe it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b4db1e65-907e-422d-b101-b423998c0868",
+      "feedId": "how-to-win-friends-and-influence-people-inspire-greatness",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Make the Fault Seem Easy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's eighth leadership principle is about encouragement as a motivational strategy: use encouragement, and make the fault seem easy to correct. If you tell someone that their problem is severe, deeply rooted, or exceptionally difficult to fix, you destroy almost every incentive they have to try. But if you treat the same problem as a minor issue that a little effort can resolve, you unlock motivation that was always there.\n\nCarnegie tells the story of a man who wanted to learn to dance but was terrified by his lack of coordination. His first instructor confirmed his fears, telling him he needed to forget everything and start over. His second instructor took a completely different approach, telling him his fundamentals were solid and he just needed to refine a few small things. Same dancer, same skill level, opposite framing. Under the second instructor, the man flourished.\n\nThe psychology is simple but powerful. People avoid tasks they believe will expose their inadequacy. When you frame a challenge as overwhelming, you trigger avoidance. When you frame the same challenge as manageable, you trigger approach. The difficulty of the actual task has not changed. The person's willingness to engage with it has changed entirely.\n\nCarnegie applies this beyond individual interactions to general leadership philosophy. The best leaders are not the ones who accurately assess the difficulty of every challenge. They are the ones who help people believe they can handle the challenges in front of them. Belief precedes performance. Carnegie argued that manufacturing that belief through encouragement is not dishonesty. It is the most important thing a leader does."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b5d49545-a51a-415a-92dc-c78b8fdb3397",
+      "feedId": "how-to-win-friends-and-influence-people-inspire-greatness",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Make Them Happy to Act"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's final principle in the book brings everything together: make the other person happy about doing the thing you suggest. This is the culmination of all thirty principles, the ultimate test of whether you have internalized Carnegie's philosophy or merely memorized his techniques.\n\nThe principle asks you to consider not just what you need someone to do but how they will feel while doing it. Most requests are framed around the requester's needs. The other person complies out of obligation, but they do not feel good about it.\n\nCarnegie suggests reframing every request so that the other person can see a personal benefit, a sense of pride, or a meaningful contribution in the act of complying. A manager does not just say they need someone to cover the late shift. They say they are entrusting that person with the late shift because they know they can handle the responsibility, and it will give them visibility with the senior team. The task is identical. The feeling is completely different.\n\nCarnegie tells stories of leaders who mastered this principle and transformed their organizations not by changing what they asked people to do but by changing how they asked. Napoleon gave medals. Roosevelt remembered names. Schwab wrote numbers on the floor. Each was finding a way to make people feel proud, excited, or challenged by the work they were already going to do.\n\nThe ultimate lesson of Carnegie's book is this: people will do almost anything willingly if you make them feel good about doing it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0d56744f-82be-4a1e-96f9-6a9e5c90f891",
+      "feedId": "how-to-win-friends-and-influence-people-inspire-greatness",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Complete Carnegie System"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Carnegie's thirty principles are not isolated tips. They form a coherent philosophy of human relations that builds from the ground up. The progression is deliberate: stop doing harm, build rapport, persuade effectively, lead with respect.\n\nPart one establishes the foundation: stop criticizing, start appreciating, and see the world through other people's eyes. These are the prerequisites for any healthy interaction. Part two builds on that foundation by teaching you how to make genuine connections: show interest, listen, remember names, make people feel important. Part three adds persuasion skills: avoid arguments, find agreement, see their perspective, dramatize your ideas. Part four crowns the system with leadership principles: give feedback without resentment, inspire through encouragement, create reputations worth living up to.\n\nEach part depends on the ones before it. You cannot persuade someone you have alienated through criticism. You cannot lead someone who does not feel valued. You cannot inspire someone whose dignity you have damaged. The system is sequential and cumulative.\n\nThe thread that runs through all thirty principles is a single conviction: the way to get what you want from other people is to give them what they want first. Appreciation before request. Listening before speaking. Understanding before persuading. Encouragement before correction. Carnegie believed this was not just good strategy but the right way to treat the human beings you share the world with.\n\nNearly ninety years after publication, Carnegie's core insight remains as powerful as ever: people do not change because you tell them to. They change because you make them want to."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c7b8291a-6800-49dc-be11-c063ac3b9702",
+      "feedId": "how-to-win-friends-and-influence-people-quiz",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/1_202603272056.jpeg",
+          "title": "The Man Behind the Method",
+          "subtitle": "How a Missouri farm boy taught the world to connect"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Where did Carnegie first begin teaching public speaking?",
+              "options": [
+                {
+                  "label": "YMCA in Harlem, New York",
+                  "correct": true
+                },
+                {
+                  "label": "Columbia University",
+                  "correct": false
+                },
+                {
+                  "label": "Carnegie Hall",
+                  "correct": false
+                },
+                {
+                  "label": "A community center in Missouri",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie persuaded the manager of the YMCA on 125th Street in Harlem to let him teach evening public speaking classes in 1912, offering to work for eighty percent of the net proceeds instead of a salary."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did Carnegie sell as a traveling salesman before teaching?",
+              "options": [
+                {
+                  "label": "Bacon, soap, and lard",
+                  "correct": true
+                },
+                {
+                  "label": "Books and magazines",
+                  "correct": false
+                },
+                {
+                  "label": "Insurance policies",
+                  "correct": false
+                },
+                {
+                  "label": "Typewriters",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie worked as a salesman for Armour and Company, selling bacon, soap, and lard across southern Nebraska, turning his territory into the top-performing region in the country."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Carnegie's original family name spelling?",
+              "options": [
+                {
+                  "label": "Carnagey",
+                  "correct": true
+                },
+                {
+                  "label": "Carnegy",
+                  "correct": false
+                },
+                {
+                  "label": "Carnagy",
+                  "correct": false
+                },
+                {
+                  "label": "Carnage",
+                  "correct": false
+                }
+              ],
+              "explanation": "Dale was born Dale Carnagey in 1888. He changed the spelling to Carnegie around 1922 after speaking at Carnegie Hall, aligning his name with the famous industrialist Andrew Carnegie."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Carnegie discover his signature teaching technique?",
+              "options": [
+                {
+                  "label": "He ran out of prepared material and improvised",
+                  "correct": true
+                },
+                {
+                  "label": "He read about it in a psychology textbook",
+                  "correct": false
+                },
+                {
+                  "label": "A student suggested it during class",
+                  "correct": false
+                },
+                {
+                  "label": "He copied it from another instructor",
+                  "correct": false
+                }
+              ],
+              "explanation": "One evening Carnegie ran out of lecture material and asked students to talk about something that made them angry. The technique of tapping into genuine emotion became the foundation of his entire method."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many copies has the book sold worldwide?",
+              "options": [
+                {
+                  "label": "Over 30 million",
+                  "correct": true
+                },
+                {
+                  "label": "Over 10 million",
+                  "correct": false
+                },
+                {
+                  "label": "Over 50 million",
+                  "correct": false
+                },
+                {
+                  "label": "Over 100 million",
+                  "correct": false
+                }
+              ],
+              "explanation": "How to Win Friends and Influence People has sold over thirty million copies worldwide and continues to sell more than two hundred and fifty thousand copies every year."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "870f6ff1-80fb-45db-9826-8df16b6e78a4",
+      "feedId": "how-to-win-friends-and-influence-people-quiz",
+      "order": 1,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/2_202603272056.jpeg",
+          "title": "The Three Fundamentals",
+          "subtitle": "Stop criticizing, start appreciating, and learn what people truly want"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who did Carnegie use as an example of someone who never blamed themselves despite violent crimes?",
+              "options": [
+                {
+                  "label": "Francis \"Two Gun\" Crowley",
+                  "correct": true
+                },
+                {
+                  "label": "Jesse James",
+                  "correct": false
+                },
+                {
+                  "label": "John Dillinger",
+                  "correct": false
+                },
+                {
+                  "label": "Bonnie Parker",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie opened his book with the story of \"Two Gun\" Crowley, who wrote during a police siege that he had \"a weary heart, but a kind one\" despite being a killer."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to Lincoln's critical letter to General Meade after Gettysburg?",
+              "options": [
+                {
+                  "label": "Lincoln wrote it but never sent it",
+                  "correct": true
+                },
+                {
+                  "label": "Lincoln sent it and Meade resigned",
+                  "correct": false
+                },
+                {
+                  "label": "Lincoln read it aloud to his cabinet",
+                  "correct": false
+                },
+                {
+                  "label": "Lincoln sent it and Meade apologized",
+                  "correct": false
+                }
+              ],
+              "explanation": "Lincoln was furious that Meade let Lee escape, but he never sent his critical letter. It was found among his papers after his death, still in its envelope."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who said \"the deepest principle in human nature is the craving to be appreciated\"?",
+              "options": [
+                {
+                  "label": "William James",
+                  "correct": true
+                },
+                {
+                  "label": "Sigmund Freud",
+                  "correct": false
+                },
+                {
+                  "label": "John Dewey",
+                  "correct": false
+                },
+                {
+                  "label": "Dale Carnegie",
+                  "correct": false
+                }
+              ],
+              "explanation": "William James, the father of American psychology, made this statement. Carnegie emphasized that James chose the word \"craving\" deliberately to convey urgency and persistence."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How does Carnegie distinguish appreciation from flattery?",
+              "options": [
+                {
+                  "label": "Appreciation is sincere and from the heart; flattery is insincere",
+                  "correct": true
+                },
+                {
+                  "label": "Appreciation is private; flattery is public",
+                  "correct": false
+                },
+                {
+                  "label": "Appreciation focuses on actions; flattery on appearance",
+                  "correct": false
+                },
+                {
+                  "label": "There is no meaningful difference",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie drew a sharp line: appreciation comes from the heart and requires genuinely observing something good, while flattery comes \"from the teeth out\" and is always detected as insincere."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Carnegie's third fundamental principle teach?",
+              "options": [
+                {
+                  "label": "Arouse in the other person an eager want",
+                  "correct": true
+                },
+                {
+                  "label": "Always agree with the other person",
+                  "correct": false
+                },
+                {
+                  "label": "Give detailed instructions for improvement",
+                  "correct": false
+                },
+                {
+                  "label": "Focus on facts rather than feelings",
+                  "correct": false
+                }
+              ],
+              "explanation": "The third principle is about framing requests in terms of what the other person wants, not what you want. The only way to influence people is to talk about what they want and show them how to get it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "df3cb4f3-130a-4da9-a6d4-16de25762909",
+      "feedId": "how-to-win-friends-and-influence-people-quiz",
+      "order": 2,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/3_202603272056.jpeg",
+          "title": "Genuine Interest",
+          "subtitle": "Why caring about others is the fastest path to being liked"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What animal does Carnegie say wins friends better than most humans?",
+              "options": [
+                {
+                  "label": "A dog",
+                  "correct": true
+                },
+                {
+                  "label": "A cat",
+                  "correct": false
+                },
+                {
+                  "label": "A dolphin",
+                  "correct": false
+                },
+                {
+                  "label": "A horse",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie opens his section on being liked by noting that dogs succeed at winning friends through genuine, unconditional excitement at seeing people, without any training in interpersonal skills."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How long does Carnegie say it takes to make friends by being genuinely interested in others?",
+              "options": [
+                {
+                  "label": "Two months",
+                  "correct": true
+                },
+                {
+                  "label": "Two weeks",
+                  "correct": false
+                },
+                {
+                  "label": "Six months",
+                  "correct": false
+                },
+                {
+                  "label": "One year",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie argues you can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who remembered thousands of names to rise to Postmaster General?",
+              "options": [
+                {
+                  "label": "Jim Farley",
+                  "correct": true
+                },
+                {
+                  "label": "Theodore Roosevelt",
+                  "correct": false
+                },
+                {
+                  "label": "Abraham Lincoln",
+                  "correct": false
+                },
+                {
+                  "label": "Charles Schwab",
+                  "correct": false
+                }
+              ],
+              "explanation": "Jim Farley traveled the country meeting people, recorded their names and details in notebooks, and later wrote personal letters addressing each person by name, helping FDR win the presidency."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What method did Napoleon use to remember names?",
+              "options": [
+                {
+                  "label": "Writing them down, studying them, then tearing up the paper",
+                  "correct": true
+                },
+                {
+                  "label": "Repeating names three times in conversation",
+                  "correct": false
+                },
+                {
+                  "label": "Associating names with mental images",
+                  "correct": false
+                },
+                {
+                  "label": "Having an assistant keep a name ledger",
+                  "correct": false
+                }
+              ],
+              "explanation": "Napoleon would write a name on paper, study it carefully to fix it in memory, then tear up the paper. The physical act of writing combined with focused attention made names stick."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Carnegie say a person's name represents to them?",
+              "options": [
+                {
+                  "label": "The sweetest and most important sound in any language",
+                  "correct": true
+                },
+                {
+                  "label": "A useful identifier and nothing more",
+                  "correct": false
+                },
+                {
+                  "label": "A connection to their family history",
+                  "correct": false
+                },
+                {
+                  "label": "Their professional reputation",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie argued that a name is not just a label but a marker of identity, individuality, and worth, making it the sweetest sound any person can hear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "434857d2-a13d-4d5c-9c03-091eb3971502",
+      "feedId": "how-to-win-friends-and-influence-people-quiz",
+      "order": 3,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/4_202603272056.jpeg",
+          "title": "The Art of Listening",
+          "subtitle": "The surprising power of shutting up and paying attention"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Carnegie become \"the most interesting conversationalist\" at a dinner party?",
+              "options": [
+                {
+                  "label": "By listening to a botanist talk all evening",
+                  "correct": true
+                },
+                {
+                  "label": "By telling captivating travel stories",
+                  "correct": false
+                },
+                {
+                  "label": "By sharing insights from his teaching career",
+                  "correct": false
+                },
+                {
+                  "label": "By asking provocative political questions",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie spent the evening asking questions and listening to a botanist describe exotic plants. Despite barely speaking, the botanist praised Carnegie as a brilliant conversationalist."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did Roosevelt do the night before meeting a visitor?",
+              "options": [
+                {
+                  "label": "Read about the subject his guest was interested in",
+                  "correct": true
+                },
+                {
+                  "label": "Prepared talking points about policy",
+                  "correct": false
+                },
+                {
+                  "label": "Rehearsed jokes and small talk",
+                  "correct": false
+                },
+                {
+                  "label": "Reviewed the visitor's career background",
+                  "correct": false
+                }
+              ],
+              "explanation": "Roosevelt stayed up late reading about whatever subject he knew his guest cared about most, so he could hold an informed conversation about their passion."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who said \"Talk to people about themselves and they will listen for hours\"?",
+              "options": [
+                {
+                  "label": "Benjamin Disraeli",
+                  "correct": true
+                },
+                {
+                  "label": "Abraham Lincoln",
+                  "correct": false
+                },
+                {
+                  "label": "Winston Churchill",
+                  "correct": false
+                },
+                {
+                  "label": "Andrew Carnegie",
+                  "correct": false
+                }
+              ],
+              "explanation": "Benjamin Disraeli, Prime Minister of Britain, offered this advice. Carnegie used it to illustrate his principle of making others feel important."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the \"royal road to a person's heart\" according to Carnegie?",
+              "options": [
+                {
+                  "label": "Talk about the things they treasure most",
+                  "correct": true
+                },
+                {
+                  "label": "Share your most impressive achievements",
+                  "correct": false
+                },
+                {
+                  "label": "Offer them practical advice",
+                  "correct": false
+                },
+                {
+                  "label": "Tell them they are right",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie wrote that Roosevelt knew the royal road to a person's heart is to talk about the things he or she treasures most, which is why he researched his visitors' interests."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Carnegie say people are most interested in?",
+              "options": [
+                {
+                  "label": "Themselves",
+                  "correct": true
+                },
+                {
+                  "label": "Current events",
+                  "correct": false
+                },
+                {
+                  "label": "Money and success",
+                  "correct": false
+                },
+                {
+                  "label": "Other people's problems",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie cites research showing the word \"I\" is used more than any other word in telephone conversations, illustrating that people are overwhelmingly focused on themselves."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e4661a07-2ca9-4434-9dbe-467e7e32bfbd",
+      "feedId": "how-to-win-friends-and-influence-people-quiz",
+      "order": 4,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/5_202603272056.jpeg",
+          "title": "Win Without Arguing",
+          "subtitle": "How to change minds without triggering defensiveness"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Carnegie say is the only way to get the best of an argument?",
+              "options": [
+                {
+                  "label": "Avoid it entirely",
+                  "correct": true
+                },
+                {
+                  "label": "Win it with facts and evidence",
+                  "correct": false
+                },
+                {
+                  "label": "Find a compromise",
+                  "correct": false
+                },
+                {
+                  "label": "Let the other person speak first",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie argues that even winning an argument means losing, because you humiliate the other person and create resentment. The only way to get the best of an argument is to avoid it."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What story does Carnegie tell about his dog Rex?",
+              "options": [
+                {
+                  "label": "He admitted violating leash laws before the officer could scold him",
+                  "correct": true
+                },
+                {
+                  "label": "He trained Rex using only positive reinforcement",
+                  "correct": false
+                },
+                {
+                  "label": "Rex won over a hostile neighbor by being friendly",
+                  "correct": false
+                },
+                {
+                  "label": "He used Rex as a metaphor for loyalty",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie was caught walking Rex off-leash a second time. Instead of waiting for the scolding, he confessed immediately and emphatically, which disarmed the officer completely."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What fable does Carnegie use to illustrate the power of friendliness?",
+              "options": [
+                {
+                  "label": "The sun and the wind competing to remove a man's coat",
+                  "correct": true
+                },
+                {
+                  "label": "The tortoise and the hare",
+                  "correct": false
+                },
+                {
+                  "label": "The boy who cried wolf",
+                  "correct": false
+                },
+                {
+                  "label": "The fox and the grapes",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie retells Aesop's fable: the wind tried to blow off a man's coat with force but he held tighter, while the sun's gentle warmth made him remove it willingly. Friendliness beats force."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What phrase does Carnegie say you should never use?",
+              "options": [
+                {
+                  "label": "\"You're wrong\"",
+                  "correct": true
+                },
+                {
+                  "label": "\"I disagree\"",
+                  "correct": false
+                },
+                {
+                  "label": "\"Let me think about that\"",
+                  "correct": false
+                },
+                {
+                  "label": "\"I understand your point\"",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie argues that telling someone \"you're wrong\" strikes at their intelligence, judgment, and self-respect, immediately putting them on the defensive rather than opening their mind."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why does Carnegie say criticism is futile?",
+              "options": [
+                {
+                  "label": "People become defensive and justify themselves instead of changing",
+                  "correct": true
+                },
+                {
+                  "label": "People simply forget criticism within a few days",
+                  "correct": false
+                },
+                {
+                  "label": "Criticism only works in written form",
+                  "correct": false
+                },
+                {
+                  "label": "Most people already know their mistakes",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie opens with examples of criminals who could not blame themselves, showing that if even killers justify their actions, criticism of ordinary people is even less likely to produce change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "23dc2ce5-47ed-4d81-9158-ec6c25f1f3a5",
+      "feedId": "how-to-win-friends-and-influence-people-quiz",
+      "order": 5,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/6_202603272056.jpeg",
+          "title": "The Socratic Secret",
+          "subtitle": "Ancient persuasion techniques that still work today"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the core of the Socratic method as Carnegie describes it?",
+              "options": [
+                {
+                  "label": "Getting the other person to say \"yes\" early and often",
+                  "correct": true
+                },
+                {
+                  "label": "Asking difficult questions to expose logical flaws",
+                  "correct": false
+                },
+                {
+                  "label": "Debating until one side concedes",
+                  "correct": false
+                },
+                {
+                  "label": "Presenting overwhelming evidence",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie describes how Socrates won debates by asking questions his opponents had to agree with, building a chain of \"yes\" answers that led to conclusions they would have otherwise rejected."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happens physiologically when someone says \"no\" according to Carnegie?",
+              "options": [
+                {
+                  "label": "Their body tenses and shifts into defensive withdrawal",
+                  "correct": true
+                },
+                {
+                  "label": "They become more alert and focused",
+                  "correct": false
+                },
+                {
+                  "label": "Their heart rate slows for evaluation",
+                  "correct": false
+                },
+                {
+                  "label": "No measurable physical change occurs",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie explains that saying \"no\" causes muscles to tense, attention to narrow, and the nervous system to shift into a withdrawal pattern that resists all subsequent information."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why does Carnegie call letting someone talk \"the safety valve\"?",
+              "options": [
+                {
+                  "label": "It releases emotional pressure that blocks productive conversation",
+                  "correct": true
+                },
+                {
+                  "label": "It keeps conversations safe from heated arguments",
+                  "correct": false
+                },
+                {
+                  "label": "It provides safety for shy speakers",
+                  "correct": false
+                },
+                {
+                  "label": "It controls information flow",
+                  "correct": false
+                }
+              ],
+              "explanation": "When someone has a complaint, they carry emotional pressure that must be released before productive conversation is possible. Letting them talk freely dissipates that pressure."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the benefit of letting someone feel an idea is theirs?",
+              "options": [
+                {
+                  "label": "They invest more energy in making it succeed",
+                  "correct": true
+                },
+                {
+                  "label": "They are less likely to question your authority",
+                  "correct": false
+                },
+                {
+                  "label": "They will give you credit later",
+                  "correct": false
+                },
+                {
+                  "label": "They stop asking challenging questions",
+                  "correct": false
+                }
+              ],
+              "explanation": "People have far more faith in ideas they discover themselves. When someone feels ownership of an idea, their ego becomes invested in its success, producing enthusiasm rather than mere compliance."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Carnegie say about people who try to persuade by talking too much?",
+              "options": [
+                {
+                  "label": "They typically fail because people prefer to feel heard",
+                  "correct": true
+                },
+                {
+                  "label": "They succeed through persistence",
+                  "correct": false
+                },
+                {
+                  "label": "They wear down resistance",
+                  "correct": false
+                },
+                {
+                  "label": "They demonstrate confidence that inspires trust",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie argues that most people try to win others over by talking too much, when the opposite approach, listening and letting the other person talk, is far more effective."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2b11b2a3-6d40-480a-aa00-61eaba49b5d3",
+      "feedId": "how-to-win-friends-and-influence-people-quiz",
+      "order": 6,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/7_202603272056.jpeg",
+          "title": "Appeal to the Heart",
+          "subtitle": "Reaching people through emotion, drama, and challenge"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Carnegie's \"magic phrase\" for stopping arguments?",
+              "options": [
+                {
+                  "label": "\"I don't blame you one iota for feeling as you do\"",
+                  "correct": true
+                },
+                {
+                  "label": "\"Let us find something we can agree on\"",
+                  "correct": false
+                },
+                {
+                  "label": "\"You raise an excellent point\"",
+                  "correct": false
+                },
+                {
+                  "label": "\"I may be wrong, let me share my view\"",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie calls this phrase magic because it validates the other person's emotional experience without conceding the argument, creating space for genuine communication."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What observation did J. Pierpont Morgan make about human motivation?",
+              "options": [
+                {
+                  "label": "People have two reasons for everything: one that sounds good, and the real one",
+                  "correct": true
+                },
+                {
+                  "label": "People are motivated primarily by fear of failure",
+                  "correct": false
+                },
+                {
+                  "label": "Money is the universal motivator",
+                  "correct": false
+                },
+                {
+                  "label": "People always act in rational self-interest",
+                  "correct": false
+                }
+              ],
+              "explanation": "Morgan observed that people always have a stated noble reason and an actual self-interested reason. Carnegie used this insight to teach appealing to the nobler motives."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Carnegie say you should present your ideas?",
+              "options": [
+                {
+                  "label": "Dramatize them to make them vivid and engaging",
+                  "correct": true
+                },
+                {
+                  "label": "Present them as simply and briefly as possible",
+                  "correct": false
+                },
+                {
+                  "label": "Support them with extensive data",
+                  "correct": false
+                },
+                {
+                  "label": "Frame them as questions",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie argued that simply stating a truth is not enough. The truth must be made vivid, interesting, and dramatic to move people to action. Facts inform, but drama motivates."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did Charles Schwab write on the steel mill floor?",
+              "options": [
+                {
+                  "label": "The number \"6\" representing the day shift's output",
+                  "correct": true
+                },
+                {
+                  "label": "His name as a reminder of authority",
+                  "correct": false
+                },
+                {
+                  "label": "The production target for the month",
+                  "correct": false
+                },
+                {
+                  "label": "A motivational quote about hard work",
+                  "correct": false
+                }
+              ],
+              "explanation": "Schwab wrote \"6\" on the floor, triggering competition between shifts. The night shift wrote \"7,\" and the day shift responded with \"10,\" transforming a failing mill through challenge."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Carnegie says people are not creatures of logic but creatures of what?",
+              "options": [
+                {
+                  "label": "Emotion, motivated by pride and vanity",
+                  "correct": true
+                },
+                {
+                  "label": "Habit, driven by routine",
+                  "correct": false
+                },
+                {
+                  "label": "Reason, guided by self-interest",
+                  "correct": false
+                },
+                {
+                  "label": "Instinct, shaped by survival",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie famously stated that people are creatures of emotion, bristling with prejudices and motivated by pride and vanity, which is why emotional approaches outperform logical ones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4edaf91c-c823-4d54-99f2-c92943fdd501",
+      "feedId": "how-to-win-friends-and-influence-people-quiz",
+      "order": 7,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/8_202603272056.jpeg",
+          "title": "Correct Without Offending",
+          "subtitle": "How leaders give feedback without creating resentment"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What analogy does Carnegie use for beginning with praise before criticism?",
+              "options": [
+                {
+                  "label": "A dentist using Novocain before drilling",
+                  "correct": true
+                },
+                {
+                  "label": "A chef adding sugar to balance spice",
+                  "correct": false
+                },
+                {
+                  "label": "A pilot checking instruments before takeoff",
+                  "correct": false
+                },
+                {
+                  "label": "A teacher grading easy questions first",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie compares praise-before-criticism to a dentist using Novocain: the patient still gets drilled, but the painkiller removes the sting, making the experience tolerable."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What word does Carnegie say you should replace \"but\" with?",
+              "options": [
+                {
+                  "label": "\"And\"",
+                  "correct": true
+                },
+                {
+                  "label": "\"However\"",
+                  "correct": false
+                },
+                {
+                  "label": "\"Although\"",
+                  "correct": false
+                },
+                {
+                  "label": "\"Yet\"",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie identified \"but\" as an eraser that negates preceding praise. Replacing it with \"and\" connects praise and feedback so the improvement feels like building on a strength."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What should you do before criticizing someone else's mistakes?",
+              "options": [
+                {
+                  "label": "Talk about your own similar mistakes first",
+                  "correct": true
+                },
+                {
+                  "label": "Document all the facts carefully",
+                  "correct": false
+                },
+                {
+                  "label": "Wait until they are calm",
+                  "correct": false
+                },
+                {
+                  "label": "Ask their permission to share feedback",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie argues it is much easier to hear criticism after the speaker admits their own similar faults, dismantling the power dynamic that makes feedback feel threatening."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why does Carnegie recommend asking questions instead of giving orders?",
+              "options": [
+                {
+                  "label": "It preserves the other person's pride and stimulates creativity",
+                  "correct": true
+                },
+                {
+                  "label": "It protects you from blame if things fail",
+                  "correct": false
+                },
+                {
+                  "label": "Questions are legally safer",
+                  "correct": false
+                },
+                {
+                  "label": "People understand questions faster",
+                  "correct": false
+                }
+              ],
+              "explanation": "Asking \"do you think you could...\" instead of commanding preserves dignity, gives ownership of the outcome, and stimulates creative thinking about how to accomplish the task."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/6b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Carnegie say about letting people save face?",
+              "options": [
+                {
+                  "label": "It costs nothing and means everything",
+                  "correct": true
+                },
+                {
+                  "label": "It should only be done for senior employees",
+                  "correct": false
+                },
+                {
+                  "label": "It is a sign of weak leadership",
+                  "correct": false
+                },
+                {
+                  "label": "It works personally but not professionally",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie considers saving face one of the most important principles in leadership, arguing that preserving dignity costs nothing but generates enormous loyalty and continued contribution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "50b0b720-78d2-4c4c-affb-677e7f2873fa",
+      "feedId": "how-to-win-friends-and-influence-people-quiz",
+      "order": 8,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/how-to-win-friends/9_202603272056.jpeg",
+          "title": "Inspire Greatness",
+          "subtitle": "The art of encouraging people to become their best selves"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How does Carnegie say you should praise improvement?",
+              "options": [
+                {
+                  "label": "Praise the slightest improvement and praise every improvement",
+                  "correct": true
+                },
+                {
+                  "label": "Save praise for significant milestones only",
+                  "correct": false
+                },
+                {
+                  "label": "Praise in private, correct in public",
+                  "correct": false
+                },
+                {
+                  "label": "Use metrics rather than general encouragement",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie advocates being \"hearty in approbation and lavish in praise,\" reinforcing every small step forward rather than waiting for major achievements."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does \"give a dog a good name\" mean in Carnegie's system?",
+              "options": [
+                {
+                  "label": "Give people a fine reputation to live up to",
+                  "correct": true
+                },
+                {
+                  "label": "Choose your words carefully when criticizing",
+                  "correct": false
+                },
+                {
+                  "label": "Treat people the way you want to be treated",
+                  "correct": false
+                },
+                {
+                  "label": "Start with small wins before big challenges",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie argues that when you treat someone as if they already have a positive quality, they make extraordinary efforts to prove you right, creating a self-fulfilling prophecy."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happens when you tell someone a fault is easy to correct?",
+              "options": [
+                {
+                  "label": "They become motivated because the challenge feels manageable",
+                  "correct": true
+                },
+                {
+                  "label": "They become suspicious of your assessment",
+                  "correct": false
+                },
+                {
+                  "label": "They lose respect for your judgment",
+                  "correct": false
+                },
+                {
+                  "label": "They complete it but resent being patronized",
+                  "correct": false
+                }
+              ],
+              "explanation": "When you frame a problem as manageable rather than overwhelming, people shift from avoidance to approach. The difficulty has not changed, but their willingness to engage has changed entirely."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Carnegie's final principle in the book?",
+              "options": [
+                {
+                  "label": "Make the other person happy about doing what you suggest",
+                  "correct": true
+                },
+                {
+                  "label": "Always have the last word",
+                  "correct": false
+                },
+                {
+                  "label": "Follow up every interaction with thanks",
+                  "correct": false
+                },
+                {
+                  "label": "Set clear expectations and hold them accountable",
+                  "correct": false
+                }
+              ],
+              "explanation": "The final principle brings everything together: influence is not about getting compliance but about making people feel proud, excited, or challenged by the thing you are asking them to do."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Carnegie say is the most underused tool in leadership?",
+              "options": [
+                {
+                  "label": "Encouragement and genuine praise",
+                  "correct": true
+                },
+                {
+                  "label": "Detailed performance metrics",
+                  "correct": false
+                },
+                {
+                  "label": "Regular one-on-one meetings",
+                  "correct": false
+                },
+                {
+                  "label": "Written communication",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carnegie believed encouragement is vastly underused. The cost of genuine praise is zero, yet most people experience a steady diet of criticism with only rare, grudging recognition."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

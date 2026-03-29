@@ -1,0 +1,3137 @@
+{
+  "forks": [
+    {
+      "_id": "the-48-laws-of-power",
+      "title": "The 48 Laws of Power",
+      "description": "Robert Greene distills 3,000 years of ruthless strategy into 48 laws, from Louis XIV to Bismarck.\n\nAll rights belong to the author and publisher. This is a summary/review, buy the book below from the author.",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/fork_202603272110.jpeg",
+      "feedIds": [
+        "the-48-laws-of-power-the-mask-you-wear",
+        "the-48-laws-of-power-smoke-and-mirrors",
+        "the-48-laws-of-power-the-web-of-alliances",
+        "the-48-laws-of-power-the-perfect-courtier",
+        "the-48-laws-of-power-the-emotional-chessboard",
+        "the-48-laws-of-power-patience-as-a-weapon",
+        "the-48-laws-of-power-strike-with-spectacle",
+        "the-48-laws-of-power-become-formless",
+        "the-48-laws-of-power-the-hidden-hand",
+        "the-48-laws-of-power-quiz"
+      ],
+      "actionLabel": "Buy the book",
+      "actionUrl": "https://www.amazon.com/s?k=The+48+Laws+of+Power+Robert+Greene"
+    }
+  ],
+  "feeds": [
+    {
+      "_id": "the-48-laws-of-power-the-mask-you-wear",
+      "title": "The Mask You Wear",
+      "description": "Reputation, restraint, and the power of first impressions",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/1_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-48-laws-of-power-smoke-and-mirrors",
+      "title": "Smoke and Mirrors",
+      "description": "Deception, misdirection, and selective honesty as weapons",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/2_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-48-laws-of-power-the-web-of-alliances",
+      "title": "The Web of Alliances",
+      "description": "Friends, enemies, and the architecture of dependency",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/3_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-48-laws-of-power-the-perfect-courtier",
+      "title": "The Perfect Courtier",
+      "description": "Social navigation, court politics, and knowing your audience",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/4_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-48-laws-of-power-the-emotional-chessboard",
+      "title": "The Emotional Chessboard",
+      "description": "Manipulating feelings, exploiting weaknesses, winning without arguing",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/5_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-48-laws-of-power-patience-as-a-weapon",
+      "title": "Patience as a Weapon",
+      "description": "Timing, absence, and the discipline of long-term planning",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/6_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-48-laws-of-power-strike-with-spectacle",
+      "title": "Strike with Spectacle",
+      "description": "Bold action, concentrated force, and the theater of power",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/7_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-48-laws-of-power-become-formless",
+      "title": "Become Formless",
+      "description": "Identity, reinvention, and the ultimate law of adaptability",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/8_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-48-laws-of-power-the-hidden-hand",
+      "title": "The Hidden Hand",
+      "description": "Behind-the-scenes mechanics that quietly control the game",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/9_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-48-laws-of-power-quiz",
+      "title": "Quiz",
+      "description": "Test your knowledge of The 48 Laws of Power",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/10_202603272110.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    }
+  ],
+  "cards": [
+    {
+      "_id": "9ae379b4-10cc-48e7-a635-bee330043298",
+      "feedId": "the-48-laws-of-power-the-mask-you-wear",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/1_202603272110.jpeg",
+          "title": "The Mask You Wear",
+          "subtitle": "Reputation, restraint, and the power of first impressions"
+        }
+      ]
+    },
+    {
+      "_id": "448915c6-a115-4bce-932a-a42c90b06b0c",
+      "feedId": "the-48-laws-of-power-the-mask-you-wear",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Never Outshine the Master"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In 1661, Nicolas Fouquet, finance minister to France's young King Louis XIV, made a fatal miscalculation. He threw the most lavish party France had ever seen at his chateau Vaux-le-Vicomte. The gardens were designed by Le Notre, the food prepared by the finest chefs, and fireworks lit the night sky. Every detail screamed wealth and sophistication beyond anything the king himself possessed.\n\nLouis XIV smiled through the evening. The next day, he had Fouquet arrested. The finance minister spent the remaining nineteen years of his life in prison. Louis then hired Fouquet's own architects, designers, and gardeners to build Versailles, the palace that would become the ultimate symbol of royal power.\n\nGreene contrasts this catastrophe with the brilliance of Galileo Galilei. When the astronomer discovered four moons orbiting Jupiter in 1610, he faced a choice about how to present his findings. Rather than claiming the glory for himself, he named the moons after the four Medici brothers, declaring that the cosmos itself honored their dynasty. His patron, Cosimo II de Medici, was so flattered that he became Galileo's protector for life.\n\nThe lesson is the book's opening principle: those above you need to feel secure in their superiority. Make your masters appear more brilliant than they are and you will attain the heights of power. Outshine them, and you risk everything."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 1: The very first law sets the tone for the entire book, a warning that power is dangerous and unforgiving."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "18faddcc-d9be-4300-bbe4-c9faf8e3da9f",
+      "feedId": "the-48-laws-of-power-the-mask-you-wear",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Always Say Less Than Necessary"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "When ministers approached Louis XIV with lengthy arguments and complex proposals, the king had a signature response that drove them to distraction. He would listen carefully, nod, and then utter just three words: \"I shall see.\" No elaboration, no commitment, no hint of which way he was leaning. The ministers would leave the room uncertain, anxious, and completely under his control.\n\nHenry Kissinger employed a similar tactic during his time as US Secretary of State. When aide Winston Lord submitted a policy report, Kissinger returned it unread with a single note asking if it was the best he could do. Lord rewrote it. Kissinger returned it again with the same note. After several rounds of increasingly desperate revisions, Lord finally insisted it was absolutely his best work. Kissinger replied calmly that he supposed he would read it this time.\n\nGreene argues that the impulse to say more than necessary is one of the most common mistakes in the game of power. When you try to impress people with words, the more you say, the more ordinary you appear and the less control you project. Powerful people understand that silence creates discomfort in others, and discomfort is a lever. Short answers, long pauses, and an air of mystery force others to fill the vacuum, often revealing more than they intended."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 4: Restraint in speech is not about being quiet, it is about making every word count."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "62946c1e-07de-4bfc-927e-3b8915b008fe",
+      "feedId": "the-48-laws-of-power-the-mask-you-wear",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Guard Your Reputation with Your Life"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that reputation is the cornerstone of power. Through reputation alone, you can intimidate rivals, win allies, and shape events before you even enter the room. A strong reputation precedes you like an advancing army, making actual conflict unnecessary. But a damaged reputation leaves you vulnerable to attack from every direction.\n\nThe importance of reputation explains why so many historical power players guarded it obsessively. Louis XIV constructed his entire court at Versailles around the careful management of image and perception. Every ceremony, every public appearance, every architectural decision was designed to reinforce his reputation as the Sun King, the center around which all of France orbited. He understood that the moment people stopped believing in his supreme authority, the machinery of his power would begin to crumble.\n\nBut Greene also teaches that reputation is a weapon that works both ways. When you cannot build your own reputation fast enough, one effective strategy is to undermine the reputation of your rivals. Raise doubts, highlight their inconsistencies, and let others do the speculating. In a world where perception often matters more than reality, the person who controls the narrative holds the power.\n\nThe flip side is equally critical: once your reputation slips, recovery becomes exponentially harder. Every subsequent action gets filtered through doubt. Greene counsels that you must be vigilant about even small threats to your reputation, because small cracks, left unaddressed, eventually bring down the whole structure."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 5: Reputation is not vanity, it is your most valuable strategic asset."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f7d2d5dd-0ae7-4d78-bf77-e3df850b9a61",
+      "feedId": "the-48-laws-of-power-the-mask-you-wear",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Court Attention at All Costs"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "P.T. Barnum, the great American showman, understood something profound about power: it is fundamentally tied to visibility. A person who is ignored, no matter how talented, is powerless. Barnum built his empire on the principle that any kind of attention, even negative attention, was better than being overlooked. He courted controversy, staged outrageous exhibitions, and turned every criticism into free publicity.\n\nGreene also highlights the remarkable transformation of Margaretha Zelle, a Dutch woman who reinvented herself as the exotic dancer Mata Hari. Born into an ordinary family in the Netherlands, she constructed an elaborate fictional identity as a mysterious Eastern temple dancer. She mesmerized audiences across Europe not through exceptional talent but through the aura of mystery and intrigue she carefully cultivated. Her audiences did not want the truth; they wanted the spectacle, and she gave it to them brilliantly.\n\nThe lesson extends beyond entertainment. In any field, obscurity is a form of death. Greene argues that you must stand out from the crowd, attract attention deliberately, and create an image that generates curiosity. This does not mean being reckless or foolish. It means understanding that in a world of competing interests, those who fail to capture attention will be overshadowed by those who do. Visibility is the first step toward power, and everything else follows from it."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 6: P.T. Barnum and Mata Hari prove that spectacle beats substance when no one is watching."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "785ddfc1-29bc-4c03-a7e8-8362e10a6d81",
+      "feedId": "the-48-laws-of-power-the-mask-you-wear",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Why Appearances Rule the World"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The opening laws of Greene's framework reveal a fundamental truth about power: it operates through perception, not just reality. Whether you are managing the expectations of a superior, controlling what you reveal through speech, guarding the narrative around your name, or commanding the room through sheer presence, the common thread is the deliberate construction of an image.\n\nThis is not about dishonesty in some simple sense. Greene draws from 3,000 years of history to show that every powerful figure, from ancient courtiers to modern executives, understood that the self you present to the world is a strategic choice. Louis XIV designed every aspect of his public persona, from his daily rituals to the architecture of Versailles, to project absolute control. Galileo framed a scientific discovery as a tribute to his patrons. Mata Hari transformed a Dutch upbringing into an exotic mystery.\n\nThe core insight is that most people are naive about the role of image in human affairs. They believe that talent and hard work alone will bring recognition. Greene argues the opposite: talent without visibility is wasted, honesty without strategy is self-destructive, and a reputation left unguarded will be defined by your enemies. The first step in any game of power is accepting that appearances matter, and then learning to shape them deliberately rather than leaving your image to chance."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Laws 1, 4, 5, and 6 form the foundation: master perception before you attempt to master people."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "324eccd8-0b2b-4b7c-8ab8-b668fb18fe2d",
+      "feedId": "the-48-laws-of-power-smoke-and-mirrors",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/2_202603272110.jpeg",
+          "title": "Smoke and Mirrors",
+          "subtitle": "Deception, misdirection, and selective honesty as weapons"
+        }
+      ]
+    },
+    {
+      "_id": "3cedff9a-dcb3-415f-bebc-99496f2ae8d1",
+      "feedId": "the-48-laws-of-power-smoke-and-mirrors",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Conceal Your Intentions"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Victor Lustig was one of the most audacious con artists in history, and his greatest trick was selling the Eiffel Tower. In 1925, Lustig posed as a government official and invited a group of scrap metal dealers to a secret meeting. He explained that the tower was too expensive to maintain and the government planned to sell it for scrap. He set the price at 250,000 francs and even asked for a bribe, a detail that made him seem even more like a genuine bureaucrat. The dealer who paid never reported the crime out of embarrassment, and Lustig reportedly attempted the same scam again.\n\nGreene also tells the story of Ninon de Lenclos, a 17th-century French courtesan who orchestrated the romantic pursuits of the Marquis de Sevigne. She instructed him to approach his target countess with studied nonchalance rather than obvious desire, and then engineered situations where the Marquis appeared at social events with beautiful women. The jealousy she manufactured worked perfectly, and the countess fell for the Marquis exactly as Lenclos had designed.\n\nThe principle behind both stories is the same: never reveal your true objective. If people know what you want, they can block you or raise the price. Instead, send signals that point in the wrong direction, use smokescreens and red herrings, and let others construct their own explanations for your behavior."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 3: The best deceptions are the ones where the target never realizes they were deceived."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "dfe25c62-9b56-4cf2-82ab-35175db8b9d2",
+      "feedId": "the-48-laws-of-power-smoke-and-mirrors",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Trojan Horse of Honesty"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Victor Lustig appears again in Greene's work with perhaps his most psychologically brilliant scheme. Lustig approached Al Capone, the most feared gangster in America, and asked to borrow $50,000 for a business deal that he promised would double the money. Capone agreed. Two months later, Lustig returned, not with $100,000 in profits, but with the original $50,000 untouched. He apologized, explaining that the deal had fallen through and he wanted to return every cent.\n\nCapone was so impressed by Lustig's apparent honesty that he handed him $5,000 as a gesture of goodwill. That $5,000 was what Lustig had been after all along. He had never intended to invest the money. The entire scheme was designed to create a moment of selective honesty that would disarm the most dangerous man in Chicago.\n\nGreene argues that a single honest gesture can cover the tracks of dozens of dishonest ones. People are so starved for sincerity that one genuine-seeming act of transparency makes them lower their guard completely. The key is timing: the moment of honesty must come when suspicion is highest, when it will have the maximum disarming effect. After that, you can proceed with your true agenda while your target remains convinced of your good character."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 12: Selective honesty is not about being honest, it is about choosing the perfect moment to appear honest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "15266d36-e1dd-4547-8fe5-dd78ceb2ec64",
+      "feedId": "the-48-laws-of-power-smoke-and-mirrors",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Pose as a Friend, Work as a Spy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Charles-Maurice de Talleyrand, the French diplomat who survived the Revolution, Napoleon, and the Bourbon Restoration, was a master of intelligence gathering disguised as casual conversation. His technique was deceptively simple: he would blurt out a supposed secret, some piece of seemingly sensitive information, and then carefully observe how his listeners reacted. Their expressions, their follow-up questions, and what they chose to share in return told him everything he needed to know.\n\nTalleyrand also used another variant of this technique. He would leak false intelligence, such as fabricated rumors about the Czar of Russia, and track how the information traveled through social circles. By following the path of his planted stories, he could map networks of influence, identify who trusted whom, and discover which alliances were genuine and which were purely performative.\n\nGreene argues that every social interaction is an opportunity for intelligence gathering, if you approach it correctly. The key is to give the impression of openness while actually revealing nothing of value yourself. Ask indirect questions. Share harmless information that encourages others to reciprocate with real secrets. Pay attention to body language and emotional reactions rather than just words. The person who understands this principle transforms every dinner party, every meeting, and every casual chat into a source of strategic advantage."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 14: Talleyrand survived four different French regimes by treating every conversation as an intelligence operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6c683013-cd9e-4cbb-bfd7-0ec5d0ed0ac3",
+      "feedId": "the-48-laws-of-power-smoke-and-mirrors",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Play a Sucker to Catch a Sucker"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that the desire to appear smarter than everyone else is one of the most dangerous impulses in the game of power. When you display your intelligence too openly, you make others feel inferior, and inferior people become resentful, suspicious, and determined to undermine you. The far more effective strategy is to make your targets feel that they are the clever ones.\n\nThis principle has been employed by some of history's most effective operators. Rather than dazzling opponents with brilliance, they deliberately downplayed their abilities. They asked naive questions. They appeared confused by simple concepts. They let others explain things at length, which not only flattered the explainer but revealed valuable information about their thinking and priorities.\n\nThe psychological mechanism is straightforward: people who believe they are smarter than you will lower their guard. They will speak freely, share plans openly, and fail to anticipate your moves. Meanwhile, you are gathering intelligence, identifying weaknesses, and positioning yourself for the moment when the supposed fool reveals himself as the strategist.\n\nGreene warns that this law requires genuine discipline. The ego wants recognition. The ego wants to be seen as the smartest person in the room. But the truly powerful understand that being underestimated is one of the greatest advantages you can possess, and they guard that advantage jealously."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 21: Intelligence displayed is a weapon pointed at yourself. Intelligence concealed is a weapon pointed at everyone else."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5041e4ac-5e4d-4379-a32e-8397cbbc05d5",
+      "feedId": "the-48-laws-of-power-smoke-and-mirrors",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Strategy of Misdirection"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The deception laws reveal something uncomfortable about human nature: people desperately want to believe what they see and hear. They want to trust surface appearances. They want to take others at face value. Greene argues that this desire for simplicity is the greatest vulnerability in the game of power, and the skilled player learns to exploit it.\n\nEvery law in this section works by exploiting the gap between appearance and reality. Concealing your intentions works because people assume that what you show them is what you are. Selective honesty works because one genuine gesture convinces people to stop looking for deception. Posing as a friend works because people project their own openness onto others. Playing dumb works because vanity blinds people to the possibility that someone less impressive might be outmaneuvering them.\n\nWhat makes these laws particularly powerful is that they compound. Once you have established a reputation for honesty through a well-timed gesture of transparency, future deceptions become easier. Once people have categorized you as harmless or unintelligent, they stop watching you closely. The initial investment in misdirection pays dividends for years.\n\nGreene is careful to note that these tools can also be used defensively. Understanding how deception works allows you to recognize when it is being used against you. The person who never considers that they might be manipulated is the easiest target of all."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Laws 3, 12, 14, and 21 all exploit the same weakness: people believe what they want to believe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8d84fe3b-626a-4def-8ca5-e2f546d35adf",
+      "feedId": "the-48-laws-of-power-the-web-of-alliances",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/3_202603272110.jpeg",
+          "title": "The Web of Alliances",
+          "subtitle": "Friends, enemies, and the architecture of dependency"
+        }
+      ]
+    },
+    {
+      "_id": "e195f027-3d9e-44e0-aa13-4ea3d300af8d",
+      "feedId": "the-48-laws-of-power-the-web-of-alliances",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Use Enemies, Distrust Friends"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene opens this section with a counterintuitive argument: your friends are more dangerous than your enemies. Friends, he explains, are prone to envy because they see your successes up close. They feel entitled to special treatment and grow resentful when it does not come. Worst of all, they were chosen for friendship, not for competence, which means they often lack the skills you actually need.\n\nEnemies, by contrast, have something to prove. A former rival who has been brought into your circle will work harder than anyone to demonstrate their loyalty and value. They know that trust was not given freely, so they earn it through results. History is filled with examples of leaders who elevated former opponents and received extraordinary service in return.\n\nGreene does not argue that you should have no friends at all. Rather, he warns against mixing friendship with the serious business of power. When you need something done, hire the most competent person available, even if they were once your adversary. When you need emotional support, turn to friends. But never confuse the two roles, because the friend you promote out of loyalty may become the enemy you created through incompetence.\n\nThe principle is unsentimental but practical: in the game of power, relationships should be evaluated by what they produce, not by how they feel."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 2: Friendship and power make uncomfortable bedfellows. Choose allies for competence, not comfort."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "cb610287-b664-4eb0-8c97-1eaad7ef8496",
+      "feedId": "the-48-laws-of-power-the-web-of-alliances",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Avoid the Unhappy and Unlucky"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene introduces one of his most provocative ideas with this law: misfortune is contagious. He argues that emotional states, attitudes, and patterns of failure spread through social proximity just as surely as any disease. Spend time with someone who is perpetually miserable, chronically unlucky, or trapped in cycles of self-destruction, and their patterns will begin to infect your own thinking and behavior.\n\nThis is not about cruelty or indifference. Greene frames it as a matter of psychological self-preservation. People who consistently attract disasters do so for reasons that run deep, reasons they often cannot see and certainly cannot easily fix. By associating with them, you do not save them from their patterns. Instead, you get pulled into the gravitational field of their dysfunction.\n\nThe reverse is equally true and far more useful. Associating with people who are fortunate, optimistic, and successful creates an upward pull. Their energy, their networks, and their habits of thought gradually reshape your own. Greene advises deliberately seeking out the company of people whose lives demonstrate the outcomes you desire.\n\nThe principle sounds harsh, but Greene argues it is simply realistic. You cannot change people who are determined to be unhappy. What you can do is choose your associations carefully and understand that the people around you shape your trajectory far more than most are willing to admit."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 10: Your associations are not just social choices, they are strategic decisions that shape your future."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9e5b934b-8cfa-4b22-a5d5-53c55e820137",
+      "feedId": "the-48-laws-of-power-the-web-of-alliances",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Keep People Dependent on You"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Cardinal Richelieu, the 17th-century French statesman, demonstrated this law with ruthless precision. As the Bishop of Lucon, he had no obvious path to the highest levels of power. So he attached himself to Marie de Medici, the queen mother, flattering her relentlessly and positioning himself as her most trusted advisor. Marie was so convinced of his loyalty that she persuaded the young king to appoint Richelieu as prime minister.\n\nOnce installed in power, Richelieu executed a stunning pivot. He gradually shifted his allegiance from Marie to the king, making himself indispensable to the monarch through a series of foreign policy maneuvers and military campaigns. He pushed France into wars that only he could manage, ensuring that the king could not function without him. Marie, who had created his career, found herself discarded.\n\nGreene argues that the ultimate form of power is not dominance through force but indispensability through function. If people need you more than you need them, you hold all the leverage. The key is to make your contribution seem unique and irreplaceable, so that removing you would create a vacuum no one else can fill.\n\nThis applies at every level, from the employee who controls a critical process to the advisor who holds institutional knowledge. The person everyone depends on is the last person anyone dares to challenge."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 11: Richelieu turned dependency into an art form, making himself the one person France could not afford to lose."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "57542da5-781b-4c5c-8696-ec2d3d5795b9",
+      "feedId": "the-48-laws-of-power-the-web-of-alliances",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Appeal to Self-Interest, Never to Mercy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that when you need something from someone, the worst possible approach is to remind them of your past favors or appeal to their sense of gratitude. Gratitude is a burden that most people resent carrying. The moment you remind someone that they owe you, you transform a potential ally into someone who wants to avoid you.\n\nThe far more effective approach is to find something in your proposal that serves their interests. Frame every request in terms of what the other person stands to gain. Show them how helping you advances their own goals, protects their position, or solves a problem they already have. When their self-interest aligns with your request, cooperation becomes effortless.\n\nThis principle explains why so many well-intentioned requests fail. The person asking focuses on their own needs, their own struggles, their own worthiness. But the person being asked is thinking about one thing: what is in it for me? If you cannot answer that question compellingly, no amount of emotional appeal will move them.\n\nGreene traces this insight through centuries of diplomatic history, where the most successful negotiators were never the ones who begged for sympathy. They were the ones who understood their counterpart's deepest desires and structured every offer to trigger those desires. Power flows to those who master the art of aligned incentives."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 13: People will move mountains for their own interests. They will barely lift a finger for yours."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2f85fc79-563d-41af-bd84-dbd04e7cb90b",
+      "feedId": "the-48-laws-of-power-the-web-of-alliances",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Isolation Is Dangerous"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene warns that the instinct to retreat behind walls when threatened is one of the most dangerous impulses in the game of power. It feels safe to withdraw, to cut off contact, to build a fortress of solitude. But isolation does exactly the opposite of what you intend. It cuts you off from the information you need to make good decisions, it makes you an easy target for rumors and conspiracies, and it signals to others that you are afraid.\n\nLouis XIV understood this principle better than anyone. His palace at Versailles was not just a monument to royal power, it was a surveillance apparatus. Every room connected to other rooms. Privacy was nearly impossible. Nobles who might have plotted against the king in their own estates were instead forced to live under his roof, where their every conversation and alliance could be monitored. By keeping potential enemies close, Louis maintained control.\n\nGreene argues that the modern equivalent is equally vital. Leaders who retreat into corner offices, who stop attending meetings, who communicate only through intermediaries, gradually lose touch with the real dynamics of their organizations. Information becomes filtered, allies drift away, and rivals fill the vacuum.\n\nThe counterintuitive truth is that vulnerability comes not from exposure but from isolation. The most powerful position is at the center of a web, connected to everything, aware of everything, and accessible to everyone who matters."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 18: Versailles was not just a palace, it was a trap designed to keep the entire French nobility under one watchful roof."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "feb247f4-2d12-4093-a268-244d6952622c",
+      "feedId": "the-48-laws-of-power-the-web-of-alliances",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Architecture of Connection"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The alliance laws paint a picture of power that is fundamentally relational. No one succeeds alone. Every powerful figure in Greene's historical examples achieved their position through a carefully constructed network of relationships, dependencies, and strategic associations.\n\nBut these relationships follow a logic that is very different from everyday friendship. In the world of power, every connection serves a purpose. Friends are chosen for what they can do, not just for how they make you feel. Former enemies are recruited because they have something to prove. Unhappy people are avoided because their negativity is contagious. Alliances are built on mutual self-interest, not on emotional bonds that may shift with circumstance.\n\nThe most important thread running through these laws is the concept of dependency. Richelieu made the king dependent on his counsel. Louis XIV made the nobility dependent on his favor. The principle scales from empires to offices: the person at the center of the most dependencies holds the most power.\n\nGreene's framework is unsentimental but not heartless. He is not arguing that genuine human connection is worthless. He is arguing that in the arena of power, relationships must be understood as structures, not just feelings. The person who builds the strongest structure, the most resilient web of alliances, dependencies, and strategic positioning, is the one who endures."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Laws 2, 10, 11, 13, and 18 reveal that power is not held by individuals but by networks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a02d013a-96d3-4071-a1a2-7f5fe526c7f9",
+      "feedId": "the-48-laws-of-power-the-perfect-courtier",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/4_202603272110.jpeg",
+          "title": "The Perfect Courtier",
+          "subtitle": "Social navigation, court politics, and knowing your audience"
+        }
+      ]
+    },
+    {
+      "_id": "a7d1eb3c-19d1-44f8-bd83-da2ba097278d",
+      "feedId": "the-48-laws-of-power-the-perfect-courtier",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Know Who You Are Dealing With"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene warns that not all people respond to the same tactics, and failing to read your audience correctly can be catastrophic. He identifies several dangerous types: the person who is deceptively mild but harbors deep resentment, the insecure figure who will interpret any slight as a mortal offense, the individual who is so suspicious that every friendly gesture registers as manipulation.\n\nThe stakes of misreading someone are severe. A joke that lands well with one personality can trigger a lifelong vendetta with another. A bold move that impresses a confident leader can terrify an insecure one into striking back with disproportionate force. The laws of power are not universal formulas, they are tools that must be calibrated to the specific person you are dealing with.\n\nGreene counsels extensive observation before action. Study how people react to small provocations. Watch how they treat those who cannot fight back. Pay attention to what they boast about, because boasting often reveals insecurity rather than confidence. The information you gather through patient observation is worth more than any clever strategy, because even the best strategy fails when applied to the wrong target.\n\nThis law serves as a crucial qualifier for every other law in the book: know your opponent before you choose your weapon. The most dangerous mistakes in the game of power come from assuming that everyone thinks the way you do."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 19: Every law in this book requires one prerequisite: understanding who sits across from you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4b10ce83-3603-4045-bb3b-a3d457f4cd85",
+      "feedId": "the-48-laws-of-power-the-perfect-courtier",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Play the Perfect Courtier"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Talleyrand appears yet again as Greene's supreme example of the courtier's art. The French diplomat served under the ancien regime, the Revolution, Napoleon's empire, and the restored monarchy. He survived not by picking the winning side but by making himself useful to every side while never fully committing to any of them. His ability to read the political winds and adjust his position accordingly was unmatched in European history.\n\nGreene describes the ideal courtier as someone who masters the art of indirect action. You never confront power directly. You never make demands openly. You never criticize in a way that makes the powerful feel challenged. Instead, you suggest. You flatter strategically. You plant ideas so skillfully that the powerful person believes they thought of it themselves.\n\nThe court, Greene argues, has not disappeared. It has simply changed form. Every office, every organization, every social group operates according to unwritten rules of hierarchy and deference. The people who rise are not always the most talented. They are the ones who understand the invisible dynamics of the room: who holds real power versus nominal authority, which alliances are stable versus fragile, and when to speak versus when to remain silent.\n\nMastering the courtier's art means accepting a difficult truth: in most environments, political skill matters as much as technical ability."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 24: Talleyrand served four regimes and outlasted them all by being indispensable to everyone and loyal to none."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e2afe3e1-06f1-4a25-89b8-63ed83df5a17",
+      "feedId": "the-48-laws-of-power-the-perfect-courtier",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Be Royal in Your Own Fashion"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Christopher Columbus was neither wealthy nor noble. He had no aristocratic lineage, no inherited title, no estate to his name. Yet he moved in the highest circles of European society and secured the personal sponsorship of Queen Isabella of Spain for one of history's most ambitious voyages. How did an ordinary man convince a queen to fund his dream?\n\nGreene argues that Columbus cultivated what can only be called a royal bearing. He carried himself with the calm confidence of someone destined for greatness. He spoke of his plans not as speculative ventures but as inevitable achievements. He dressed well, chose his words carefully, and never betrayed any doubt about his worthiness. People who encountered him simply assumed he belonged among the powerful, because he acted as though he did.\n\nThe psychological principle is remarkably consistent across cultures and centuries. People treat you according to the image you project. If you carry yourself as someone of importance, others will unconsciously defer. If you act humble and undeserving, others will take you at your word and treat you accordingly.\n\nGreene is not advocating empty arrogance. The key is genuine self-assurance, a deep internal conviction that you belong at the table. This conviction radiates outward in ways that are difficult to fake and impossible to ignore. The world accepts the valuation you place on yourself."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 34: Columbus had no title and no fortune, but he carried himself like a king and was treated as one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ed200387-80fc-4656-acc5-87f0253aacce",
+      "feedId": "the-48-laws-of-power-the-perfect-courtier",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Think Freely, Behave Conventionally"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene addresses a tension that every independent thinker faces: the desire to express unconventional ideas in a world that punishes nonconformity. His solution is pragmatic rather than principled. Think whatever you want in private, but in public, behave in ways that match social expectations. The moment you broadcast your unorthodox views, you become a target.\n\nThis law draws from countless historical examples of people who were punished not for their beliefs but for their insistence on expressing those beliefs openly. Philosophers have been executed, scientists persecuted, and political dissidents destroyed, not because their ideas were wrong, but because they failed to understand the danger of appearing different.\n\nGreene argues that the truly powerful share their real opinions only with a trusted inner circle. In public, they mirror the values and language of the people around them. This is not cowardice; it is strategic intelligence. By blending in on the surface, you preserve your freedom to act independently below the surface.\n\nThe modern application is straightforward: in professional settings, radical ideas are best introduced gradually and through other people. Challenge the consensus too directly and you become the enemy. Introduce the same idea as a subtle suggestion, attributed to no one in particular, and watch it take root without triggering the immune response that open dissent provokes."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 38: Your most dangerous ideas should be your most carefully hidden ones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "50e9f60c-b733-4dd1-9ee8-05bb08a6cd47",
+      "feedId": "the-48-laws-of-power-the-perfect-courtier",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Never Appear Too Perfect"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene warns that displaying perfection, whether in talent, appearance, or success, is one of the surest ways to attract envy and resentment. People can tolerate excellence in others, but only up to a point. Beyond that threshold, admiration curdles into hostility. The person who seems to have everything becomes a magnet for the collective frustrations of everyone who feels they have too little.\n\nThe solution is not to actually be less excellent but to display strategic imperfections. Share your struggles occasionally. Admit to a minor weakness. Attribute some of your success to luck. These small concessions humanize you in the eyes of others and defuse the envy that would otherwise build into something dangerous.\n\nGreene points out that many of history's most successful figures understood this instinctively. They would downplay certain achievements, exaggerate their difficulties, or make self-deprecating remarks that put others at ease. The goal was never false modesty but rather a calculated recognition that other people's emotions are forces to be managed.\n\nThis law connects back to the very first law of the book: never outshine the master. But it extends the principle to peers and subordinates as well. Everyone around you has an ego, and the person who makes others feel inadequate by comparison is quietly creating enemies with every success they flaunt."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 46: Perfection makes you a target. Strategic imperfection makes you human."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "81da7f06-68ac-441a-809e-1187e016df79",
+      "feedId": "the-48-laws-of-power-the-perfect-courtier",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Mastering the Modern Court"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene's courtier laws are built on a single, uncomfortable premise: the courts of kings and queens never actually disappeared. They evolved. The modern office, the social media landscape, the networking event, the industry conference, these are all courts in disguise, governed by unwritten rules of hierarchy, deference, and social positioning.\n\nThe people who struggle in these environments are usually those who believe that talent alone should determine success. They refuse to engage in what they see as politics. They speak their minds too freely. They display their abilities without regard for how it makes others feel. And then they wonder why less talented but more politically savvy colleagues advance past them.\n\nGreene's courtier laws offer a practical framework for navigating these invisible dynamics. Know your audience before you act. Learn to suggest rather than demand. Project confidence without triggering envy. Express your real opinions only when it is safe to do so. And above all, understand that every interaction is a performance on a stage where the audience is always judging.\n\nThis does not mean becoming a hollow, manipulative shell. It means developing the social intelligence to read a room, the discipline to control your impulses, and the wisdom to understand that how you deliver a message often matters more than what the message contains."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Laws 19, 24, 34, 38, and 46: the modern court rewards political skill as much as raw talent."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "13c87359-8bd9-4903-8a86-75e0dabacf8d",
+      "feedId": "the-48-laws-of-power-the-emotional-chessboard",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/5_202603272110.jpeg",
+          "title": "The Emotional Chessboard",
+          "subtitle": "Manipulating feelings, exploiting weaknesses, winning without arguing"
+        }
+      ]
+    },
+    {
+      "_id": "f501b9c7-a492-4fff-9d01-688dbb376db2",
+      "feedId": "the-48-laws-of-power-the-emotional-chessboard",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Win Through Actions, Never Argument"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "When the mayor of Florence told Michelangelo that the nose on his statue of David was too large, the sculptor faced a choice that every powerful person eventually encounters. He could argue his case, explaining the principles of proportion and perspective. He could defer to authority and actually change the nose. Or he could do what Michelangelo actually did, which was something far more elegant.\n\nMichelangelo invited the mayor up the scaffolding to observe the adjustment himself. He picked up his chisel and pretended to work on the nose, carefully palming a handful of marble dust which he allowed to trickle down as though he were actually carving. After a few moments, he stepped back and asked the mayor to evaluate the result. The mayor declared that the nose was now perfect. Michelangelo had changed nothing at all.\n\nGreene argues that this story captures one of the most important principles in the game of power: arguments are almost always counterproductive. Even when you win a debate on logical grounds, the person you defeated feels humiliated and resentful. They may concede the point publicly while privately plotting their revenge. Words are cheap, easily forgotten, and easily resented.\n\nActions, on the other hand, speak in a language that bypasses the ego. When you demonstrate your point rather than argue it, there is nothing for the other person to push back against."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 9: Michelangelo won the argument without ever making one, and the mayor left feeling he had been right all along."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8838cac0-61af-498c-ad18-e7883207cb07",
+      "feedId": "the-48-laws-of-power-the-emotional-chessboard",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Cultivate an Air of Unpredictability"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Haile Selassie, the Emperor of Ethiopia, demonstrated the power of unpredictability when he faced a rebellion from the warlord Gugsa. Rather than responding in any expected fashion, Selassie executed a series of moves that left his enemy completely disoriented. He secured the support of the Ethiopian Church, bribed several of Gugsa's key allies, had planes drop leaflets over the rebel army to demoralize the troops, and then baited Gugsa into attacking prematurely while his forces were still scattered and weakened.\n\nGugsa never had a chance to mount an effective defense because he could never anticipate what Selassie would do next. Each move came from an unexpected direction, and by the time the warlord realized the full scope of the emperor's strategy, his army was already collapsing.\n\nGreene argues that predictability is one of the greatest weaknesses in the game of power. When people can anticipate your moves, they can prepare countermeasures. When you follow patterns, others learn to exploit those patterns. But when you are genuinely unpredictable, you create a constant state of anxiety in those around you. They waste energy trying to guess your next move instead of executing their own plans.\n\nThe key is strategic unpredictability, not random chaos. Every surprising action should serve a purpose. The goal is to keep others off balance while you maintain your own internal clarity."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 17: Selassie dismantled a rebellion before it began by making every move impossible to anticipate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "edcf618f-8366-49c0-84aa-9c547728772f",
+      "feedId": "the-48-laws-of-power-the-emotional-chessboard",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Play to People's Fantasies"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that reality is often too harsh and complicated for most people to accept. They crave simple narratives, grand promises, and visions of transformation that feel too good to be true. The person who can provide these fantasies holds enormous power, because the audience will cling to the dream even when evidence contradicts it.\n\nThis principle operates everywhere, from politics to business to personal relationships. Leaders who promise a golden age attract followers regardless of whether their plans are realistic. Products that promise effortless transformation outsell honest alternatives that require hard work. People do not want to hear about incremental improvement, they want to believe in miracles.\n\nGreene traces this insight through religious movements, political revolutions, and commercial empires. In every case, the figure who captured the public imagination was not the one with the best ideas but the one who told the most compelling story. The fantasy does not need to be a lie, but it does need to be bigger, more dramatic, and more emotionally resonant than anything the unvarnished truth could provide.\n\nThe defensive application is equally important: when someone offers you a vision that seems impossibly wonderful, pause. Understand that your desire to believe is being exploited. The more desperately you want something to be true, the more vulnerable you are to the person offering it."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 32: The person who sells the dream controls the dreamer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7808d5f7-2b49-4f1d-9867-769cd228f042",
+      "feedId": "the-48-laws-of-power-the-emotional-chessboard",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Discover Each Person's Thumbscrew"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Catherine de Medici, the queen regent of France in the 1500s, controlled ambitious men who threatened her power through one of history's most ingenious intelligence operations. She created what became known as the \"flying squadron,\" a group of attractive and skilled women who were deployed to seduce powerful men at court. But seduction was merely the mechanism. The real purpose was intelligence gathering.\n\nThese women reported back to Catherine with detailed accounts of each man's private conversations, his fears, his desires, and his secret plans. Through this network, Catherine identified the specific emotional weakness, the thumbscrew, of every potential threat in her court. One man might be controlled through his vanity. Another through his paranoia. A third through his financial anxieties. Armed with this knowledge, Catherine could manipulate each person individually.\n\nGreene argues that everyone has a thumbscrew, some emotional vulnerability that, once discovered, gives you leverage. For some people it is insecurity about their intelligence. For others it is fear of abandonment, or an uncontrollable need for approval, or a secret shame they would do anything to keep hidden.\n\nThe skill is not in the manipulation itself but in the patient observation required to find the vulnerability. Most people broadcast their weaknesses through their behavior, their overreactions, their boasts, and their avoidance patterns. The attentive observer simply has to watch and listen."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 33: Catherine de Medici turned court seduction into a precision intelligence operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0632b9f0-4c8f-459e-b643-c8b8692c02a8",
+      "feedId": "the-48-laws-of-power-the-emotional-chessboard",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Stir Up Waters to Catch Fish"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In 1809, Talleyrand pulled off one of the most audacious provocations in diplomatic history. He had been secretly working against Napoleon for years, convinced that the emperor's reckless military campaigns were destroying France. But he needed the other ministers and power brokers of the court to see what he already knew: that Napoleon was becoming dangerously unstable.\n\nSo Talleyrand deliberately provoked him. During a council meeting, he made a series of carefully calibrated remarks designed to push Napoleon past the breaking point. The emperor erupted into a spectacular public rage, shouting insults and threats in front of his stunned ministers. Talleyrand stood calmly throughout the entire outburst, his composure a stark contrast to Napoleon's fury.\n\nThe effect was exactly what Talleyrand intended. The ministers who witnessed the scene began to question whether they could trust their emperor's judgment. Napoleon had revealed his instability to the very people whose loyalty he needed most. Talleyrand had not argued against Napoleon, had not conspired in the shadows, had not made any overt move. He had simply created the conditions for Napoleon to destroy himself.\n\nGreene argues that anger makes people predictable and careless. If you can provoke your opponent into an emotional reaction while maintaining your own calm, you gain an enormous advantage. The angry person reveals their true feelings, makes strategic mistakes, and alienates potential allies."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 39: Talleyrand's calm smile during Napoleon's rage was the most devastating weapon in the room."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "741b875e-fdff-45c8-af21-1611b1af928b",
+      "feedId": "the-48-laws-of-power-the-emotional-chessboard",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Disarm and Infuriate with the Mirror"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene describes the mirror effect as one of the most psychologically powerful tools in the game of power. The principle is simple: reflect your opponent's behavior back at them. When someone acts aggressively, mirror their aggression. When they use deception, use their own tactics against them. When they boast, reflect their claims back in a way that exposes the emptiness behind them.\n\nThe mirror works because people rarely see themselves clearly. They have a carefully constructed self-image that reality does not always match. When you hold up a mirror to their behavior, forcing them to confront what they actually look like from the outside, the dissonance is deeply unsettling. The aggressive person does not enjoy seeing their own aggression reflected back. The manipulative person is disturbed when their own techniques are used against them.\n\nGreene identifies several variations of the mirror effect. You can mirror someone's personality to build rapport and trust, making them feel understood. You can mirror their strategy to neutralize it. You can mirror their public persona to expose the gap between image and reality. Each variation achieves a different tactical objective.\n\nThe mirror also serves as a psychological shield. When you simply reflect what comes at you, you reveal nothing of yourself. Your opponent's attacks bounce back without ever penetrating, while your own intentions remain completely hidden behind the reflective surface."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 44: The mirror reveals others while concealing you, making it the perfect defensive weapon."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "37aa8066-bb62-4f2b-b7ab-2b6b7a78b8b8",
+      "feedId": "the-48-laws-of-power-patience-as-a-weapon",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/6_202603272110.jpeg",
+          "title": "Patience as a Weapon",
+          "subtitle": "Timing, absence, and the discipline of long-term planning"
+        }
+      ]
+    },
+    {
+      "_id": "6a84554f-6245-41a8-83be-948cca645c9f",
+      "feedId": "the-48-laws-of-power-patience-as-a-weapon",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Make Other People Come to You"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Talleyrand's manipulation of Napoleon's return from exile on Elba is one of the most sophisticated examples of baiting in political history. By 1814, Talleyrand had been working against Napoleon for years, believing the emperor's military ambitions would eventually destroy France. When Napoleon was exiled to Elba, Talleyrand did not celebrate. Instead, he quietly helped create conditions that would tempt Napoleon to escape and return to France.\n\nTalleyrand understood something crucial: Napoleon needed to be defeated so thoroughly that no future restoration would be possible. A comfortable exile left the door open for a comeback that could succeed. But if Napoleon could be lured back prematurely, onto ground that Talleyrand had prepared, the resulting defeat would be permanent. Waterloo was not an accident. It was a trap that Napoleon walked into because he could not resist the bait.\n\nGreene argues that the aggressive approach, charging forward to confront your opponents, almost always puts you at a disadvantage. You are on their terrain, reacting to their conditions, spending your energy while they conserve theirs. The superior strategy is to make your opponents come to you. Create something they want, something they cannot resist, and let their own desire pull them into a position of your choosing.\n\nWhen you control the location and timing of the confrontation, you control the outcome."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 8: Talleyrand baited Napoleon into escaping Elba, turning the emperor's ambition into the instrument of his own destruction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "79c98607-56da-4118-be59-9ebbeed0683e",
+      "feedId": "the-48-laws-of-power-patience-as-a-weapon",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Use Absence to Increase Respect"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene observes that the law of scarcity applies to people just as powerfully as it applies to commodities. When you are always available, always present, always eager to engage, your value decreases. People take you for granted. Your opinions carry less weight. Your presence becomes background noise rather than an event.\n\nBut when you withdraw strategically, when you become scarce at precisely the right moment, something remarkable happens. People begin to talk about you. They wonder where you are and what you are doing. Your absence creates a vacuum that others fill with speculation, often inflating your importance far beyond what your presence could achieve.\n\nGreene warns that this law requires careful calibration. Withdraw too early in a relationship, before you have established your value, and people will simply forget about you. The key is to first make yourself essential, to build up so much presence and value that your absence creates a genuine void. Only then does withdrawal become a power move rather than a disappearance.\n\nThe principle extends beyond personal relationships to creative and professional work. Artists who release work constantly dilute their impact. Leaders who are always available lose their mystique. The power of absence lies in the contrast with presence, and that contrast can only be felt when your presence has been valued first."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 16: Scarcity creates value. The person who is always available is never truly missed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d2a28819-bdf7-4a54-9910-5387a68c2fd0",
+      "feedId": "the-48-laws-of-power-patience-as-a-weapon",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Plan All the Way to the End"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Otto von Bismarck, the Prussian statesman who unified Germany, is Greene's supreme example of long-range strategic planning. Bismarck wanted war with Austria, but in the 1850s, Prussia's army was not yet strong enough to guarantee victory. Rather than acting on impulse, Bismarck advocated for peace, a position that earned him the trust of the pro-peace Prussian king.\n\nThis trust became the key to everything that followed. The king promoted Bismarck to minister-president, giving him the authority to reshape Prussia's military and diplomatic position over the next decade. When Bismarck finally launched his war against Austria in 1866, he did so from a position of overwhelming strength. The war lasted just seven weeks.\n\nBut what happened next is the part that separates Bismarck from ordinary strategists. After his stunning victory, everyone expected him to press his advantage and conquer more territory. He refused. His goal had never been territorial expansion for its own sake. It was a strong, unified Germany under Prussian leadership. He had planned all the way to the end, and the end was not conquest but consolidation.\n\nGreene argues that most people plan only as far as the next immediate goal. They rush toward short-term victories without considering where those victories will leave them. Bismarck's genius was thinking ten moves ahead, understanding not just how to start a conflict but how to end one on exactly the terms he wanted."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 29: Bismarck waited a decade for the right moment, won in seven weeks, and stopped exactly where he planned."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a37d0748-808e-4249-b508-a667826ac834",
+      "feedId": "the-48-laws-of-power-patience-as-a-weapon",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Master the Art of Timing"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that timing is not just about patience, although patience is essential. It is about developing an intuitive sense for the three different kinds of time that govern the game of power.\n\nThe first is long time: the broad arc of years and decades over which grand strategies unfold. Bismarck operated in long time, spending years positioning Prussia before striking at exactly the right moment. The second is forced time: the technique of making opponents feel rushed, pressured, and panicked while you maintain your own calm deliberation. Creating artificial deadlines and manufacturing urgency can force mistakes from people who would otherwise act wisely. The third is end time: the moment when everything must come together, when all your preparation converges on a single decisive action.\n\nMost people, Greene observes, are terrible at all three. They are impatient with long time, rushing to act before conditions are favorable. They are vulnerable to forced time, making panicked decisions when they feel pressured. And they misjudge end time, either acting too soon or waiting too long.\n\nThe master of timing understands that the same action can be brilliant or catastrophic depending entirely on when it is executed. A proposal made too early meets resistance. The same proposal made at the right moment meets no resistance at all, because the conditions have been carefully prepared in advance."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 35: The right action at the wrong time is the wrong action."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7343e3d2-ce47-404a-84ad-388b871408ae",
+      "feedId": "the-48-laws-of-power-patience-as-a-weapon",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "In Victory, Learn When to Stop"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene contrasts Bismarck's disciplined restraint with the spectacular failure of Napoleon III. Where Bismarck stopped at exactly the point he had planned, Napoleon III lived in a fantasy of endless glory. He launched military campaigns without clear objectives, entered wars without exit strategies, and kept pushing forward long after the rational moment to consolidate his gains had passed.\n\nThe result was catastrophic. In 1870, Napoleon III stumbled into war with the very Prussia that Bismarck had spent decades strengthening. The French emperor was captured at the Battle of Sedan in one of the most humiliating military defeats in French history. His empire collapsed. He died in exile.\n\nGreene argues that the intoxication of success is one of the most dangerous states a powerful person can experience. Victory creates a feeling of invincibility that clouds judgment. Each success makes the next risk seem smaller and the potential reward seem larger. This escalating overconfidence eventually leads to the move that destroys everything you have built.\n\nThe discipline to stop at the height of your power goes against every natural instinct. Your ego wants more. Your supporters expect more. The momentum of success pulls you forward. But Greene insists that the greatest display of power is the ability to recognize the perfect stopping point and have the willpower to actually stop there."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 47: Napoleon III's insatiable appetite for glory led him straight into Bismarck's carefully prepared trap."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5fb586f0-b673-4619-860d-dbcf3857cc3d",
+      "feedId": "the-48-laws-of-power-patience-as-a-weapon",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Long Game Always Wins"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The patience laws form what may be the most challenging section of Greene's framework, because they demand the one thing that is hardest to maintain in the heat of competition: restraint. Every impulse pushes toward immediate action. Every ego whispers that waiting is weakness. Every opportunity screams that it must be seized right now or lost forever.\n\nGreene's historical examples demolish this instinct. Talleyrand waited years for the right moment to neutralize Napoleon. Bismarck waited a decade for the right conditions to launch his war. The masters of timing understood that the person who acts first rarely acts best, because impatience leads to mistakes that patient observers can exploit.\n\nThe common thread through Laws 8, 16, 29, 35, and 47 is that power rewards those who can control their own internal clock. The ability to slow down when everyone around you is speeding up, to withdraw when everyone expects you to advance, to stop when everyone is urging you forward, this is the discipline that separates strategic thinkers from reactive ones.\n\nGreene is not arguing for passivity. Strategic patience is not the same as doing nothing. It is the art of preparing while others rush, observing while others act blindly, and striking at the precise moment when the maximum impact can be achieved with the minimum effort."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Laws 8, 16, 29, 35, and 47: patience is not inaction, it is the most aggressive form of preparation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "25fa3011-2650-4afa-a2fe-b180868416ff",
+      "feedId": "the-48-laws-of-power-strike-with-spectacle",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/7_202603272110.jpeg",
+          "title": "Strike with Spectacle",
+          "subtitle": "Bold action, concentrated force, and the theater of power"
+        }
+      ]
+    },
+    {
+      "_id": "542bf677-15f2-41fa-b568-49ad66635a36",
+      "feedId": "the-48-laws-of-power-strike-with-spectacle",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Crush Your Enemy Totally"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene's most aggressive law leaves no room for half measures. When you defeat an opponent but leave them with resources, allies, or motivation to recover, you have not won. You have created a wounded enemy who will spend every waking moment plotting their return. The merciful victor, Greene argues, often becomes the next victim.\n\nHistory is filled with examples of leaders who showed clemency to defeated rivals and paid the price. A pardoned exile who returns with a larger army. A forgiven subordinate who uses their second chance to build a coalition against you. A spared competitor who learns from their mistakes and comes back stronger. In each case, the original victor's kindness was repaid with renewed aggression.\n\nGreene draws from military history, political intrigue, and business competition to make the same point repeatedly: leaving embers smoldering is an invitation for the fire to reignite. When you decide to act against an opponent, act completely. Eliminate their ability to fight back. Remove their access to allies and resources. Make the defeat so decisive that the possibility of revenge becomes zero.\n\nThis is one of the book's most controversial laws, and Greene acknowledges that it runs counter to every moral instinct about mercy and proportionality. But he argues that in the ruthless game of power, mercy toward a dangerous enemy is cruelty toward yourself."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 15: One of the book's most ruthless principles: a wounded enemy is more dangerous than a dead one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9fc9e290-f5a4-4262-994c-ddc39aa8b9b3",
+      "feedId": "the-48-laws-of-power-strike-with-spectacle",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Concentrate Your Forces"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that one of the most common mistakes in the pursuit of power is spreading your resources too thin. Whether you are talking about time, energy, money, or attention, dividing your forces across too many fronts guarantees that you will be strong nowhere and vulnerable everywhere.\n\nThe principle draws directly from military strategy, particularly the work of Carl von Clausewitz, the Prussian war theorist who is one of the book's key intellectual influences alongside Machiavelli and Sun Tzu. Clausewitz demonstrated that concentrated force applied at a single decisive point almost always defeats a larger force that has been dispersed across multiple positions.\n\nGreene extends this principle beyond the battlefield into every domain of power. The entrepreneur who tries to pursue five opportunities simultaneously will be outperformed by the one who devotes everything to a single venture. The employee who spreads their efforts across dozens of projects will be outshone by the colleague who masters one critical skill. The politician who tries to please every constituency will lose to the one who dominates a single issue.\n\nThe difficulty lies in the sacrifice that concentration requires. It means saying no to attractive possibilities. It means abandoning ventures that are performing adequately but not brilliantly. It means accepting that depth beats breadth, and focusing your energy where it can achieve overwhelming impact rather than modest results in many places."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 23: Clausewitz, Sun Tzu, and Machiavelli all agreed: concentrate your forces or lose to those who do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "08df4f71-da43-4df4-9f57-418668385110",
+      "feedId": "the-48-laws-of-power-strike-with-spectacle",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Create a Cultlike Following"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene examines how certain leaders throughout history have inspired levels of devotion that go far beyond ordinary loyalty. These figures did not simply earn followers through competence or charisma. They created systems of belief that transformed followers into true believers, people who would sacrifice their own interests for the leader's vision.\n\nThe mechanics, Greene argues, are remarkably consistent across centuries and cultures. First, keep your message vague and grand enough that followers can project their own desires onto it. Second, emphasize enthusiasm over rationality, because emotion binds people far more tightly than logic. Third, create rituals and symbols that give the group a sense of identity and belonging. Fourth, manufacture an external enemy that unifies the group through shared opposition. Fifth, use spectacle and mystery to maintain the aura of something larger than ordinary life.\n\nGreene is careful to frame this law as both an offensive and defensive tool. Offensively, understanding how cult dynamics work allows you to build intense loyalty. Defensively, recognizing these patterns helps you identify when you are being manipulated by someone who has mastered them.\n\nThe law applies well beyond religious cults. Political movements, corporate cultures, brand communities, and social media followings all operate according to the same psychological principles. The leader who understands these dynamics can build a following that sustains itself long after the initial excitement fades."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 27: The mechanics of devotion are universal, from ancient temples to modern brands."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "529304b7-bda8-411f-b6c7-360f049c6108",
+      "feedId": "the-48-laws-of-power-strike-with-spectacle",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Enter Action with Boldness"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that hesitation is more dangerous than a wrong decision. When you act timidly, you signal uncertainty, which invites resistance from everyone watching. People sense weakness and move to exploit it. But when you act with boldness, even if your action is imperfect, you create momentum that carries others along with you.\n\nThe psychological basis for this law is straightforward. Bold action creates the impression of confidence, and confidence is magnetic. People naturally follow those who appear to know where they are going, even when the destination is uncertain. A leader who charges forward with conviction attracts allies, resources, and opportunities that would never materialize for someone who hesitates at the threshold.\n\nGreene traces Robert Greene's own life as an indirect illustration. Before writing The 48 Laws of Power, Greene worked approximately fifty different jobs, drifting without direction. When he met book packager Joost Elffers in 1995 at an Italian art school and was asked to write a treatment for a power book, Greene hesitated. He was rereading a biography of Julius Caesar at the time and was struck by Caesar's decision to cross the Rubicon, the point of no return. Greene followed Caesar's example, committed fully, and wrote the treatment. He has called this the turning point of his life.\n\nTimidity creates nothing. Boldness may create errors, but it also creates the conditions for greatness."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 28: Greene himself crossed his own Rubicon when he committed to writing this book."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "52ac670e-7c4b-4035-b8df-a311b5e3ffb0",
+      "feedId": "the-48-laws-of-power-strike-with-spectacle",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Create Compelling Spectacles"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that visual symbols and grand gestures communicate power far more effectively than words or arguments. A spectacular image bypasses rational analysis entirely. It hits the emotions directly, creating feelings of awe, wonder, and submission that no speech could achieve.\n\nLouis XIV understood this better than perhaps any ruler in history. Every aspect of his public life was designed as theater. His morning ritual of waking and dressing was a choreographed ceremony attended by courtiers who competed for the honor of handing him his shirt. The construction of Versailles was the ultimate spectacle, a palace so overwhelming in its grandeur that it communicated the absolute nature of his power without a single word being spoken.\n\nThe principle extends to every arena of human competition. In business, the company that creates the most impressive launch event captures attention that no amount of advertising could buy. In politics, the leader who stages the most dramatic visual moments dominates the media cycle. In personal life, the person who creates memorable experiences for others builds loyalty that transactional relationships never achieve.\n\nGreene emphasizes that spectacle is not mere showmanship. It is a strategic tool that shapes perception at a level deeper than conscious thought. People may forget what you said, but they never forget how you made them feel, and spectacle is the most powerful tool for generating feeling."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 37: Louis XIV turned his entire life into a performance, and Versailles was the stage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9d40b0ae-741c-4994-8da7-1b8ce24dd09f",
+      "feedId": "the-48-laws-of-power-strike-with-spectacle",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Strike the Shepherd"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene presents a ruthlessly efficient principle of conflict: in any group, power and cohesion flow from a single source, the leader. Remove the leader and the group fragments. The followers, who drew their courage and direction from the leader's presence, suddenly find themselves disoriented and leaderless. What was a unified threat becomes a scattered collection of individuals who can be dealt with one at a time.\n\nThis law draws from both military strategy and organizational psychology. Armies that lose their commanding general in battle often break and retreat even when they outnumber the enemy. Organizations that lose their visionary founder often descend into internal power struggles that consume more energy than any external competition ever could.\n\nGreene argues that identifying the true leader of an opposing group is the first and most important step in any conflict. The true leader is not always the person with the official title. Sometimes the real source of a group's power is a charismatic second-in-command, a trusted advisor, or a unifying figure who holds the group together through personal relationships rather than formal authority.\n\nOnce you have identified the real shepherd, concentrate your efforts on neutralizing them. Do not waste energy fighting the sheep. The shepherd's removal achieves more than defeating the entire flock in detail, because without their leader, the flock will scatter on its own."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 42: The most efficient victory targets the source of the enemy's power, not its symptoms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "91615db7-6631-49bf-ad4c-d386b196dd5f",
+      "feedId": "the-48-laws-of-power-become-formless",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/8_202603272110.jpeg",
+          "title": "Become Formless",
+          "subtitle": "Identity, reinvention, and the ultimate law of adaptability"
+        }
+      ]
+    },
+    {
+      "_id": "515ad5e2-2222-487e-b17c-ccf05af8cfb1",
+      "feedId": "the-48-laws-of-power-become-formless",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Do Not Commit to Anyone"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Queen Elizabeth I of England turned the refusal to commit into her greatest diplomatic weapon. For decades, she kept a parade of suitors from the royal houses of Europe dangling with hope but never satisfaction. France and Spain both believed they might secure an alliance through marriage, and this belief kept them competing for England's favor rather than uniting against it.\n\nElizabeth understood that the moment she committed to one side, she would gain one ally but create one enemy. By remaining uncommitted, she kept every option open and every potential partner working to win her favor. Her virginity became not a personal choice but a strategic asset, the ultimate symbol of independence in a world where marriage meant submission.\n\nGreene argues that the principle applies far beyond royal marriage politics. In any competitive environment, the person who commits too early to a single alliance, strategy, or position loses flexibility. The world changes constantly, and the commitments that seemed wise yesterday can become traps tomorrow.\n\nThe uncommitted player, by contrast, maintains the freedom to adapt. They can shift alliances when the balance of power changes. They can abandon failing strategies without the sunk cost of public commitment. They can play multiple sides against each other, extracting concessions from everyone while owing nothing to anyone. Independence, Greene argues, is the foundation on which all other forms of power are built."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 20: Elizabeth I's refusal to marry kept France and Spain competing for England's favor for forty years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "523eefaa-796c-45fa-a609-a140381b9816",
+      "feedId": "the-48-laws-of-power-become-formless",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Transform Weakness into Power"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene presents surrender not as an act of defeat but as a sophisticated strategic tool. When you are clearly outmatched, the instinct to fight back heroically is almost always self-destructive. You exhaust your remaining resources, enrage a superior opponent, and ensure that your defeat is total rather than merely temporary.\n\nThe surrender tactic works differently. By yielding when you are weak, you deny your opponent the satisfaction of a dramatic victory. You preserve your resources. You buy time. And most importantly, you put your opponent at ease, lowering their guard and creating the conditions for a future reversal.\n\nGreene traces this principle through numerous historical examples of figures who surrendered strategically, accepting short-term humiliation in exchange for long-term survival. They endured periods of subordination, learned from their conquerors, built new alliances in secret, and eventually emerged stronger than before.\n\nThe psychological dimension is crucial. An opponent who believes they have thoroughly defeated you stops watching you closely. They redirect their energy and attention toward other threats. Meanwhile, you are quietly rebuilding, studying their weaknesses, and preparing for the moment when the balance of power shifts.\n\nGreene argues that the ability to surrender strategically requires the rarest form of courage: the willingness to sacrifice your ego for your long-term interests. Pride demands that you fight. Wisdom sometimes demands that you yield."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 22: The strategic surrender preserves what fighting would destroy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "755c9abc-2bfd-45e0-9771-3489910d8b64",
+      "feedId": "the-48-laws-of-power-become-formless",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Recreate Yourself"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Margaretha Zelle was born in 1876 in the small Dutch town of Leeuwarden. Nothing about her early life suggested the extraordinary figure she would become. But Zelle understood, perhaps instinctively, that the identity assigned to you by birth and circumstance is not a permanent condition. It is a first draft that can be completely rewritten.\n\nShe remade herself as Mata Hari, an exotic temple dancer who claimed to have been trained in the sacred arts of the East. The persona was entirely fabricated, but it was also brilliantly constructed. She understood what European audiences craved: mystery, sensuality, and the allure of the unknown. By giving them exactly what they wanted, wrapped in a story that was too fascinating to question, she became one of the most famous performers of her era.\n\nGreene argues that most people passively accept the roles that society, family, and circumstance assign to them. They allow others to define who they are. The powerful, by contrast, take active control of their identity. They decide what role to play, construct the appropriate persona, and perform it with such conviction that the audience never questions whether the performance is real.\n\nThis does not require dishonesty. It requires self-awareness and intentionality. Every public figure, every leader, every influential person is performing a version of themselves. The difference between the powerful and the powerless is that the powerful chose their role deliberately."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 25: A Dutch girl from Leeuwarden became the most talked-about woman in Europe by refusing to be herself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7f701d4d-b5b1-4f8c-8ed6-ba812cbe0c45",
+      "feedId": "the-48-laws-of-power-become-formless",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Make Your Accomplishments Seem Effortless"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that the appearance of effort diminishes the impression of power. When people can see how hard you worked to achieve something, they mentally reduce the achievement. They think: if it required that much struggle, it cannot be that remarkable. But when the same achievement appears to have been produced effortlessly, it takes on an almost magical quality that inspires awe and deference.\n\nThis principle has deep roots in the concept of sprezzatura, a term coined by the Italian courtier Baldassare Castiglione in the 16th century. Sprezzatura means the art of making difficult things look easy, of concealing all the practice, preparation, and strain behind a facade of casual grace. The perfect courtier, Castiglione argued, must never appear to be trying.\n\nGreene extends this insight into the modern world. The executive who appears to manage a crisis calmly, without visible stress or panic, inspires far more confidence than one who is visibly working around the clock. The speaker who delivers a presentation with relaxed fluency commands more attention than one who clearly memorized every word. The strategist who seems to win through natural instinct rather than exhausting analysis appears more formidable.\n\nThe practical implication is counterintuitive: work harder than anyone, but show none of it. Let people see only the results, never the process. The gap between hidden effort and visible ease is where the impression of genius lives."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 30: True mastery looks like effortlessness, and that appearance is itself a form of power."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "70ee931b-c5f6-4dc4-b292-93dbe0533021",
+      "feedId": "the-48-laws-of-power-become-formless",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Avoid Stepping into a Great Man's Shoes"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene warns that inheriting power from a towering predecessor is one of the most dangerous positions in the game of power. The achievements of the person who came before you create a standard that distorts everything you do. Every decision is compared to how they would have handled it. Every initiative is measured against their legacy. You are trapped in a competition with a ghost, and ghosts have the unfair advantage of being remembered at their best.\n\nThe problem compounds over time. If you try to continue the predecessor's approach, you appear as a pale imitation. If you try to forge a completely different path, you appear disrespectful of their legacy. Either way, the comparison works against you.\n\nGreene argues that the only escape from this trap is to establish such a dramatically different identity that comparison becomes impossible. You must create a break so clean that people stop thinking about the predecessor entirely and begin evaluating you on your own terms. This requires boldness, imagination, and the willingness to risk the disapproval of those who are loyal to the old regime.\n\nThe principle applies well beyond formal succession. Anyone who follows a celebrated colleague, inherits a successful project, or joins a team built by a charismatic leader faces the same dynamic. The shadow of greatness is a prison unless you find a way to step completely outside it."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 41: Following a legend means competing with a ghost, and ghosts always have the advantage of nostalgia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "21d11a28-4142-4225-9b3a-79acbb28c0b0",
+      "feedId": "the-48-laws-of-power-become-formless",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Assume Formlessness"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The final law is the one Greene himself considers the most important, and it serves as the capstone that redefines everything that came before. After forty-seven laws of specific tactics and strategies, Law 48 delivers a warning: do not become rigid in your application of any of them.\n\nGreene uses the metaphor of water, echoing both Sun Tzu and Bruce Lee. Water has no fixed shape. It adapts to any container, flows around any obstacle, and erodes the hardest stone through patient persistence. The person who embodies this principle becomes impossible to defeat because there is nothing to strike against. Every attack passes through without finding a solid target.\n\nMao Zedong demonstrated this principle through his guerrilla warfare tactics against Chiang Kai-shek's much larger Nationalist army. Rather than meeting superior forces head-on, Mao's troops struck with small forces, dissolved into the countryside, and reformed elsewhere. The Nationalists could not pin down an enemy that refused to hold any fixed position.\n\nGreene argues that formlessness is the ultimate expression of power because it combines all the other laws into a fluid whole. Sometimes you need boldness, sometimes patience. Sometimes you need to crush an enemy, sometimes surrender. The person who is locked into one approach will eventually encounter a situation where that approach fails. The formless person adapts, and adaptation is survival."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 48: Greene's most important law, the one that warns you not to follow any law too rigidly, including this one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "95d884e3-3b3d-4e08-ac7c-4f1fd3c4f779",
+      "feedId": "the-48-laws-of-power-the-hidden-hand",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/9_202603272110.jpeg",
+          "title": "The Hidden Hand",
+          "subtitle": "Behind-the-scenes mechanics that quietly control the game"
+        }
+      ]
+    },
+    {
+      "_id": "25974b0e-8e27-41e0-8ab6-1102047d796e",
+      "feedId": "the-48-laws-of-power-the-hidden-hand",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Get Others to Do the Work"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The story of Nikola Tesla and Thomas Edison is one of the most poignant cautionary tales in the entire book. Edison hired Tesla, a brilliant young engineer, and reportedly offered him $50,000 to redesign his direct current dynamo. Tesla worked tirelessly and delivered a superior design. When he asked for payment, Edison dismissed the promise as a joke and offered a small raise instead.\n\nEdison went on to build one of the most celebrated careers in American history, with his name attached to inventions and innovations that earned him the title of America's greatest inventor. Tesla, despite creating the alternating current electrical system that would become the global standard, spent his later years in relative obscurity and financial hardship.\n\nGreene argues that the lesson is not that Edison was evil or Tesla was foolish, but that the game of power has its own rules that operate independently of talent or fairness. Edison understood that credit and visibility are forms of currency. Tesla understood only the work itself. In the economy of power, the person who claims credit controls the narrative, and the narrative determines who gets remembered.\n\nThis law is one of the most controversial in the book, and Greene acknowledges its moral complexity. But his point is descriptive, not prescriptive: in competitive environments, the relationship between doing the work and receiving the credit is not automatic. It must be managed."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 7: Tesla's genius changed the world. Edison's strategy ensured the world remembered Edison instead."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c56a0305-a4e7-4f5a-805a-3db3b9144cdf",
+      "feedId": "the-48-laws-of-power-the-hidden-hand",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Keep Your Hands Clean"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In the year 1500, Cesare Borgia, son of Pope Alexander VI, faced a common problem of conquest. He had captured new territory and needed to pacify a rebellious population. The direct approach would have been to impose order through his own forces, but that would have associated his name with the inevitable brutality.\n\nInstead, Borgia appointed Remirro de Orco, a notoriously vicious general, to bring the region under control by any means necessary. De Orco did exactly that, employing the kind of brutal methods that quickly crushed resistance but also generated intense hatred among the population. Once order was established, Borgia made his second move. He had de Orco publicly executed, presenting himself as the just ruler who would not tolerate such cruelty.\n\nThe population, who had suffered under de Orco's reign of terror, transferred their gratitude to Borgia for ending it. He emerged from the episode with clean hands and popular support, even though he had orchestrated the entire sequence from the beginning.\n\nGreene identifies this as the scapegoat principle: use others to do the dirty work, then distance yourself from the consequences. The agent who carries out unpleasant tasks becomes the lightning rod for public anger, while the true architect of events maintains a spotless reputation. It requires cold calculation, but the historical record shows it is remarkably effective."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 26: Borgia ordered the brutality, then executed the man who carried it out, and the people loved him for it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a5d70cb-71f3-4096-924f-29df6075a866",
+      "feedId": "the-48-laws-of-power-the-hidden-hand",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Control the Options"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that one of the most elegant forms of power is giving people the illusion of choice while controlling the available options. When someone feels they are making a free decision, they commit to it fully and defend it against criticism. But if the person who structured the options has ensured that every choice leads to the same outcome, the decision was never really free at all.\n\nThis principle operates in environments ranging from negotiations to retail to politics. A skilled negotiator does not make demands. They present three options, each of which serves their interests, and let the counterpart choose. The counterpart feels empowered by the choice and satisfied with the outcome, never realizing that all roads led to the same destination.\n\nGreene traces this technique through diplomatic history, where the most effective treaties were often the ones that gave the defeated party a choice between options that all favored the victor. The losing side preserved their dignity through the act of choosing, while the winning side achieved their objectives regardless of which option was selected.\n\nThe defensive application is straightforward: whenever someone presents you with a limited set of options, ask yourself what alternatives have been excluded and why. The options that are missing from the menu are often more important than the ones that appear on it."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 31: The greatest control is the kind that feels like freedom to the person being controlled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "519b653c-cea4-4f8f-843a-9c7afc09ad2d",
+      "feedId": "the-48-laws-of-power-the-hidden-hand",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Disdain What You Cannot Have"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene addresses two related principles that deal with the psychology of desire and valuation. The first is the art of disdaining what you cannot have. When something is beyond your reach, whether it is a position, a relationship, or a resource, the worst response is to display your desire openly. Wanting something you cannot have makes you appear weak, and others will use that visible desire as leverage against you.\n\nThe more effective response is to appear indifferent. When you publicly dismiss something as unimportant or unworthy of your attention, you accomplish two things simultaneously. You deny your opponents the satisfaction of knowing they have something you want, and you often actually reduce the value of the thing in question, because perceived value is partly determined by who wants it.\n\nGreene also addresses the related concept of despising the free lunch. Things that come easily or without cost carry hidden dangers. A gift creates an obligation. A favor creates a debt. Free information may be a trap designed to lead you in the wrong direction. The powerful, Greene argues, prefer to pay their own way because financial independence preserves strategic independence.\n\nBoth principles share a common root: the truly powerful maintain control over their own desires. They refuse to be pulled around by wanting what others offer or craving what they cannot have. This emotional discipline is the foundation that supports every other form of strategic behavior."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Laws 36 and 40: Desire makes you predictable. Indifference makes you powerful."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "afc91533-f12e-4a43-903d-330ca6b7c27d",
+      "feedId": "the-48-laws-of-power-the-hidden-hand",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Work on Hearts and Minds"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Greene argues that the most durable form of power is not coercion but persuasion that operates at the emotional level. When you force someone to comply through threats or authority, they obey only as long as the threat persists. The moment your back is turned, they resist, sabotage, or defect. But when you win their hearts and minds, their compliance becomes self-sustaining because it comes from internal motivation rather than external pressure.\n\nThe distinction between forced obedience and genuine loyalty is the difference between brittle power and resilient power. Brittle power requires constant monitoring and enforcement. Resilient power maintains itself because the people within the system believe in it.\n\nGreene points to leaders throughout history who built lasting empires not through force alone but through a combination of strategic generosity, shared identity, and emotional connection. They gave their followers a sense of purpose that transcended mere self-interest. They created cultures where loyalty was rewarded and celebrated. They invested in relationships during peaceful times so that those relationships would hold during crises.\n\nThe practical application is clear: if you want lasting influence over people, you cannot rely on your position, your authority, or your ability to punish. You must understand what people need emotionally, what they fear, what they aspire to, and what makes them feel valued, and then connect your objectives to those deeper motivations."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 43: Forced obedience crumbles the moment you look away. Willing loyalty sustains itself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3e101812-2478-4fcc-9126-f6e7fb731856",
+      "feedId": "the-48-laws-of-power-the-hidden-hand",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Preach Change, Never Reform Too Much"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Mao Zedong faced a monumental challenge when he set out to transform China into a communist state. The Chinese people had thousands of years of tradition, culture, and social structure that resisted radical change. A direct assault on these traditions would have provoked massive resistance and potentially derailed the entire revolution.\n\nMao's solution was to wrap revolutionary ideas in traditional packaging. He connected communist principles to the glorious events and values of China's past, presenting the new order not as a rupture with tradition but as a fulfillment of it. The language was new, but the emotional resonance was ancient. People felt they were returning to something great rather than abandoning everything they knew.\n\nGreene argues that this principle applies to any situation where you need to introduce change into a conservative environment. People fear change not because they are stupid but because change threatens their identity and their sense of continuity. When you respect this fear and work with it rather than against it, resistance melts away.\n\nThe practical method is straightforward: make the new look like a natural evolution of the old. Use familiar language. Reference shared history. Honor the traditions you are actually replacing. The substance of your changes can be radical as long as the presentation feels comfortable and familiar. People will accept enormous transformation if it does not feel like transformation."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Law 45: Mao made revolution feel like tradition, and a billion people followed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "622c4a53-c399-4e90-9c43-83973035b081",
+      "feedId": "the-48-laws-of-power-quiz",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/1_202603272110.jpeg",
+          "title": "The Mask You Wear",
+          "subtitle": "Reputation, restraint, and the power of first impressions"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to Nicolas Fouquet after he threw a lavish party that outshone King Louis XIV?",
+              "options": [
+                {
+                  "label": "He was promoted to prime minister",
+                  "correct": false
+                },
+                {
+                  "label": "He was arrested and imprisoned for life",
+                  "correct": true
+                },
+                {
+                  "label": "He was exiled to England",
+                  "correct": false
+                },
+                {
+                  "label": "He was forced to fund the construction of Versailles",
+                  "correct": false
+                }
+              ],
+              "explanation": "Fouquet was arrested the day after his party at Vaux-le-Vicomte and spent the remaining nineteen years of his life in prison. Louis XIV then hired Fouquet's own architects to build Versailles."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Galileo use his discovery of Jupiter's moons to gain patronage from the Medici family?",
+              "options": [
+                {
+                  "label": "He sold the discovery to the highest bidder",
+                  "correct": false
+                },
+                {
+                  "label": "He named the moons after the four Medici brothers",
+                  "correct": true
+                },
+                {
+                  "label": "He dedicated his telescope to the Medici pope",
+                  "correct": false
+                },
+                {
+                  "label": "He offered to teach astronomy to the Medici children",
+                  "correct": false
+                }
+              ],
+              "explanation": "Galileo named the four moons after the Medici brothers, claiming the cosmos honored their dynasty. This flattery secured Cosimo II de Medici as his lifelong patron and protector."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Louis XIV's signature response when ministers presented lengthy proposals?",
+              "options": [
+                {
+                  "label": "\"Tell me more\"",
+                  "correct": false
+                },
+                {
+                  "label": "\"I shall see\"",
+                  "correct": true
+                },
+                {
+                  "label": "\"Leave it with me\"",
+                  "correct": false
+                },
+                {
+                  "label": "\"Speak to my advisor\"",
+                  "correct": false
+                }
+              ],
+              "explanation": "Louis XIV would simply say 'I shall see,' revealing nothing about his intentions. This illustrates Law 4: Always Say Less Than Necessary."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which law does Greene consider the foundational opening lesson of the entire book?",
+              "options": [
+                {
+                  "label": "Law 48: Assume Formlessness",
+                  "correct": false
+                },
+                {
+                  "label": "Law 5: Guard Your Reputation",
+                  "correct": false
+                },
+                {
+                  "label": "Law 1: Never Outshine the Master",
+                  "correct": true
+                },
+                {
+                  "label": "Law 15: Crush Your Enemy Totally",
+                  "correct": false
+                }
+              ],
+              "explanation": "Law 1 is the book's opening principle, illustrated by the Fouquet story. It sets the tone that power is dangerous and unforgiving."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg5_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Mata Hari's real name and nationality?",
+              "options": [
+                {
+                  "label": "Marie Dupont, French",
+                  "correct": false
+                },
+                {
+                  "label": "Margaretha Zelle, Dutch",
+                  "correct": true
+                },
+                {
+                  "label": "Isabella Torres, Spanish",
+                  "correct": false
+                },
+                {
+                  "label": "Katarina Weiss, German",
+                  "correct": false
+                }
+              ],
+              "explanation": "Mata Hari was born Margaretha Zelle in the Netherlands. She reinvented herself as an exotic Eastern dancer, illustrating Law 6: Court Attention at All Costs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "aee77dad-bf91-4b23-bf85-6309e088230a",
+      "feedId": "the-48-laws-of-power-quiz",
+      "order": 1,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/2_202603272110.jpeg",
+          "title": "Smoke and Mirrors",
+          "subtitle": "Deception, misdirection, and selective honesty as weapons"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Victor Lustig con Al Capone out of $5,000?",
+              "options": [
+                {
+                  "label": "He sold Capone a fake diamond",
+                  "correct": false
+                },
+                {
+                  "label": "He borrowed $50,000, returned it honestly, and Capone gave him $5,000 as a reward",
+                  "correct": true
+                },
+                {
+                  "label": "He won the money in a rigged card game",
+                  "correct": false
+                },
+                {
+                  "label": "He posed as a tax collector",
+                  "correct": false
+                }
+              ],
+              "explanation": "Lustig borrowed $50,000 promising to double it, then returned the full amount honestly after two months. Capone was so impressed by the apparent honesty that he gave Lustig $5,000, which was the real goal all along."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What famous landmark did Victor Lustig sell as a scam?",
+              "options": [
+                {
+                  "label": "Big Ben",
+                  "correct": false
+                },
+                {
+                  "label": "The Colosseum",
+                  "correct": false
+                },
+                {
+                  "label": "The Eiffel Tower",
+                  "correct": true
+                },
+                {
+                  "label": "The Statue of Liberty",
+                  "correct": false
+                }
+              ],
+              "explanation": "Lustig posed as a government official and sold the Eiffel Tower to a scrap metal dealer for 250,000 francs, even asking for a bribe to seem more like a genuine bureaucrat."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Talleyrand gather intelligence at social events?",
+              "options": [
+                {
+                  "label": "He read people's private correspondence",
+                  "correct": false
+                },
+                {
+                  "label": "He paid servants to eavesdrop",
+                  "correct": false
+                },
+                {
+                  "label": "He blurted out supposed secrets and observed reactions",
+                  "correct": true
+                },
+                {
+                  "label": "He disguised himself as a waiter",
+                  "correct": false
+                }
+              ],
+              "explanation": "Talleyrand would deliberately share seemingly sensitive information and then carefully observe how listeners reacted, tracking how planted stories traveled through social networks."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Law 21, why is appearing less intelligent than others a strategic advantage?",
+              "options": [
+                {
+                  "label": "It makes people feel sorry for you",
+                  "correct": false
+                },
+                {
+                  "label": "People who think they are smarter lower their guard and share freely",
+                  "correct": true
+                },
+                {
+                  "label": "It makes you seem more relatable and likable",
+                  "correct": false
+                },
+                {
+                  "label": "It helps you avoid being given difficult assignments",
+                  "correct": false
+                }
+              ],
+              "explanation": "When people believe they are smarter than you, they lower their guard, speak freely, share plans openly, and fail to anticipate your moves, giving you a decisive strategic advantage."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What detail did Lustig add to his Eiffel Tower scam to make it seem more convincing?",
+              "options": [
+                {
+                  "label": "He forged government documents",
+                  "correct": false
+                },
+                {
+                  "label": "He hired actors to pose as officials",
+                  "correct": false
+                },
+                {
+                  "label": "He asked for a bribe, mimicking corrupt bureaucrat behavior",
+                  "correct": true
+                },
+                {
+                  "label": "He held the meeting at a government building",
+                  "correct": false
+                }
+              ],
+              "explanation": "Lustig asked for a bribe alongside the official payment, which paradoxically made the deal seem more legitimate because the buyers expected government corruption."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ad20d23f-03b1-425b-b6ab-ba627ceb1f47",
+      "feedId": "the-48-laws-of-power-quiz",
+      "order": 2,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/3_202603272110.jpeg",
+          "title": "The Web of Alliances",
+          "subtitle": "Friends, enemies, and the architecture of dependency"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Law 2, why does Greene argue that enemies can be more useful than friends?",
+              "options": [
+                {
+                  "label": "Enemies are easier to control",
+                  "correct": false
+                },
+                {
+                  "label": "Former rivals work harder to prove their loyalty and competence",
+                  "correct": true
+                },
+                {
+                  "label": "Enemies always keep their promises",
+                  "correct": false
+                },
+                {
+                  "label": "Friends are always dishonest",
+                  "correct": false
+                }
+              ],
+              "explanation": "A former rival brought into your circle has something to prove. They know trust was not given freely, so they earn it through exceptional results, unlike friends who may feel entitled to special treatment."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Cardinal Richelieu make himself indispensable to the French king?",
+              "options": [
+                {
+                  "label": "He controlled the royal treasury",
+                  "correct": false
+                },
+                {
+                  "label": "He blackmailed the king with secrets",
+                  "correct": false
+                },
+                {
+                  "label": "He pushed France into wars that only he could manage",
+                  "correct": true
+                },
+                {
+                  "label": "He married into the royal family",
+                  "correct": false
+                }
+              ],
+              "explanation": "Richelieu engineered foreign policy crises and military campaigns that only he had the expertise to manage, making it impossible for the king to function without him."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What architectural feature of Versailles served as a surveillance tool for Louis XIV?",
+              "options": [
+                {
+                  "label": "Secret tunnels beneath the palace",
+                  "correct": false
+                },
+                {
+                  "label": "Every room connected to other rooms, eliminating privacy",
+                  "correct": true
+                },
+                {
+                  "label": "One-way mirrors in the ballroom",
+                  "correct": false
+                },
+                {
+                  "label": "Hidden listening chambers in the walls",
+                  "correct": false
+                }
+              ],
+              "explanation": "Louis XIV designed Versailles so that every room connected to others, making privacy nearly impossible. Nobles who might have plotted in their own estates were kept under constant observation."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Law 13, what is the most effective way to ask for help?",
+              "options": [
+                {
+                  "label": "Remind them of past favors you have done",
+                  "correct": false
+                },
+                {
+                  "label": "Appeal to their sense of duty",
+                  "correct": false
+                },
+                {
+                  "label": "Frame the request in terms of their own self-interest",
+                  "correct": true
+                },
+                {
+                  "label": "Make an emotional plea for sympathy",
+                  "correct": false
+                }
+              ],
+              "explanation": "Greene argues that gratitude is a burden people resent. The effective approach is to show how helping you advances their own goals, making cooperation feel like a shared win rather than a favor."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/7b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why does Greene argue that isolation is dangerous (Law 18)?",
+              "options": [
+                {
+                  "label": "Isolated people become physically weaker",
+                  "correct": false
+                },
+                {
+                  "label": "It cuts you off from information, makes you vulnerable to rumors, and signals fear",
+                  "correct": true
+                },
+                {
+                  "label": "It violates social norms and makes people angry",
+                  "correct": false
+                },
+                {
+                  "label": "Other leaders will feel insulted by your absence",
+                  "correct": false
+                }
+              ],
+              "explanation": "Isolation cuts you off from critical information, makes you an easy target for conspiracies, and signals to others that you are afraid. The powerful position is at the center of a web, not behind walls."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2020e661-9bac-463a-a263-4be960f048f0",
+      "feedId": "the-48-laws-of-power-quiz",
+      "order": 3,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/4_202603272110.jpeg",
+          "title": "The Perfect Courtier",
+          "subtitle": "Social navigation, court politics, and knowing your audience"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Christopher Columbus secure Queen Isabella's sponsorship despite having no noble title?",
+              "options": [
+                {
+                  "label": "He bribed her advisors",
+                  "correct": false
+                },
+                {
+                  "label": "He cultivated a royal bearing and projected calm confidence of destined greatness",
+                  "correct": true
+                },
+                {
+                  "label": "He presented detailed financial projections",
+                  "correct": false
+                },
+                {
+                  "label": "He had a letter of recommendation from the Pope",
+                  "correct": false
+                }
+              ],
+              "explanation": "Columbus projected the calm confidence of someone destined for great things. He carried himself as though he belonged among royalty, and people unconsciously treated him accordingly."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many different French political regimes did Talleyrand serve under?",
+              "options": [
+                {
+                  "label": "Two",
+                  "correct": false
+                },
+                {
+                  "label": "Three",
+                  "correct": false
+                },
+                {
+                  "label": "Four",
+                  "correct": true
+                },
+                {
+                  "label": "Five",
+                  "correct": false
+                }
+              ],
+              "explanation": "Talleyrand served under the ancien regime, the Revolution, Napoleon's empire, and the restored Bourbon monarchy, adapting to each new power structure without ever being destroyed by the transitions."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Law 38, what should you do with unconventional ideas?",
+              "options": [
+                {
+                  "label": "Share them openly to inspire innovation",
+                  "correct": false
+                },
+                {
+                  "label": "Think freely in private but behave conventionally in public",
+                  "correct": true
+                },
+                {
+                  "label": "Only share them with your superiors",
+                  "correct": false
+                },
+                {
+                  "label": "Write them down but never discuss them",
+                  "correct": false
+                }
+              ],
+              "explanation": "Greene advises keeping unorthodox views private and mirroring public conventions. By blending in on the surface, you preserve freedom to act independently below it."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why does Law 46 warn against appearing too perfect?",
+              "options": [
+                {
+                  "label": "People will expect too much from you",
+                  "correct": false
+                },
+                {
+                  "label": "Perfection triggers envy and resentment that can become dangerous",
+                  "correct": true
+                },
+                {
+                  "label": "It makes you seem dishonest",
+                  "correct": false
+                },
+                {
+                  "label": "It invites people to test your weaknesses",
+                  "correct": false
+                }
+              ],
+              "explanation": "Displaying perfection triggers envy that curdles into hostility. Strategic imperfections humanize you and defuse the resentment that would otherwise build among those who feel they have less."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Greene, what has replaced the royal courts of kings and queens in modern society?",
+              "options": [
+                {
+                  "label": "Social media platforms",
+                  "correct": false
+                },
+                {
+                  "label": "Government institutions",
+                  "correct": false
+                },
+                {
+                  "label": "Offices, organizations, and social groups with their own invisible hierarchies",
+                  "correct": true
+                },
+                {
+                  "label": "Universities and academic institutions",
+                  "correct": false
+                }
+              ],
+              "explanation": "Greene argues that courts never disappeared, they evolved. Modern offices, networking events, and social groups all operate according to unwritten rules of hierarchy and deference."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b4df5346-af3d-4cd2-9164-07d55bd82253",
+      "feedId": "the-48-laws-of-power-quiz",
+      "order": 4,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/5_202603272110.jpeg",
+          "title": "The Emotional Chessboard",
+          "subtitle": "Manipulating feelings, exploiting weaknesses, winning without arguing"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Michelangelo handle the mayor of Florence's complaint that David's nose was too big?",
+              "options": [
+                {
+                  "label": "He argued that the proportions were mathematically correct",
+                  "correct": false
+                },
+                {
+                  "label": "He pretended to chisel the nose while dropping marble dust, changing nothing",
+                  "correct": true
+                },
+                {
+                  "label": "He actually reduced the size of the nose",
+                  "correct": false
+                },
+                {
+                  "label": "He asked the mayor to come back another day",
+                  "correct": false
+                }
+              ],
+              "explanation": "Michelangelo invited the mayor up the scaffolding, pretended to work on the nose while palming marble dust, then asked for the mayor's opinion. The mayor declared it perfect, though nothing had changed."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Catherine de Medici's 'flying squadron'?",
+              "options": [
+                {
+                  "label": "A network of seductress-spies who reported powerful men's weaknesses",
+                  "correct": true
+                },
+                {
+                  "label": "A cavalry unit that responded to emergencies",
+                  "correct": false
+                },
+                {
+                  "label": "A group of diplomats who traveled between courts",
+                  "correct": false
+                },
+                {
+                  "label": "A team of assassins disguised as courtiers",
+                  "correct": false
+                }
+              ],
+              "explanation": "Catherine created a group of skilled women who seduced powerful men at court and reported their private conversations, fears, and plans back to her, allowing her to discover each man's weakness."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Talleyrand undermine Napoleon in front of his ministers in 1809?",
+              "options": [
+                {
+                  "label": "He published a critical pamphlet",
+                  "correct": false
+                },
+                {
+                  "label": "He deliberately provoked Napoleon into a public rage",
+                  "correct": true
+                },
+                {
+                  "label": "He organized a secret vote of no confidence",
+                  "correct": false
+                },
+                {
+                  "label": "He revealed Napoleon's military losses",
+                  "correct": false
+                }
+              ],
+              "explanation": "Talleyrand made calculated remarks to provoke Napoleon into an explosive public tirade. His calm composure during the outburst contrasted with Napoleon's instability, causing ministers to question their emperor's judgment."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Law 9 teach about the relationship between arguments and persuasion?",
+              "options": [
+                {
+                  "label": "Well-reasoned arguments are the most effective form of persuasion",
+                  "correct": false
+                },
+                {
+                  "label": "Winning an argument through logic creates resentment, while actions bypass the ego",
+                  "correct": true
+                },
+                {
+                  "label": "Arguments should be saved for the most important issues",
+                  "correct": false
+                },
+                {
+                  "label": "Written arguments are more effective than verbal ones",
+                  "correct": false
+                }
+              ],
+              "explanation": "Even when you win a debate on logical grounds, the defeated person feels humiliated and plots revenge. Actions speak in a language that bypasses the ego, making them far more persuasive than words."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Haile Selassie defeat the warlord Gugsa's rebellion?",
+              "options": [
+                {
+                  "label": "He negotiated a peace treaty through diplomats",
+                  "correct": false
+                },
+                {
+                  "label": "He bribed allies, secured church support, dropped leaflets, and baited Gugsa into attacking prematurely",
+                  "correct": true
+                },
+                {
+                  "label": "He hired foreign mercenaries to fight on his behalf",
+                  "correct": false
+                },
+                {
+                  "label": "He challenged Gugsa to single combat",
+                  "correct": false
+                }
+              ],
+              "explanation": "Selassie used a multi-pronged approach: he secured the Church, bribed Gugsa's allies, demoralized his troops with leaflets from planes, and baited him into a premature attack while weakened."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "dfdaf4b2-9fe0-4402-a802-90f9b05f9265",
+      "feedId": "the-48-laws-of-power-quiz",
+      "order": 5,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/6_202603272110.jpeg",
+          "title": "Patience as a Weapon",
+          "subtitle": "Timing, absence, and the discipline of long-term planning"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How long did the Austro-Prussian War last after Bismarck's decade of preparation?",
+              "options": [
+                {
+                  "label": "Three years",
+                  "correct": false
+                },
+                {
+                  "label": "One year",
+                  "correct": false
+                },
+                {
+                  "label": "Seven weeks",
+                  "correct": true
+                },
+                {
+                  "label": "Six months",
+                  "correct": false
+                }
+              ],
+              "explanation": "After spending roughly a decade positioning Prussia for war, Bismarck's actual conflict with Austria lasted just seven weeks, demonstrating the power of thorough long-term planning."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Talleyrand help engineer Napoleon's final defeat at Waterloo?",
+              "options": [
+                {
+                  "label": "He led the opposing army",
+                  "correct": false
+                },
+                {
+                  "label": "He helped create conditions that tempted Napoleon to escape Elba prematurely",
+                  "correct": true
+                },
+                {
+                  "label": "He poisoned Napoleon's food supply",
+                  "correct": false
+                },
+                {
+                  "label": "He bribed Napoleon's generals to defect",
+                  "correct": false
+                }
+              ],
+              "explanation": "Talleyrand quietly helped create conditions that would tempt Napoleon into escaping Elba and returning to France, knowing that a premature return would lead to a permanent, decisive defeat."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to Napoleon III at the Battle of Sedan in 1870?",
+              "options": [
+                {
+                  "label": "He won a decisive victory over Prussia",
+                  "correct": false
+                },
+                {
+                  "label": "He was captured in one of the most humiliating defeats in French history",
+                  "correct": true
+                },
+                {
+                  "label": "He negotiated a favorable peace treaty",
+                  "correct": false
+                },
+                {
+                  "label": "He escaped to England and regrouped",
+                  "correct": false
+                }
+              ],
+              "explanation": "Napoleon III, who had launched wars without exit strategies, was captured at Sedan by Bismarck's Prussia. His empire collapsed and he died in exile, illustrating Law 47: In Victory, Learn When to Stop."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What are the three types of time that Greene identifies in the art of timing?",
+              "options": [
+                {
+                  "label": "Past time, present time, and future time",
+                  "correct": false
+                },
+                {
+                  "label": "Long time, forced time, and end time",
+                  "correct": true
+                },
+                {
+                  "label": "Personal time, political time, and historical time",
+                  "correct": false
+                },
+                {
+                  "label": "Planning time, waiting time, and action time",
+                  "correct": false
+                }
+              ],
+              "explanation": "Greene identifies long time (the arc of years for grand strategies), forced time (making opponents feel rushed), and end time (the decisive moment when preparation converges on action)."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/40_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Law 16, why does strategic absence increase your power?",
+              "options": [
+                {
+                  "label": "It gives you time to rest and plan",
+                  "correct": false
+                },
+                {
+                  "label": "Scarcity creates value, and your absence generates speculation that inflates your importance",
+                  "correct": true
+                },
+                {
+                  "label": "It forces others to make decisions without you",
+                  "correct": false
+                },
+                {
+                  "label": "It makes people afraid you are angry with them",
+                  "correct": false
+                }
+              ],
+              "explanation": "When you withdraw after establishing your value, people fill your absence with speculation that often inflates your importance far beyond what your presence could achieve. Scarcity creates value."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e4374023-b19c-4af9-86a4-f587a58e6844",
+      "feedId": "the-48-laws-of-power-quiz",
+      "order": 6,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/7_202603272110.jpeg",
+          "title": "Strike with Spectacle",
+          "subtitle": "Bold action, concentrated force, and the theater of power"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which military theorist is cited alongside Machiavelli and Sun Tzu as a key influence on Greene's thinking?",
+              "options": [
+                {
+                  "label": "Julius Caesar",
+                  "correct": false
+                },
+                {
+                  "label": "Carl von Clausewitz",
+                  "correct": true
+                },
+                {
+                  "label": "Alexander the Great",
+                  "correct": false
+                },
+                {
+                  "label": "Napoleon Bonaparte",
+                  "correct": false
+                }
+              ],
+              "explanation": "Carl von Clausewitz, the Prussian war theorist, is one of three primary intellectual influences alongside Machiavelli and Sun Tzu. His work on concentrated force directly informs Law 23."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What biography inspired Robert Greene to commit to writing The 48 Laws of Power?",
+              "options": [
+                {
+                  "label": "A biography of Napoleon",
+                  "correct": false
+                },
+                {
+                  "label": "A biography of Julius Caesar",
+                  "correct": true
+                },
+                {
+                  "label": "A biography of Alexander the Great",
+                  "correct": false
+                },
+                {
+                  "label": "A biography of Machiavelli",
+                  "correct": false
+                }
+              ],
+              "explanation": "Greene was rereading a biography of Julius Caesar when he was struck by Caesar's decision to cross the Rubicon. He followed Caesar's example and committed fully to writing the book, calling it the turning point of his life."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Law 15, what is the danger of showing mercy to a defeated enemy?",
+              "options": [
+                {
+                  "label": "They will spread negative information about you",
+                  "correct": false
+                },
+                {
+                  "label": "A wounded enemy will spend every moment plotting their return and revenge",
+                  "correct": true
+                },
+                {
+                  "label": "Other enemies will think you are weak",
+                  "correct": false
+                },
+                {
+                  "label": "The defeated enemy will take your allies",
+                  "correct": false
+                }
+              ],
+              "explanation": "Greene argues that leaving embers smoldering invites the fire to reignite. A defeated but surviving enemy retains the motivation and potentially the resources to come back stronger."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Law 42 mean by 'Strike the Shepherd'?",
+              "options": [
+                {
+                  "label": "Attack agricultural resources to weaken an enemy",
+                  "correct": false
+                },
+                {
+                  "label": "Remove the leader and the group will fragment on its own",
+                  "correct": true
+                },
+                {
+                  "label": "Target the weakest member of an opposing group first",
+                  "correct": false
+                },
+                {
+                  "label": "Destroy the enemy's communication system",
+                  "correct": false
+                }
+              ],
+              "explanation": "The shepherd is the leader who holds a group together. Remove the true source of cohesion and the followers scatter on their own, achieving more than fighting the entire group in detail."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/45_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Louis XIV use Versailles as a tool of spectacle and power?",
+              "options": [
+                {
+                  "label": "He banned all other palaces in France",
+                  "correct": false
+                },
+                {
+                  "label": "Every aspect of his public life was designed as choreographed theater",
+                  "correct": true
+                },
+                {
+                  "label": "He used it only for military planning",
+                  "correct": false
+                },
+                {
+                  "label": "He opened it to the public as a museum",
+                  "correct": false
+                }
+              ],
+              "explanation": "Louis XIV turned his entire daily life into choreographed ceremony, from his morning dressing ritual to public audiences. Versailles communicated absolute power through overwhelming visual spectacle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "fe136b5f-8522-4750-9d79-96aa8ca75c31",
+      "feedId": "the-48-laws-of-power-quiz",
+      "order": 7,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/8_202603272110.jpeg",
+          "title": "Become Formless",
+          "subtitle": "Identity, reinvention, and the ultimate law of adaptability"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Queen Elizabeth I use her unmarried status as a diplomatic weapon?",
+              "options": [
+                {
+                  "label": "She threatened to marry enemies of rival kingdoms",
+                  "correct": false
+                },
+                {
+                  "label": "She kept suitors competing for her favor, preventing France and Spain from uniting against England",
+                  "correct": true
+                },
+                {
+                  "label": "She used her single status to avoid paying royal marriage taxes",
+                  "correct": false
+                },
+                {
+                  "label": "She declared marriage was forbidden for English monarchs",
+                  "correct": false
+                }
+              ],
+              "explanation": "Elizabeth kept a parade of suitors from European royal houses dangling with hope, ensuring both France and Spain competed for England's favor rather than joining forces against it."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What 16th-century concept describes the art of making difficult things look effortless?",
+              "options": [
+                {
+                  "label": "Sprezzatura",
+                  "correct": true
+                },
+                {
+                  "label": "Fortuna",
+                  "correct": false
+                },
+                {
+                  "label": "Virtu",
+                  "correct": false
+                },
+                {
+                  "label": "Realpolitik",
+                  "correct": false
+                }
+              ],
+              "explanation": "Sprezzatura was coined by Italian courtier Baldassare Castiglione. It means concealing all practice and strain behind a facade of casual grace, making mastery appear natural and effortless."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which law does Greene himself consider the most important in the entire book?",
+              "options": [
+                {
+                  "label": "Law 1: Never Outshine the Master",
+                  "correct": false
+                },
+                {
+                  "label": "Law 15: Crush Your Enemy Totally",
+                  "correct": false
+                },
+                {
+                  "label": "Law 48: Assume Formlessness",
+                  "correct": true
+                },
+                {
+                  "label": "Law 5: Guard Your Reputation",
+                  "correct": false
+                }
+              ],
+              "explanation": "Greene considers Law 48 the most important because it serves as the capstone: all 47 previous laws are contextual and require strategic sophistication to apply. No law is fixed."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Mao Zedong apply the principle of formlessness in warfare?",
+              "options": [
+                {
+                  "label": "He built the largest standing army in history",
+                  "correct": false
+                },
+                {
+                  "label": "He used guerrilla tactics, striking with small forces and dissolving into the countryside",
+                  "correct": true
+                },
+                {
+                  "label": "He copied Western military strategies",
+                  "correct": false
+                },
+                {
+                  "label": "He focused entirely on naval warfare",
+                  "correct": false
+                }
+              ],
+              "explanation": "Mao's troops struck with small forces and withdrew, refusing to hold fixed positions. The Nationalists could not pin down an enemy that assumed formlessness, despite outnumbering Mao's forces."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/48_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Law 22, when is surrender a strategic tool rather than a defeat?",
+              "options": [
+                {
+                  "label": "When your allies are too far away to help",
+                  "correct": false
+                },
+                {
+                  "label": "When you are clearly outmatched and fighting would exhaust your resources",
+                  "correct": true
+                },
+                {
+                  "label": "When the enemy offers favorable peace terms",
+                  "correct": false
+                },
+                {
+                  "label": "When you have already won the war",
+                  "correct": false
+                }
+              ],
+              "explanation": "Strategic surrender preserves your resources, denies the opponent a dramatic victory, lowers their guard, and buys time for rebuilding. It requires sacrificing ego for long-term survival."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d15ec07c-7c4e-4df7-8371-7d85689eb4ea",
+      "feedId": "the-48-laws-of-power-quiz",
+      "order": 8,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/9_202603272110.jpeg",
+          "title": "The Hidden Hand",
+          "subtitle": "Behind-the-scenes mechanics that quietly control the game"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened when Tesla delivered the improved dynamo design Edison had requested?",
+              "options": [
+                {
+                  "label": "Edison paid him $50,000 as promised",
+                  "correct": false
+                },
+                {
+                  "label": "Edison claimed the payment promise had been a joke",
+                  "correct": true
+                },
+                {
+                  "label": "Edison promoted Tesla to chief engineer",
+                  "correct": false
+                },
+                {
+                  "label": "Edison published Tesla's work under both their names",
+                  "correct": false
+                }
+              ],
+              "explanation": "Edison reportedly dismissed his $50,000 promise as a joke and offered only a small raise. Tesla's genius changed the world, but Edison's control of credit ensured he got the recognition."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Cesare Borgia keep his hands clean while pacifying conquered territory?",
+              "options": [
+                {
+                  "label": "He delegated all decisions to a council",
+                  "correct": false
+                },
+                {
+                  "label": "He appointed a brutal general to impose order, then publicly executed him",
+                  "correct": true
+                },
+                {
+                  "label": "He hired foreign soldiers so no Italians were involved",
+                  "correct": false
+                },
+                {
+                  "label": "He bribed the local leaders into compliance",
+                  "correct": false
+                }
+              ],
+              "explanation": "Borgia appointed the vicious Remirro de Orco to crush resistance. Once order was established, Borgia had de Orco publicly executed, distancing himself from the brutality and winning the people's gratitude."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Mao Zedong introduce radical communist ideas to a deeply traditional Chinese population?",
+              "options": [
+                {
+                  "label": "He banned all traditional practices immediately",
+                  "correct": false
+                },
+                {
+                  "label": "He wrapped revolutionary ideas in traditional packaging, connecting communism to China's past",
+                  "correct": true
+                },
+                {
+                  "label": "He used military force to suppress traditional culture",
+                  "correct": false
+                },
+                {
+                  "label": "He invited foreign advisors to explain communism",
+                  "correct": false
+                }
+              ],
+              "explanation": "Mao connected communist principles to the glorious events and values of China's past, making revolution feel like a fulfillment of tradition rather than a break from it. This illustrates Law 45."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Law 31, what is the most elegant form of control?",
+              "options": [
+                {
+                  "label": "Direct orders that cannot be disobeyed",
+                  "correct": false
+                },
+                {
+                  "label": "Financial leverage over your opponents",
+                  "correct": false
+                },
+                {
+                  "label": "Giving people the illusion of choice while controlling all available options",
+                  "correct": true
+                },
+                {
+                  "label": "Superior military force",
+                  "correct": false
+                }
+              ],
+              "explanation": "When someone feels they are making a free decision, they commit to it fully. But if every available option leads to your desired outcome, the choice was never really free at all."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Law 43, what is the key difference between forced obedience and winning hearts and minds?",
+              "options": [
+                {
+                  "label": "Forced obedience is faster to achieve",
+                  "correct": false
+                },
+                {
+                  "label": "Hearts and minds create self-sustaining loyalty that does not require constant monitoring",
+                  "correct": true
+                },
+                {
+                  "label": "There is no real difference in the long run",
+                  "correct": false
+                },
+                {
+                  "label": "Forced obedience works better in large organizations",
+                  "correct": false
+                }
+              ],
+              "explanation": "Forced obedience requires constant monitoring and crumbles the moment you look away. Winning hearts and minds creates internal motivation that sustains itself, making it far more durable and resilient."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

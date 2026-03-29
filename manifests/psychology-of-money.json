@@ -1,0 +1,2908 @@
+{
+  "forks": [
+    {
+      "_id": "psychology-of-money",
+      "title": "The Psychology of Money",
+      "description": "Timeless lessons on wealth, greed, and happiness from Morgan Housel's bestselling exploration of how we think about money.\n\nAll rights belong to the author and publisher. This is a summary/review, buy the book below from the author.",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/fork_202603272103.jpeg",
+      "feedIds": [
+        "psychology-of-money-your-money-story",
+        "psychology-of-money-never-enough",
+        "psychology-of-money-the-magic-of-compounding",
+        "psychology-of-money-tails-and-freedom",
+        "psychology-of-money-the-invisible-wealth",
+        "psychology-of-money-the-art-of-saving",
+        "psychology-of-money-planning-for-chaos",
+        "psychology-of-money-the-price-of-returns",
+        "psychology-of-money-stories-we-tell-ourselves",
+        "psychology-of-money-quiz"
+      ],
+      "actionLabel": "Buy the book",
+      "actionUrl": "https://www.amazon.com/s?k=The+Psychology+of+Money+Morgan+Housel"
+    }
+  ],
+  "feeds": [
+    {
+      "_id": "psychology-of-money-your-money-story",
+      "title": "Your Money Story",
+      "description": "How personal experience and pure luck shape every financial decision you make",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/1_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "psychology-of-money-never-enough",
+      "title": "Never Enough",
+      "description": "The most dangerous financial skill is failing to know when to stop",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/2_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "psychology-of-money-the-magic-of-compounding",
+      "title": "The Magic of Compounding",
+      "description": "Why time, not talent, is the most powerful force in building wealth",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/3_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "psychology-of-money-tails-and-freedom",
+      "title": "Tails and Freedom",
+      "description": "How a few outlier events drive most outcomes, and what money is really for",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/4_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "psychology-of-money-the-invisible-wealth",
+      "title": "The Invisible Wealth",
+      "description": "Why the richest people often look nothing like what you expect",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/5_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "psychology-of-money-the-art-of-saving",
+      "title": "The Art of Saving",
+      "description": "Building wealth through humility, flexibility, and emotional honesty",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/6_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "psychology-of-money-planning-for-chaos",
+      "title": "Planning for Chaos",
+      "description": "Why the best financial plans are designed to survive the unexpected",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/7_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "psychology-of-money-the-price-of-returns",
+      "title": "The Price of Returns",
+      "description": "Market psychology, bubble mechanics, and the seductive power of pessimism",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/8_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "psychology-of-money-stories-we-tell-ourselves",
+      "title": "Stories We Tell Ourselves",
+      "description": "How narratives shape our finances, and one writer's honest confessions",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/9_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "psychology-of-money-quiz",
+      "title": "Quiz",
+      "description": "Test your knowledge of The Psychology of Money",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/10_202603272103.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    }
+  ],
+  "cards": [
+    {
+      "_id": "95fb70be-4aed-4810-ad9c-c9da9e62acd7",
+      "feedId": "psychology-of-money-your-money-story",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/1_202603272103.jpeg",
+          "title": "Your Money Story",
+          "subtitle": "How personal experience and pure luck shape every financial decision you make"
+        }
+      ]
+    },
+    {
+      "_id": "3b2ca61d-d760-4aec-a9eb-3ad0c5fa52d2",
+      "feedId": "psychology-of-money-your-money-story",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Janitor and the Executive"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel opens his book with two contrasting stories that set the tone for everything that follows. Ronald Read was a gas station attendant in rural Vermont who spent 25 years pumping gas and then 17 years mopping floors at JCPenney. He bought a two-bedroom house for $12,000 at age 38 and held his fraying jacket together with a safety pin rather than replace it. When Read died in 2014 at age 92, his neighbors were stunned to learn he had quietly accumulated nearly eight million dollars. He left $4.8 million to his local hospital and $1.2 million to the town library.\n\nRichard Fuscone could not have been more different. A Harvard-educated executive who rose through the ranks at Merrill Lynch, he retired in his 40s with a fortune large enough to fund a life of philanthropy. He built an 18,000-square-foot mansion in Greenwich, Connecticut, complete with eleven bathrooms, two elevators, two pools, and seven garages. The monthly maintenance alone reportedly exceeded $90,000.\n\nBy 2008, Fuscone was bankrupt. Overleveraged and overextended, he reportedly told a bankruptcy judge that he had no income at all. Meanwhile, Read's steady, unremarkable approach to investing had produced something extraordinary. Housel's argument is simple but powerful: financial success is not a hard science where intelligence guarantees results. It is a soft skill, where patience, humility, and behavior matter far more than knowledge or credentials. A janitor outperformed an executive because the janitor had the right temperament, not the right resume."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "af26c531-b354-4121-ac2c-db27b645000f",
+      "feedId": "psychology-of-money-your-money-story",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Your 0.00000001% Window"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of the most provocative ideas in the book is that each person's direct experience with money represents an incredibly small fraction of what has actually happened in the world. Housel estimates that your personal encounters with inflation, recessions, booms, layoffs, and windfalls make up perhaps 0.00000001% of global financial history, yet those experiences account for roughly 80% of how you think the world works.\n\nThis means a person who grew up in poverty during the 1970s, when inflation eroded savings and uncertainty felt permanent, developed an entirely different relationship with money than someone who came of age during the bull market of the 1990s. The first person might hoard cash and distrust the stock market. The second might be comfortable with risk and eager to invest aggressively. Neither is crazy. Neither is irrational. They are both making perfectly sensible decisions based on radically different life experiences.\n\nHousel points out that economists long assumed people made financial decisions based on rational analysis of data and probabilities. But behavioral research has shown something more human: people make decisions based on their own unique histories, the economic conditions they lived through, and the stories their families told around the dinner table. A child of immigrants who fled financial ruin will save differently than the child of a stockbroker. Understanding this does not make anyone right or wrong. It simply explains why money decisions that seem foolish to one person can feel perfectly logical to another."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1432042f-7ded-4d7a-9848-839af711e267",
+      "feedId": "psychology-of-money-your-money-story",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Bill Gates and the 1-in-a-Million Computer"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "To illustrate how luck and risk are inseparable siblings, Housel tells the story of Bill Gates and his childhood friend Kent Evans. In 1968, when Gates was in eighth grade, he attended Lakeside School in Seattle. This was one of the only high schools in the entire world that had a computer terminal, a Teletype Model 33 ASR connected to a mainframe via a time-sharing arrangement that the school's Mothers' Club had fundraised to buy.\n\nOut of roughly 303 million high school-age students on the planet at that time, Lakeside's 300 students were among the tiny few with access to a computer. Gates became obsessed with programming, spending every spare hour at the terminal. This extraordinary stroke of luck, being born in the right place at the right time to the right parents who could afford Lakeside's tuition, was a necessary condition for Microsoft's eventual creation. No Lakeside, no computer access, no Microsoft. It was that simple and that random.\n\nBut Housel pairs Gates's story with that of Kent Evans, one of Gates's closest friends at Lakeside and by all accounts equally brilliant and driven. Evans never got to build his version of the future. He died in a mountaineering accident before graduating high school. The odds of a high school student dying in a climbing accident are roughly one in a million, almost exactly the same odds as attending a school with a computer in 1968. Gates experienced the lucky side of that coin. Evans experienced the risk side. They are not opposites. They are the same force operating in different directions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b2b50e60-ffc3-44a5-8225-105bedda43b4",
+      "feedId": "psychology-of-money-your-money-story",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Luck-Risk Spectrum"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel extends the Gates-Evans lesson into a broader principle about how people evaluate success and failure. When someone achieves extraordinary financial results, the natural impulse is to study what they did right and replicate it. When someone fails, the impulse is to figure out what they did wrong and avoid it. But this approach assumes that outcomes are entirely the product of decisions, which ignores the enormous role played by forces beyond anyone's control.\n\nThe reality is messier. Every success contains some measure of luck, and every failure contains some measure of risk that was invisible beforehand. This does not mean effort and skill are irrelevant. It means they are necessary but not sufficient. A brilliant business strategy can fail because of a recession that nobody predicted. A mediocre strategy can succeed because it happened to catch a favorable tailwind.\n\nHousel suggests a practical framework for dealing with this reality. When evaluating your own successes, be humble about how much luck contributed. When evaluating your failures, be forgiving about how much risk was involved. And when judging other people's financial outcomes, apply the same generosity. The person who went bankrupt may not have been foolish. The person who became a billionaire may not have been that much smarter than everyone else. Outcomes in finance are distributed along a spectrum of luck and risk, and the endpoints of that spectrum, extreme wealth and extreme ruin, are often influenced more by circumstances than by character or intelligence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "744d6a3f-e02a-4be3-af7d-f41c7eb39c40",
+      "feedId": "psychology-of-money-your-money-story",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Depression Baby and the Boom Child"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel drives his point home by examining how different generations form entirely different financial worldviews based on the era they lived through. Someone born in America in 1970 experienced the stock market increasing tenfold, adjusted for inflation, during their teenage and young adult years. Investing felt natural to them, almost inevitable. Someone born in 1950, by contrast, watched the same market go essentially nowhere during those formative years. For them, stocks felt dangerous and unreliable.\n\nResearch by economists Ulrike Malmendier and Stefan Nagel confirmed this pattern with data. People who grew up during periods of high inflation kept more of their money in cash and bonds for the rest of their lives. People who grew up during stock market booms invested more aggressively, regardless of their age, income, or education level. The economic conditions of your formative years leave a permanent imprint on your financial personality.\n\nThis explains why financial advice so often falls flat. A 70-year-old telling a 25-year-old to be cautious with stocks is speaking from a lifetime shaped by different markets, different crises, and different cultural expectations. The young person's appetite for risk is not reckless; it simply reflects a different set of lived experiences. Housel argues that the first step to better financial thinking is recognizing this bias in yourself and extending grace to others whose financial decisions look different from yours. Nobody is operating with the full picture. Everyone is making decisions through a small, personally shaped window into how money works."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0438202c-e809-4bfd-995d-01dc3f11c966",
+      "feedId": "psychology-of-money-your-money-story",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Nobody's Crazy, Just Different"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The combined lesson of these opening chapters creates a foundation for everything else in the book. If financial behavior is driven more by personal experience than by rational analysis, then judging other people's money decisions is usually a mistake. The day trader, the extreme saver, the person who keeps all their money under the mattress, and the aggressive venture capital investor may all be making the best decisions available to them given the world as they have experienced it.\n\nHousel points to a specific example that illustrates the range. Lottery tickets are disproportionately purchased by the lowest-income households in America. From a spreadsheet perspective, this seems irrational. But for someone who has never had the financial runway to invest, who has never experienced the slow compounding of a retirement account, a lottery ticket represents the only accessible path to a life-changing sum of money. It is not stupidity. It is the rational response to a specific set of circumstances.\n\nSimilarly, wealthy families sometimes make puzzlingly conservative choices, hoarding cash in low-yield accounts when they could easily afford to invest. For someone whose family lost everything in a market crash a generation ago, the emotional logic is clear: the memory of catastrophic loss overrides any spreadsheet argument about expected returns. Housel's first big insight is that financial psychology is autobiography. Your money story is written by the economy you grew up in, the parents who raised you, the crises you survived, and the lucky breaks you caught along the way. Understanding that is the first step to thinking clearly about money."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f0b6c2eb-cd06-4415-a5fd-c09713230d69",
+      "feedId": "psychology-of-money-never-enough",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/2_202603272103.jpeg",
+          "title": "Never Enough",
+          "subtitle": "The most dangerous financial skill is failing to know when to stop"
+        }
+      ]
+    },
+    {
+      "_id": "2a463149-2dc3-477a-89c8-4e26d891615f",
+      "feedId": "psychology-of-money-never-enough",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Party on Shelter Island"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel introduces his chapter on the concept of \"enough\" with an anecdote retold by Vanguard founder John Bogle. At a lavish party hosted by a billionaire hedge fund manager on Shelter Island, the novelist Kurt Vonnegut nudged his friend Joseph Heller, author of Catch-22, and pointed out that their host had made more money in a single day than Heller had earned from his famous novel over its entire publication history.\n\nHeller's response was immediate and calm: he said he had something the billionaire would never have. Enough. That single word captures what Housel considers one of the most critical and most neglected concepts in personal finance. The ability to recognize when you have what you need, and to stop chasing more, is extraordinarily rare among people who have achieved financial success. In fact, Housel argues, it may be the hardest financial skill of all.\n\nThe reason it is so hard is that financial ambition has a built-in escalator. Once you reach a certain level of wealth, your peer group shifts. You begin comparing yourself not to where you started, but to the people around you at your new level. A person worth ten million dollars feels poor at a dinner party with people worth fifty million. A person worth fifty million feels inadequate next to a billionaire. The goalposts never stop moving, and the gap between what you have and what you want can remain constant even as your wealth multiplies. Housel argues that recognizing this pattern, and consciously choosing to step off the escalator, is one of the most important financial decisions anyone can make."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "62cf202d-cbb4-44dc-b3c1-03d8e7e20903",
+      "feedId": "psychology-of-money-never-enough",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Orphan Who Wanted a Billion"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Rajat Gupta's story reads like a parable about the destruction that comes from not having enough. Born in Kolkata, India, Gupta was orphaned as a teenager. Through extraordinary intelligence and drive, he rose to become CEO of McKinsey, the most prestigious management consulting firm in the world. By his mid-forties, he had amassed a personal fortune estimated at roughly $100 million.\n\nHousel puts that number in perspective. A five percent annual return on $100 million generates nearly $600 per hour, every hour of every day, without lifting a finger. Most people on earth would consider that fortune a permanent guarantee of financial security for generations. But Gupta did not see it that way. He sat on the board of Goldman Sachs alongside billionaires who operated at a different level entirely. His $100 million, life-changing by any objective measure, felt inadequate in their company.\n\nThat dissatisfaction led Gupta to pass confidential Goldman Sachs board information to hedge fund manager Raj Rajaratnam, who used it for insider trading. The scheme was discovered, and Gupta was convicted and sent to prison. He traded a hundred-million-dollar fortune and one of the most respected careers in global business for the chance at a level of wealth he could never quite reach. Housel does not tell this story to mock Gupta. He tells it to illustrate a universal vulnerability: the inability to define enough is not a character flaw unique to greedy people. It is a psychological trap that can catch anyone, no matter how accomplished or intelligent they are."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7f5f1493-58e9-4828-8fab-1cb751f88c42",
+      "feedId": "psychology-of-money-never-enough",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Madoff Paradox"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Bernie Madoff's story adds another dimension to the \"never enough\" problem. Before his name became synonymous with financial fraud, Madoff ran a legitimate and genuinely successful market-making business. His firm was one of the largest on Wall Street, processing billions of dollars in trades and generating substantial, honest profits. By any reasonable standard, Madoff had already won the financial game.\n\nYet he constructed one of the largest Ponzi schemes in history, defrauding thousands of investors out of an estimated $65 billion in stated returns. The scheme eventually collapsed in 2008, destroying the savings of charities, pension funds, and individual investors who had trusted him. Madoff was sentenced to 150 years in prison, where he died in 2021.\n\nHousel's point is not simply that Madoff was dishonest. It is that Madoff had no rational need for the additional money. His legitimate business already generated enormous wealth. The Ponzi scheme was not born out of desperation but out of the same inability to say \"this is enough\" that ensnared Rajat Gupta. The pattern Housel identifies is consistent: people who have achieved remarkable financial success and then destroyed themselves were not usually stupid or incompetent. They were unable to stop. They confused the process of accumulating money with the purpose of money itself, and in doing so, they risked everything they had for something they did not need."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2ecac484-b5e4-4649-8d04-259dfc97c3e5",
+      "feedId": "psychology-of-money-never-enough",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Moving Goalposts"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel argues that the \"never enough\" problem is not limited to billionaires and executives. It operates at every income level through a mechanism he calls moving goalposts. The basic pattern is straightforward: you set a financial goal, you achieve it, and then you immediately set a new, higher goal. The satisfaction of reaching each milestone evaporates almost instantly because your reference point has shifted.\n\nA young professional might dream of earning $100,000 a year. When they reach it, the goal becomes $200,000. At $200,000, they notice colleagues earning $500,000 and feel dissatisfied. The lifestyle that once seemed luxurious now feels baseline. This is not a failure of discipline or character. It is a well-documented feature of human psychology called hedonic adaptation, where people quickly return to a baseline level of satisfaction regardless of positive changes in their circumstances.\n\nThe social comparison dimension makes it even more powerful. In an age of social media, where curated displays of wealth are constant and unavoidable, the reference group against which people measure themselves keeps expanding. You are no longer comparing your finances to your neighbors or coworkers. You are comparing them to everyone visible in your digital world, including people whose displayed wealth may be entirely financed by debt.\n\nHousel's prescription is deceptively simple: define what \"enough\" means for you and write it down. Enough is not a number you will naturally arrive at. It is a conscious decision you have to make, and it requires resisting the constant pull of comparison that modern life makes almost impossible to avoid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "574f0cf5-fd36-464e-a5bc-2de1ab620dcf",
+      "feedId": "psychology-of-money-never-enough",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "What You Risk When You Chase More"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel closes this section by reframing the cost of never having enough. The conventional way to think about financial risk is in terms of money lost: a bad investment, a failed business, a market crash. But Housel argues that the deepest risk of insatiability is not financial. It is the destruction of things that money cannot replace: reputation, freedom, family relationships, peace of mind, and the ability to sleep soundly.\n\nWarren Buffett captured this idea when he observed that it is foolish to risk what you have and need in pursuit of what you do not have and do not need. The statement sounds obvious, but Housel points out that people violate this principle constantly. An executive with a secure fortune engages in insider trading. A successful fund manager runs a Ponzi scheme. A stable family goes deep into debt to upgrade to a house they cannot afford. In each case, the person gambled something irreplaceable, their security, their integrity, their relationships, for a marginal increase in something they already had enough of.\n\nThe chapter ends with a simple but powerful idea: the hardest financial skill is not earning more or investing better. It is getting the goalposts to stop moving. It is learning to be satisfied with what you have before the desire for more puts everything at risk. Housel does not argue against ambition. He argues against unexamined ambition, the kind that keeps pushing without ever pausing to ask whether the destination is worth what it costs to get there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "bd022bb8-ea4f-41cf-966b-40b86417edc7",
+      "feedId": "psychology-of-money-the-magic-of-compounding",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/3_202603272103.jpeg",
+          "title": "The Magic of Compounding",
+          "subtitle": "Why time, not talent, is the most powerful force in building wealth"
+        }
+      ]
+    },
+    {
+      "_id": "ebd86128-97e1-47df-9e20-4c5772694845",
+      "feedId": "psychology-of-money-the-magic-of-compounding",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Warren Buffett's Real Secret"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Warren Buffett is widely regarded as the greatest investor of all time, and the numbers behind his reputation are staggering. When Housel wrote this book, Buffett's net worth stood at approximately $84.5 billion. The striking detail is not the size of the fortune itself but how it accumulated over time. Of that $84.5 billion, a full $84.2 billion was earned after Buffett's 50th birthday. And $81.5 billion came after he turned 65.\n\nBuffett began serious investing at the age of 10 and became a millionaire by 30. He has been investing continuously for more than seven decades. If he had started investing at age 30, a perfectly normal starting point, and retired at 60, also perfectly normal, his net worth, even with the same extraordinary annual returns of roughly 22%, would have been approximately $11.9 million. That is a remarkable sum, but it is not the stuff of global legend. The difference between $11.9 million and $84.5 billion is not skill or strategy. It is time.\n\nHousel argues that this is the most underappreciated fact about Buffett's success. Virtually every article, book, and documentary about Buffett focuses on his investment philosophy, his value-investing framework, his ability to identify great companies. These are real and important skills. But the single most powerful factor in his wealth was that he started young and never stopped. He gave compounding the one ingredient it needs most: decades of uninterrupted time. The lesson is not that you should try to copy Buffett's stock picks. It is that you should start investing early and, above all, not interrupt the process."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "91d8f878-9a60-462b-aa5c-faa0694548a0",
+      "feedId": "psychology-of-money-the-magic-of-compounding",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Buffett vs. Simons: The Time Advantage"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "To drive home how counterintuitive compounding can be, Housel compares Buffett to Jim Simons, the mathematician who founded Renaissance Technologies and achieved the highest known compound annual growth rate in investing history. Simons averaged roughly 66% returns per year, triple Buffett's approximately 22% annual rate. By any measure of investment skill, Simons was the superior performer.\n\nYet at the time Housel was writing, Buffett's net worth was roughly 75% greater than Simons's. Simons had approximately $21 billion while Buffett had $84.5 billion. The reason is time. Simons did not begin serious investing until he was around 50 years old. Buffett started at 10. That 40-year head start, even at a much lower annual return, produced dramatically more wealth because of how compounding works.\n\nThe thought experiment becomes truly mind-bending when you run the numbers in the other direction. If Jim Simons had earned 66% returns for the same 70-plus years that Buffett has been investing, his wealth would theoretically have reached approximately $63.9 quintillion. That number is so enormous it is essentially meaningless, but it perfectly illustrates Housel's point: compounding is not a linear process. It is exponential, and exponential processes produce results that the human mind consistently fails to grasp intuitively.\n\nThis is why Housel considers compounding the most important force in finance. People dramatically underestimate what long stretches of time can produce because the early years of compounding look boring and unimpressive. The magic only becomes visible after decades, which is precisely why so few people stick around long enough to experience it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ee7dc997-6cdd-4aad-8c6b-4b0a4fa60728",
+      "feedId": "psychology-of-money-the-magic-of-compounding",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "How Ice Ages Begin"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of Housel's most memorable analogies compares financial compounding to the formation of ice ages. Most people imagine that ice ages are caused by brutally cold winters that freeze the planet. But climate scientists have a more surprising explanation. Ice ages do not begin with extreme cold. They begin with summers that are just slightly cooler than normal, cool enough that the previous winter's snow does not fully melt.\n\nThat leftover snow makes the ground more reflective, which bounces away a bit more sunlight the following summer, which makes that summer slightly cooler still, which leaves a bit more snow unmelted the following year. The cycle feeds on itself, each iteration barely noticeable, until eventually glaciers several miles thick cover entire continents. The transformation from normal climate to ice age is not the product of one dramatic event. It is the accumulation of tiny, barely perceptible changes compounding over thousands of years.\n\nHousel uses this analogy to explain why compounding is so difficult for humans to appreciate. When you save or invest a small amount each month, the progress feels negligible. After one year, the difference is barely noticeable. After five years, it is modest. The temptation to give up and try something more dramatic, a risky bet, a speculative investment, a lottery ticket, is strong because the patient approach seems to produce nothing. But just like the ice age, the compounding is happening beneath the surface. The breakthrough arrives not when you make a brilliant decision, but when the accumulated weight of years of small, consistent decisions suddenly becomes visible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e8e7da71-9bf9-42f0-955d-3d6f7f151dd1",
+      "feedId": "psychology-of-money-the-magic-of-compounding",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Getting Wealthy vs. Staying Wealthy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel makes a sharp distinction between two skills that people often assume are the same: getting money and keeping it. Getting money requires optimism, risk-taking, and boldness. You have to believe that things will work out, that your investment will pay off, that your business will succeed. Without that forward-leaning confidence, you would never take the first step.\n\nKeeping money, however, requires an entirely different personality. It requires humility, the acknowledgment that some of your success was due to luck and could reverse at any time. It requires frugality, the willingness to live below your means even when you can afford more. And it requires a healthy dose of fear, the nagging awareness that what you have built could be taken away by forces you cannot predict or control.\n\nThe problem is that these two skill sets are almost contradictory. The bold optimism that helps you build a fortune can become reckless overconfidence that destroys it. The careful paranoia that protects a fortune can prevent you from building one in the first place. Housel argues that the best financial outcomes belong to people who can hold both mindsets simultaneously: optimistic enough to invest and take calculated risks, but paranoid enough to build buffers, avoid excessive leverage, and never assume that good times will last forever.\n\nThis duality explains why so many people who get rich do not stay rich. They apply the getting-wealthy mindset to the staying-wealthy problem, taking bigger and bigger risks because the past has rewarded risk-taking. They forget that survival, not maximization, is what allows compounding to work its magic over decades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4131b4a8-a70e-4d8b-9e0b-be45f873d073",
+      "feedId": "psychology-of-money-the-magic-of-compounding",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Jesse Livermore's $3 Billion Trade"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Jesse Livermore is one of the most legendary figures in stock market history, and Housel uses his story as a cautionary example of someone who mastered getting wealthy but failed at staying wealthy. Born in 1877, Livermore became one of the most successful traders in early 20th-century America. By the age of 30, he had accumulated the inflation-adjusted equivalent of roughly $100 million.\n\nHis defining moment came in 1929, when he shorted the stock market just before the crash that triggered the Great Depression. That single trade earned him the equivalent of approximately $3 billion in today's money. It was arguably the greatest individual trade of the 20th century. Livermore was on top of the financial world, richer than almost anyone alive.\n\nBut the same aggressive, high-conviction trading style that produced that fortune also made Livermore susceptible to catastrophic losses. Flush with confidence from his success, he continued making increasingly large and leveraged bets. The market eventually turned against him, and his fortune evaporated. He went bankrupt. Livermore's story did not end with a comeback. He tragically took his own life in 1940.\n\nHousel's point is not that Livermore was a bad investor. He was clearly gifted. The problem was that his approach had no room for survival. He bet so aggressively that a single bad stretch could erase everything. Compare this to Buffett, whose moderate returns sustained over decades produced far more wealth than Livermore's spectacular but unsustainable approach. The lesson is that planning to survive, even if it means accepting lower returns, is the most important investment strategy of all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d67e215a-5d1f-4eec-aacb-0821b4bbd865",
+      "feedId": "psychology-of-money-the-magic-of-compounding",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Rick Guerin and the Margin Call"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "To further illustrate the difference between getting wealthy and staying wealthy, Housel tells the story of Rick Guerin, the often-forgotten third partner alongside Warren Buffett and Charlie Munger. In the early 1970s, Guerin was part of their inner circle. He was involved in significant deals, including Berkshire Hathaway's 1972 acquisition of See's Candy for $25 million. He had access to the same ideas, the same opportunities, and the same investment philosophy as Buffett and Munger.\n\nBut Guerin differed from his partners in one critical way: he was in a hurry to get rich. Rather than allowing his investments to compound patiently, Guerin used leverage, borrowing money through margin loans to amplify his returns. When the market was going up, this strategy supercharged his gains and made him wealthier faster.\n\nThen the 1973-1974 bear market arrived, with stocks dropping nearly 70%. The margin calls came, and Guerin was forced to sell his Berkshire Hathaway shares to Buffett at under $40 per share to cover his debts. Those shares would eventually be worth hundreds of thousands of dollars each. Buffett later summarized the difference between his approach and Guerin's: he and Munger always knew they would become incredibly wealthy, but they were never in a hurry. Guerin wanted the same destination but could not tolerate the slow pace of the journey. That impatience cost him a fortune that, had he simply held on, would have made him one of the wealthiest people in America. Survival always beats speed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5be50533-dc35-4fde-9c75-27664c9dfe0d",
+      "feedId": "psychology-of-money-tails-and-freedom",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/4_202603272103.jpeg",
+          "title": "Tails and Freedom",
+          "subtitle": "How a few outlier events drive most outcomes, and what money is really for"
+        }
+      ]
+    },
+    {
+      "_id": "fa26472a-0eef-4395-a442-61b7982d7c9f",
+      "feedId": "psychology-of-money-tails-and-freedom",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Art Dealer Who Fled the Nazis"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Heinz Berggruen was born in Berlin in 1914 and fled Germany in 1936 as the Nazi regime tightened its grip. He eventually settled in the United States, where he began working as an art dealer. Over the following decades, Berggruen bought and sold thousands of pieces of art. The vast majority of those transactions involved works of modest value, pieces that generated small profits or sometimes losses. By the standards of any individual transaction, most of his career was unremarkable.\n\nBut among those thousands of purchases were a handful of extraordinary acquisitions. When Berggruen sold part of his collection to the German government in 2000, the sale included 85 paintings by Pablo Picasso, along with works by Paul Klee, Henri Matisse, Georges Braque, and Alberto Giacometti, a total of 165 pieces valued at over one billion dollars. The sale was partly a gesture of reconciliation with the country he had fled six decades earlier, but it also represented a stunning concentration of value.\n\nHousel uses Berggruen's story to introduce one of the most counterintuitive ideas in finance: the concept of tail events. A small number of outlier outcomes, the tails of the distribution, can account for the vast majority of total results. Berggruen did not need every painting to be a masterpiece. He needed a few Picassos and Matisses scattered among thousands of unremarkable works. The handful of extraordinary purchases more than compensated for all the mediocre ones combined. This pattern, where a tiny percentage of events drives most of the value, appears everywhere in investing, business, and life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a9085eef-7cc2-467e-a85c-1a11a8259f94",
+      "feedId": "psychology-of-money-tails-and-freedom",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Disney's $1.5 Million Gamble"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Walt Disney spent the first 20 years of his career producing nearly 60 films, and for most of that period, his company was financially struggling. The films generated modest returns at best, and Disney often found himself deep in debt. By 1937, despite two decades of creative work, the Walt Disney Company was not profitable enough to sustain itself.\n\nThen came Snow White and the Seven Dwarfs. Originally budgeted at $250,000, the production spiraled to $1.5 million, a staggering sum during the Great Depression. The Bank of America, which was financing the film, reportedly threatened to shut down production when costs exceeded projections. Disney had to mortgage everything, pouring all of his resources into a single animated feature that Hollywood insiders called \"Disney's Folly.\"\n\nSnow White earned approximately $418 million at the box office. That one film erased all of Disney's accumulated debt, funded the construction of a new studio in Burbank, California, and set the company on the path to becoming one of the most valuable entertainment enterprises in history. Housel emphasizes that the 83 minutes of Snow White were all that mattered in the first 20 years of Disney's career. Everything else was noise. The lesson for investors is striking: you do not need to be right most of the time. You need to be spectacularly right occasionally, and you need to have the resilience to survive all the unremarkable periods in between those defining moments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c978a385-7a99-4d8f-a743-ac8b7c17af7c",
+      "feedId": "psychology-of-money-tails-and-freedom",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Venture Capital Truth"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel backs up the tail-events concept with data from the venture capital industry, where the pattern is especially clear. Between 2004 and 2014, approximately 21,000 venture financings were made in the United States. Of those, 65% lost money. More than half of all venture investments failed to return the capital invested. Only 2.5% earned 10 to 20 times the initial investment, and just 1% earned more than 20 times. The most extreme tail, investments that returned 50 times or more, represented only about 0.5% of all deals, roughly 100 companies out of 21,000.\n\nYet those 100 companies drove the overwhelming majority of the entire venture capital industry's returns. Without them, venture capital as a whole would have been a poor investment. The entire business model of venture capital depends not on most investments succeeding, but on a tiny handful producing returns large enough to cover all the failures many times over.\n\nHousel argues that this same pattern applies far beyond venture capital. Public stock markets work the same way. A study of the Russell 3000 index found that 40% of all component stocks lost at least 70% of their value from peak and never recovered. Yet the index as a whole returned over 73 times its value over the study period because a small number of massive winners more than compensated for the losers. Understanding this principle changes how you think about investment portfolios. Diversification is not just about reducing risk. It is about ensuring you own the handful of tail events that will drive most of the returns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ab689ecc-f93c-4e69-970d-fad7968d51c4",
+      "feedId": "psychology-of-money-tails-and-freedom",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "You Can Be Wrong Half the Time"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The liberating implication of tail events is that you do not need to be right about most of your financial decisions in order to do well over time. Housel argues that this is deeply counterintuitive for most people, who assume that successful investing means making the right call on every stock, every market move, every financial decision.\n\nIn reality, many of the most successful investors have been wrong far more often than they have been right. Peter Lynch, who ran Fidelity's legendary Magellan Fund, once said that if you are right six out of ten times in investing, you are doing brilliantly. The key is that the six winners produce enough gain to overwhelm the four losers. This is the mathematics of tail events playing out at the portfolio level.\n\nFor the average person, this principle is freeing. You do not need to predict the next big stock. You do not need to time the market correctly. You do not need to avoid every bad investment. What you need is a diversified portfolio that gives you exposure to the full range of possible outcomes, including the extreme positive ones. The mistakes will take care of themselves as long as you stay in the game long enough for the occasional extraordinary winner to appear. Housel suggests that the emotional ability to tolerate being wrong on many individual investments, without panic-selling or abandoning your strategy, is actually more important than the intellectual ability to identify good investments. Patience and resilience, not brilliance, are the real competitive advantages."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a0b2f8fb-806f-4b7b-abbf-ad623dd7dd90",
+      "feedId": "psychology-of-money-tails-and-freedom",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Highest Dividend"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel pivots from the mathematics of investing to its purpose. What is money actually for? His answer is unambiguous: the highest form of wealth is the ability to wake up every morning and say \"I can do whatever I want today.\" Controlling your time, the freedom to choose how you spend your hours, who you spend them with, and when you start and stop working, is the single greatest dividend that money pays.\n\nResearch on happiness consistently supports this claim. Studies have found that the strongest predictor of positive well-being is not income level, career prestige, or material possessions. It is the sense of having control over your daily life. A person who earns a modest salary but has complete autonomy over their schedule tends to report higher life satisfaction than a person earning many times more who feels trapped by obligations, meetings, and the demands of others.\n\nHousel connects this to a broader cultural problem. As the developed world has grown wealthier over the past several decades, people have not necessarily become happier. One reason is that many high-paying jobs have traded money for time. The executive earning $500,000 a year but answering emails at midnight and flying to meetings every weekend has purchased income at the expense of freedom. Housel argues that this trade is usually a bad one. The money that matters most is not the money that buys things. It is the money that buys time. And the best financial strategy is one that prioritizes independence, the ability to do what you want, when you want, with the people you want, for as long as you want."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3fd5b532-df2c-4ce4-aea4-2e82e61b02b5",
+      "feedId": "psychology-of-money-tails-and-freedom",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "What Money Is Really For"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel extends the freedom argument with a specific observation about how people miscalculate the value of money. When most people fantasize about becoming wealthy, they picture specific purchases: a bigger house, a luxury car, exotic vacations, designer clothes. These are visible, tangible markers of success. But Housel argues that the true value of wealth lies in something invisible: optionality.\n\nMoney that gives you options, the ability to leave a bad job, to take a year off, to say no to projects that drain you, to help a family member in crisis, is worth far more than money spent on things. A person with a million dollars in the bank and a modest lifestyle has something that a person earning a million dollars a year and spending it all does not: the freedom to walk away from anything that does not serve them.\n\nThis is why Housel distinguishes sharply between being rich and being free. Being rich means having a high current income. Being free means having enough accumulated savings that you are not dependent on any single source of income, any employer, or any client. Some of the most free people Housel has met earn relatively little but have saved aggressively. Some of the most trapped people he has met earn enormous sums but have structured their lives around expenses they cannot reduce.\n\nThe chapter closes with a reminder that every dollar you save is a piece of your future freedom. Every dollar you spend is a piece of your freedom exchanged for something else. Whether that trade is worth it depends entirely on whether the thing you are buying matters more to you than the time and autonomy you are giving up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "58e4456d-cb8d-476a-8a3f-066b16736252",
+      "feedId": "psychology-of-money-the-invisible-wealth",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/5_202603272103.jpeg",
+          "title": "The Invisible Wealth",
+          "subtitle": "Why the richest people often look nothing like what you expect"
+        }
+      ]
+    },
+    {
+      "_id": "d32b24f7-08d5-4dae-ac53-35315c96df9f",
+      "feedId": "psychology-of-money-the-invisible-wealth",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Man in the Car"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of the most frequently cited ideas from the book is what Housel calls the Man in the Car Paradox. Imagine you see someone driving a brand-new, gleaming luxury car down the street. What is your first thought? According to Housel, it is almost never admiration for the driver. Instead, it is a projection: \"If I had that car, people would think I'm cool.\" You do not think about the person behind the wheel. You think about yourself behind the wheel.\n\nThis paradox reveals something important about the relationship between spending and respect. Many people spend money on visible displays of wealth, expensive cars, designer watches, impressive homes, because they believe these things will earn them admiration and respect from others. But the admiration they crave almost never materializes in the way they expect. When someone sees your luxury car, they are not admiring you. They are using you as a prop in their own fantasy.\n\nHousel argues that this is not a cynical observation but a factual one. Think about the last time you saw someone in a beautiful car. Can you remember the driver's face? Do you know their name? Do you feel genuine respect for them? Almost certainly not. You briefly imagined yourself in their position and then moved on. The person who spent $150,000 on that car hoping to be admired has purchased something that functions as other people's daydream material. The respect they sought was never actually directed at them. It landed on an object, not a person. Understanding this paradox can fundamentally change how you think about spending."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2cf71365-a4e9-4b1e-9366-8fc36d935d24",
+      "feedId": "psychology-of-money-the-invisible-wealth",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Admiration You Actually Want"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel extends the Man in the Car Paradox into a broader lesson about what actually earns respect and admiration. If spending money on flashy possessions does not generate genuine admiration, then what does? Housel suggests that the qualities people genuinely respect, kindness, humility, generosity, competence, integrity, are almost never purchased. They are demonstrated through behavior.\n\nA person who lives modestly and gives generously tends to earn more lasting respect than a person who lives lavishly and gives nothing. A person who shows up consistently, treats others well, and handles adversity with grace generates far more genuine admiration than someone who broadcasts their wealth. The irony is thick: the fastest way to earn the respect that expensive possessions are supposed to buy is to spend less and behave better.\n\nThis connects to a deeper point Housel makes about the difference between looking wealthy and being wealthy. When you spend money to signal success, you are converting wealth, the actual financial resources that give you security and freedom, into appearances. Every dollar spent on status signaling is a dollar that is no longer working for you, no longer compounding, no longer available to buy you time and options. The trade is almost always a bad one.\n\nHousel is careful not to argue against all spending or all enjoyment of material things. His point is narrower and more specific: if the primary reason you are buying something is to impress others, you should recognize that the strategy rarely works as intended. The admiration you actually want, the kind that is deep, personal, and lasting, has nothing to do with what you own and everything to do with who you are."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0b9d2d76-a313-4606-a837-36fd0ef76606",
+      "feedId": "psychology-of-money-the-invisible-wealth",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Rihanna's Missing Millions"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "To illustrate the difference between earning money and keeping it, Housel turns to an unexpected example: the pop star Rihanna. In 2009, Rihanna discovered that she had lost approximately 82% of her wealth in a single year. Her income during that period had been enormous by any standard, tens of millions of dollars from albums, tours, and endorsements. But the money was gone.\n\nShe sued her financial advisor for gross mismanagement. His defense included a remark that became one of the book's most memorable lines: he questioned whether it was really necessary to explain to a client that if you spend money on things, you end up with the things and not the money. The advisor's comment was dismissive, but it accidentally captured something real. The distinction between income and wealth is one that even very intelligent, very high-earning people routinely miss.\n\nHousel uses this story to transition into one of the book's most important ideas: the difference between being rich and being wealthy. Being rich is about your current income, how much money flows into your accounts each month. Being wealthy is about the money you have not spent, the financial resources you have accumulated by consistently spending less than you earn. A person driving a $100,000 car might be rich, with income high enough to afford the payments. Or they might be broke, with nothing in the bank because every dollar went to visible consumption. You cannot tell from the outside. That ambiguity is exactly the point. Wealth is invisible by definition because it is the money that remains unspent and unseen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "65a21721-8d89-4b9e-a508-25fccc41cc93",
+      "feedId": "psychology-of-money-the-invisible-wealth",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Stealth Millionaire"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ronald Read's story, introduced at the beginning of the book, becomes even more powerful in the context of invisible wealth. Read wore a frayed jacket held together with a safety pin. He drove a used car. He lived in the same modest two-bedroom house he bought for $12,000. Nothing about his appearance, his lifestyle, or his daily routine suggested he was anything other than an ordinary retiree living on a modest pension.\n\nYet when he died at 92, his estate revealed nearly $8 million in stock market investments. His secret was not sophisticated financial knowledge or access to special investment vehicles. He bought shares in well-known, blue-chip companies like Procter and Gamble, JPMorgan Chase, General Electric, and Johnson and Johnson, and then he held them. For decades. Through every market crash, every recession, every period of uncertainty, Read simply refused to sell. The compounding did the rest.\n\nRead is the purest embodiment of Housel's argument that wealth is what you do not see. His neighbors had no idea he was wealthy because wealth, by nature, is invisible. It is the car not bought, the house not upgraded, the vacation not taken. This invisibility is what makes wealth so difficult to learn from. You can easily study how rich people spend money because spending is visible. But you cannot study how wealthy people save money because saving is the absence of visible activity. Read's story serves as a powerful reminder: the most impressive financial achievement is often the one that nobody notices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f6830280-6952-4471-8d11-b2a051b44852",
+      "feedId": "psychology-of-money-the-invisible-wealth",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Wealth You Cannot See"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel connects these ideas into a broader observation about modern culture's relationship with money. We live in a world that constantly celebrates consumption. Social media amplifies the visibility of spending, showcasing vacations, cars, homes, clothing, and dining experiences in a relentless stream. The result is a culture where wealth is almost universally conflated with spending, where having money and displaying money are treated as the same thing.\n\nBut they are opposites. Spending depletes wealth. Saving builds it. Every visible display of financial success represents money that has been converted from wealth to consumption, from hidden resources that compound over time into objects that depreciate. Housel does not moralize about this. He simply points out the mathematical reality: the more of your income you spend, the less wealth you accumulate, regardless of how high that income is.\n\nThis creates a paradox that most people never resolve. The person you admire for their expensive lifestyle may actually have less financial security than the person you overlook because they live modestly. The surgeon earning $400,000 a year who spends $380,000 has less wealth-building potential than the teacher earning $60,000 who saves $15,000. Income matters, but the gap between income and spending matters far more.\n\nHousel closes with a simple insight: if you want to understand how to build wealth, stop looking at what wealthy people buy and start looking at what they do not buy. The practice of wealth is not accumulation in the traditional sense. It is restraint. It is the conscious, daily decision to leave money unspent, knowing that its greatest value lies not in what it can purchase today, but in the freedom and security it provides tomorrow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "25f9f988-2a79-4e16-9feb-823bad7ebe19",
+      "feedId": "psychology-of-money-the-art-of-saving",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/6_202603272103.jpeg",
+          "title": "The Art of Saving",
+          "subtitle": "Building wealth through humility, flexibility, and emotional honesty"
+        }
+      ]
+    },
+    {
+      "_id": "d1e482ca-8be9-455d-9958-fd1565cb1b13",
+      "feedId": "psychology-of-money-the-art-of-saving",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Save Without a Reason"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Most conventional financial advice tells you to save for something specific: a down payment, retirement, an emergency fund with three to six months of expenses. Housel pushes back on this framework. He argues that one of the most powerful financial strategies is saving money without any particular goal in mind. Saving simply for the sake of saving, for the flexibility and options it provides, is valuable in itself.\n\nThe reason is that the most important financial events in your life are almost impossible to predict. You cannot know in advance when you will lose your job, when a health crisis will strike, when an extraordinary opportunity will appear, or when the economy will shift in a way that changes your circumstances. Savings without a specific purpose become a universal buffer against all of these unknowns. They give you the ability to respond to whatever life throws at you without being forced into desperate decisions.\n\nHousel also makes an argument about the relationship between savings and humility. He suggests that one of the most effective ways to increase your savings rate is not to earn more money but to reduce your need for external validation. When you stop spending money to signal status, when you become comfortable driving an older car, living in a smaller home, or wearing unremarkable clothes, your expenses drop dramatically. This does not happen because you are depriving yourself. It happens because you have redefined what success looks like.\n\nThe savings rate, not the investment return rate, is the variable most within your control. You cannot control what the stock market does, but you can control the gap between what you earn and what you spend."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6c69f2d5-904d-4974-8f39-8eedd6d50469",
+      "feedId": "psychology-of-money-the-art-of-saving",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Humility Dividend"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel identifies a specific psychological mechanism that separates high savers from low savers: the ego. People who save a large portion of their income tend to have a lower desire to impress others. People who save very little, even when their income is high, tend to spend heavily on things that signal status. The common thread is not discipline but identity, what you believe your spending says about you to the world.\n\nWhen your sense of self-worth is tied to how others perceive your lifestyle, every spending decision becomes an identity decision. A cheaper car is not just a financial choice, it is a statement about who you are, and for many people, that statement feels uncomfortable. The result is a lifestyle that expands to fill whatever income is available, a phenomenon known as lifestyle inflation.\n\nHousel suggests that the antidote to lifestyle inflation is not willpower but a shift in values. If you can genuinely internalize the idea that what you own does not define who you are, the desire to spend on status symbols fades naturally. This is not about asceticism or self-denial. It is about recognizing that the security and freedom provided by savings are more valuable than the brief satisfaction of a purchase.\n\nThe practical implication is striking. Two people with identical incomes can have completely different financial trajectories based solely on their relationship with ego and status. The one who needs less external validation will accumulate dramatically more wealth over time, not because they are more intelligent about investing, but because they spend less on things that do not matter. The humility dividend is one of the most reliable returns available."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "92a86f37-61d7-418f-8640-8df6d25121e1",
+      "feedId": "psychology-of-money-the-art-of-saving",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Nobel Winner Who Ignored His Own Formula"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Harry Markowitz won the Nobel Prize in Economics in 1990 for developing Modern Portfolio Theory, a mathematical framework for constructing optimally diversified investment portfolios. His work showed how to calculate the exact mix of stocks and bonds that would maximize returns for any given level of risk. It was one of the most influential contributions to financial theory in the 20th century.\n\nWhen asked how he invested his own money, Markowitz's answer surprised everyone. Rather than applying his own formula to construct the theoretically optimal portfolio, he simply split his money 50/50 between stocks and bonds. His reason was disarmingly honest: he wanted to minimize future regret. If stocks crashed, he would be glad he had bonds. If stocks soared, he would be glad he had stocks. The simple split let him sleep at night.\n\nHousel finds this story deeply revealing. The person who literally invented the math for rational portfolio optimization chose an approach that was emotionally comfortable over one that was mathematically optimal. This is not because Markowitz was being lazy or hypocritical. It is because he understood something that his own equations could not capture: the best financial plan is one you can actually follow through on, even when markets are chaotic and fear takes over.\n\nThis is Housel's distinction between rational and reasonable. A rational plan maximizes expected returns based on historical data and probability. A reasonable plan accounts for the fact that you are a human being with emotions, biases, and limits. In practice, reasonable almost always beats rational because it has the crucial quality of sustainability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8314260c-36a6-4e7f-8dbd-3ad7e877c6cb",
+      "feedId": "psychology-of-money-the-art-of-saving",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Reasonable Beats Rational"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel builds on the Markowitz story to develop a broader principle: in personal finance, being reasonable is more effective than being rational. A rational analysis might tell you to invest 100% of your portfolio in stocks because stocks have historically outperformed bonds over long periods. The math is clear, and the historical data supports it. But can you actually follow that strategy?\n\nWhen the market drops 30%, as it periodically does, the rational strategy requires you to do nothing. You must sit still while your portfolio shrinks by hundreds of thousands of dollars, trusting that the math will eventually work out. Most people cannot do this. The emotional distress of watching large losses mount overwhelms rational analysis, and they sell at exactly the wrong moment, locking in losses that a more moderate portfolio would have made easier to endure.\n\nA reasonable strategy acknowledges this reality. It might mean holding some bonds even though they reduce expected returns, because they provide emotional ballast during downturns. It might mean keeping extra cash even though cash loses value to inflation, because the psychological comfort of accessible savings prevents panic decisions. It might mean avoiding investments you do not understand, even if they have strong track records, because the unfamiliarity would make you anxious.\n\nHousel's point is that the gap between the mathematically optimal strategy and the emotionally sustainable one is where most financial failure occurs. People adopt aggressive strategies they cannot psychologically maintain, abandon them during inevitable downturns, and end up worse off than they would have been with a more modest approach they could stick with through thick and thin. The strategy you can maintain for 30 years will nearly always outperform the strategy you abandon after three."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "517a94e1-f85c-4888-a0e4-007bcbb22212",
+      "feedId": "psychology-of-money-the-art-of-saving",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Portfolio That Lets You Sleep"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel synthesizes these ideas into a practical philosophy of financial planning that prioritizes emotional sustainability. The test of a good financial plan, he argues, is not whether it maximizes returns on a spreadsheet. It is whether it allows you to sleep at night, to go about your daily life without constant worry about your investments, and to resist the urge to make impulsive changes during periods of market stress.\n\nThis means different things for different people. For someone who is naturally anxious about money, a good plan might include a larger emergency fund than financial advisors typically recommend. For someone who is tempted to chase the latest hot stock, a good plan might be a boring index fund that removes the temptation of individual stock selection. For someone who is uncomfortable with debt of any kind, a good plan might mean paying off the mortgage early even though the math suggests investing that money would yield higher returns.\n\nIn each case, the \"suboptimal\" choice is actually optimal because it accounts for the most important variable in any long-term financial plan: human behavior. A portfolio that earns 7% annually for 30 years because you never touched it will produce far more wealth than a portfolio that could have earned 10% annually but that you restructured three times during downturns because you could not handle the volatility.\n\nHousel's advice is to stop chasing the perfect strategy and instead find the one you can live with indefinitely. Know yourself. Know your emotional limits. Build a financial plan that respects those limits rather than one that pretends they do not exist. The goal is not to be the smartest investor in the room. It is to be the investor who is still investing in 30 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "baf03afe-9638-45d0-8450-8357009dd433",
+      "feedId": "psychology-of-money-planning-for-chaos",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/7_202603272103.jpeg",
+          "title": "Planning for Chaos",
+          "subtitle": "Why the best financial plans are designed to survive the unexpected"
+        }
+      ]
+    },
+    {
+      "_id": "d174c294-5780-41d8-b371-a9d67d7d9432",
+      "feedId": "psychology-of-money-planning-for-chaos",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "History's Biggest Surprises"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel makes a provocative argument about the limits of using history to predict the future. While studying history is valuable, the most important financial events in history were things that nobody saw coming. The Great Depression, World War II, the post-war economic boom, the tech bubble of the late 1990s, the September 11 attacks, and the 2008 financial crisis were all genuinely surprising when they occurred.\n\nThis matters because people routinely use historical patterns to plan for the future. They look at past market returns, past recession patterns, and past economic cycles and build financial plans around the assumption that the future will resemble the past. Housel argues that this approach misses the most critical point: the events that matter most in finance are precisely the ones that break historical patterns.\n\nIf you had told someone in 1928 that the stock market was about to lose 89% of its value over the next three years, they would have dismissed you as delusional. If you had told someone in 2006 that the global financial system was about to nearly collapse because of subprime mortgages in the American housing market, they would have laughed. These events were not predictable extensions of prior trends. They were genuinely novel developments that defied what anyone thought was possible.\n\nHousel's conclusion is not that you should give up planning. It is that you should plan for the plan not going according to plan. The specific details of the next crisis are unknowable, but the fact that there will be a next crisis is virtually certain. Building a financial life that can withstand unknown shocks is the most reliable path to long-term survival."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f0c4fc8d-24fd-4bee-a11c-5e99acf38cb7",
+      "feedId": "psychology-of-money-planning-for-chaos",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Benjamin Graham's Margin of Safety"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The concept of room for error is not original to Housel. He credits legendary investor Benjamin Graham, the father of value investing and Warren Buffett's mentor, with articulating the principle most clearly. Graham argued that the purpose of a margin of safety is to render the forecast unnecessary. In other words, if you build enough cushion into your financial decisions, you do not need to predict the future accurately.\n\nHousel applies this principle broadly. In investing, room for error means not putting all your money into a single stock, sector, or strategy, no matter how confident you are. It means keeping cash reserves even when cash seems to be losing value to inflation. It means avoiding leverage, because borrowed money eliminates your margin of error entirely.\n\nIn personal finance, room for error means spending less than you can afford even when things are going well. It means maintaining skills and relationships that give you options if your current income source disappears. It means not structuring your life around the assumption that everything will go according to plan, because it never does.\n\nHousel frames this not as pessimism but as realism. Acknowledging that things will go wrong is not a negative outlook. It is an accurate one. The question is not whether you will face unexpected setbacks. It is whether you have built enough cushion to survive them. People who plan for a range of outcomes, including the bad ones, end up better off than people who plan only for the best case, because the best case rarely materializes exactly as imagined."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b7420409-6572-4451-910f-629cd39ff449",
+      "feedId": "psychology-of-money-planning-for-chaos",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "When Geniuses Failed"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel illustrates the catastrophic consequences of ignoring room for error with the story of Long-Term Capital Management, perhaps the most dramatic failure of financial overconfidence in modern history. LTCM was a hedge fund run by 16 of the most accomplished professionals in finance, including two Nobel Prize winners in economics. Collectively, they had more than 350 years of investing experience.\n\nTheir models were mathematically sophisticated, backtested against decades of market data, and built on the same theories that had earned their founders Nobel recognition. By conventional measures, LTCM was the most qualified investment team ever assembled. And they used that confidence to take enormous leveraged positions, borrowing many multiples of their capital to maximize returns.\n\nIn 1998, a series of unexpected events, including a Russian debt default, triggered market movements that LTCM's models had deemed virtually impossible. The fund lost billions in a matter of weeks. The losses were so large and the positions so interconnected with the broader financial system that the Federal Reserve had to coordinate a bailout to prevent systemic collapse. LTCM went bankrupt.\n\nBuffett later commented on episodes like this: people risk what they have and need in pursuit of what they do not have and do not need. LTCM's team was already wealthy. They did not need the additional returns that leverage provided. But they were so confident in their models that they eliminated all room for error. When the world produced an outcome their models had not anticipated, which the world always eventually does, they had no buffer to absorb the shock."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1f6b8e94-c12e-4f8e-8569-695c6c2703d5",
+      "feedId": "psychology-of-money-planning-for-chaos",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The End of History Illusion"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel introduces a fascinating psychological concept called the end of history illusion, which has profound implications for long-term financial planning. Psychologists have found that people readily acknowledge how much they have changed over the past ten years. They can see clearly how their tastes, values, relationships, career goals, and priorities have evolved. But when asked to predict how much they will change over the next ten years, people consistently underestimate it.\n\nIn study after study, people of all ages predicted that they would remain essentially the same person going forward, even while acknowledging that they had been a very different person ten years ago. A 30-year-old can look back and see how different they are from their 20-year-old self but somehow expects their 40-year-old self to be roughly the same as they are now. A 50-year-old recognizes enormous changes since 40 but cannot imagine being fundamentally different at 60.\n\nThis illusion creates serious financial problems. People make long-term financial commitments, taking on a 30-year mortgage, choosing a career track, committing to a city, investing for a specific retirement vision, based on who they are today. But the person who will be living with those decisions in 10 or 20 years will have different priorities, different desires, and different definitions of a good life.\n\nHousel's advice is to build financial flexibility rather than financial precision. Avoid extreme financial plans that assume your goals will remain static. Leave room to change course. The 25-year-old who commits every dollar to an aggressive portfolio designed for retirement at 65 may find at 35 that they want to start a business, move abroad, or take years off. Flexibility is not inefficiency. It is insurance against the inevitable reality that you will change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e26db084-c3f6-4f6e-93dd-04f80611ce1b",
+      "feedId": "psychology-of-money-planning-for-chaos",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Vanderbilt Fortune"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel reinforces the danger of rigid financial planning with the cautionary tale of the Vanderbilt dynasty. When Cornelius Vanderbilt died, his heirs inherited what would be the inflation-adjusted equivalent of roughly $300 billion, one of the largest fortunes in human history. The family was wealthier than most nations.\n\nWithin 50 years, the fortune was essentially gone. A family reunion of 120 Vanderbilt descendants held in 1973 reportedly did not include a single millionaire among them. The wealth had been consumed by lavish spending, enormous estates with unsustainable maintenance costs, and a lifestyle that treated the fortune as inexhaustible. Each generation inherited less and spent more, never adjusting to the reality that even a $300 billion fortune can be depleted when outflows consistently exceed inflows.\n\nHousel notes an ironic detail: Anderson Cooper, the CNN journalist and a Vanderbilt descendant, was one of the first family members who did not receive a trust fund. He built his career independently, on his own terms, and is widely considered one of the happiest members of the family. His mother, Gloria Vanderbilt, intentionally chose not to pass on the kind of inheritance that had trapped and ultimately ruined earlier generations.\n\nThe Vanderbilt story illustrates Housel's broader point that money stops being a tool when it becomes the foundation of your identity. When your lifestyle is built on the assumption that wealth will always be there, you lose the adaptability that financial survival requires. The families and individuals who sustain wealth across generations are not the ones who spend the most lavishly. They are the ones who plan for change, maintain flexibility, and never assume that today's abundance will last forever."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ae5e5fa1-35cc-4fa4-a1f3-7e2a7be24c78",
+      "feedId": "psychology-of-money-planning-for-chaos",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Planning on the Plan Failing"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel's synthesis of these ideas produces a practical philosophy: the most important part of every plan is planning on the plan not going according to plan. This is not contradictory. It simply means acknowledging uncertainty and building systems that can absorb shocks without collapsing.\n\nIn practice, this looks like maintaining a savings buffer larger than you think you need, because you cannot predict the specific emergency that will eventually arrive. It looks like diversifying your investments across different asset classes, because you cannot know which one will underperform. It looks like maintaining skills and professional relationships that give you career options, because you cannot guarantee that your current job or industry will exist in ten years.\n\nHousel also recommends what he calls a barbell approach to financial planning. On one end, be conservative enough to survive the worst-case scenario. Keep enough cash that a prolonged period without income would not force you into desperate decisions. On the other end, be aggressive enough to participate in long-term growth. Invest consistently in diversified assets that will benefit from compounding over decades.\n\nThe people who thrive financially, according to Housel, are not the ones who make the best predictions. They are the ones who need the fewest predictions to be right. By building room for error into every layer of their financial lives, they create a system that can endure whatever happens. This approach may produce lower returns in the best-case scenario, but it dramatically increases the probability of surviving long enough for compounding to do its work. And survival, as Housel has argued throughout the book, is the only strategy that matters in the long run."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "be13950f-587d-42f0-b6a7-9b569915353b",
+      "feedId": "psychology-of-money-the-price-of-returns",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/8_202603272103.jpeg",
+          "title": "The Price of Returns",
+          "subtitle": "Market psychology, bubble mechanics, and the seductive power of pessimism"
+        }
+      ]
+    },
+    {
+      "_id": "a060caf3-65f0-4d06-8cf5-d2fad9927aca",
+      "feedId": "psychology-of-money-the-price-of-returns",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Volatility Is a Fee, Not a Fine"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of Housel's most powerful reframes concerns how people think about market volatility. When the stock market drops 20% or 30%, most investors experience it as punishment. They feel like they have done something wrong, or that the market is penalizing them for being invested. The natural response to punishment is to try to avoid it, which leads to market timing, panic selling, and other behaviors that typically make losses worse.\n\nHousel proposes a different way of thinking about the same phenomenon. Market volatility is not a fine, a penalty you can avoid by being smarter or more careful. It is a fee, the cost of admission that you must pay to participate in long-term stock market returns. Just as you pay an entry fee to visit a theme park and accept it as the cost of having a great time, you should view periodic market drops as the cost of earning the higher returns that stocks offer over bonds, cash, and other safer alternatives.\n\nThis distinction is not just semantic. It fundamentally changes behavior. When you view something as a fine, you try to avoid it. When you view it as a fee, you accept it as a reasonable price for something valuable. Investors who see volatility as a fee are able to ride out downturns without selling, because they understand that the emotional discomfort is simply the price they pay for the long-term compounding they are trying to achieve.\n\nHousel points out that investors who attempt to avoid the fee, by selling before downturns and buying back after, almost universally end up paying more than the original fee would have cost. The toll of bad timing, missed recovery days, and transaction costs usually exceeds the losses that staying invested would have produced."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e906f678-ef74-4bd8-a19b-a879171e6496",
+      "feedId": "psychology-of-money-the-price-of-returns",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Different Players, Different Games"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel identifies what he considers one of the most dangerous dynamics in financial markets: people taking cues from other investors who are playing an entirely different game. This confusion, he argues, is at the root of most financial bubbles and many individual investment mistakes.\n\nConsider two investors looking at the same stock trading at $200 per share. The first is a day trader who plans to hold the stock for a few hours and sell it for $201. For this person, $200 is a perfectly reasonable price because the expected gain is small and the holding period is short. The second is a retiree planning to hold the stock for 20 years as part of a diversified portfolio. For this person, $200 may or may not be reasonable depending on the company's long-term fundamentals.\n\nThe problem arises when the retiree sees the day trader buying aggressively and interprets it as a signal that the stock is a good long-term investment. The day trader's activity has nothing to do with long-term value, but from the outside, it is indistinguishable from genuine long-term conviction. The retiree is taking cues from someone playing a completely different game.\n\nHousel argues that this mechanism explains more about financial bubbles than irrationality does. During the dot-com bubble, short-term traders were acting quite rationally within their own game. Internet stocks were volatile and active, creating excellent conditions for short-term trading profits. The damage occurred when long-term investors mistook this short-term activity for a signal about long-term value and piled in at prices that only made sense for day traders. Knowing which game you are playing, and ignoring the signals from everyone playing a different game, is essential to avoiding this trap."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7a70e94d-edb4-4fd6-bf52-4091d08a7e66",
+      "feedId": "psychology-of-money-the-price-of-returns",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "How Bubbles Really Form"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel's \"different games\" framework provides a compelling explanation for how financial bubbles form and why they are so difficult to resist. The conventional explanation for bubbles is that investors become irrational, caught up in greed and euphoria, buying overpriced assets because they have lost the ability to think clearly. Housel argues that this explanation is incomplete.\n\nIn reality, a bubble often begins with a legitimate trend. During the late 1990s, the internet genuinely was transforming the economy. Amazon and Google were building real businesses that would eventually justify enormous valuations. Short-term traders recognized the opportunity and jumped in, pushing prices higher. Their buying was rational within their timeframe: they planned to hold for days or weeks, not years, and they expected to sell before any correction.\n\nAs prices rose, long-term investors noticed. They saw stock prices climbing and interpreted the activity as validation of the companies' long-term potential. They began buying at prices that only made sense if you were a short-term trader, not realizing that the price signals they were following came from people with completely different goals and timelines.\n\nThis cross-contamination, where long-term investors adopt the pricing set by short-term traders, is the engine of most bubbles. Each group is acting rationally within their own framework, but they are playing different games in the same arena. The bubble pops when long-term investors who bought at short-term prices realize they cannot sell to the next short-term trader. Prices collapse, and long-term investors who should never have bought at those levels bear the heaviest losses. Housel's advice is straightforward: know your timeframe, know your game, and refuse to take cues from anyone playing a different one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a51a7d46-f39b-4eb3-8c52-c279e0f320ce",
+      "feedId": "psychology-of-money-the-price-of-returns",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Seduction of Pessimism"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel devotes an entire chapter to a phenomenon he finds both fascinating and dangerous: the intellectual appeal of pessimism. He observes that pessimistic predictions about the economy, the markets, or the future of civilization consistently receive more attention, more credibility, and more media coverage than optimistic ones. A person who predicts a market crash is treated as thoughtful and serious. A person who predicts continued growth is often dismissed as naive or ignorant of the risks.\n\nThis asymmetry exists because pessimism and optimism operate on different timescales. Bad things tend to happen suddenly and dramatically. A market crash, a pandemic, a financial fraud: these events unfold in days or weeks, producing intense, concentrated attention. Good things tend to happen slowly and incrementally. Economic growth, technological progress, improvements in health and education: these developments unfold over decades, accumulating so gradually that they rarely make headlines.\n\nThe result is that doom feels urgent and credible while progress feels boring and questionable. A headline announcing a 30% market drop feels more real and important than a footnote observing that the market has grown 10,000% over the past century. The pessimist sounds like they are paying attention. The optimist sounds like they are not taking the risks seriously.\n\nHousel argues that this seduction has real financial consequences. Investors who are captured by pessimistic narratives tend to sell during downturns, hold excessive cash, avoid stocks, and miss the compounding that drives long-term wealth creation. The empirical record is overwhelmingly clear: over any sufficiently long period, markets have gone up. But pessimism makes that record feel irrelevant in the moment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4ea12b66-d153-4e0a-8156-3a7e9b7fd22d",
+      "feedId": "psychology-of-money-the-price-of-returns",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Slow Progress, Fast Disaster"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel unpacks the structural reason why pessimism always sounds smarter than optimism. Progress and disaster operate on fundamentally different timescales, and this asymmetry shapes how we perceive them. A company can lose 30% of its market value in a single trading day. Building that value took years. An economy can enter recession in a quarter. The expansion that preceded it lasted a decade. A reputation built over a lifetime can be destroyed by one scandal in a news cycle.\n\nThis asymmetry means that bad news always arrives faster, louder, and more dramatically than good news. It creates the impression that the world is getting worse when the underlying reality may be the opposite. Global poverty has declined steadily for decades. Life expectancy has increased. Access to education, clean water, and basic healthcare has expanded to billions of people. But none of these improvements happened in a single day. They accumulated slowly, invisibly, one small gain at a time.\n\nHousel connects this to a deeper truth about financial markets. The day-to-day experience of being an investor is predominantly negative. Markets spend most of their time either falling or recovering from falls. The long-term upward trend only becomes visible when you zoom out to periods of years or decades. For an investor who checks their portfolio daily, the experience is dominated by volatility and loss. For an investor who checks once a year, the experience is dominated by growth.\n\nThis means that the frequency with which you pay attention to financial news directly affects your emotional relationship with investing. Housel's practical advice: consume less financial news, check your portfolio less often, and remind yourself regularly that the long-term trajectory has been relentlessly positive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "444ad7f3-cff6-40ec-86ca-286b34d37f5c",
+      "feedId": "psychology-of-money-the-price-of-returns",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Long Arc of Optimism"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel is careful to distinguish his position from blind optimism. He does not argue that everything will always be fine or that there are no real risks. He argues that the base rate of progress, the default direction of the world over long periods, has been upward. And that betting against this trend has been a consistently losing strategy.\n\nConsider the American stock market's track record. It has survived the Great Depression, World War II, the Korean War, the Vietnam War, the assassination of a president, an oil embargo, double-digit inflation, the dot-com crash, the September 11 attacks, the 2008 financial crisis, and a global pandemic. Through all of it, $1 invested in the S&P 500 at the beginning of the 20th century grew to roughly $11,000 by the beginning of the 21st century, adjusted for inflation. Every single crisis felt like the end of the world when it was happening. None of them were.\n\nThis does not mean the next crisis will not be different, or that the future is guaranteed. Housel acknowledges genuine risks. His point is probabilistic: the odds favor long-term growth, and the historical pattern of crisis followed by recovery has been remarkably consistent. An investor who bets on long-term optimism while preparing for short-term pessimism has historically been rewarded far more than one who fled to safety at every sign of trouble.\n\nThe practical lesson is to structure your financial life around the high probability of long-term growth while maintaining enough resilience to survive the inevitable short-term disasters. Save like a pessimist, invest like an optimist. This combination, Housel argues, captures the best of both worldviews and produces the best long-term outcomes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "549acc57-fb9c-4ea8-a714-3ecbeb525d9c",
+      "feedId": "psychology-of-money-stories-we-tell-ourselves",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/9_202603272103.jpeg",
+          "title": "Stories We Tell Ourselves",
+          "subtitle": "How narratives shape our finances, and one writer's honest confessions"
+        }
+      ]
+    },
+    {
+      "_id": "7ee60fe2-168c-43d0-9506-db199727e3f7",
+      "feedId": "psychology-of-money-stories-we-tell-ourselves",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "When You'll Believe Anything"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel dedicates a chapter to the power of narratives in shaping financial decisions. The core idea is straightforward but unsettling: the more you want something to be true, the more likely you are to believe a story that overestimates the odds of it being true. This is not a flaw that affects only unintelligent or uneducated people. It is a universal feature of human psychology that operates at every level of wealth and sophistication.\n\nThe mechanism works through incomplete information. Nobody has a complete picture of how the economy works, what drives stock prices, or what the future holds. We all operate with enormous gaps in our knowledge, and we fill those gaps with stories. These stories give us a sense of understanding and control in a world that is fundamentally uncertain. But the stories we choose to believe are heavily influenced by what we want to be true.\n\nA person who has just bought a house will be drawn to narratives about rising property values and be resistant to evidence that the market might decline. A person who has invested heavily in a particular stock will seek out information that confirms their thesis and discount information that contradicts it. These are not conscious choices. They are automatic psychological processes that everyone engages in, often without realizing it.\n\nHousel connects this to the 2008 financial crisis. The prevailing narrative before the crash was that American housing prices always go up. This narrative was not supported by historical evidence, but it was widely believed because millions of people had built their financial plans around it. When you have a mortgage, a career in real estate, or investments tied to housing, the narrative that housing always rises is not just an opinion. It is a psychological necessity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "84100b22-795c-4189-ad4d-418acdadc537",
+      "feedId": "psychology-of-money-stories-we-tell-ourselves",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Stories Behind 2008"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel uses the 2008 financial crisis as a case study in how narratives can distort an entire economy. By the mid-2000s, the story that housing prices always rise had achieved the status of consensus truth. Banks designed lending products around it. Rating agencies evaluated mortgage-backed securities based on it. Regulators accepted it. Individual homebuyers leveraged their finances around it.\n\nThe reality was that American housing prices had experienced significant regional declines multiple times throughout the 20th century. But those declines were not part of the popular narrative. They were obscured by a more appealing story, one that aligned with what millions of people wanted to believe. The national aggregate had not declined simultaneously, which was interpreted as proof that a nationwide decline was impossible, rather than simply something that had not yet happened.\n\nWhen the narrative finally broke, the consequences were catastrophic. Trillions of dollars in wealth evaporated. Millions of people lost their homes. The global financial system came within days of complete collapse. Housel's point is not that the crisis was caused by stupid people making obviously bad decisions. It was caused by intelligent people who were captured by a narrative that felt true because they needed it to be true.\n\nThe lesson Housel draws is humility about our own narratives. Every person carries a set of stories about money, about the economy, about their own financial prospects, that feels like objective truth but is actually constructed from incomplete information and personal desire. The most dangerous financial moments occur when a narrative becomes so widely accepted that questioning it feels absurd. That is precisely when it is most important to ask: am I believing this because the evidence supports it, or because I want it to be true?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "92710b2f-9129-426f-b065-96f7991727a4",
+      "feedId": "psychology-of-money-stories-we-tell-ourselves",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Housel's Money Rules"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In the book's final chapters, Housel drops the advisory tone and offers something more personal: a candid confession about how he actually manages his own money. Given that the entire book argues against judging others' financial decisions, Housel is careful to present his choices as personal preferences, not universal prescriptions. Still, the specifics are revealing.\n\nHousel and his wife own their home outright, with no mortgage. He acknowledges that this is mathematically suboptimal. Given historically low mortgage interest rates, they could almost certainly earn higher returns by investing the money instead of paying off the house. Financial advisors would tell them to carry the mortgage and invest the difference. Housel understands the math perfectly. He does it anyway.\n\nHis reason goes back to the book's central thesis: financial decisions are about behavior, not optimization. Owning his home free and clear provides an emotional sense of security and independence that no spreadsheet calculation can capture. The house cannot be foreclosed on. Nobody can take it away. If his income disappeared tomorrow, his family would still have a roof. That feeling of safety is worth more to him than the few percentage points of return he is sacrificing.\n\nHe also maintains a cash reserve of approximately 20% of his total assets. By most financial standards, this is extremely conservative. Cash loses value to inflation and earns negligible returns. But Housel views it as the ultimate flexibility fund, money that allows him to make decisions without being forced by circumstances. He has never had to sell an investment at a bad time because he needed cash. That psychological freedom, he argues, has probably saved him more money than the higher returns he could have earned by investing it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b47debc1-763e-4329-affb-a3bf2d71750f",
+      "feedId": "psychology-of-money-stories-we-tell-ourselves",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Independence Over Returns"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The investment strategy Housel practices is deliberately simple. He and his wife invest in low-cost index funds, primarily through Vanguard, using a dollar-cost averaging approach where they invest the same amount every month regardless of market conditions. They do not pick individual stocks. They do not try to time the market. They do not use leverage. They do not chase hot sectors or trendy investment themes.\n\nHousel describes himself as a passive investor optimistic in the world's ability to generate real economic growth. He assumes that future returns will be roughly one-third lower than historical averages, which serves as a built-in margin of safety in his financial projections. If returns match historical averages, his family will be pleasantly surprised. If returns are lower, they will still be fine because they planned for it.\n\nThe organizing principle behind all of his financial decisions is independence. Not wealth maximization, not early retirement, not beating the market. Independence: the ability to do what he wants, when he wants, without being constrained by financial obligations. Every dollar saved is a piece of his family's future independence. Every spending decision is evaluated against what it costs in freedom.\n\nThis is Housel putting into practice every lesson the book has laid out. He does not chase more. He does not let ego drive spending. He maintains room for error. He chooses reasonable over rational. He accepts volatility as a fee rather than trying to avoid it. He plays his own game instead of someone else's. The confessions chapter is not just autobiography. It is a proof of concept, demonstrating that the principles of the book are not abstract theory but a livable philosophy that one finance writer has actually adopted in his own life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "af45c8aa-f401-41bb-8e0f-69bee72b9b73",
+      "feedId": "psychology-of-money-stories-we-tell-ourselves",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Post-War Money Mindset"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In the book's postscript, Housel zooms out to explain why Americans think about money the way they do today. The story begins with the Great Depression of the 1930s, when unemployment hit 25% and indulgence was considered almost unpatriotic. Saving was a virtue. Spending was suspicious. An entire generation internalized the lesson that financial security required sacrifice and restraint.\n\nWorld War II reinforced this mindset. Resources were rationed, consumer goods were scarce, and the national culture celebrated frugality as a form of patriotic duty. But when the war ended, something remarkable happened. American soldiers returned to a booming economy with rising wages, cheap housing funded by government programs like the GI Bill, and a manufacturing base that had no global competition because Europe's factories had been destroyed.\n\nThe post-war boom of the 1950s and 1960s created an unprecedented era of shared prosperity. Wages rose across all income levels. A factory worker could afford a home, a car, annual vacations, and college education for their children. The middle class expanded dramatically, and a cultural expectation took hold: everyone in America should be able to live roughly the same lifestyle, regardless of their specific job or education level.\n\nThis expectation, forged during a unique historical moment of broad-based growth, became the baseline against which Americans measured their financial progress for generations. When that growth began to concentrate at the top during the 1980s and beyond, the gap between expectations and reality widened. People felt increasingly anxious about money, not necessarily because they were worse off in absolute terms, but because the cultural promise of shared prosperity was no longer being kept."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "db56fbc7-0357-49bc-82a2-a92240f28164",
+      "feedId": "psychology-of-money-stories-we-tell-ourselves",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Broken Promise"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Housel traces the current anxiety about money in America to the fracturing of the post-war social contract. From roughly 1945 to 1980, wages grew at similar rates across all income levels. A rising tide genuinely lifted most boats. During this era, economic growth felt personal because it was personal: when the GDP grew by 4%, most people saw their own incomes grow by a comparable amount.\n\nStarting in the 1980s, this pattern broke down. Economic growth continued, but the gains concentrated increasingly at the top of the income distribution. Median household income stagnated in real terms while top incomes soared. The economy grew, but most people did not feel it in their daily lives. The cultural expectation that prosperity would be broadly shared persisted long after the reality changed.\n\nThis mismatch between expectation and reality, Housel argues, explains much of the financial stress and dissatisfaction that defines modern American life. People are not necessarily irrational for feeling anxious about money when GDP is growing. They are responding to the accurate perception that the economy is no longer working for them the way it once did, or the way they were promised it would.\n\nHousehold debt surged as people attempted to maintain the lifestyle that previous generations had achieved through wages alone. Credit cards, home equity loans, and student debt became the tools for bridging the gap between stagnant incomes and rising expectations. The financial anxiety that Housel observes in modern America is not primarily a failure of individual financial literacy. It is the predictable consequence of a society whose economic structure changed faster than its cultural expectations could adapt.\n\nHousel ends by returning to the book's central theme: understanding the psychological forces that shape your relationship with money is the first step to making better financial decisions. The goal is not to optimize a spreadsheet. It is to build a financial life that makes sense for who you are, what you have experienced, and what you actually want from the time you have."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0340ccd9-351b-4b44-9435-aecfe4808291",
+      "feedId": "psychology-of-money-quiz",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/1_202603272103.jpeg",
+          "title": "Your Money Story",
+          "subtitle": "How personal experience and pure luck shape every financial decision you make"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What contrast does Housel use to open the book?",
+              "options": [
+                {
+                  "label": "A janitor and a Harvard-educated executive",
+                  "correct": true
+                },
+                {
+                  "label": "Two Wall Street traders with opposite strategies",
+                  "correct": false
+                },
+                {
+                  "label": "A teacher and a Silicon Valley founder",
+                  "correct": false
+                },
+                {
+                  "label": "A lottery winner and a hedge fund manager",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel opens with Ronald Read, a janitor who accumulated $8 million, and Richard Fuscone, a Harvard-educated Merrill Lynch executive who went bankrupt. The contrast illustrates that financial success depends on behavior, not intelligence."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to Bill Gates's equally talented friend Kent Evans?",
+              "options": [
+                {
+                  "label": "He co-founded a rival tech company",
+                  "correct": false
+                },
+                {
+                  "label": "He became a professor at MIT",
+                  "correct": false
+                },
+                {
+                  "label": "He died in a mountaineering accident before graduation",
+                  "correct": true
+                },
+                {
+                  "label": "He moved to Europe and became a diplomat",
+                  "correct": false
+                }
+              ],
+              "explanation": "Kent Evans died in a high school mountaineering accident, a roughly one-in-a-million event. Housel uses this to show that luck and risk are siblings, the same force operating in different directions."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How much was Ronald Read's estate worth when he died?",
+              "options": [
+                {
+                  "label": "About $2 million",
+                  "correct": false
+                },
+                {
+                  "label": "Nearly $8 million",
+                  "correct": true
+                },
+                {
+                  "label": "About $50 million",
+                  "correct": false
+                },
+                {
+                  "label": "About $500,000",
+                  "correct": false
+                }
+              ],
+              "explanation": "Ronald Read accumulated nearly $8 million by buying blue-chip stocks and holding them for decades. He left $4.8 million to his local hospital and $1.2 million to the town library."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Housel, your personal experience with money represents what fraction of global financial history?",
+              "options": [
+                {
+                  "label": "About 1%",
+                  "correct": false
+                },
+                {
+                  "label": "About 0.01%",
+                  "correct": false
+                },
+                {
+                  "label": "About 0.00000001%",
+                  "correct": true
+                },
+                {
+                  "label": "About 10%",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel argues your personal experiences make up perhaps 0.00000001% of global financial history, yet shape roughly 80% of how you think the world works."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Ronald Read's occupation?",
+              "options": [
+                {
+                  "label": "Retired accountant",
+                  "correct": false
+                },
+                {
+                  "label": "Gas station attendant and janitor",
+                  "correct": true
+                },
+                {
+                  "label": "Small business owner",
+                  "correct": false
+                },
+                {
+                  "label": "High school teacher",
+                  "correct": false
+                }
+              ],
+              "explanation": "Read worked as a gas station attendant and mechanic for 25 years, then as a part-time janitor at JCPenney for 17 years. His modest career made his $8 million fortune even more remarkable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "074ef0d8-96f6-4f0d-b179-e94dff8d770e",
+      "feedId": "psychology-of-money-quiz",
+      "order": 1,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/2_202603272103.jpeg",
+          "title": "Never Enough",
+          "subtitle": "The most dangerous financial skill is failing to know when to stop"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who told Joseph Heller at a billionaire's party that their host earned more in a day than Heller earned from Catch-22?",
+              "options": [
+                {
+                  "label": "Warren Buffett",
+                  "correct": false
+                },
+                {
+                  "label": "John Bogle",
+                  "correct": false
+                },
+                {
+                  "label": "Kurt Vonnegut",
+                  "correct": true
+                },
+                {
+                  "label": "Charlie Munger",
+                  "correct": false
+                }
+              ],
+              "explanation": "Kurt Vonnegut pointed out how much the billionaire host earned. Heller responded that he had something the billionaire would never have: enough. The anecdote was retold by Vanguard founder John Bogle."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Rajat Gupta's position before his insider trading conviction?",
+              "options": [
+                {
+                  "label": "CEO of Goldman Sachs",
+                  "correct": false
+                },
+                {
+                  "label": "CEO of McKinsey",
+                  "correct": true
+                },
+                {
+                  "label": "Chairman of the Federal Reserve",
+                  "correct": false
+                },
+                {
+                  "label": "Head of the World Bank",
+                  "correct": false
+                }
+              ],
+              "explanation": "Gupta rose from orphan to CEO of McKinsey, the world's most prestigious consulting firm, amassing roughly $100 million before insider trading landed him in prison."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What legitimate business did Bernie Madoff run before his Ponzi scheme?",
+              "options": [
+                {
+                  "label": "A hedge fund",
+                  "correct": false
+                },
+                {
+                  "label": "A market-making business",
+                  "correct": true
+                },
+                {
+                  "label": "An insurance company",
+                  "correct": false
+                },
+                {
+                  "label": "A real estate firm",
+                  "correct": false
+                }
+              ],
+              "explanation": "Madoff ran a legitimate and successful market-making business that was one of the largest on Wall Street. He had no rational need for the Ponzi scheme, illustrating the destructive power of never having enough."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Housel, what is the hardest financial skill?",
+              "options": [
+                {
+                  "label": "Picking winning stocks consistently",
+                  "correct": false
+                },
+                {
+                  "label": "Getting the goalposts to stop moving",
+                  "correct": true
+                },
+                {
+                  "label": "Calculating compound interest accurately",
+                  "correct": false
+                },
+                {
+                  "label": "Building a diversified portfolio",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel argues that knowing when you have enough, and stopping the goalposts from moving, is the most difficult financial skill because hedonic adaptation and social comparison constantly push the target further away."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Rajat Gupta's approximate net worth before his conviction?",
+              "options": [
+                {
+                  "label": "About $10 million",
+                  "correct": false
+                },
+                {
+                  "label": "About $100 million",
+                  "correct": true
+                },
+                {
+                  "label": "About $1 billion",
+                  "correct": false
+                },
+                {
+                  "label": "About $500 million",
+                  "correct": false
+                }
+              ],
+              "explanation": "Gupta had approximately $100 million, which generated roughly $600 per hour passively. Yet he risked it all for the chance to join the billionaire class."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b86d025b-8391-4b5e-9071-f7c852415ab8",
+      "feedId": "psychology-of-money-quiz",
+      "order": 2,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/3_202603272103.jpeg",
+          "title": "The Magic of Compounding",
+          "subtitle": "Why time, not talent, is the most powerful force in building wealth"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How much of Warren Buffett's $84.5 billion net worth was earned after age 65?",
+              "options": [
+                {
+                  "label": "About $20 billion",
+                  "correct": false
+                },
+                {
+                  "label": "About $50 billion",
+                  "correct": false
+                },
+                {
+                  "label": "About $81.5 billion",
+                  "correct": true
+                },
+                {
+                  "label": "About $84.5 billion",
+                  "correct": false
+                }
+              ],
+              "explanation": "A staggering $81.5 billion of Buffett's wealth came after age 65, demonstrating that the vast majority of compounding returns arrive in the later decades."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Jim Simons achieved 66% annual returns vs. Buffett's 22%, yet Buffett was wealthier. Why?",
+              "options": [
+                {
+                  "label": "Buffett inherited more money",
+                  "correct": false
+                },
+                {
+                  "label": "Buffett started investing decades earlier",
+                  "correct": true
+                },
+                {
+                  "label": "Simons lost money in the 2008 crash",
+                  "correct": false
+                },
+                {
+                  "label": "Buffett took higher risk",
+                  "correct": false
+                }
+              ],
+              "explanation": "Buffett started at age 10 while Simons began around 50. That 40-year head start, even at lower annual returns, produced dramatically more wealth due to the exponential nature of compounding."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Housel compares financial compounding to what natural phenomenon?",
+              "options": [
+                {
+                  "label": "Volcanic eruptions",
+                  "correct": false
+                },
+                {
+                  "label": "The formation of ice ages",
+                  "correct": true
+                },
+                {
+                  "label": "Earthquakes building pressure",
+                  "correct": false
+                },
+                {
+                  "label": "Rivers carving canyons",
+                  "correct": false
+                }
+              ],
+              "explanation": "Ice ages begin not from extreme winters but from slightly cool summers that fail to melt the previous winter's snow. Small changes compound over time into continent-spanning glaciers, just as small investments compound into large fortunes."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to Jesse Livermore after his legendary $3 billion trade in 1929?",
+              "options": [
+                {
+                  "label": "He retired comfortably to Europe",
+                  "correct": false
+                },
+                {
+                  "label": "He founded a major investment bank",
+                  "correct": false
+                },
+                {
+                  "label": "He continued betting aggressively and lost everything",
+                  "correct": true
+                },
+                {
+                  "label": "He gave most of his fortune to charity",
+                  "correct": false
+                }
+              ],
+              "explanation": "Livermore continued making increasingly large, leveraged bets. The market turned against him, he went bankrupt, and he tragically took his own life in 1940. His story illustrates the difference between getting wealthy and staying wealthy."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why did Rick Guerin have to sell his Berkshire Hathaway shares to Buffett at under $40?",
+              "options": [
+                {
+                  "label": "He wanted to start his own fund",
+                  "correct": false
+                },
+                {
+                  "label": "He faced margin calls during the 1973-74 bear market",
+                  "correct": true
+                },
+                {
+                  "label": "Buffett offered him a premium price",
+                  "correct": false
+                },
+                {
+                  "label": "He needed money for a real estate deal",
+                  "correct": false
+                }
+              ],
+              "explanation": "Guerin used leverage to accelerate his returns. When stocks dropped 70% in 1973-74, margin calls forced him to sell his Berkshire shares at under $40. Those shares would later be worth hundreds of thousands each."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "109f4546-5f48-424d-a17f-e332e5fc55c6",
+      "feedId": "psychology-of-money-quiz",
+      "order": 3,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/4_202603272103.jpeg",
+          "title": "Tails and Freedom",
+          "subtitle": "How a few outlier events drive most outcomes, and what money is really for"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was notable about Heinz Berggruen's art collection sold to Germany in 2000?",
+              "options": [
+                {
+                  "label": "It included 85 Picassos and was valued over $1 billion",
+                  "correct": true
+                },
+                {
+                  "label": "It was the largest collection of American art",
+                  "correct": false
+                },
+                {
+                  "label": "It consisted entirely of previously stolen works",
+                  "correct": false
+                },
+                {
+                  "label": "It was donated for free as a reconciliation gift",
+                  "correct": false
+                }
+              ],
+              "explanation": "Berggruen's sale included 85 Picassos plus works by Klee, Matisse, Braque, and Giacometti, totaling 165 pieces valued over $1 billion. Among thousands of mediocre purchases, a few extraordinary ones drove all the value."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How much did Snow White and the Seven Dwarfs ultimately cost to produce?",
+              "options": [
+                {
+                  "label": "$250,000 as originally budgeted",
+                  "correct": false
+                },
+                {
+                  "label": "$500,000",
+                  "correct": false
+                },
+                {
+                  "label": "$1.5 million",
+                  "correct": true
+                },
+                {
+                  "label": "$5 million",
+                  "correct": false
+                }
+              ],
+              "explanation": "Originally budgeted at $250,000, Snow White spiraled to $1.5 million. Hollywood called it \"Disney's Folly,\" but it earned $418 million and transformed the company."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "In US venture capital from 2004-2014, what percentage of investments lost money?",
+              "options": [
+                {
+                  "label": "About 25%",
+                  "correct": false
+                },
+                {
+                  "label": "About 45%",
+                  "correct": false
+                },
+                {
+                  "label": "About 65%",
+                  "correct": true
+                },
+                {
+                  "label": "About 85%",
+                  "correct": false
+                }
+              ],
+              "explanation": "65% of approximately 21,000 venture financings lost money. Only 0.5% (about 100 companies) returned 50x or more, yet those few drove most of the industry's returns."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Housel, what is money's greatest intrinsic value?",
+              "options": [
+                {
+                  "label": "The ability to buy luxury goods",
+                  "correct": false
+                },
+                {
+                  "label": "Security against inflation",
+                  "correct": false
+                },
+                {
+                  "label": "Control over your time",
+                  "correct": true
+                },
+                {
+                  "label": "Social status and respect from others",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel argues that controlling your time is the highest dividend money pays. Research shows that a sense of control over daily life is the strongest predictor of happiness."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/59_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Housel say is the strongest predictor of happiness?",
+              "options": [
+                {
+                  "label": "Income level",
+                  "correct": false
+                },
+                {
+                  "label": "Career prestige",
+                  "correct": false
+                },
+                {
+                  "label": "Sense of control over daily life",
+                  "correct": true
+                },
+                {
+                  "label": "Number of close relationships",
+                  "correct": false
+                }
+              ],
+              "explanation": "Studies consistently show that having control over your schedule and daily decisions is the strongest predictor of well-being, more than income, career, or possessions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3dde45b8-5c69-4485-aeb2-ace4b11f9dca",
+      "feedId": "psychology-of-money-quiz",
+      "order": 4,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/5_202603272103.jpeg",
+          "title": "The Invisible Wealth",
+          "subtitle": "Why the richest people often look nothing like what you expect"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the Man in the Car Paradox?",
+              "options": [
+                {
+                  "label": "Expensive cars depreciate faster than cheap ones",
+                  "correct": false
+                },
+                {
+                  "label": "When you see someone in a nice car, you imagine yourself in it rather than admiring the driver",
+                  "correct": true
+                },
+                {
+                  "label": "People who drive luxury cars are usually in debt",
+                  "correct": false
+                },
+                {
+                  "label": "Car dealers use psychology to manipulate buyers",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel observes that nobody admires the driver of a luxury car. Instead, they picture themselves in the car. The respect people hope to earn through spending is never directed at them, only at the object."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How much of her wealth did Rihanna reportedly lose in 2009?",
+              "options": [
+                {
+                  "label": "About 25%",
+                  "correct": false
+                },
+                {
+                  "label": "About 50%",
+                  "correct": false
+                },
+                {
+                  "label": "About 82%",
+                  "correct": true
+                },
+                {
+                  "label": "About 95%",
+                  "correct": false
+                }
+              ],
+              "explanation": "Rihanna lost approximately 82% of her wealth in a single year. Her financial advisor's defense included the memorable remark about spending money on things leaving you with things and not money."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Housel's distinction between rich and wealthy?",
+              "options": [
+                {
+                  "label": "Rich means old money, wealthy means new money",
+                  "correct": false
+                },
+                {
+                  "label": "Rich is current income, wealthy is money not spent",
+                  "correct": true
+                },
+                {
+                  "label": "Rich means assets, wealthy means cash",
+                  "correct": false
+                },
+                {
+                  "label": "There is no meaningful difference",
+                  "correct": false
+                }
+              ],
+              "explanation": "Being rich means having a high current income. Being wealthy means having accumulated assets by not spending. Wealth is invisible by definition because it is the money that remains unspent."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What held Ronald Read's jacket together?",
+              "options": [
+                {
+                  "label": "A piece of tape",
+                  "correct": false
+                },
+                {
+                  "label": "A safety pin",
+                  "correct": true
+                },
+                {
+                  "label": "A paperclip",
+                  "correct": false
+                },
+                {
+                  "label": "He sewed it himself",
+                  "correct": false
+                }
+              ],
+              "explanation": "Read used a safety pin to hold his fraying jacket together rather than buy a new one. Despite this extreme frugality, his estate was worth nearly $8 million."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why is wealth hard to learn from, according to Housel?",
+              "options": [
+                {
+                  "label": "Wealthy people refuse to share strategies",
+                  "correct": false
+                },
+                {
+                  "label": "Wealth is invisible because it is the absence of spending",
+                  "correct": true
+                },
+                {
+                  "label": "Financial literacy education is inadequate",
+                  "correct": false
+                },
+                {
+                  "label": "Tax laws effectively hide true wealth",
+                  "correct": false
+                }
+              ],
+              "explanation": "You can study how rich people spend because spending is visible. But wealth is the absence of spending, making it invisible and impossible to observe or learn from directly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2d6f34cb-0e38-46c8-a012-9684be342d0e",
+      "feedId": "psychology-of-money-quiz",
+      "order": 5,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/6_202603272103.jpeg",
+          "title": "The Art of Saving",
+          "subtitle": "Building wealth through humility, flexibility, and emotional honesty"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Nobel Prize winner Harry Markowitz invest his own money?",
+              "options": [
+                {
+                  "label": "He used his optimal portfolio formula precisely",
+                  "correct": false
+                },
+                {
+                  "label": "He only invested in government bonds",
+                  "correct": false
+                },
+                {
+                  "label": "He split 50/50 between stocks and bonds",
+                  "correct": true
+                },
+                {
+                  "label": "He kept everything in cash",
+                  "correct": false
+                }
+              ],
+              "explanation": "Despite inventing the mathematical formula for optimal portfolio allocation, Markowitz chose a simple 50/50 stock-bond split to minimize future regret and sleep well at night."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why did Markowitz choose a simpler approach than his own theory suggested?",
+              "options": [
+                {
+                  "label": "He did not trust his own calculations",
+                  "correct": false
+                },
+                {
+                  "label": "He wanted to minimize future regret",
+                  "correct": true
+                },
+                {
+                  "label": "His broker recommended it",
+                  "correct": false
+                },
+                {
+                  "label": "Tax reasons made it more efficient",
+                  "correct": false
+                }
+              ],
+              "explanation": "Markowitz wanted emotional comfort over mathematical optimization. If stocks crashed, he would be glad he had bonds. If stocks soared, he would be glad he had stocks. Reasonable beat rational."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Housel, what is the most powerful way to increase savings?",
+              "options": [
+                {
+                  "label": "Earn a higher salary",
+                  "correct": false
+                },
+                {
+                  "label": "Find better investment returns",
+                  "correct": false
+                },
+                {
+                  "label": "Raise your humility and lower your need for status",
+                  "correct": true
+                },
+                {
+                  "label": "Use a detailed budgeting app",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel argues that reducing your need for external validation naturally lowers spending. When you stop spending to impress others, your savings rate increases without feeling like deprivation."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Housel mean by 'reasonable beats rational'?",
+              "options": [
+                {
+                  "label": "Simple investments always outperform complex ones",
+                  "correct": false
+                },
+                {
+                  "label": "A plan you can stick with beats an optimal plan you abandon",
+                  "correct": true
+                },
+                {
+                  "label": "Low-risk investments always beat high-risk ones",
+                  "correct": false
+                },
+                {
+                  "label": "Financial advisors give better advice than algorithms",
+                  "correct": false
+                }
+              ],
+              "explanation": "A mathematically optimal strategy you abandon during a downturn produces worse results than a moderate strategy you maintain for decades. Emotional sustainability is the key to long-term financial success."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What variable is most within your control for building wealth?",
+              "options": [
+                {
+                  "label": "Investment returns",
+                  "correct": false
+                },
+                {
+                  "label": "Your savings rate",
+                  "correct": true
+                },
+                {
+                  "label": "Market timing",
+                  "correct": false
+                },
+                {
+                  "label": "Tax optimization strategies",
+                  "correct": false
+                }
+              ],
+              "explanation": "You cannot control what the stock market does, but you can control the gap between what you earn and what you spend. The savings rate is the single most controllable factor in wealth creation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "078565dc-0376-4411-859d-428ebeb8c776",
+      "feedId": "psychology-of-money-quiz",
+      "order": 6,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/7_202603272103.jpeg",
+          "title": "Planning for Chaos",
+          "subtitle": "Why the best financial plans are designed to survive the unexpected"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the 'end of history illusion'?",
+              "options": [
+                {
+                  "label": "The belief that major economic events are over",
+                  "correct": false
+                },
+                {
+                  "label": "People underestimate how much they will change in the future",
+                  "correct": true
+                },
+                {
+                  "label": "Investors think past returns guarantee future results",
+                  "correct": false
+                },
+                {
+                  "label": "Young people ignore lessons from financial history",
+                  "correct": false
+                }
+              ],
+              "explanation": "People readily acknowledge how much they changed in the past 10 years but dramatically underestimate how much they will change in the next 10. This leads to financial plans based on a future self that will not exist."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to Long-Term Capital Management in 1998?",
+              "options": [
+                {
+                  "label": "It became the largest hedge fund in history",
+                  "correct": false
+                },
+                {
+                  "label": "It lost billions and required a Federal Reserve-coordinated bailout",
+                  "correct": true
+                },
+                {
+                  "label": "It was acquired by Goldman Sachs at a premium",
+                  "correct": false
+                },
+                {
+                  "label": "It successfully predicted and profited from the Russian crisis",
+                  "correct": false
+                }
+              ],
+              "explanation": "LTCM, run by 16 experts including two Nobel laureates with 350+ years of combined experience, lost billions when a Russian debt default triggered market movements their models deemed impossible."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many Nobel Prize winners helped run LTCM?",
+              "options": [
+                {
+                  "label": "None",
+                  "correct": false
+                },
+                {
+                  "label": "One",
+                  "correct": false
+                },
+                {
+                  "label": "Two",
+                  "correct": true
+                },
+                {
+                  "label": "Four",
+                  "correct": false
+                }
+              ],
+              "explanation": "LTCM's team included two Nobel Prize winners in economics, whose theories formed the basis of the fund's models. Their brilliance could not compensate for eliminating all room for error through excessive leverage."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to the Vanderbilt fortune of roughly $300 billion (inflation-adjusted)?",
+              "options": [
+                {
+                  "label": "It grew even larger through smart investments",
+                  "correct": false
+                },
+                {
+                  "label": "It was essentially gone within 50 years",
+                  "correct": true
+                },
+                {
+                  "label": "It was donated entirely to charity",
+                  "correct": false
+                },
+                {
+                  "label": "It was seized by the government during the Depression",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Vanderbilt fortune was consumed by lavish spending and unsustainable lifestyles. A 1973 reunion of 120 descendants reportedly included not a single millionaire."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Housel, what is the most important part of every financial plan?",
+              "options": [
+                {
+                  "label": "Maximizing expected returns",
+                  "correct": false
+                },
+                {
+                  "label": "Planning on the plan not going according to plan",
+                  "correct": true
+                },
+                {
+                  "label": "Minimizing tax liability",
+                  "correct": false
+                },
+                {
+                  "label": "Choosing the right financial advisor",
+                  "correct": false
+                }
+              ],
+              "explanation": "The specific details of future crises are unknowable, but the fact that they will happen is certain. Building room for error into every layer of your finances is the most reliable path to survival."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2a7ee2d5-4e5c-4c9b-a5d7-fbb7853305da",
+      "feedId": "psychology-of-money-quiz",
+      "order": 7,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/8_202603272103.jpeg",
+          "title": "The Price of Returns",
+          "subtitle": "Market psychology, bubble mechanics, and the seductive power of pessimism"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How does Housel say you should think about market volatility?",
+              "options": [
+                {
+                  "label": "As a fine you should try to avoid",
+                  "correct": false
+                },
+                {
+                  "label": "As a fee you pay for long-term returns",
+                  "correct": true
+                },
+                {
+                  "label": "As a sign that you should sell immediately",
+                  "correct": false
+                },
+                {
+                  "label": "As evidence the market is fundamentally broken",
+                  "correct": false
+                }
+              ],
+              "explanation": "Volatility is the cost of admission to long-term stock market returns, not a penalty. Investors who accept it as a fee ride out downturns, while those who treat it as a fine panic-sell at the worst times."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Housel, what causes most financial bubbles?",
+              "options": [
+                {
+                  "label": "Mass irrationality among all investors",
+                  "correct": false
+                },
+                {
+                  "label": "Government policy mistakes",
+                  "correct": false
+                },
+                {
+                  "label": "Long-term investors taking cues from short-term traders",
+                  "correct": true
+                },
+                {
+                  "label": "Media manipulation of market sentiment",
+                  "correct": false
+                }
+              ],
+              "explanation": "Bubbles form when long-term investors adopt pricing set by short-term traders playing a different game. Each group acts rationally within their own framework, but the cross-contamination creates unsustainable prices."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why does pessimism sound smarter than optimism?",
+              "options": [
+                {
+                  "label": "Pessimists generally have better data",
+                  "correct": false
+                },
+                {
+                  "label": "Bad news arrives fast and dramatically while progress is slow and invisible",
+                  "correct": true
+                },
+                {
+                  "label": "Academic research consistently supports pessimistic forecasts",
+                  "correct": false
+                },
+                {
+                  "label": "Historical trends objectively favor pessimistic predictions",
+                  "correct": false
+                }
+              ],
+              "explanation": "Bad news arrives suddenly and dramatically, creating intense attention. Good news arrives slowly over decades. This timing asymmetry makes pessimism feel urgent and credible while optimism feels naive."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Housel's recommended financial outlook?",
+              "options": [
+                {
+                  "label": "Always expect the worst and plan accordingly",
+                  "correct": false
+                },
+                {
+                  "label": "Save like a pessimist, invest like an optimist",
+                  "correct": true
+                },
+                {
+                  "label": "Ignore short-term news entirely",
+                  "correct": false
+                },
+                {
+                  "label": "Follow what the majority of investors are doing",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel advocates saving aggressively (acknowledging bad things happen) while investing consistently in long-term growth (trusting the historical upward trend). This combination captures the best of both worldviews."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which dynamic does Housel blame for the dot-com bubble specifically?",
+              "options": [
+                {
+                  "label": "Foreign investors flooding the US market",
+                  "correct": false
+                },
+                {
+                  "label": "Day traders rational within their game, with long-term investors copying them",
+                  "correct": true
+                },
+                {
+                  "label": "Retail investors ignoring professional advice",
+                  "correct": false
+                },
+                {
+                  "label": "Tech companies deliberately misleading investors",
+                  "correct": false
+                }
+              ],
+              "explanation": "Short-term traders were acting rationally for their timeframe, but long-term investors mistook their activity for long-term conviction and bought at prices that only made sense for day trading."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2fb4e011-1a74-4bf8-bc11-fbde40d00b65",
+      "feedId": "psychology-of-money-quiz",
+      "order": 8,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/psychology-of-money/9_202603272103.jpeg",
+          "title": "Stories We Tell Ourselves",
+          "subtitle": "How narratives shape our finances, and one writer's honest confessions"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What narrative does Housel blame for fueling the 2008 housing crisis?",
+              "options": [
+                {
+                  "label": "Real estate is always the safest investment class",
+                  "correct": false
+                },
+                {
+                  "label": "Housing prices always go up",
+                  "correct": true
+                },
+                {
+                  "label": "Banks are too big to fail",
+                  "correct": false
+                },
+                {
+                  "label": "Government will always bail out homeowners",
+                  "correct": false
+                }
+              ],
+              "explanation": "The widely believed narrative that housing prices always rise was not supported by history. Banks, regulators, and homebuyers all built plans around it, and when it broke, the consequences were catastrophic."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Does Housel own his home with a mortgage?",
+              "options": [
+                {
+                  "label": "Yes, at a low interest rate to invest the difference",
+                  "correct": false
+                },
+                {
+                  "label": "No, he owns it outright with no mortgage",
+                  "correct": true
+                },
+                {
+                  "label": "He rents rather than owns",
+                  "correct": false
+                },
+                {
+                  "label": "He has a 15-year mortgage",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel owns his home outright despite acknowledging this is mathematically suboptimal. The emotional security of a home that cannot be foreclosed is worth more to him than the extra investment returns."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What percentage of his assets does Housel keep in cash?",
+              "options": [
+                {
+                  "label": "About 5%",
+                  "correct": false
+                },
+                {
+                  "label": "About 10%",
+                  "correct": false
+                },
+                {
+                  "label": "About 20%",
+                  "correct": true
+                },
+                {
+                  "label": "About 50%",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel keeps approximately 20% in cash, far more than most advisors recommend. He views it as the ultimate flexibility fund that prevents forced selling during downturns."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What investment approach does Housel use for the rest of his portfolio?",
+              "options": [
+                {
+                  "label": "Individual stock picking based on value investing",
+                  "correct": false
+                },
+                {
+                  "label": "Real estate investment trusts",
+                  "correct": false
+                },
+                {
+                  "label": "Low-cost index funds via dollar-cost averaging",
+                  "correct": true
+                },
+                {
+                  "label": "A mix of hedge funds and private equity",
+                  "correct": false
+                }
+              ],
+              "explanation": "Housel invests in low-cost index funds, primarily through Vanguard, investing the same amount monthly regardless of market conditions. He does not pick stocks, time markets, or use leverage."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to American household debt between 1947 and 1957?",
+              "options": [
+                {
+                  "label": "It decreased by half as the economy boomed",
+                  "correct": false
+                },
+                {
+                  "label": "It stayed roughly the same",
+                  "correct": false
+                },
+                {
+                  "label": "It increased fivefold",
+                  "correct": true
+                },
+                {
+                  "label": "It doubled",
+                  "correct": false
+                }
+              ],
+              "explanation": "US household debt increased 5x in a decade as the post-war boom created a cultural expectation that everyone should enjoy the same lifestyle, driving a spending and borrowing surge."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

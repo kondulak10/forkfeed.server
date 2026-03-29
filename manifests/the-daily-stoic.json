@@ -1,0 +1,3023 @@
+{
+  "forks": [
+    {
+      "_id": "the-daily-stoic",
+      "title": "The Daily Stoic",
+      "description": "366 daily meditations on Stoic wisdom for modern life, from three of history's greatest philosophers.\n\nAll rights belong to the author and publisher. This is a summary/review, buy the book below from the author.",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/fork_202603272114.jpeg",
+      "feedIds": [
+        "the-daily-stoic-the-stoic-path",
+        "the-daily-stoic-the-three-philosophers",
+        "the-daily-stoic-seeing-clearly",
+        "the-daily-stoic-mastering-your-emotions",
+        "the-daily-stoic-taking-right-action",
+        "the-daily-stoic-the-obstacle-is-the-way",
+        "the-daily-stoic-building-resilience",
+        "the-daily-stoic-amor-fati",
+        "the-daily-stoic-memento-mori",
+        "the-daily-stoic-quiz"
+      ],
+      "actionLabel": "Buy the book",
+      "actionUrl": "https://www.amazon.com/s?k=The+Daily+Stoic+Ryan+Holiday"
+    }
+  ],
+  "feeds": [
+    {
+      "_id": "the-daily-stoic-the-stoic-path",
+      "title": "The Stoic Path",
+      "description": "A 2,000-year-old philosophy for modern life",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/1_202603272114.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-daily-stoic-the-three-philosophers",
+      "title": "The Three Philosophers",
+      "description": "An emperor, a playwright, and a slave",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/2_202603272114.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-daily-stoic-seeing-clearly",
+      "title": "Seeing Clearly",
+      "description": "The power of clear, objective thinking",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/3_202603272114.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-daily-stoic-mastering-your-emotions",
+      "title": "Mastering Your Emotions",
+      "description": "Finding calm within the storm",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/4_202603272114.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-daily-stoic-taking-right-action",
+      "title": "Taking Right Action",
+      "description": "Doing the right thing, the right way",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/5_202603272114.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-daily-stoic-the-obstacle-is-the-way",
+      "title": "The Obstacle Is the Way",
+      "description": "Turning problems into opportunities",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/6_202603272115.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-daily-stoic-building-resilience",
+      "title": "Building Resilience",
+      "description": "Enduring what you cannot change",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/7_202603272115.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-daily-stoic-amor-fati",
+      "title": "Amor Fati",
+      "description": "Learning to love your fate",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/8_202603272115.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-daily-stoic-memento-mori",
+      "title": "Memento Mori",
+      "description": "Using mortality to live fully",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/9_202603272115.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "the-daily-stoic-quiz",
+      "title": "Quiz",
+      "description": "Test your knowledge of The Daily Stoic",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/10_202603272115.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    }
+  ],
+  "cards": [
+    {
+      "_id": "a3de1fb0-8deb-4c30-b9f1-3668d2a6b981",
+      "feedId": "the-daily-stoic-the-stoic-path",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/1_202603272114.jpeg",
+          "title": "The Stoic Path",
+          "subtitle": "A 2,000-year-old philosophy for modern life"
+        }
+      ]
+    },
+    {
+      "_id": "6fa04569-b1e2-481d-a96b-a8200cb3f593",
+      "feedId": "the-daily-stoic-the-stoic-path",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "What Is Stoicism?"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Stoicism is one of the most practical and enduring philosophies ever created. Founded in Athens around 300 BC, it was not built for ivory tower academics but for people navigating the mess of real life: political crises, personal loss, uncertainty, and the daily grind of trying to be a decent human being.\n\nAt its core, Stoicism teaches three things. First, that we should focus only on what we can control, our own thoughts, choices, and reactions, and release anxiety about everything else. Second, that virtue, meaning courage, wisdom, self-discipline, and justice, is the highest good, more valuable than wealth, fame, or pleasure. Third, that we are all connected, part of a larger human community, and our actions should reflect that bond.\n\nStoicism is not about suppressing emotions or becoming a robot. That is the most common misconception. The Stoics felt deeply. Marcus Aurelius grieved the loss of his children. Seneca wrote passionately about anger and love. What they practiced was not the absence of feeling but the mastery of response. They trained themselves to pause between stimulus and reaction, to choose reason over impulse, and to find calm even inside chaos.\n\nThis is not dusty ancient theory. It is a living toolkit for handling stress, making better decisions, and finding meaning in a world that often feels out of control."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "The word 'stoic' in everyday English means unemotional, but Stoic philosophy is far richer and more nuanced than that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d1019355-46d6-4912-836d-f5793f597934",
+      "feedId": "the-daily-stoic-the-stoic-path",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "How Ryan Holiday Found Stoicism"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ryan Holiday was nineteen years old, sitting in the audience at a college journalism conference sponsored by a condom company, when his life changed direction. The speaker was Dr. Drew Pinsky, the radio and television host, and during the talk he casually mentioned the philosopher Epictetus. Holiday had never heard the name. That same night, his friend Tucker Max told him to also pick up Meditations by Marcus Aurelius.\n\nHoliday describes that book as a 'quake book,' the kind that shakes everything you thought you knew. He was so moved by what he read that he eventually dropped out of college, apprenticed under Robert Greene, the author of The 48 Laws of Power, and became the director of marketing at American Apparel, all before turning twenty-one.\n\nBut it was Stoicism that anchored him through the chaos of a fast career in media and business. He kept returning to the ancient texts: Epictetus, Seneca, Marcus Aurelius. He read them on planes, in hotel rooms, during crises at work. Over the years, he built a practice around them, a daily ritual of reading and reflection that eventually became the seed for The Daily Stoic.\n\nA single book recommendation from a TV host to a teenager rewrote the trajectory of modern popular philosophy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d258bfe2-ad6a-4cf4-8c87-4e4fc072c0fd",
+      "feedId": "the-daily-stoic-the-stoic-path",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "366 Days of Ancient Wisdom"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Daily Stoic is structured as a daily devotional: 366 meditations, one for each day of the year including leap day. Each entry follows the same simple format. At the top is a date and a title naming the day's theme. Below that is a quotation from a Stoic philosopher, freshly translated from the original Greek or Latin. And beneath the quote is Holiday's interpretive commentary, usually about a page long, that connects the ancient insight to modern life.\n\nThe translations are the work of co-author Stephen Hanselman, a Harvard Divinity School graduate who spent decades in publishing before founding his own literary agency. Hanselman did not recycle existing public domain translations. He went back to the source texts and produced all-new versions designed to sound fresh and immediate rather than academic.\n\nThe idea for the book actually came from Hanselman, not Holiday. In 2015, Hanselman pitched the concept to his client and predicted it would become Holiday's bestselling work. Holiday was skeptical, noting he could not read Greek or Latin. But Hanselman offered to handle the translations himself. The result was published in October 2016 by Portfolio, an imprint of Penguin Random House, and went on to sell over three million copies worldwide.\n\nThe book is designed to be read one page at a time, either first thing in the morning or last thing at night, as a daily philosophical practice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c70d9dc2-ec5c-4b0f-868a-7407f3afa8f2",
+      "feedId": "the-daily-stoic-the-stoic-path",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Three Disciplines, Twelve Months"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The 366 meditations are organized around a framework that Epictetus established and Marcus Aurelius used to structure his own practice: the three Stoic disciplines of Perception, Action, and Will. Each discipline covers four months of the year, and each month has its own theme.\n\nThe Discipline of Perception (January through April) teaches you how to see the world clearly. January focuses on clarity, stripping away assumptions. February addresses passions and emotions, learning to manage them rather than be ruled by them. March covers awareness, paying attention to your own mind and surroundings. April is about unbiased thought, removing ego from judgment.\n\nThe Discipline of Action (May through August) addresses how you behave. May is about right action, doing what is just and necessary. June covers problem solving, approaching obstacles as opportunities. July focuses on duty, fulfilling responsibilities. August teaches pragmatism, favoring practical results over theoretical purity.\n\nThe Discipline of Will (September through December) deals with what you cannot change. September builds fortitude and resilience. October focuses on virtue and kindness. November is devoted to amor fati, learning to love your fate. December closes the year with meditation on mortality.\n\nThis structure mirrors a philosophical progression. First learn to see clearly. Then act rightly. Then accept what you cannot control. The three tools work together as a complete system."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "The three disciplines are not Holiday's invention. They come from Epictetus's three topoi, or fields of study."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a43293b-3bf3-4111-a03e-fb0a540a59c1",
+      "feedId": "the-daily-stoic-the-stoic-path",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "A Daily Practice, Not a Textbook"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Daily Stoic was never meant to be read in a single sitting. Unlike most philosophy books that build arguments across chapters, this one is designed for ritual. You open it each morning or evening, read one page, and sit with that idea for the rest of the day. The format borrows from religious daily devotionals, applying the same structure to secular philosophy.\n\nHoliday recommends keeping the book on your nightstand or desk and making it part of your routine, the same way you might brush your teeth or check the weather. The idea is not to absorb all of Stoicism at once but to let it accumulate gradually, one insight per day, over the course of a year. By the time December ends, you have been exposed to the full range of Stoic thought through 366 small, digestible lessons.\n\nThe companion product, The Daily Stoic Journal, published in 2017, extends this practice. It provides 366 days of writing prompts and reflection exercises guided by Stoic quotes. Where the book gives you the philosophy, the journal gives you space to apply it to your own life.\n\nBeyond the books, Holiday expanded the practice into an ecosystem: a daily email newsletter reaching over 500,000 subscribers, a podcast, a website, and even a physical store selling Stoic-themed merchandise like memento mori medallions and amor fati coins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "92493c6a-1ff6-474d-aa13-938eb6361a23",
+      "feedId": "the-daily-stoic-the-stoic-path",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "From Ancient Athens to Your Pocket"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Stoicism was born in a colonnade. Around 300 BC, a merchant named Zeno of Citium lost everything in a shipwreck and washed up in Athens. He wandered into a bookshop, read about Socrates, and was so captivated that he abandoned commerce and began studying philosophy. He eventually started teaching at a public walkway called the Stoa Poikile, the Painted Porch. His students became known as Stoics, named after the porch where they gathered.\n\nFor the next five centuries, Stoicism attracted everyone from slaves to senators to emperors. It survived the fall of the Roman Republic, the excesses of Nero, and centuries of political upheaval. Then it quietly faded from mainstream awareness for more than a thousand years.\n\nIts modern revival owes much to Holiday. The New York Times credited him directly, writing that if Stoicism is becoming trendy, you can credit or blame him. His books have collectively sold over ten million copies in more than forty languages. The Daily Stoic Instagram account has three million followers. NFL coaches assign his books to their teams. Silicon Valley founders discuss his ideas at conferences.\n\nWhat started as a shipwrecked merchant talking to strangers under a painted porch has become one of the most widely practiced philosophical traditions in the world, and a daily email in half a million inboxes."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Holiday also opened The Painted Porch Bookshop in Bastrop, Texas, named after the original Stoa Poikile where Stoicism began."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b52f2d97-242a-46fc-8470-37b8ec77e1e8",
+      "feedId": "the-daily-stoic-the-three-philosophers",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/2_202603272114.jpeg",
+          "title": "The Three Philosophers",
+          "subtitle": "An emperor, a playwright, and a slave"
+        }
+      ]
+    },
+    {
+      "_id": "2737a230-3eba-4bf1-9f3e-689910c0c281",
+      "feedId": "the-daily-stoic-the-three-philosophers",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Marcus Aurelius: The Reluctant Emperor"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Marcus Aurelius was the most powerful man in the ancient world, and he spent his private hours writing a journal reminding himself that power meant nothing. Born in 121 AD into Roman aristocracy, he began studying philosophy at the remarkably young age of twelve. He was adopted by Emperor Antoninus Pius and eventually became emperor himself in 161 AD, the last of what historians call the Five Good Emperors.\n\nHis reign was anything but peaceful. He spent fourteen of his nineteen years as emperor on the northern frontier, fighting Germanic tribes along the frozen Danube River. Meanwhile, the Antonine Plague swept through the empire, killing millions. He had at least twelve children, many of whom died young. His successor, his son Commodus, would become one of Rome's most infamous rulers.\n\nThrough all of this, Marcus wrote. His private journal, known today as Meditations, was never intended for anyone else to read. It was a tool for self-governance, a place where the most powerful man alive coached himself to be humble, patient, and just. He wrote about controlling his temper, accepting what he could not change, and remembering that his time was limited.\n\nMeditations became one of the most influential philosophy books in history, and Marcus Aurelius is by far the most frequently quoted philosopher in The Daily Stoic, accounting for roughly sixty percent of the passages."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Marcus wrote Meditations in Greek, not Latin, likely because Greek was the traditional language of philosophy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "83f73766-d725-4bda-8e57-3aeeaf309a5e",
+      "feedId": "the-daily-stoic-the-three-philosophers",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Seneca: The Brilliant Contradiction"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Seneca is the most complicated figure in Stoic history. Born around 4 BC in Corduba, Spain, he was trained in rhetoric and philosophy in Rome and became one of the most prolific writers of the ancient world. He produced 124 moral letters, multiple philosophical treatises, and eight surviving tragedies. He was also fabulously wealthy, a political power broker, and the chief advisor to one of history's most dangerous rulers.\n\nHis life reads like a novel. He was exiled to the island of Corsica for eight years under Emperor Claudius, recalled to Rome to become tutor to the young Nero, and then served as Nero's closest advisor during what historians consider the five competent years of Nero's reign. When Nero descended into tyranny, Seneca tried to withdraw from public life but could not escape his patron's suspicion.\n\nIn 65 AD, Seneca was implicated in the Pisonian conspiracy against Nero. Whether he was truly involved remains debated, but Nero ordered his death. Seneca opened his veins in a calm, deliberate act that eyewitnesses described as Stoic to the end.\n\nThe contradiction of Seneca, a philosopher of simple living who accumulated enormous wealth while serving a tyrant, makes him uniquely relatable. He was not perfect. He struggled with the same gap between ideals and reality that everyone faces. His honesty about that struggle is what makes his writing so powerful."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7ba48c3f-1415-4a14-a72a-8a7836503c90",
+      "feedId": "the-daily-stoic-the-three-philosophers",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Epictetus: From Chains to Classroom"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Epictetus was born around 50 AD in Hierapolis, in what is now Turkey. His name is not really a name at all. It means 'acquired,' the label given to a purchased slave. His real birth name is unknown. He was owned by Epaphroditus, a wealthy freedman who had served as secretary to the emperor Nero.\n\nDespite his enslavement, Epictetus was allowed to study philosophy under Musonius Rufus, one of the leading Stoic teachers of the day. After Nero's death in 68 AD, Epictetus gained his freedom. He began teaching in Rome until Emperor Domitian banished all philosophers from the city around 93 AD. Epictetus relocated to Nicopolis in Greece, where he founded his own school and taught for the rest of his life.\n\nHere is the remarkable twist: Epictetus never wrote a single word. Everything we know about his teachings comes from his student Arrian, who transcribed his lectures into two works, the Discourses and the Enchiridion, or Handbook. These notes became the foundation that directly influenced Marcus Aurelius, who cites Epictetus repeatedly in Meditations.\n\nThe journey from slave to the philosopher who shaped an emperor's thinking is one of the most extraordinary arcs in intellectual history. It also proves the central Stoic claim: your external circumstances do not determine your inner life. A man with no name and no freedom became one of the most quoted thinkers in Western philosophy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c3c78a77-8e6c-4102-844e-41c33b0f94ea",
+      "feedId": "the-daily-stoic-the-three-philosophers",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Supporting Cast"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Beyond the big three, The Daily Stoic draws from a rich cast of lesser-known Stoic thinkers, each with a story worth knowing.\n\nZeno of Citium, the founder of Stoicism, was a prosperous merchant trading purple dye across the Mediterranean until a shipwreck around 300 BC left him stranded in Athens with nothing. He wandered into a bookshop, discovered Socrates, and traded commerce for philosophy. He later said he made his most profitable voyage when he was shipwrecked. He began teaching at the Stoa Poikile, the Painted Porch, giving the philosophy its name.\n\nCleanthes succeeded Zeno as head of the Stoic school. Before philosophy, he was a boxer. He arrived in Athens with only four drachmae and worked as a water carrier at night to fund his studies during the day. He was once hauled before the courts to explain how he survived with no visible income. The judges were so impressed by his dedication that they voted him a reward. He led the school for thirty-two years and lived to age ninety-nine.\n\nChrysippus, the third head of the school, was called the Second Founder of Stoicism for vastly expanding its doctrines. A former long-distance runner, he never wrote fewer than five hundred lines a day and produced over seven hundred works, all of which are now completely lost. According to legend, he died laughing at the sight of a donkey eating his figs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0602f413-c6c0-4fae-bcf6-a0f590dfe8dc",
+      "feedId": "the-daily-stoic-the-three-philosophers",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Roman Socrates and the Senator"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Two more figures from The Daily Stoic deserve special attention for what they represent about Stoicism in practice.\n\nMusonius Rufus, born around 30 AD, was known in antiquity as the Roman Socrates. The historian Tacitus considered him the foremost Stoic of his generation. He was Epictetus's teacher, meaning the chain of influence runs directly from Musonius to Epictetus to Marcus Aurelius. What makes Musonius especially remarkable is his radical stance on equality. In the first century AD, he argued that women should receive the same philosophical education as men, a position that would not become mainstream for nearly two thousand years. He conceived of philosophy as nothing but the practice of noble behavior: purely action-oriented, with no room for theory that did not change how you lived.\n\nCato the Younger was not a professional philosopher but a Roman senator who lived Stoic principles with absolute conviction. He was Julius Caesar's most stubborn political opponent, famous for his scrupulous honesty and incorruptibility in an era of rampant bribery. When Caesar's forces won the civil war in 46 BC, Cato chose death over submission. After dining with friends and discussing whether a free person could ever truly become a slave, he calmly took his own life in Utica.\n\nMusonius represents Stoicism taught. Cato represents Stoicism lived, all the way to its final consequence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "bab39885-d60f-4ce9-8e5a-e7b7a222dcb4",
+      "feedId": "the-daily-stoic-the-three-philosophers",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Why Their Diversity Matters"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The most powerful argument for Stoicism is not found in any single text. It is found in the range of people who practiced it.\n\nMarcus Aurelius was the emperor of Rome, commanding legions and governing millions. Seneca was a wealthy playwright and political insider who moved in the most dangerous circles of power. Epictetus was born a slave who did not even have his own name. Zeno was a shipwrecked merchant. Cleanthes was a boxer who hauled water at night. Musonius was a teacher who championed women's rights. Cato was a senator who chose death over compromise.\n\nThese people had almost nothing in common except the philosophy they practiced. They came from different centuries, different social classes, different professions, and different life circumstances. An emperor and a slave arrived at the same core truths. A water carrier and a political advisor found the same source of strength.\n\nThis diversity is not incidental. It is the proof of concept. Stoicism works not because it was designed for one type of person or one type of problem, but because it addresses the universal human challenges that cut across all boundaries: how to think clearly under pressure, how to act with integrity when it costs something, and how to find peace when the world refuses to cooperate.\n\nIf it worked for a slave in chains and an emperor at war, it can work for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e1fb32ea-813f-41ea-ac28-4c39a280a565",
+      "feedId": "the-daily-stoic-seeing-clearly",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/3_202603272114.jpeg",
+          "title": "Seeing Clearly",
+          "subtitle": "The power of clear, objective thinking"
+        }
+      ]
+    },
+    {
+      "_id": "b12f8104-a09b-46db-9eeb-029abe70fdc0",
+      "feedId": "the-daily-stoic-seeing-clearly",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Discipline of Perception"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The first four months of The Daily Stoic, January through April, are devoted to the Discipline of Perception: how we see and interpret the world around us. This is the starting point because, as the Stoics understood, everything begins with how you perceive a situation. Two people can face the exact same event and experience it completely differently depending on the story they tell themselves about it.\n\nPerception is not just seeing. It is the layer of judgment, assumption, and emotion that we add on top of raw experience. When you lose your job, the raw event is simply that your employment ended. The panic, the shame, the catastrophizing about the future, those are all added by perception. The Stoics argued that by stripping away those additions, you can see situations as they actually are and respond with clarity rather than react with emotion.\n\nThis discipline covers four monthly themes that build on each other. January teaches clarity, the ability to see things simply and directly. February addresses passions and emotions, understanding and managing them. March focuses on awareness, paying close attention to your own mind. April covers unbiased thought, removing ego and prejudice from your judgments.\n\nThe progression is deliberate. You cannot manage your emotions if you do not first see clearly. You cannot think without bias if you are not aware of your own patterns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "18c4cc24-4b88-4d75-93b4-90d9df6d7411",
+      "feedId": "the-daily-stoic-seeing-clearly",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Dichotomy of Control"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "If Stoicism has one foundational principle, one idea from which everything else flows, it is the dichotomy of control. Epictetus put it simply: some things are within our power, and some things are not. The entire practice of Stoicism begins with learning to tell the difference.\n\nWithin your control: your judgments, your intentions, your desires, your aversions, and your own actions. Not within your control: your body, your reputation, your position in society, other people's opinions, the weather, the economy, the past, and the future.\n\nThis sounds straightforward, but in practice it is revolutionary. Most human suffering comes from trying to control things that cannot be controlled and neglecting the things that can. You spend energy worrying about what your boss thinks of you, a thing completely outside your power, while ignoring the quality of your actual work, which is entirely within it.\n\nThe dichotomy of control is not about giving up or becoming passive. It is about strategic allocation of your finite attention and energy. By focusing on what you can actually influence, you become more effective, not less. You stop wasting effort on impossibilities and redirect it toward meaningful action.\n\nHoliday returns to this concept throughout the entire year, because every other Stoic idea builds on it. Perception, action, will: all three disciplines are ultimately expressions of understanding what is and is not within your power."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "93714c01-f2e1-488a-ab3a-69e685bbe9bb",
+      "feedId": "the-daily-stoic-seeing-clearly",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Clarity: Stripping Away Assumptions"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "January's theme in The Daily Stoic is clarity, and it sets the tone for the entire year. Clarity in the Stoic sense means seeing a situation for what it actually is, not what you fear it might be, not what you wish it were, and not what other people tell you it should be.\n\nThe Stoics had a specific technique for this. When something happens, describe it in the plainest possible terms. Not 'I got fired and my career is over,' but 'My employer ended my contract.' Not 'This traffic is ruining my life,' but 'There are many cars on this road.' The raw description strips away the drama and reveals the actual situation, which is almost always more manageable than the story you were telling yourself.\n\nMarcus Aurelius practiced this relentlessly. In his journal he would describe luxurious foods as 'dead fish and dead birds,' expensive purple dye as 'sheep hair stained with shellfish blood,' and sexual desire in similarly plain anatomical terms. The point was not to be grim but to see through the illusions that cloud judgment.\n\nClarity is the prerequisite for every good decision. You cannot solve a problem you have not accurately identified. You cannot respond wisely to a situation you have distorted with fear or desire. Before you act, before you accept, before you do anything at all, the Stoics say: first, see clearly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "47878bed-87c9-4bac-95a7-4bd982f6f2a9",
+      "feedId": "the-daily-stoic-seeing-clearly",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Awareness: Watching Your Own Mind"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "March's theme is awareness, and it shifts the Stoic lens inward. If January teaches you to see the world clearly, March teaches you to see yourself clearly. This means paying attention to your own thought patterns, emotional triggers, habitual reactions, and the stories you tell yourself without even noticing.\n\nEpictetus taught that we become philosophers the moment we first examine our preconceived notions. Philosophy does not begin in a classroom or a book. It begins with the simple act of asking yourself: why do I believe this? Why did I react that way? Is this thought actually true, or is it a habit I have never questioned?\n\nThe Stoics practiced a form of mindfulness centuries before the concept became popular in Western culture. They recommended starting each day with a brief examination: what situations will I face today? What might test my patience? How do I want to respond? This morning routine creates a buffer of intentionality that prevents you from sleepwalking through your day on autopilot.\n\nAwareness also means recognizing what Seneca called the difference between being busy and being productive. Many people fill their days with activity that creates the feeling of importance without actually accomplishing anything meaningful. The aware person stops regularly to ask: is what I am doing right now genuinely valuable, or am I just avoiding something harder?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "89d7dfe7-84c8-45de-858d-1749464bd92e",
+      "feedId": "the-daily-stoic-seeing-clearly",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Unbiased Thought"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "April, the final month of the Discipline of Perception, focuses on unbiased thought: the ability to evaluate situations without letting ego, prejudice, or self-interest distort your judgment. This is the capstone skill because it requires everything you learned in the previous three months working together.\n\nThe Stoics understood that humans are not naturally objective. We are wired to see threats where there are none, to take things personally that have nothing to do with us, and to interpret ambiguous situations in whatever way confirms our existing beliefs. Unbiased thought is the deliberate effort to counteract these tendencies.\n\nOne practical technique is what Holiday calls perspective-shifting. Before reacting to a situation, imagine how it would look from someone else's point of view. How would your mentor see this? How would a stranger describe it? How would you see it in ten years? Each shift reveals assumptions you did not know you were making.\n\nAnother technique is simply asking: what evidence am I ignoring? Human beings naturally seek information that confirms what they already believe and dismiss anything that contradicts it. The Stoic practice of unbiased thought means actively looking for the evidence you do not want to find, because that is usually where the truth lives.\n\nBy the end of April, the reader has spent four months training their perception. They can see clearly, manage their emotional responses, maintain awareness, and think without bias. Now they are ready to act."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "The Discipline of Perception covers January through April, forming the foundation for everything that follows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "93c9ea5a-d342-4a6c-b41f-aabd3cdda02f",
+      "feedId": "the-daily-stoic-seeing-clearly",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Morning Examination"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Of all the Stoic practices connected to the Discipline of Perception, the morning examination may be the most immediately useful. It takes less than five minutes and requires no special equipment, location, or training. You simply ask yourself a few questions before your day begins.\n\nThe core questions are variations of these: What is within my control today? What challenges might I face? How do I want to respond if things go wrong? What kind of person do I want to be in the situations I will encounter?\n\nThis is not positive thinking or affirmation. It is strategic preparation. Seneca taught that unexpected blows land hardest, so the wise person considers them in advance. By briefly imagining the difficult conversation, the frustrating commute, or the disappointing news, you build a mental model for handling it calmly. When the moment actually arrives, it feels familiar rather than shocking.\n\nThe morning examination also creates intentionality. Most people wake up and immediately check their phones, letting the world's agenda set the tone for their day. The Stoic practice reverses this. You set your own tone first. You decide what matters before anyone else has a chance to tell you.\n\nHoliday himself has described this as one of the most impactful daily habits he adopted from Stoicism. It takes almost no time, but it transforms the quality of the hours that follow by shifting you from reactive to proactive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "02084285-e00d-49bd-b5fe-71a3f7c0642f",
+      "feedId": "the-daily-stoic-mastering-your-emotions",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/4_202603272114.jpeg",
+          "title": "Mastering Your Emotions",
+          "subtitle": "Finding calm within the storm"
+        }
+      ]
+    },
+    {
+      "_id": "bcc71777-2646-4fe9-a5e8-a0f9331c07d6",
+      "feedId": "the-daily-stoic-mastering-your-emotions",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Emotions Are Not the Enemy"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The biggest misconception about Stoicism is that it teaches you to suppress your emotions and become some kind of unfeeling robot. This is flatly wrong. The Stoics felt deeply. Marcus Aurelius grieved the deaths of his children. Seneca wrote passionately about love, friendship, and the pain of exile. Epictetus spoke with obvious emotion about the suffering he witnessed as a slave.\n\nWhat Stoicism actually teaches is the difference between first-order emotions and second-order judgments. A first-order emotion is the initial flash of feeling: the spike of anger when someone cuts you off in traffic, the pang of sadness when you hear bad news, the rush of anxiety before a big presentation. The Stoics considered these involuntary and natural. You cannot stop them, and you should not try.\n\nThe problem comes with what happens next. The second-order judgment is the story you attach to the feeling: 'That driver disrespected me,' 'This bad news means my life is over,' 'If this presentation fails, everyone will think I am a fraud.' These judgments amplify and extend the initial emotion, sometimes for hours or days.\n\nStoic emotional mastery means letting the first flash pass without piling on the second layer. Feel the anger, but do not build a case for why you are justified in being angry. Feel the sadness, but do not construct a narrative of doom. The emotion itself is brief. The story is what makes it unbearable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "66a7996b-3e53-4669-b419-033596a832d0",
+      "feedId": "the-daily-stoic-mastering-your-emotions",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Inner Citadel"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Marcus Aurelius wrote frequently about the concept of the inner citadel: a fortified place within your own mind that no external force can breach. No matter what happens around you, whether you are facing a hostile army, a political crisis, or simply a terrible day at work, you can retreat to this internal fortress and find stability.\n\nThe inner citadel is not a place of escape or denial. It is a place of clarity. When you retreat inward, you are not hiding from reality. You are stepping back from the noise and chaos to evaluate the situation from a position of calm. From inside the citadel, you can see what is actually happening versus what you are afraid might be happening. You can identify what is within your control and what is not. You can choose your response rather than being dragged along by your reactions.\n\nThis concept was especially important to Marcus because of his circumstances. He was emperor of Rome during one of its most difficult periods. He faced plague, war, betrayal, and personal loss, often all at the same time. He could not control any of these events. But he could control his response to them, and that response was governed from inside the citadel.\n\nThe practical application is straightforward. When you feel overwhelmed, pause. Close your eyes if it helps. Ask yourself: what is actually happening right now? What is the simplest, most accurate description of this situation? What can I do about it? That pause is the door to the citadel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7a14978f-2e0d-4b90-b95b-106a2ebf749d",
+      "feedId": "the-daily-stoic-mastering-your-emotions",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Responding vs. Reacting"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "There is a crucial difference between reacting and responding, and the Stoics built their entire approach to emotions around it. A reaction is immediate, automatic, and driven by impulse. A response is deliberate, considered, and driven by choice. The space between the two is where freedom lives.\n\nWhen someone insults you, the reaction is to fire back. The response might be to ask why they said it, or to recognize that their words say more about them than about you, or simply to walk away. When you get bad news, the reaction is to catastrophize. The response is to assess the actual damage, identify what you can do, and start doing it.\n\nSeneca wrote extensively about anger, which he considered the most dangerous of the passions precisely because it feels so righteous. When you are angry, you feel justified. The anger tells you that you are right and the other person is wrong. But Seneca argued that anger is a kind of temporary madness: it distorts your perception, clouds your judgment, and leads you to actions you later regret.\n\nThe Stoic technique for building the response muscle is simply practice. Each time you catch yourself reacting automatically, you create an opportunity to choose differently. Over time, the gap between stimulus and response widens, giving you more room to exercise judgment. It is not about never feeling the impulse. It is about not being enslaved by it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "65c6f78e-dc54-4607-91b7-69166e8a59b3",
+      "feedId": "the-daily-stoic-mastering-your-emotions",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Negative Visualization"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of the most counterintuitive Stoic techniques is premeditatio malorum, the premeditation of evils. It sounds dark. It sounds pessimistic. In practice, it is one of the most liberating exercises you can do.\n\nThe technique is simple. Before a stressful event, spend a few minutes imagining what could go wrong. Not in a spiraling, anxious way, but in a calm, deliberate way. Your presentation might bomb. Your flight might get canceled. The deal might fall through. Your relationship might end. What would you do then? How would you handle it? What would you still have?\n\nSeneca taught that unexpected blows land hardest. When something bad happens that you never considered, the shock amplifies the pain. But when you have already imagined the possibility, the actual event, if it comes, arrives as something familiar rather than catastrophic. You have already rehearsed your response.\n\nNegative visualization also cultivates gratitude. When you imagine losing the things you take for granted, your health, your home, the people you love, you develop a sharper appreciation for what you currently have. The exercise reminds you that none of these things are guaranteed, which makes the present moment feel more precious.\n\nThis is not pessimism. Pessimism says everything will go wrong. Premeditatio malorum says everything could go wrong, and that you would survive it, and that knowing this makes you stronger right now."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Research on mental contrasting supports the Stoic intuition: imagining obstacles actually increases motivation and preparation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "11730edc-d720-4129-9197-e2c4c042b1a7",
+      "feedId": "the-daily-stoic-mastering-your-emotions",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Seneca on Anger"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Seneca wrote an entire treatise on anger called De Ira, and his insights remain startlingly relevant two thousand years later. He described anger as a form of temporary insanity that seizes control of your rational mind and drives you toward actions you would never choose in a calm state.\n\nThe key insight is that anger feels productive but almost never is. When you are angry, you feel powerful. You feel righteous. You feel like you are taking action against injustice. But Seneca observed that anger almost always overshoots its target. The punishment it demands exceeds the offense. The words it generates are harsher than the situation warrants. And the decisions it produces are ones you would reverse if given a moment to think.\n\nSeneca's prescription was delay. Not suppression, not denial, but simply waiting. When you feel anger rising, do nothing. Say nothing. Let the initial wave pass. This is not about pretending the anger does not exist. It is about refusing to act during the window when your judgment is compromised. Once the heat fades, you can assess the situation clearly and respond proportionally.\n\nHe also recommended examining your anger after the fact. In the evening, review the moments when you lost your temper. What triggered it? Was the trigger proportional to the response? What would a calmer version of you have done? This evening review builds awareness over time, making the next bout of anger easier to catch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d00fd2dd-5947-49e6-84f5-d31c45bdfd0d",
+      "feedId": "the-daily-stoic-mastering-your-emotions",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Three-Option Framework"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "When you face a difficult situation, the Stoics say you always have exactly three options. You can change your perception of it. You can take action to change it. Or you can endure it with will. These three options correspond directly to the three disciplines that structure The Daily Stoic.\n\nSay you are stuck in a job you dislike. Option one, perception: reframe how you see the situation. Maybe the job is teaching you patience, or providing stability while you build something on the side, or offering you a front-row seat to an industry you want to understand. Option two, action: change the situation. Update your resume, start networking, learn new skills, have the difficult conversation with your manager. Option three, will: accept that this is your current reality and endure it with equanimity, knowing it is temporary and that your character is not defined by your job title.\n\nThe power of this framework is that it eliminates the fourth option, which is the one most people default to: complaining without acting, ruminating without reframing, and suffering without accepting. That fourth path leads nowhere. The Stoic three options always lead somewhere productive.\n\nEvery challenge you face, from a minor inconvenience to a life-altering crisis, fits into this framework. Once you internalize it, you stop feeling stuck because you always know your next move. You might not like any of the three options, but having them beats having none."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Perception, Action, Will: the three disciplines are not just a book structure, they are a decision-making tool."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ee352626-19a1-4a3c-a016-fdaebfd7868b",
+      "feedId": "the-daily-stoic-taking-right-action",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/5_202603272114.jpeg",
+          "title": "Taking Right Action",
+          "subtitle": "Doing the right thing, the right way"
+        }
+      ]
+    },
+    {
+      "_id": "bf306442-e700-450c-ac97-9c65df4360a4",
+      "feedId": "the-daily-stoic-taking-right-action",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Discipline of Action"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The second third of The Daily Stoic, covering May through August, turns from how you see the world to what you do about it. The Discipline of Action is where philosophy stops being a thinking exercise and becomes a living practice. The Stoics were emphatic about this: philosophy that does not change how you behave is worthless.\n\nMusonius Rufus made this point most forcefully. He conceived of philosophy as nothing but the practice of noble behavior. Theory without action was empty rhetoric. A person who could explain virtue brilliantly but never acted virtuously had accomplished nothing. The Stoics measured themselves not by what they believed but by what they did.\n\nThis section covers four monthly themes. May focuses on right action, doing what is just and necessary regardless of personal cost. June addresses problem solving, the skill of approaching obstacles as raw material for improvement. July is about duty, fulfilling your obligations to family, community, and your own principles. August teaches pragmatism, the Stoic preference for practical results over theoretical perfection.\n\nThe transition from perception to action is the crucial pivot in the Stoic framework. Once you can see clearly and manage your emotions, the question becomes: now what? The Discipline of Action answers that question with a single word: virtue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5ced1f6a-6c76-4306-84df-ead7c2f8c453",
+      "feedId": "the-daily-stoic-taking-right-action",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Four Cardinal Virtues"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "At the center of Stoic ethics are four cardinal virtues: courage, wisdom, temperance, and justice. The Stoics considered these the compass points that guide every decision, and they believed that virtue, not wealth, not pleasure, not fame, is the highest good. If you act virtuously, they argued, everything else important follows.\n\nCourage is not the absence of fear. It is acting rightly despite fear. It means speaking truth when silence would be easier, standing up for someone when walking away would be safer, and pursuing what matters even when the outcome is uncertain. The Stoics faced exile, execution, and enslavement, and courage was the virtue that carried them through.\n\nWisdom is the ability to navigate complex situations with good judgment. It means knowing when to speak and when to listen, when to push forward and when to wait, when to hold firm and when to compromise. Wisdom is perception applied to action.\n\nTemperance is self-discipline and moderation. It means not being controlled by appetites, desires, or impulses. It is the virtue that prevents courage from becoming recklessness and wisdom from becoming manipulation.\n\nJustice is treating others fairly, contributing to your community, and fulfilling your responsibilities to the people around you. For the Stoics, justice was the most social of the virtues, the one that connected your inner life to the world outside.\n\nHoliday later wrote an entire four-book series dedicated to these virtues, one book per virtue, completing the series in 2025."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6f85fdc7-0807-40ed-9a85-65e07c0a8932",
+      "feedId": "the-daily-stoic-taking-right-action",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Duty and Responsibility"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "July's theme in The Daily Stoic is duty, a concept that sounds old-fashioned but sits at the heart of how the Stoics understood a good life. For them, duty was not a burden imposed from outside. It was the natural expression of understanding your place in the world and acting accordingly.\n\nMarcus Aurelius felt this acutely. He never wanted to be emperor. By temperament, he was a philosopher who would have preferred a quiet life of study and reflection. But duty called. Rome needed governing, borders needed defending, and plagues needed managing. So he did the work, not because he enjoyed it, but because it was his responsibility and he intended to do it well.\n\nThe Stoics believed that every person has roles to fulfill: parent, friend, citizen, colleague, neighbor. Each role carries obligations. A parent has a duty to raise their children with care. A citizen has a duty to contribute to the common good. A friend has a duty to be honest and reliable. Fulfilling these obligations, even when it is inconvenient or uncomfortable, is not optional. It is the price of being part of a community.\n\nThis view runs counter to modern culture, which often frames duty as something that limits personal freedom. The Stoic response is that true freedom is not doing whatever you want. True freedom is doing what is right, voluntarily, because you understand why it matters."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Marcus Aurelius spent 14 of his 19 years as emperor on the frontier, far from Rome, fulfilling his duty to the empire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1ba453fa-e89a-4a0f-8c35-e625d66583eb",
+      "feedId": "the-daily-stoic-taking-right-action",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Sympatheia: We Exist for Each Other"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Marcus Aurelius wrote frequently about sympatheia, the Stoic concept of universal interconnectedness. He urged himself to meditate often on the interconnectedness and mutual interdependence of all things in the universe. This was not abstract mysticism. It was a practical observation with direct implications for how you should treat other people.\n\nThe Stoic argument goes like this. Human beings are social creatures. We evolved to live in communities. Our survival and flourishing depend on cooperation. Therefore, acting against the interests of others is acting against your own nature. Selfishness is not just morally wrong, it is irrational, because you are harming the system that sustains you.\n\nSympatheia is the bridge between personal ethics and social responsibility. It says that your well-being and my well-being are not separate things. When you help others, you strengthen the community that supports you. When you harm others, you weaken the fabric that holds everything together.\n\nThis concept had special weight coming from Marcus Aurelius. As emperor, he could have easily viewed other people as subjects to be managed or obstacles to be removed. Instead, he reminded himself constantly that his role was to serve. The power he held was not for his benefit but for the benefit of the people who depended on the empire functioning well.\n\nIn modern terms, sympatheia is the Stoic answer to the question of why you should care about anyone beyond yourself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "39f76264-0e96-431e-a568-b3764b387173",
+      "feedId": "the-daily-stoic-taking-right-action",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Pragmatism Over Perfection"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "August's theme is pragmatism, and it captures something essential about how Stoicism differs from other philosophical traditions. The Stoics were not interested in building perfect theoretical systems. They wanted results. They wanted philosophy that worked in the real world, under real pressure, with imperfect information and limited time.\n\nThis pragmatic streak is visible in every major Stoic figure. Marcus Aurelius did not have the luxury of debating ethical hypotheticals. He had to make decisions that affected millions of people, often with incomplete knowledge and while personally exhausted. Seneca navigated the treacherous politics of Nero's court, where one wrong move could mean death. Epictetus taught students who were preparing to enter actual Roman public life, not academic careers.\n\nThe practical implication is that Stoicism favors action over analysis. It says: do the best you can with what you know right now. Do not wait for certainty, because certainty rarely comes. Do not let the perfect become the enemy of the good. Make your decision, take your action, and then deal with whatever happens next using the same framework.\n\nThis is why the Discipline of Action ends with pragmatism rather than starting with it. You need clarity, emotional mastery, virtue, problem-solving skills, and a sense of duty before pragmatism becomes wise rather than reckless. Pragmatism without principles is just opportunism. But pragmatism guided by Stoic virtue is effective and ethical action."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "db397076-a065-4e36-9b4e-46267f5eeaa0",
+      "feedId": "the-daily-stoic-taking-right-action",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Philosophy Must Be Lived"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The most important idea in the Discipline of Action can be stated simply: philosophy that stays in your head is not philosophy at all. The Stoics judged themselves and others not by their beliefs but by their behavior. Musonius Rufus put it most directly when he said that philosophy is nothing but the practice of noble behavior.\n\nThis standard is ruthlessly practical. It does not matter how many Stoic books you have read. It does not matter if you can explain the dichotomy of control in elegant terms. It does not matter if you own a shelf of Marcus Aurelius translations. What matters is how you act when someone cuts you off in traffic, when your colleague takes credit for your work, when you have the chance to cheat and nobody would know, or when doing the right thing would cost you money, comfort, or reputation.\n\nThe Stoics were not hypocrites about this, at least not intentionally. Marcus Aurelius wrote his journal as a tool for holding himself accountable. Seneca acknowledged openly that he failed to live up to his own ideals. Epictetus warned his students against becoming mere philosophy enthusiasts who talked a good game but lived no differently than anyone else.\n\nThe Daily Stoic reinforces this message by pairing every ancient quotation with a modern application. The question is never just what did this philosopher say. It is always also: what does this mean for how you live today, right now, in the next hour?"
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "The Stoics measured themselves by their actions, not their theories. Reading about virtue is not the same as practicing it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9208fa0e-e205-4a29-9fd1-cd5724bc0709",
+      "feedId": "the-daily-stoic-the-obstacle-is-the-way",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/6_202603272115.jpeg",
+          "title": "The Obstacle Is the Way",
+          "subtitle": "Turning problems into opportunities"
+        }
+      ]
+    },
+    {
+      "_id": "0635af61-df29-46dc-81bf-bfe2cc9c1595",
+      "feedId": "the-daily-stoic-the-obstacle-is-the-way",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "What Stands in the Way Becomes the Way"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Marcus Aurelius wrote one of the most powerful lines in all of philosophy: the impediment to action advances action, and what stands in the way becomes the way. This idea was so central to Holiday's reading of Stoicism that it became the title of his breakout book, The Obstacle Is the Way, published in 2014.\n\nThe concept is deceptively simple. When you encounter an obstacle, you have two choices. You can see it as something blocking your path, a wall that stops you. Or you can see it as the path itself, raw material that you can work with, learn from, and use to become stronger.\n\nA failed business teaches you what customers actually want. A rejection letter sharpens your craft. A health crisis reveals what you actually value. A betrayal shows you who you can trust. In each case, the obstacle contains within it the seeds of something useful, if you are willing to look.\n\nThis is not naive optimism. The Stoics did not pretend that obstacles are pleasant or that everything happens for a reason. Marcus Aurelius was governing through a devastating plague when he wrote those words. He knew perfectly well that some obstacles are terrible. The point is not that they are good. The point is that your response to them can be good, and that the discipline of finding something useful in every difficulty is itself a form of strength.\n\nThis idea has resonated far beyond the philosophy world, becoming a core teaching in sports, military training, and business leadership."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "593be55b-b61d-422c-bf6d-dc1a891b4ab0",
+      "feedId": "the-daily-stoic-the-obstacle-is-the-way",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Problem Solving the Stoic Way"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "June's theme in The Daily Stoic is problem solving, and the Stoic approach to it is distinctive. Most people view problems as interruptions to their plans. The Stoics viewed them as the plan. Your life is essentially a series of problems to be solved, and your character is defined by how you solve them.\n\nThe first step in Stoic problem solving is accurate perception, which is why the Discipline of Perception comes before the Discipline of Action. You cannot solve a problem you have misidentified. Strip away the emotional charge and see the situation plainly. What actually happened? What are the real constraints? What resources do you actually have?\n\nThe second step is creative action. The Stoics were not passive acceptors of fate. They were relentless improvisers. When one path is blocked, find another. When your plan fails, make a new plan. Marcus Aurelius governed an empire while facing plague, war, and internal rebellion, all at the same time. He did not have the option of waiting for perfect conditions.\n\nThe third step is detachment from outcomes. You can control your effort and your strategy, but you cannot control results. A doctor can give the best possible treatment and the patient may still die. A leader can make the wisest possible decision and circumstances may still go wrong. The Stoic problem solver puts everything into the process and then accepts whatever comes.\n\nThis combination of aggressive effort and emotional detachment from results is the Stoic sweet spot."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0f7fcb2b-1acd-4f7a-af60-97bdefe47ca7",
+      "feedId": "the-daily-stoic-the-obstacle-is-the-way",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Voluntary Discomfort"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Seneca practiced something that sounds extreme to modern ears: deliberately exposing himself to hardship when he did not have to. He would eat simple food, wear rough clothing, sleep on a hard surface, and go without luxuries, not as punishment but as training. He wanted to prove to himself that he could handle difficulty so that when real difficulty arrived, it would not break him.\n\nThis practice of voluntary discomfort runs throughout Stoic teaching and appears in several Daily Stoic entries. The logic is similar to physical exercise. You do not lift weights because you enjoy the strain. You lift weights because the strain builds the capacity you will need later. Voluntary discomfort does the same for mental and emotional resilience.\n\nThe modern applications are straightforward. Take cold showers occasionally. Skip a meal. Put your phone in a drawer for an entire day. Walk instead of driving. Say no to something comfortable in favor of something challenging. Each small act of voluntary discomfort reminds you that comfort is pleasant but not necessary, and that you are more capable than your habits suggest.\n\nThere is also a gratitude component. When you spend a day eating plain food and sleeping on the floor by choice, you develop a sharper appreciation for the bed and the meals waiting for you the next day. Voluntary discomfort shows you how much you already have by briefly taking it away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4f91d337-660f-4bc9-8687-6132baf352d4",
+      "feedId": "the-daily-stoic-the-obstacle-is-the-way",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The View from Above"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Marcus Aurelius practiced a mental exercise that modern psychologists might call cognitive reframing: the view from above. When he felt overwhelmed by his problems, he would imagine himself rising above the situation, zooming out progressively until his concerns shrank to their proper proportion.\n\nStart with your room. Then see the building. Then the city. Then the region. Then the continent. Then the planet. Then the vastness of space and time stretching in every direction. From that altitude, the argument you had this morning, the email that upset you, the career setback that felt like the end of the world, all of it shrinks to something very small.\n\nThis is not about dismissing your problems as unimportant. It is about seeing them in accurate proportion. Most of the things we worry about are genuinely small when viewed against the full scale of human existence. That perspective does not eliminate the feeling of stress, but it loosens its grip.\n\nThe view from above also connects to sympatheia. When you zoom out far enough, you see that everyone is dealing with their own small dramas and that all of these dramas are interconnected. Your boss who snapped at you might be dealing with a sick parent. The stranger who cut you off in traffic might have just received devastating news. The wide view cultivates compassion alongside perspective.\n\nMarcus used this exercise while commanding armies on frozen frontiers. If it helped him maintain composure governing an empire at war, it can help you get through a difficult Tuesday."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d7d57cdf-1e7a-4465-b154-58be6598f6ba",
+      "feedId": "the-daily-stoic-the-obstacle-is-the-way",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Persistence Without Stubbornness"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Stoics valued persistence, but they drew a clear line between persistence and stubbornness. Persistence means continuing to work toward a worthy goal despite setbacks. Stubbornness means refusing to change your approach even when it is clearly not working. The difference is flexibility.\n\nMarcus Aurelius governed through situations where his initial plans failed repeatedly. The Germanic wars dragged on far longer than expected. The plague could not be contained with the tools available. Political alliances shifted constantly. In each case, he had to adapt his approach while maintaining his commitment to the underlying goal. He persisted in defending the empire, but he changed strategies constantly.\n\nThe Stoic approach to obstacles is iterative. Try the direct path first. If that is blocked, try going around. If that fails, try going under, or over, or waiting. If the obstacle truly cannot be overcome, find a way to use it. The number of available approaches is almost always larger than it appears in the moment of frustration.\n\nThis flexibility is built on the dichotomy of control. You can control your effort, creativity, and attitude. You cannot control whether any particular approach works. So you commit fully to the attempt while holding the specific method loosely. If this way fails, you try another way with the same commitment. The persistence is in the goal. The flexibility is in the method.\n\nKnowing when to change course and when to hold firm is wisdom in action."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d4916daa-56f7-447f-bc9f-be848a1b364c",
+      "feedId": "the-daily-stoic-the-obstacle-is-the-way",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "From Locker Rooms to Boardrooms"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The obstacle-as-opportunity concept broke out of the philosophy world when Holiday published The Obstacle Is the Way in 2014. The book was adopted by the New England Patriots during their 2014-15 season, which ended with a Super Bowl victory. Coaches distributed copies to players. The idea that obstacles are not things that stop you but things that make you stronger resonated deeply with athletes trained to push through physical and mental barriers.\n\nFrom there, the concept spread to military leadership, Silicon Valley startups, and corporate boardrooms. Navy SEALs read Holiday's books. Tech founders discussed Stoic ideas at conferences. Jack Dorsey, the co-founder of Twitter, and venture capitalist Brad Feld were among the Silicon Valley figures who embraced Stoic principles.\n\nThe appeal makes sense. Athletes, soldiers, and entrepreneurs all operate in environments of extreme uncertainty where plans fail constantly and resilience determines who succeeds. The Stoic framework, which teaches you to see obstacles as raw material, manage your emotions under pressure, and focus only on what you can control, is perfectly suited to high-performance environments.\n\nBut Holiday has always maintained that these ideas are not just for elite performers. The Daily Stoic presents the same principles in a form accessible to anyone. You do not need to be winning a Super Bowl or launching a startup to benefit from learning to see obstacles as opportunities. You just need to have a Tuesday that does not go according to plan."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "The Guardian called Holiday a Silicon Valley guru for his role in bringing Stoicism to the tech industry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9db94e46-b856-4f80-9c40-754b84b13b69",
+      "feedId": "the-daily-stoic-building-resilience",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/7_202603272115.jpeg",
+          "title": "Building Resilience",
+          "subtitle": "Enduring what you cannot change"
+        }
+      ]
+    },
+    {
+      "_id": "d03971f7-1ce3-4b36-a2e2-91e52cc4c25e",
+      "feedId": "the-daily-stoic-building-resilience",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Discipline of Will"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The final four months of The Daily Stoic, September through December, address the Discipline of Will: how you deal with what you cannot change and find your place in a world that does not always cooperate. If perception is how you see, and action is what you do, will is how you endure.\n\nThis is the discipline for the truly hard moments. You can perceive a situation clearly and still not be able to change it. You can take the best possible action and still fail. The Discipline of Will is for those times when you have done everything within your power and the outcome is still not what you wanted. What then?\n\nThe Stoics had a clear answer: you endure with dignity. You accept what has happened without pretending it did not happen and without collapsing under the weight of it. You maintain your character, your principles, and your commitment to virtue even when circumstances are terrible.\n\nThis is not passive surrender. The Discipline of Will is perhaps the most active of the three, because maintaining inner composure during genuine hardship requires extraordinary effort. It is easy to be calm when things are going well. It is when the world turns against you that your practice is truly tested.\n\nSeptember focuses on fortitude and resilience. October covers virtue and kindness. November is devoted to amor fati. December closes the year with meditation on mortality. Together, they teach you how to face the hardest truths of human existence with grace."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9881531f-745e-41b9-a27e-7ac1a6b637e4",
+      "feedId": "the-daily-stoic-building-resilience",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Fortitude: The Quiet Strength"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "September's theme is fortitude and resilience, and it opens the Discipline of Will with the most fundamental question: can you take a hit and keep going? Not with a dramatic speech or a heroic gesture, but quietly, day after day, when nobody is watching and nobody is keeping score.\n\nFortitude in the Stoic sense is not about dramatic last stands or spectacular feats of endurance. It is about the daily practice of showing up when you do not feel like it, doing the work that needs to be done even when you are exhausted, and maintaining your standards when it would be so much easier to let them slip.\n\nMarcus Aurelius modeled this relentlessly. He governed through the Antonine Plague, one of the deadliest pandemics in Roman history, which killed millions across the empire over a span of fifteen years. He fought Germanic tribes on the frozen northern frontier for over a decade. He dealt with betrayal from trusted allies. Through all of it, he continued to write in his journal, hold himself accountable, and try to be a better ruler and a better person.\n\nThe Daily Stoic presents fortitude not as a heroic trait reserved for extraordinary people but as a skill that anyone can develop. Like a muscle, it grows stronger with use. Every time you choose to push through discomfort rather than avoid it, every time you maintain your composure when you want to break down, you are building the capacity for the next challenge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e920508a-0a00-44c7-93ed-483b854d0f6f",
+      "feedId": "the-daily-stoic-building-resilience",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Stoic Reserve Clause"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Stoics had a subtle but powerful concept called the reserve clause: the practice of adding 'fate permitting' to every plan and intention. I will finish this project by Friday, fate permitting. I will travel to see my family this summer, fate permitting. I will live to old age, fate permitting.\n\nThis is not pessimism or fatalism. It is honesty. You can control your effort, your preparation, and your intentions, but you cannot guarantee outcomes. The reserve clause acknowledges this reality up front rather than pretending it does not exist.\n\nThe psychological benefit is enormous. When you plan with the reserve clause built in, you invest fully in the attempt without staking your emotional well-being on the result. If the project succeeds, wonderful. If it does not, you are disappointed but not destroyed, because you never confused your effort with the outcome.\n\nSeneca practiced this with remarkable consistency. He wrote about how he prepared for journeys, business ventures, and political endeavors always with the understanding that the gods might have other plans. This did not make him passive or uncommitted. By all accounts, he worked extremely hard at everything he did. But he held the results loosely.\n\nThe reserve clause is especially useful for ambitious people who tend to tie their identity to their achievements. It creates a healthy separation between who you are and what happens to you. Your character is defined by how you try, not by whether you succeed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "fc861eca-fcaa-4bf3-a54b-c56b5b89d659",
+      "feedId": "the-daily-stoic-building-resilience",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Virtue and Kindness"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "October shifts from endurance to ethics with its focus on virtue and kindness. After a month of building resilience, The Daily Stoic reminds you what that resilience is for. You do not build strength just to survive. You build it so you can be good to other people even when life makes it hard.\n\nThe Stoics were not cold rationalists who ignored other people's suffering. Marcus Aurelius, one of the most powerful humans who ever lived, reminded himself constantly that his job was to serve. He wrote about tolerating difficult people, forgiving those who wronged him, and treating everyone he encountered with basic human dignity, even when they did not reciprocate.\n\nKindness in the Stoic framework is not weakness. It is the highest expression of strength. Anyone can be kind when they are comfortable and happy. Being kind when you are exhausted, frustrated, grieving, or under pressure requires the full Stoic toolkit: clear perception, disciplined action, and the will to maintain your character despite circumstances.\n\nOctober also addresses the concept of summum bonum, the highest good. For the Stoics, the answer was virtue itself. Not happiness, not success, not pleasure, but the consistent practice of being a good person. If you achieve that, they argued, everything else worth having, genuine happiness, deep relationships, a sense of meaning, follows naturally.\n\nVirtue is not a reward for success. It is the practice that makes success meaningful."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "bb8085c8-d27c-4351-a38d-9372c3e8c4af",
+      "feedId": "the-daily-stoic-building-resilience",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Evening Review"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "If the morning examination prepares you for the day ahead, the evening review helps you learn from the day behind. This practice appears throughout The Daily Stoic and was a core part of Seneca's daily routine. He described it as a nightly audit of his own behavior.\n\nThe process takes about five minutes. At the end of the day, before sleep, review what happened. What went well? What did you handle poorly? Where did you lose your temper, make an impulsive decision, or act out of alignment with your values? What triggered those moments? How would you handle them differently next time?\n\nThe key to the evening review is honesty without self-punishment. The Stoics were not interested in guilt or shame. They viewed mistakes as data points. You lost your temper at lunch? Good, now you know that situation is a trigger. You can prepare for it tomorrow. You failed to follow through on a commitment? Good, now you can examine why and address the underlying cause.\n\nSeneca would mentally replay the day's events and evaluate his own role in each. He asked himself: what bad habit did I correct today? What fault did I resist? In what area am I better than yesterday? This framing keeps the review constructive. It is not about cataloging failures. It is about tracking improvement.\n\nOver weeks and months, the evening review creates a powerful feedback loop. You notice patterns, catch recurring triggers, and gradually close the gap between the person you want to be and the person you actually are."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "51319083-d229-4831-9759-bafb49f71802",
+      "feedId": "the-daily-stoic-building-resilience",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Endurance as Daily Practice"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Discipline of Will is not a one-time achievement. It is a daily practice, like physical fitness. You do not go to the gym once and become strong. You go repeatedly, building capacity incrementally, and if you stop going, the capacity fades. Resilience works the same way.\n\nThe Daily Stoic's structure reinforces this perfectly. By placing the Discipline of Will in September through December, the final third of the year, it gives you eight months of preparation before asking you to face the hardest material. You have spent January through April learning to see clearly. You have spent May through August learning to act wisely. Now, armed with clear perception and right action, you are ready to practice endurance.\n\nThe daily format matters here. Reading one meditation per day for four months on the themes of fortitude, virtue, acceptance, and mortality creates a sustained immersion that changes how you think. It is not a weekend seminar or a single inspiring speech. It is a slow, steady reprogramming of your default responses to difficulty.\n\nEpictetus compared philosophical training to athletic training. An athlete does not complain about the difficulty of the workout. The difficulty is the point. It is what makes them stronger. The Stoic who faces hardship with equanimity is not suffering less than anyone else. They have simply trained their capacity to endure, one day and one meditation at a time.\n\nThe year ends in December with mortality, the ultimate test of the Discipline of Will."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Resilience is not a personality trait. It is a skill built through daily practice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c2aaca0a-2707-4600-82ed-174183c01c02",
+      "feedId": "the-daily-stoic-amor-fati",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/8_202603272115.jpeg",
+          "title": "Amor Fati",
+          "subtitle": "Learning to love your fate"
+        }
+      ]
+    },
+    {
+      "_id": "92a73196-82d8-4009-aae8-a7378682ec13",
+      "feedId": "the-daily-stoic-amor-fati",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "What Is Amor Fati?"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Amor fati is Latin for 'love of fate,' and it represents one of the most challenging and transformative ideas in Stoic philosophy. November, an entire month of The Daily Stoic, is devoted to it. The concept goes beyond mere acceptance. Acceptance says: this happened, and I can live with it. Amor fati says: this happened, and I would not have it any other way.\n\nThis sounds extreme, and it is meant to. The Stoics pushed the concept of acceptance to its logical conclusion. If you truly believe that your character is built through difficulty, that obstacles are opportunities, and that external circumstances are outside your control, then there is no rational reason to wish things were different. Everything that happens, including the painful things, contributed to making you who you are right now.\n\nAmor fati is not about pretending that bad things are good. It is about choosing to use everything that happens as fuel for growth rather than evidence for despair. The loss of a job becomes the push toward a better one. A failed relationship teaches you what you actually need. An illness forces you to confront what matters most.\n\nHoliday and the Daily Stoic brand have made amor fati one of their signature concepts. The Daily Stoic store sells amor fati coins designed to be carried as a daily reminder. The phrase has become a touchstone for the modern Stoic community, representing the aspiration to meet life fully, without wishing it were easier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "73ee8158-9c16-40ed-b236-e3e5ab4a8ae6",
+      "feedId": "the-daily-stoic-amor-fati",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Acceptance vs. Surrender"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Amor fati is easily misunderstood as surrender: just accept whatever happens and stop trying to change things. This is the opposite of what the Stoics meant. The distinction between acceptance and surrender is critical to understanding how amor fati works in practice.\n\nSurrender is passive. It says: nothing matters, so why bother? It gives up effort, ambition, and agency. It is a form of despair dressed up as philosophy.\n\nAcceptance is active. It says: this is what happened, and now what am I going to do about it? It acknowledges reality without being destroyed by it. It maintains effort, ambition, and agency while releasing the emotional resistance that wastes energy and distorts judgment.\n\nThe Stoics were among the most active, ambitious people in the ancient world. Marcus Aurelius governed an empire. Seneca wrote prolifically and navigated brutal politics. Epictetus built a school from nothing. Cato fought Caesar to the bitter end. None of them surrendered. They accepted the circumstances they could not change while working relentlessly on the circumstances they could.\n\nAmor fati operates at the intersection of these two postures. You love your fate not because it is always pleasant but because it is yours. It is the raw material of your life. Wishing it were different is wishing you were someone else, living a different story. The Stoic chooses to write the best possible story with the materials at hand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "50daeb6a-de80-4615-a7c4-a4f677bd8b17",
+      "feedId": "the-daily-stoic-amor-fati",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Fire That Feeds"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Marcus Aurelius used a striking metaphor for how a Stoic should handle adversity. He compared the practiced mind to a blazing fire: a small fire is extinguished by obstacles thrown on it, but a great fire consumes whatever is thrown at it and grows larger. The more fuel you add, the stronger it burns.\n\nThis is amor fati in action. The question is not whether difficulties will come. They will. The question is whether you are a small fire that goes out when tested or a great fire that grows from the testing. Every setback, disappointment, and hardship is fuel if you know how to use it.\n\nThe metaphor works because it captures the transformative nature of the concept. Fuel does not sit on top of a fire unchanged. It is consumed and converted into energy. Similarly, when you practice amor fati, your difficulties do not remain difficulties. They are transformed into strength, wisdom, resilience, and empathy. The person who emerges from a crisis practiced with amor fati is not the same person who entered it. They are larger.\n\nThis concept connects directly to the obstacle is the way. If you can love your fate, then every obstacle becomes fuel for the fire. Nothing can diminish you because everything adds to you. This does not eliminate pain, but it changes your relationship to pain. Instead of something to be avoided at all costs, pain becomes something that serves a purpose, building the blaze that is your character."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "16eac882-5ba2-49ba-aad7-c710400f5aac",
+      "feedId": "the-daily-stoic-amor-fati",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Virtue as the Highest Good"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Stoic concept of summum bonum, the highest good, provides the philosophical foundation for amor fati. The question every philosophy must answer is: what is the most important thing in life? Different traditions give different answers. Hedonists say pleasure. Epicureans say the absence of pain. Materialists say wealth. The Stoics said virtue.\n\nVirtue, meaning the consistent practice of courage, wisdom, temperance, and justice, is the only thing that is always within your control. You cannot control your health, your wealth, your reputation, or your circumstances. But you can always choose to act with integrity, kindness, and courage. That choice is always available, in every situation, no matter how terrible.\n\nThis is why the Stoics could claim that a person in chains could be freer than an emperor. Freedom is not about external circumstances. It is about the ability to choose virtue. Epictetus, who was born a slave, understood this more deeply than anyone. His entire teaching rests on the insight that no external force can compel you to abandon your principles. They can take everything from you except the choice of how to respond.\n\nWhen virtue is the highest good, amor fati becomes logical rather than heroic. If the most important thing in life is how you respond to what happens, then everything that happens is an opportunity to practice the most important thing. Your fate is not something that happens to you. It is the arena in which you demonstrate who you are."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "64c3b544-ab81-4cea-bf27-041834802204",
+      "feedId": "the-daily-stoic-amor-fati",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Gratitude and Contentment"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Amor fati is closely connected to another Stoic practice: gratitude. When you learn to love your fate, you naturally become more grateful for what you have, because you stop measuring your life against some imagined alternative where everything went perfectly.\n\nSeneca wrote extensively about the danger of always wanting more. He observed that wealth does not satisfy desire; it only increases it. The person with one house wants two. The person with two wants five. The restlessness never ends because the problem is not a lack of possessions but a lack of contentment. The Stoic remedy is not to stop pursuing goals but to stop depending on their achievement for your sense of well-being.\n\nThe daily meditation format of The Daily Stoic supports this practice beautifully. Each day's entry provides a small prompt for reflection, and many of them gently redirect attention from what you lack to what you already possess. Your health, your relationships, your freedom to think and choose, these are not small things, but they become invisible when you are focused on the next promotion, the bigger house, or the better phone.\n\nGratitude in the Stoic sense is not a polite social gesture. It is a radical shift in attention. Instead of cataloging what is missing from your life, you deliberately catalog what is present. The practice does not eliminate ambition. It grounds ambition in appreciation, which makes the pursuit of goals more sustainable and the achievement of them more satisfying."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "Seneca observed that true wealth is not having many things, but needing few."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5d2ff99c-43a2-42ec-b92b-0fd16395b0ad",
+      "feedId": "the-daily-stoic-amor-fati",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Living Amor Fati"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Amor fati is an aspiration, not a switch you flip. Nobody wakes up one morning and loves their fate perfectly from that point forward. It is a practice, and like all Stoic practices, it requires daily effort and regular failure.\n\nThe practical starting point is small. The next time something goes wrong, something minor like a canceled flight, a rainy weekend, a project that falls through, try this: instead of immediately wishing it had not happened, ask yourself what you can do with it. Not what you lost, but what you gained. Maybe the canceled flight gives you time to read. Maybe the rain gives you permission to rest. Maybe the failed project frees you to try something better.\n\nThis is not toxic positivity. You do not have to smile through genuine tragedy. Amor fati is not about pretending everything is wonderful. It is about the orientation of your attention. Even in the worst circumstances, there is almost always something you can do, some way you can grow, some act of kindness you can perform. Amor fati trains you to look for that opening rather than staring at the closed door.\n\nOver time, the practice builds a kind of psychological resilience that is hard to shake. When you have spent months or years converting setbacks into fuel, the reflex becomes second nature. New problems still hurt, but they arrive with a companion thought: and now I will use this too.\n\nAmor fati pairs with memento mori, the subject of December, to form the final lesson of The Daily Stoic. Love your fate, because your time is limited."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7d4cc474-5af7-4845-97e6-2092d41dcfc2",
+      "feedId": "the-daily-stoic-memento-mori",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/9_202603272115.jpeg",
+          "title": "Memento Mori",
+          "subtitle": "Using mortality to live fully"
+        }
+      ]
+    },
+    {
+      "_id": "c74086ed-ca20-4154-8409-3ed177bd3b96",
+      "feedId": "the-daily-stoic-memento-mori",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Remember You Will Die"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "December, the final month of The Daily Stoic, closes the year with the most fundamental truth the Stoics confronted: you are going to die. Not as a distant abstraction but as a concrete, personal reality. Memento mori, Latin for 'remember you will die,' is the Stoic meditation on mortality, and it is meant to be practiced not once but daily.\n\nThis sounds grim, but the Stoics did not use it as a source of dread. They used it as a source of clarity. When you remember that your time is limited, trivialities fall away. The petty argument you were nursing suddenly seems absurd. The project you have been procrastinating on suddenly feels urgent. The people you love but have not called suddenly deserve your attention right now.\n\nMarcus Aurelius reminded himself that he could leave life at any moment, and he used that awareness to evaluate how he was spending his time. If today were your last day, would you waste it being angry at someone who wronged you? Would you spend it scrolling through your phone? Would you hold back from telling the people who matter that they matter?\n\nMemento mori is the ultimate Stoic filter. It does not add anything to your life. It subtracts everything that does not belong. When you view your choices through the lens of limited time, the important things become obvious and the unimportant things become easy to release."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9028158a-a3b9-4b90-b73b-ea1411c16103",
+      "feedId": "the-daily-stoic-memento-mori",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Urgency and Purpose"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The awareness of death creates urgency, and urgency creates purpose. Without a deadline, projects expand indefinitely. Without the awareness that your years are numbered, days blur together into an undifferentiated mass of routine. Memento mori sharpens everything.\n\nSeneca made this point more forcefully than any other Stoic. He argued that most people do not have short lives; they waste long ones. They spend decades on things that do not matter, postpone what genuinely matters until a tomorrow that may never come, and then act shocked when they run out of time. The problem is not mortality. The problem is living as if you are immortal.\n\nThe Daily Stoic's December meditations push the reader to confront this directly. What are you doing with your time? Not your schedule, not your calendar, but your actual finite allocation of days on this planet? Are you spending them in alignment with your values, or have you drifted into a default mode that serves no one?\n\nThis is where memento mori connects to the rest of the Stoic framework. Clear perception lets you see what actually matters. Right action lets you pursue it. Will lets you endure the difficulty of living deliberately. And the awareness of death provides the motivation to do all three with real intensity rather than theoretical interest.\n\nEvery day you wake up is a day you could use fully or waste completely. Memento mori is the reminder that the number of remaining days is unknown and shrinking."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6f5ddb08-061c-4c21-8f27-88dde71189e9",
+      "feedId": "the-daily-stoic-memento-mori",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Examined Life"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Socrates said that the unexamined life is not worth living, and the Stoics took this seriously. Self-examination runs through every part of The Daily Stoic, from the morning examination in January to the evening review in September to the mortality meditations in December. The consistent theme is that a life lived on autopilot is a life half-lived.\n\nExamination means different things at different stages of the Stoic practice. In the Discipline of Perception, it means examining your assumptions, biases, and automatic judgments. In the Discipline of Action, it means examining your choices, habits, and whether your behavior aligns with your stated values. In the Discipline of Will, it means examining your relationship with suffering, your capacity for endurance, and your acceptance of what you cannot change.\n\nThe Daily Stoic's daily format is itself an invitation to examination. Each morning's reading poses a question, either explicitly or implicitly, and the rest of the day is an opportunity to live with that question. Over 366 days, the cumulative effect is a year-long practice of structured self-reflection.\n\nMarcus Aurelius was perhaps the most rigorous self-examiner in history. His journal is essentially a record of a man holding himself accountable, day after day, with brutal honesty and no audience. He praised himself rarely and criticized himself frequently. The result was not self-flagellation but self-improvement, a gradual closing of the gap between who he was and who he wanted to be."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "08b47230-f0b7-4b2b-902a-0e34cea832b5",
+      "feedId": "the-daily-stoic-memento-mori",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Legacy and Character"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "What remains after you die? The Stoics had a clear answer: your character, expressed through the impact of your actions on others. Not your wealth, which will be redistributed. Not your reputation, which will fade. Not your possessions, which will decay. What endures is how you treated people, what you built, and the example you set.\n\nMarcus Aurelius reflected on this frequently, noting how quickly even the most famous people are forgotten. He listed the great figures of previous generations and observed that they were already fading from memory within decades of their deaths. This was not meant to be depressing. It was meant to liberate. If fame and legacy are temporary, then the question of how to live becomes simpler: live virtuously, not for the audience of history, but because it is the right way to live.\n\nIronically, Marcus Aurelius himself became one of the most enduring figures in Western intellectual history, precisely because he did not write for an audience. His private journal, never meant for publication, has been read continuously for nearly two thousand years because its honesty and wisdom speak to universal human concerns.\n\nThe Stoic view of legacy is practical. You cannot control how you will be remembered. You can control how you act today. Pour your energy into the latter and let the former take care of itself. The person who lives with integrity does not need to worry about their legacy, because the legacy is being built in real time, with every choice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8928e967-7ee3-48be-88b7-31ffcb14ccfd",
+      "feedId": "the-daily-stoic-memento-mori",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Stoic Medallion"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of the most tangible expressions of the Daily Stoic philosophy is a small metal coin. The Daily Stoic store sells memento mori medallions, handcrafted by a Minnesota mint that has been operating since 1882. The coin is designed to be carried in your pocket as a physical reminder that your time is finite.\n\nThe idea draws directly from ancient practice. Roman generals celebrating a triumph would have a slave stand behind them whispering 'memento mori,' remember you will die, to prevent the intoxication of victory from making them forget their mortality. The medallion serves the same function in modern life: a small, heavy object that you feel every time you reach into your pocket, prompting a micro-moment of reflection.\n\nHoliday has described the medallion as one of the most popular products the Daily Stoic brand has ever created. Alongside the memento mori coin, the store sells an amor fati coin, medallions featuring the four cardinal virtues, and other Stoic-themed items. Together they represent the physical manifestation of a philosophy that insists on practice over theory.\n\nThere is something fitting about a philosophy that began under a painted porch in Athens being carried forward through metal coins in pockets around the world. The medium has changed, but the message is the same: remember that you will die, and use that knowledge to live with clarity, courage, and purpose.\n\nThe objects are not the practice. The practice is how you live. But sometimes a small piece of metal in your pocket is exactly the nudge you need to remember that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2ffc278d-416d-405a-9cda-e2508cdebc08",
+      "feedId": "the-daily-stoic-memento-mori",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "If Today Were Your Last"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The final days of December in The Daily Stoic bring the year full circle with the most direct question mortality can ask: if today were your last day, would you change anything about how you are living?\n\nThis question is not hypothetical. It is a diagnostic tool. If the answer is yes, you have work to do. If you would spend your last day differently from how you spent today, then something about today was misaligned with your values. The gap between how you live and how you would live if time were running out is the gap that Stoicism exists to close.\n\nAmor fati and memento mori work together as the culminating insight of The Daily Stoic. Memento mori tells you that your time is limited. Amor fati tells you to love the time you have. Together they create a powerful combination: urgency without anxiety, appreciation without complacency, and purpose without attachment to outcomes.\n\nThe year of meditations ends, but the practice does not. Many readers start the book again on January 1st, discovering new meaning in the same passages after a year of living with them. The daily format is designed for repetition. Each reading layers on top of the previous year's experience, creating deeper understanding over time.\n\nThe Daily Stoic closes with the same invitation it opened with. Tomorrow morning, read one page. Sit with it. Carry it through your day. That is the practice. That is the path. One day at a time, for as many days as you are given."
+            },
+            {
+              "type": "CONTENT_SUBTEXT",
+              "text": "The year ends, but the practice begins again. Many readers restart The Daily Stoic each January."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1d28c0e6-c8fd-49bc-860b-614db20b5033",
+      "feedId": "the-daily-stoic-quiz",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/1_202603272114.jpeg",
+          "title": "The Stoic Path",
+          "subtitle": "A 2,000-year-old philosophy for modern life"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "When was The Daily Stoic first published?",
+              "options": [
+                {
+                  "label": "October 2016",
+                  "correct": true
+                },
+                {
+                  "label": "March 2014",
+                  "correct": false
+                },
+                {
+                  "label": "January 2018",
+                  "correct": false
+                },
+                {
+                  "label": "July 2015",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Daily Stoic was published on October 18, 2016 by Portfolio, an imprint of Penguin Random House."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many daily meditations does the book contain?",
+              "options": [
+                {
+                  "label": "365",
+                  "correct": false
+                },
+                {
+                  "label": "366",
+                  "correct": true
+                },
+                {
+                  "label": "100",
+                  "correct": false
+                },
+                {
+                  "label": "52",
+                  "correct": false
+                }
+              ],
+              "explanation": "The book contains 366 meditations, one for each day of the year including leap day."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who co-authored The Daily Stoic with Ryan Holiday?",
+              "options": [
+                {
+                  "label": "Robert Greene",
+                  "correct": false
+                },
+                {
+                  "label": "Tim Ferriss",
+                  "correct": false
+                },
+                {
+                  "label": "Stephen Hanselman",
+                  "correct": true
+                },
+                {
+                  "label": "Tucker Max",
+                  "correct": false
+                }
+              ],
+              "explanation": "Stephen Hanselman, a Harvard Divinity School graduate and literary agent, co-authored the book and translated all 366 Stoic passages from the original Greek and Latin."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What are the three Stoic disciplines that structure the book?",
+              "options": [
+                {
+                  "label": "Mind, Body, Soul",
+                  "correct": false
+                },
+                {
+                  "label": "Perception, Action, Will",
+                  "correct": true
+                },
+                {
+                  "label": "Logic, Ethics, Physics",
+                  "correct": false
+                },
+                {
+                  "label": "Courage, Wisdom, Justice",
+                  "correct": false
+                }
+              ],
+              "explanation": "The book is organized around the three Stoic disciplines: Perception (how we see), Action (what we do), and Will (how we endure)."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Ryan Holiday first discover Stoicism?",
+              "options": [
+                {
+                  "label": "A college philosophy course",
+                  "correct": false
+                },
+                {
+                  "label": "Dr. Drew Pinsky's recommendation",
+                  "correct": true
+                },
+                {
+                  "label": "His father's library",
+                  "correct": false
+                },
+                {
+                  "label": "A bookstore in Rome",
+                  "correct": false
+                }
+              ],
+              "explanation": "At age 19, Holiday attended a college journalism conference where Dr. Drew Pinsky recommended the philosopher Epictetus. That same night, his friend Tucker Max suggested Marcus Aurelius's Meditations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "fecf80b8-8e83-4b1a-9bf4-5012f55179bc",
+      "feedId": "the-daily-stoic-quiz",
+      "order": 1,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/2_202603272114.jpeg",
+          "title": "The Three Philosophers",
+          "subtitle": "An emperor, a playwright, and a slave"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which Stoic philosopher was a Roman Emperor?",
+              "options": [
+                {
+                  "label": "Seneca",
+                  "correct": false
+                },
+                {
+                  "label": "Epictetus",
+                  "correct": false
+                },
+                {
+                  "label": "Marcus Aurelius",
+                  "correct": true
+                },
+                {
+                  "label": "Zeno of Citium",
+                  "correct": false
+                }
+              ],
+              "explanation": "Marcus Aurelius served as Roman Emperor from 161 to 180 AD, the last of the Five Good Emperors."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Epictetus's name literally mean?",
+              "options": [
+                {
+                  "label": "Freedom",
+                  "correct": false
+                },
+                {
+                  "label": "Acquired",
+                  "correct": true
+                },
+                {
+                  "label": "Wisdom",
+                  "correct": false
+                },
+                {
+                  "label": "Teacher",
+                  "correct": false
+                }
+              ],
+              "explanation": "Epictetus means 'acquired,' the label given to a purchased slave. His real birth name is unknown."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How did Seneca die?",
+              "options": [
+                {
+                  "label": "Natural causes in old age",
+                  "correct": false
+                },
+                {
+                  "label": "In battle against Caesar",
+                  "correct": false
+                },
+                {
+                  "label": "Forced suicide ordered by Nero",
+                  "correct": true
+                },
+                {
+                  "label": "During his exile on Corsica",
+                  "correct": false
+                }
+              ],
+              "explanation": "In 65 AD, Seneca was implicated in the Pisonian conspiracy against Nero and was ordered to take his own life."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who founded Stoicism?",
+              "options": [
+                {
+                  "label": "Socrates",
+                  "correct": false
+                },
+                {
+                  "label": "Aristotle",
+                  "correct": false
+                },
+                {
+                  "label": "Epictetus",
+                  "correct": false
+                },
+                {
+                  "label": "Zeno of Citium",
+                  "correct": true
+                }
+              ],
+              "explanation": "Zeno of Citium founded Stoicism around 300 BC after being shipwrecked in Athens. He began teaching at the Stoa Poikile (Painted Porch), giving the philosophy its name."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Cleanthes's profession before becoming a philosopher?",
+              "options": [
+                {
+                  "label": "Soldier",
+                  "correct": false
+                },
+                {
+                  "label": "Merchant",
+                  "correct": false
+                },
+                {
+                  "label": "Boxer",
+                  "correct": true
+                },
+                {
+                  "label": "Farmer",
+                  "correct": false
+                }
+              ],
+              "explanation": "Cleanthes was a successful boxer before turning to philosophy. He arrived in Athens with only four drachmae and worked as a water carrier at night to fund his studies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6d10f3c9-a6ad-4f70-b7b7-a6fc1c2b0f55",
+      "feedId": "the-daily-stoic-quiz",
+      "order": 2,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/3_202603272114.jpeg",
+          "title": "Seeing Clearly",
+          "subtitle": "The power of clear, objective thinking"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the dichotomy of control?",
+              "options": [
+                {
+                  "label": "Balance between good and evil",
+                  "correct": false
+                },
+                {
+                  "label": "Focus only on what you can control",
+                  "correct": true
+                },
+                {
+                  "label": "Split between logic and emotion",
+                  "correct": false
+                },
+                {
+                  "label": "Divide your time equally",
+                  "correct": false
+                }
+              ],
+              "explanation": "The dichotomy of control is the foundational Stoic principle: focus on what is within your power (your thoughts, choices, actions) and release anxiety about everything else."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which months cover the Discipline of Perception?",
+              "options": [
+                {
+                  "label": "January through April",
+                  "correct": true
+                },
+                {
+                  "label": "May through August",
+                  "correct": false
+                },
+                {
+                  "label": "September through December",
+                  "correct": false
+                },
+                {
+                  "label": "January through June",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Discipline of Perception covers January (Clarity), February (Passions and Emotions), March (Awareness), and April (Unbiased Thought)."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the January theme in The Daily Stoic?",
+              "options": [
+                {
+                  "label": "Courage",
+                  "correct": false
+                },
+                {
+                  "label": "Control",
+                  "correct": false
+                },
+                {
+                  "label": "Clarity",
+                  "correct": true
+                },
+                {
+                  "label": "Calm",
+                  "correct": false
+                }
+              ],
+              "explanation": "January's theme is Clarity, the ability to see situations plainly and directly without added drama or assumptions."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What Stoic practice involves asking 'What is in my control today?' each morning?",
+              "options": [
+                {
+                  "label": "The evening review",
+                  "correct": false
+                },
+                {
+                  "label": "Negative visualization",
+                  "correct": false
+                },
+                {
+                  "label": "The morning examination",
+                  "correct": true
+                },
+                {
+                  "label": "The view from above",
+                  "correct": false
+                }
+              ],
+              "explanation": "The morning examination is a brief daily practice where you ask what is within your control, what challenges might arise, and how you want to respond."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which philosopher taught that we become philosophers by examining our preconceived notions?",
+              "options": [
+                {
+                  "label": "Marcus Aurelius",
+                  "correct": false
+                },
+                {
+                  "label": "Seneca",
+                  "correct": false
+                },
+                {
+                  "label": "Zeno",
+                  "correct": false
+                },
+                {
+                  "label": "Epictetus",
+                  "correct": true
+                }
+              ],
+              "explanation": "Epictetus taught that philosophy begins with self-questioning, not academic study. Examining your own assumptions is the first philosophical act."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1912723e-bacf-4952-912f-458fc06fcb20",
+      "feedId": "the-daily-stoic-quiz",
+      "order": 3,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/4_202603272114.jpeg",
+          "title": "Mastering Your Emotions",
+          "subtitle": "Finding calm within the storm"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Does Stoicism teach that you should suppress all emotions?",
+              "options": [
+                {
+                  "label": "Yes, complete emotional control",
+                  "correct": false
+                },
+                {
+                  "label": "No, it teaches managing emotions wisely",
+                  "correct": true
+                },
+                {
+                  "label": "Only negative emotions",
+                  "correct": false
+                },
+                {
+                  "label": "Only emotions shown in public",
+                  "correct": false
+                }
+              ],
+              "explanation": "Stoicism does not teach emotional suppression. It teaches the difference between involuntary first reactions and the judgments we add on top, helping us manage the latter."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is premeditatio malorum?",
+              "options": [
+                {
+                  "label": "Love of fate",
+                  "correct": false
+                },
+                {
+                  "label": "Remember you will die",
+                  "correct": false
+                },
+                {
+                  "label": "Premeditation of evils",
+                  "correct": true
+                },
+                {
+                  "label": "Pursuit of virtue",
+                  "correct": false
+                }
+              ],
+              "explanation": "Premeditatio malorum means premeditation of evils: deliberately imagining what could go wrong to build mental preparedness and cultivate gratitude."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did Seneca describe anger as?",
+              "options": [
+                {
+                  "label": "A useful motivator",
+                  "correct": false
+                },
+                {
+                  "label": "The enemy of reason",
+                  "correct": false
+                },
+                {
+                  "label": "Temporary madness",
+                  "correct": true
+                },
+                {
+                  "label": "Fire of the soul",
+                  "correct": false
+                }
+              ],
+              "explanation": "Seneca wrote that anger is a form of temporary insanity that seizes control of your rational mind and drives you toward actions you would never choose when calm."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the 'inner citadel' concept from Marcus Aurelius?",
+              "options": [
+                {
+                  "label": "A Roman fortress",
+                  "correct": false
+                },
+                {
+                  "label": "A mental space of calm and clarity",
+                  "correct": true
+                },
+                {
+                  "label": "A meditation posture",
+                  "correct": false
+                },
+                {
+                  "label": "A Stoic school in Rome",
+                  "correct": false
+                }
+              ],
+              "explanation": "The inner citadel is a fortified place within your own mind where you can retreat to find stability and clarity, no matter what chaos surrounds you."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/43_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Seneca's primary prescription for dealing with anger?",
+              "options": [
+                {
+                  "label": "Express it immediately",
+                  "correct": false
+                },
+                {
+                  "label": "Suppress it completely",
+                  "correct": false
+                },
+                {
+                  "label": "Delay your response",
+                  "correct": true
+                },
+                {
+                  "label": "Channel it into exercise",
+                  "correct": false
+                }
+              ],
+              "explanation": "Seneca recommended delay: when anger rises, do nothing and say nothing until the initial wave passes. Then assess and respond proportionally."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "00818995-960e-41f3-ac25-269f8a0ea6bf",
+      "feedId": "the-daily-stoic-quiz",
+      "order": 4,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/5_202603272114.jpeg",
+          "title": "Taking Right Action",
+          "subtitle": "Doing the right thing, the right way"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What are the four cardinal Stoic virtues?",
+              "options": [
+                {
+                  "label": "Faith, Hope, Love, Charity",
+                  "correct": false
+                },
+                {
+                  "label": "Courage, Wisdom, Temperance, Justice",
+                  "correct": true
+                },
+                {
+                  "label": "Honor, Duty, Loyalty, Respect",
+                  "correct": false
+                },
+                {
+                  "label": "Truth, Beauty, Goodness, Unity",
+                  "correct": false
+                }
+              ],
+              "explanation": "The four cardinal virtues are Courage, Wisdom, Temperance (self-discipline), and Justice. The Stoics considered them the compass points guiding every decision."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does sympatheia mean in Stoic philosophy?",
+              "options": [
+                {
+                  "label": "Self-discipline",
+                  "correct": false
+                },
+                {
+                  "label": "Universal interconnectedness",
+                  "correct": true
+                },
+                {
+                  "label": "Love of wisdom",
+                  "correct": false
+                },
+                {
+                  "label": "Inner peace",
+                  "correct": false
+                }
+              ],
+              "explanation": "Sympatheia is the Stoic concept of universal interconnectedness. Marcus Aurelius urged meditation on the mutual interdependence of all things."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which months cover the Discipline of Action?",
+              "options": [
+                {
+                  "label": "January through April",
+                  "correct": false
+                },
+                {
+                  "label": "May through August",
+                  "correct": true
+                },
+                {
+                  "label": "September through December",
+                  "correct": false
+                },
+                {
+                  "label": "March through June",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Discipline of Action covers May (Right Action), June (Problem Solving), July (Duty), and August (Pragmatism)."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What radical position did Musonius Rufus advocate in the 1st century AD?",
+              "options": [
+                {
+                  "label": "Abolition of slavery",
+                  "correct": false
+                },
+                {
+                  "label": "Equal philosophical education for women",
+                  "correct": true
+                },
+                {
+                  "label": "Democratic elections for emperor",
+                  "correct": false
+                },
+                {
+                  "label": "Vegetarianism for all citizens",
+                  "correct": false
+                }
+              ],
+              "explanation": "Musonius Rufus argued that women should receive the same philosophical education as men, a position remarkably ahead of its time."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who said philosophy is nothing but the practice of noble behavior?",
+              "options": [
+                {
+                  "label": "Marcus Aurelius",
+                  "correct": false
+                },
+                {
+                  "label": "Seneca",
+                  "correct": false
+                },
+                {
+                  "label": "Musonius Rufus",
+                  "correct": true
+                },
+                {
+                  "label": "Epictetus",
+                  "correct": false
+                }
+              ],
+              "explanation": "Musonius Rufus conceived of philosophy as purely action-oriented, with no room for theory that did not change how you lived."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "08ef8ff0-ba06-4089-887e-5bd31a06c339",
+      "feedId": "the-daily-stoic-quiz",
+      "order": 5,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/6_202603272115.jpeg",
+          "title": "The Obstacle Is the Way",
+          "subtitle": "Turning problems into opportunities"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which philosopher said 'what stands in the way becomes the way'?",
+              "options": [
+                {
+                  "label": "Seneca",
+                  "correct": false
+                },
+                {
+                  "label": "Epictetus",
+                  "correct": false
+                },
+                {
+                  "label": "Marcus Aurelius",
+                  "correct": true
+                },
+                {
+                  "label": "Zeno",
+                  "correct": false
+                }
+              ],
+              "explanation": "Marcus Aurelius wrote that the impediment to action advances action, and what stands in the way becomes the way."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the 'view from above' technique?",
+              "options": [
+                {
+                  "label": "Climbing a mountain for clarity",
+                  "correct": false
+                },
+                {
+                  "label": "Reading philosophy from a high shelf",
+                  "correct": false
+                },
+                {
+                  "label": "Zooming out mentally to gain perspective",
+                  "correct": true
+                },
+                {
+                  "label": "Standing on a balcony to meditate",
+                  "correct": false
+                }
+              ],
+              "explanation": "The view from above is a mental exercise where you imagine rising above your situation, progressively zooming out until your concerns shrink to their proper proportion."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which group famously adopted The Obstacle Is the Way during their championship season?",
+              "options": [
+                {
+                  "label": "Golden State Warriors",
+                  "correct": false
+                },
+                {
+                  "label": "New England Patriots",
+                  "correct": true
+                },
+                {
+                  "label": "Chicago Bulls",
+                  "correct": false
+                },
+                {
+                  "label": "US Olympic Team",
+                  "correct": false
+                }
+              ],
+              "explanation": "The New England Patriots read The Obstacle Is the Way during their 2014-15 season, which ended with a Super Bowl victory."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is voluntary discomfort?",
+              "options": [
+                {
+                  "label": "Punishing yourself for mistakes",
+                  "correct": false
+                },
+                {
+                  "label": "Avoiding all comfort permanently",
+                  "correct": false
+                },
+                {
+                  "label": "Deliberately practicing hardship to build resilience",
+                  "correct": true
+                },
+                {
+                  "label": "Fasting for spiritual enlightenment",
+                  "correct": false
+                }
+              ],
+              "explanation": "Seneca practiced voluntary discomfort, deliberately choosing hardship (simple food, rough clothing) to prove he could handle difficulty when it arrived unexpectedly."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What metaphor does Marcus Aurelius use for how a practiced mind handles adversity?",
+              "options": [
+                {
+                  "label": "A stone in a river",
+                  "correct": false
+                },
+                {
+                  "label": "A blazing fire that grows from fuel",
+                  "correct": true
+                },
+                {
+                  "label": "A tree bending in wind",
+                  "correct": false
+                },
+                {
+                  "label": "A ship in a storm",
+                  "correct": false
+                }
+              ],
+              "explanation": "Marcus compared the practiced mind to a great fire: a small fire is extinguished by obstacles, but a great fire consumes whatever is thrown at it and grows larger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a1f2bfb4-dd18-4df9-8045-80013b1b9fe8",
+      "feedId": "the-daily-stoic-quiz",
+      "order": 6,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/7_202603272115.jpeg",
+          "title": "Building Resilience",
+          "subtitle": "Enduring what you cannot change"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the Stoic reserve clause?",
+              "options": [
+                {
+                  "label": "Never making any plans",
+                  "correct": false
+                },
+                {
+                  "label": "Planning with 'fate permitting'",
+                  "correct": true
+                },
+                {
+                  "label": "Always expecting the worst outcome",
+                  "correct": false
+                },
+                {
+                  "label": "Keeping your plans secret",
+                  "correct": false
+                }
+              ],
+              "explanation": "The reserve clause means adding 'fate permitting' to every intention, investing fully in the attempt without staking emotional well-being on the result."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many of his 19 years as emperor did Marcus Aurelius spend on the frontier?",
+              "options": [
+                {
+                  "label": "5 years",
+                  "correct": false
+                },
+                {
+                  "label": "8 years",
+                  "correct": false
+                },
+                {
+                  "label": "14 years",
+                  "correct": true
+                },
+                {
+                  "label": "All 19 years",
+                  "correct": false
+                }
+              ],
+              "explanation": "Marcus spent 14 of his 19 years as emperor on the northern frontier, fighting Germanic tribes along the Danube River."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the evening review?",
+              "options": [
+                {
+                  "label": "Reading philosophy before bed",
+                  "correct": false
+                },
+                {
+                  "label": "Reflecting on the day's events honestly",
+                  "correct": true
+                },
+                {
+                  "label": "Planning tomorrow's schedule",
+                  "correct": false
+                },
+                {
+                  "label": "Meditation at sunset",
+                  "correct": false
+                }
+              ],
+              "explanation": "The evening review is a five-minute practice of reviewing what went well, what went poorly, and what triggered emotional responses, treating mistakes as data for improvement."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which months cover the Discipline of Will?",
+              "options": [
+                {
+                  "label": "January through April",
+                  "correct": false
+                },
+                {
+                  "label": "May through August",
+                  "correct": false
+                },
+                {
+                  "label": "September through December",
+                  "correct": true
+                },
+                {
+                  "label": "October through March",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Discipline of Will covers September (Fortitude), October (Virtue and Kindness), November (Amor Fati), and December (Meditation on Mortality)."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is summum bonum according to the Stoics?",
+              "options": [
+                {
+                  "label": "Happiness",
+                  "correct": false
+                },
+                {
+                  "label": "Wealth",
+                  "correct": false
+                },
+                {
+                  "label": "Virtue",
+                  "correct": true
+                },
+                {
+                  "label": "Knowledge",
+                  "correct": false
+                }
+              ],
+              "explanation": "Summum bonum means the highest good. For the Stoics, the answer is virtue: if you act virtuously, everything else worth having follows naturally."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "36ca9469-9a8d-45d3-ae31-604dcb2a8c0b",
+      "feedId": "the-daily-stoic-quiz",
+      "order": 7,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/8_202603272115.jpeg",
+          "title": "Amor Fati",
+          "subtitle": "Learning to love your fate"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does amor fati mean?",
+              "options": [
+                {
+                  "label": "Love of wisdom",
+                  "correct": false
+                },
+                {
+                  "label": "Love of fate",
+                  "correct": true
+                },
+                {
+                  "label": "Love of virtue",
+                  "correct": false
+                },
+                {
+                  "label": "Love of self",
+                  "correct": false
+                }
+              ],
+              "explanation": "Amor fati is Latin for 'love of fate,' representing not passive resignation but active embrace of everything that happens."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Is amor fati the same as passive resignation?",
+              "options": [
+                {
+                  "label": "Yes, it means giving up",
+                  "correct": false
+                },
+                {
+                  "label": "No, it is active embrace of fate",
+                  "correct": true
+                },
+                {
+                  "label": "Only in difficult circumstances",
+                  "correct": false
+                },
+                {
+                  "label": "It depends on the situation",
+                  "correct": false
+                }
+              ],
+              "explanation": "Amor fati is the opposite of surrender. It actively embraces reality while maintaining effort, ambition, and agency."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which month in The Daily Stoic is devoted to amor fati?",
+              "options": [
+                {
+                  "label": "October",
+                  "correct": false
+                },
+                {
+                  "label": "November",
+                  "correct": true
+                },
+                {
+                  "label": "December",
+                  "correct": false
+                },
+                {
+                  "label": "September",
+                  "correct": false
+                }
+              ],
+              "explanation": "November is entirely devoted to amor fati, learning to love your fate, as part of the Discipline of Will."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What metaphor does Marcus Aurelius use for how a Stoic handles adversity?",
+              "options": [
+                {
+                  "label": "A river flowing around rocks",
+                  "correct": false
+                },
+                {
+                  "label": "A fire that grows from fuel thrown on it",
+                  "correct": true
+                },
+                {
+                  "label": "A mountain standing firm in wind",
+                  "correct": false
+                },
+                {
+                  "label": "A sword tempered by heat",
+                  "correct": false
+                }
+              ],
+              "explanation": "Marcus compared a great mind to a blazing fire: a small fire goes out when fuel is thrown on it, but a great fire consumes the fuel and grows larger."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/5b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did Seneca observe about wealth and desire?",
+              "options": [
+                {
+                  "label": "Wealth brings lasting happiness",
+                  "correct": false
+                },
+                {
+                  "label": "Wealth does not satisfy desire, it increases it",
+                  "correct": true
+                },
+                {
+                  "label": "Wealth is necessary for virtue",
+                  "correct": false
+                },
+                {
+                  "label": "Wealth should be distributed equally",
+                  "correct": false
+                }
+              ],
+              "explanation": "Seneca observed that acquiring more possessions only increases the desire for even more, creating an endless cycle that contentment alone can break."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5b4c4cdf-da53-4d12-b076-40cf34960b0f",
+      "feedId": "the-daily-stoic-quiz",
+      "order": 8,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/the-daily-stoic/9_202603272115.jpeg",
+          "title": "Memento Mori",
+          "subtitle": "Using mortality to live fully"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does memento mori mean?",
+              "options": [
+                {
+                  "label": "Remember your purpose",
+                  "correct": false
+                },
+                {
+                  "label": "Remember your ancestors",
+                  "correct": false
+                },
+                {
+                  "label": "Remember you will die",
+                  "correct": true
+                },
+                {
+                  "label": "Remember your virtue",
+                  "correct": false
+                }
+              ],
+              "explanation": "Memento mori is Latin for 'remember you will die,' a Stoic meditation on mortality meant to create clarity and urgency, not dread."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which month in The Daily Stoic covers meditation on mortality?",
+              "options": [
+                {
+                  "label": "November",
+                  "correct": false
+                },
+                {
+                  "label": "October",
+                  "correct": false
+                },
+                {
+                  "label": "December",
+                  "correct": true
+                },
+                {
+                  "label": "January",
+                  "correct": false
+                }
+              ],
+              "explanation": "December, the final month, closes the year with meditations on mortality, bringing the Stoic journey full circle."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What physical reminder does the Daily Stoic store sell?",
+              "options": [
+                {
+                  "label": "A bracelet",
+                  "correct": false
+                },
+                {
+                  "label": "A memento mori medallion",
+                  "correct": true
+                },
+                {
+                  "label": "A ring",
+                  "correct": false
+                },
+                {
+                  "label": "A pocket watch",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Daily Stoic store sells handcrafted memento mori medallions designed to be carried in your pocket as a daily reminder of mortality."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many copies has The Daily Stoic sold worldwide?",
+              "options": [
+                {
+                  "label": "Over 500,000",
+                  "correct": false
+                },
+                {
+                  "label": "Over 1 million",
+                  "correct": false
+                },
+                {
+                  "label": "Over 3 million",
+                  "correct": true
+                },
+                {
+                  "label": "Over 10 million",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Daily Stoic has sold over 3 million copies worldwide. Holiday's combined books have sold over 10 million copies."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/9b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did Ryan Holiday open in Bastrop, Texas?",
+              "options": [
+                {
+                  "label": "A philosophy school",
+                  "correct": false
+                },
+                {
+                  "label": "A meditation center",
+                  "correct": false
+                },
+                {
+                  "label": "A bookstore called The Painted Porch",
+                  "correct": true
+                },
+                {
+                  "label": "A Stoic museum",
+                  "correct": false
+                }
+              ],
+              "explanation": "Holiday and his wife opened The Painted Porch Bookshop in 2021, named after the original Stoa Poikile (Painted Porch) in Athens where Stoicism began."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

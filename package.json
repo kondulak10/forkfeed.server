@@ -1,0 +1,27 @@
+{
+  "name": "forkfeed-server",
+  "version": "1.0.0",
+  "description": "Lightweight edge-deployed content backend for the forkfeed protocol",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "sync": "node scripts/sync-manifests.mjs",
+    "publish": "wrangler deploy && node scripts/sync-manifests.mjs",
+    "typecheck": "tsc --noEmit",
+    "db:create": "wrangler d1 create forkfeed-server-db",
+    "db:migrate": "wrangler d1 execute forkfeed-server-db --file=schema.sql",
+    "register": "node scripts/register.mjs --all",
+    "update": "node scripts/update.mjs",
+    "deregister": "node scripts/delete.mjs"
+  },
+  "dependencies": {
+    "hono": "^4.7.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250313.0",
+    "typescript": "^5.9.0",
+    "wrangler": "^4.9.0"
+  }
+}

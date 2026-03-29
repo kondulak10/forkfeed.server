@@ -1,0 +1,2602 @@
+{
+  "forks": [
+    {
+      "_id": "failing-forward",
+      "title": "Failing Forward",
+      "description": "How to turn mistakes into stepping stones for success, Maxwell's 15-step framework for resilience.\n\nAll rights belong to the author and publisher. This is a summary/review, buy the book below from the author.",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/fork_202603272033.jpeg",
+      "feedIds": [
+        "failing-forward-the-achievers-mindset",
+        "failing-forward-redefining-failure",
+        "failing-forward-conquering-fear",
+        "failing-forward-guarding-your-inner-world",
+        "failing-forward-the-transformation",
+        "failing-forward-mining-gold-from-failure",
+        "failing-forward-building-resilience",
+        "failing-forward-get-up-and-go",
+        "failing-forward-quiz"
+      ],
+      "actionLabel": "Buy the book",
+      "actionUrl": "https://www.amazon.com/s?k=Failing+Forward+John+C+Maxwell"
+    }
+  ],
+  "feeds": [
+    {
+      "_id": "failing-forward-the-achievers-mindset",
+      "title": "The Achiever's Mindset",
+      "description": "The one trait that separates those who succeed from those who stay average",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/1_202603272033.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "failing-forward-redefining-failure",
+      "title": "Redefining Failure",
+      "description": "Why failing at something does not make you a failure",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/2_202603272033.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "failing-forward-conquering-fear",
+      "title": "Conquering Fear",
+      "description": "How action defeats paralysis and responsibility opens the exit",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/3_202603272033.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "failing-forward-guarding-your-inner-world",
+      "title": "Guarding Your Inner World",
+      "description": "Why failure is an inside job and how to release yesterday's grip",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/4_202603272033.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "failing-forward-the-transformation",
+      "title": "The Transformation",
+      "description": "When you change yourself, everything around you changes too",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/5_202603272033.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "failing-forward-mining-gold-from-failure",
+      "title": "Mining Gold from Failure",
+      "description": "Finding hidden benefits in bad experiences and why comfort kills growth",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/6_202603272033.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "failing-forward-building-resilience",
+      "title": "Building Resilience",
+      "description": "Making failure your ally and diagnosing your personal failure patterns",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/7_202603272033.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "failing-forward-get-up-and-go",
+      "title": "Get Up and Go",
+      "description": "The razor-thin margin between failure and success, and your call to action",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/8_202603272033.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "failing-forward-quiz",
+      "title": "Quiz",
+      "description": "Test your knowledge of Failing Forward",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/9_202603272033.jpeg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    }
+  ],
+  "cards": [
+    {
+      "_id": "12f4a1e2-8143-4c4c-b9a9-b152d76a646e",
+      "feedId": "failing-forward-the-achievers-mindset",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/1_202603272033.jpeg",
+          "title": "The Achiever's Mindset",
+          "subtitle": "The one trait that separates those who succeed from those who stay average"
+        }
+      ]
+    },
+    {
+      "_id": "e99e217a-d4c2-43ed-bc90-2b7ee0d380eb",
+      "feedId": "failing-forward-the-achievers-mindset",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The REAL Framework"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell opens Failing Forward with a framework he calls REAL, which stands for Relationships, Equipping, Attitude, and Leadership. He argues that these four qualities form the foundation of genuine success in any field. Relationships determine how well you connect with others. Equipping measures your ability to build a team and develop people. Leadership determines your overall effectiveness and influence. But of these four pillars, Maxwell singles out Attitude as the one that matters most when it comes to handling failure.\n\nThe reason is simple: your attitude toward failure shapes everything else. A leader with strong relationships and excellent skills will still crumble if they cannot handle setbacks. A well-equipped team will fall apart if its members treat every mistake as a catastrophe. Maxwell spent decades observing leaders across industries, from churches to corporations to sports teams, and he noticed the same pattern everywhere. The people who rose to the top were not the ones who avoided failure. They were the ones whose attitude allowed them to process failure differently.\n\nThis observation became the foundation of the entire book. Maxwell does not promise that failure will stop happening. He promises something more useful: that your relationship with failure can change. The REAL framework gives readers a starting vocabulary, but the rest of the book focuses almost entirely on that third letter. Attitude is where the real work happens, and it is where the difference between failing forward and failing backward begins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b00f192b-1a0e-435e-b930-5298b61bce2b",
+      "feedId": "failing-forward-the-achievers-mindset",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "One Major Difference"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell presents his central thesis in the very first chapter with a question that frames the entire book: what separates people who achieve from people who stay average? His answer is surprisingly specific. It is not talent, education, wealth, opportunity, or even intelligence. The one major difference is how they perceive and respond to failure.\n\nAverage people treat failure as a verdict. When something goes wrong, they interpret it as proof that they are not good enough, not smart enough, or not meant to succeed. This interpretation creates a cycle where each failure reinforces the belief that future attempts are pointless. Over time, the pattern becomes self-fulfilling. People stop trying because they have convinced themselves that failure is permanent.\n\nAchieving people operate from a completely different framework. When they encounter failure, they treat it as information rather than identity. A failed attempt tells them what does not work, which narrows the field of what might. They process the disappointment, extract whatever lesson is available, and adjust their approach for the next attempt. The failure itself does not change, but the meaning they assign to it is fundamentally different.\n\nMaxwell argues that this is not an innate trait. It is a learned response. Nobody is born knowing how to handle failure well. The achiever's mindset is a skill that can be developed, practiced, and strengthened over time, which is what the remaining fourteen chapters are designed to help readers do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "022604ff-b621-4bb1-9d84-61a2dff19f7f",
+      "feedId": "failing-forward-the-achievers-mindset",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Mary Kay Ash's 25-Year Wait"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of the first stories Maxwell shares is that of Mary Kay Ash, a woman who spent twenty-five years in direct sales only to discover that the corporate world of the 1950s and 1960s had no interest in promoting women. She was consistently passed over for advancement regardless of her performance. Male colleagues with less experience and weaker results were promoted ahead of her. The frustration was enormous, but the failure never became her identity.\n\nAt the age of forty-five, when many people would have accepted their circumstances as permanent, Ash made a decision that would reshape an entire industry. On September 13, 1963, she launched Mary Kay Cosmetics with a small investment and a big idea: build a company where women could advance based on merit, not gender. She designed the business model specifically to give women the kind of opportunities that the traditional corporate world had denied her.\n\nThe results speak for themselves. Mary Kay Cosmetics grew into a company generating over one billion dollars in annual revenue, employing around 3,500 people, and supporting roughly 500,000 independent beauty consultants across 29 markets worldwide. Maxwell uses her story to illustrate a critical point: Ash did not succeed because she avoided failure. She succeeded because twenty-five years of being passed over taught her exactly what was broken and gave her the determination to build something better. Her failures were not wasted years. They were research."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "699a9b32-3a71-4ca1-a1be-cac15205750e",
+      "feedId": "failing-forward-the-achievers-mindset",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Tony Gwynn's 5,113 Outs"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell offers one of his most striking examples through the career statistics of baseball legend Tony Gwynn, widely regarded as one of the greatest hitters in the history of the sport. Gwynn's lifetime batting average was extraordinary by any standard. But Maxwell flips the statistic to reveal something most fans overlook: Gwynn failed to get a hit roughly two out of every three times he stepped up to the plate. Over the course of his career, he accumulated a staggering 5,113 outs.\n\nThink about what that number means. More than five thousand times, Gwynn walked back to the dugout having failed at the task he was paid to do. Five thousand public failures, recorded in official statistics for anyone to see. And yet nobody considers Tony Gwynn a failure. He is celebrated as one of the best to ever play the game.\n\nMaxwell uses this example to challenge a deeply held assumption: that successful people fail less often than everyone else. The truth is the opposite. Achievers typically accumulate more failures than average people, not fewer, because they keep stepping up to the plate. They keep taking swings. Each out was not a step backward for Gwynn. It was a step in a process that also produced thousands of hits, multiple batting titles, and a Hall of Fame career. The people who never strike out are usually the people who never pick up a bat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "0ee06945-6be0-4d96-9e42-510d41c03d0b",
+      "feedId": "failing-forward-the-achievers-mindset",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Detour, Not Dead End"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "A central metaphor Maxwell uses throughout the book is the difference between a dead end and a detour. Average people experience failure and see a dead end, a wall that blocks their path and tells them to turn around and go home. Achievers experience the same failure and see a detour, a temporary rerouting that will eventually bring them back to the main road.\n\nThe distinction is more than wordplay. How you label a setback determines how you respond to it. A dead end demands that you stop. A detour requires you to keep moving, just in a different direction. Maxwell argues that almost every failure in life is actually a detour, but most people mislabel it. They stand at the barrier, conclude the journey is over, and walk away from an opportunity that was still available.\n\nThis reframing requires deliberate practice. Maxwell does not pretend it comes naturally. When you lose a job, a relationship, or an opportunity you worked hard for, the emotional response is real and painful. The instinct to label it as a dead end is strong. But Maxwell insists that the label you choose in that moment has more power over your future than the failure itself. You cannot always control what happens to you. You can always control whether you call it a dead end or a detour, and that choice determines whether you stop or keep moving."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "f09695ac-248f-4f7b-9a58-2500d4f73bc8",
+      "feedId": "failing-forward-the-achievers-mindset",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Accumulation Principle"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell makes a counterintuitive argument that reshapes how readers think about the relationship between failure and success. Most people believe that the path to success involves minimizing failure, that the best strategy is to fail as little as possible. Maxwell argues the opposite. People who achieve great things tend to fail more often than people who achieve average results, because achievement requires a higher volume of attempts.\n\nConsider any field where success is measurable. Entrepreneurs fail an average of nearly four times before building a sustainable business. Scientists conduct hundreds of experiments that yield nothing before making a breakthrough. Authors collect stacks of rejection letters before publishing their first book. The common thread is not that these people are immune to failure. It is that they refuse to let any single failure end their pursuit.\n\nMaxwell calls this the accumulation principle. Every failure adds something to your experience, your knowledge, or your resilience, even when it subtracts from your bank account or your pride. The people who accumulate the most failures also accumulate the most learning, and that learning compounds over time. The person who has failed twenty times at starting a business knows twenty things that do not work. The person who has never tried knows nothing.\n\nThis is why Maxwell opens the book with the core thesis that achievers differ from average people not in their talent or luck, but in their willingness to keep failing until the failures add up to something valuable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7b664951-2b48-471b-aa4e-a872fee50d64",
+      "feedId": "failing-forward-redefining-failure",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/2_202603272033.jpeg",
+          "title": "Redefining Failure",
+          "subtitle": "Why failing at something does not make you a failure"
+        }
+      ]
+    },
+    {
+      "_id": "87421556-4bdd-4789-872d-88d6aac6ae09",
+      "feedId": "failing-forward-redefining-failure",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Price Tag of Progress"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell dedicates his second chapter to demolishing the most common misconception about failure: that it is the opposite of success. He argues that failure is not the opposite of success but its prerequisite. Every person who has achieved something meaningful has paid for it with a series of failures along the way. Maxwell frames failure as a transaction cost, the price you pay for the privilege of progressing toward something worth having.\n\nThis reframing matters because it changes your expectations. If you believe failure is the opposite of success, then every failure moves you farther from your goal. Each setback feels like evidence that you are on the wrong path. But if you accept that failure is the price of success, then each setback becomes a payment toward something you are building. The cost is real, but it is an investment, not a loss.\n\nMaxwell also challenges the idea that success is a destination you either reach or miss. He argues that success is an ongoing journey, a process of continuous learning and adjustment rather than a fixed point on a map. This perspective is crucial because it means failure cannot disqualify you from success. It can only slow you down, redirect you, or teach you something you needed to know. The only way failure becomes truly final is if you decide to stop paying the price and walk away from the journey entirely."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "febd5569-afab-43f4-9b4a-07fda9f48504",
+      "feedId": "failing-forward-redefining-failure",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Truett Cathy's Ashes to Empire"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Few stories in Failing Forward illustrate the price of success more vividly than that of Truett Cathy, the founder of Chick-fil-A. Before Cathy built one of the most successful restaurant chains in American history, he endured losses that would have ended most people's ambitions permanently. Both of his brothers, who were also his business partners, died in a plane crash. The restaurant he had built and depended on was destroyed by fire. On top of these devastating blows, Cathy struggled with serious medical problems of his own.\n\nAny one of these tragedies would give a reasonable person justification to quit. Combined, they represent the kind of concentrated suffering that makes the idea of starting over feel impossible. But Cathy treated each loss as a temporary setback rather than a permanent condition. He rebuilt. He adapted. He kept moving forward through circumstances that would have paralyzed most people.\n\nThe result was Chick-fil-A and its famous chicken sandwich, a brand that grew from the literal ashes of personal tragedy into a multi-billion dollar enterprise. Maxwell uses Cathy's story to make a specific point: the size of the failure does not determine the size of the recovery. What matters is whether the person experiencing the failure views it as the final chapter of their story or merely a painful page in a much longer book. Cathy chose the longer book, and the remaining pages turned out to be extraordinary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3e9e5e78-69bf-4634-828d-2c462ce85b1c",
+      "feedId": "failing-forward-redefining-failure",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Failure Is an Event, Not a Person"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The third chapter of Failing Forward tackles what Maxwell considers the most destructive habit in how people handle failure: making it personal. When something goes wrong, the natural human response is to move from the thought \"I failed\" to the thought \"I am a failure.\" That single word change, from a verb to an identity, transforms a temporary event into a permanent label. And once you wear that label, everything gets harder.\n\nMaxwell is adamant about the distinction. Failing at something is an event. It happens at a specific time, in a specific context, with specific contributing factors. Being a failure is an identity, a blanket judgment that covers your entire self-worth and extends into every area of your life. The event is contained. The identity is totalizing.\n\nHe argues that this confusion between event and identity is the primary reason people stay stuck after a setback. When you believe you are a failure, there is no logical reason to try again. Why would a failure expect a different result? But when you understand that you are a capable person who experienced a failed attempt, the next logical step is to analyze what went wrong and try a different approach. The interpretation you choose determines whether the failure becomes a period at the end of your story or a comma that connects one chapter to the next. Maxwell insists that learning to separate what happened from who you are is the single most important skill in the entire failing forward framework."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "01933ba8-5892-4b87-ad0f-fb38d2506eb5",
+      "feedId": "failing-forward-redefining-failure",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Erma Bombeck's Unstoppable Spirit"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell brings the identity principle to life through the story of Erma Bombeck, the beloved American journalist and humorist who became one of the most widely read columnists in the country. Bombeck's path to success was anything but smooth. She started her career at the bottom, working as a copy girl with no guarantee of advancement. Doctors told her she was physically incapable of having children, a diagnosis that in the mid-twentieth century carried enormous personal and social weight.\n\nBombeck refused to let any of these setbacks define her. She and her husband adopted a daughter, and she later defied the medical prognosis by having two biological children. In her writing career, she faced the same pattern of obstacles followed by persistence. She built her audience slowly, turning personal experiences and everyday frustrations into a humorous column that eventually appeared in over 900 newspapers nationwide.\n\nWhat makes Bombeck's story particularly valuable for Maxwell's argument is a distinction she drew between failing at something and being a failure, arguing that there is a massive difference between the two. She lived that distinction. Every obstacle she encountered was processed as an event to be dealt with, not a judgment on her character. Maxwell points to Bombeck as proof that the identity separation is not just a nice theory. It is a practical tool that real people use to build real careers in the face of real adversity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "fe80ec88-65cd-468d-be37-ecb3b7cff233",
+      "feedId": "failing-forward-redefining-failure",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Seven Abilities to Fail Forward"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Drawing from examples like Bombeck and Rudy Ruettiger, the Notre Dame walk-on whose story became a famous film, Maxwell distills seven specific abilities that enable people to fail forward instead of failing backward. These are not personality traits you are born with. They are skills you can develop through deliberate practice.\n\nThe first ability is to reject rejection. When the world tells you no, you acknowledge the feedback without internalizing it as a verdict on your worth. Second, you must see failure as temporary rather than permanent. Every setback has an expiration date if you continue moving. Third, view each failure as an isolated incident rather than part of a pattern. One bad investment does not make you bad with money. One failed relationship does not make you unlovable.\n\nFourth, keep your expectations realistic. Success rarely arrives on the first attempt or even the fifth. Understanding this prevents despair when results take longer than hoped. Fifth, focus on your strengths rather than dwelling on weaknesses. Energy spent lamenting what you cannot do is energy stolen from what you can. Sixth, vary your approaches. If one method fails, try another rather than repeating the same strategy and expecting different results.\n\nThe seventh ability is simply to bounce back. Resilience is not the absence of pain. It is the willingness to get up after being knocked down, even when every part of you wants to stay on the ground. Maxwell argues that practicing these seven abilities transforms your relationship with failure from adversarial to educational."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8301f09c-4219-4e53-a527-89b6e135a290",
+      "feedId": "failing-forward-redefining-failure",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Rudy Factor"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Daniel Ruettiger, known to the world as Rudy, is one of the most compelling examples Maxwell uses to illustrate the seven abilities in action. Ruettiger dreamed of playing football for Notre Dame, a goal that seemed laughable given his circumstances. He was too small for competitive football, his academic record was unimpressive, and he lacked the financial resources for a prestigious university. Everyone around him, including family members, told him to abandon the dream.\n\nRuettiger applied to Notre Dame three times and was rejected each time. Rather than accepting the rejections as final, he enrolled at nearby Holy Cross College to improve his grades, then applied again and was finally accepted on his fourth attempt. Making the football team was even harder. He tried out for the practice squad and was repeatedly cut or overlooked. For two years, he served as a practice player, absorbing hits from scholarship athletes twice his size while never appearing in an actual game.\n\nIn the final game of his senior season, Ruettiger was allowed to dress for the game. In the closing seconds, he was sent onto the field and recorded a sack, becoming one of only a handful of players in Notre Dame history to be carried off the field by teammates. Maxwell uses Ruettiger's story to demonstrate that every single one of the seven abilities was required for his success. He rejected rejection, saw failure as temporary, isolated each setback, maintained realistic expectations, focused on his strengths, varied his approaches, and bounced back relentlessly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5ecdc593-5656-4347-a231-6edfedf6e02b",
+      "feedId": "failing-forward-conquering-fear",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/3_202603272033.jpeg",
+          "title": "Conquering Fear",
+          "subtitle": "How action defeats paralysis and responsibility opens the exit"
+        }
+      ]
+    },
+    {
+      "_id": "38294bb4-a9c8-4119-b5f2-536781016275",
+      "feedId": "failing-forward-conquering-fear",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Ten Self-Inflicted Obstacles"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell dedicates a significant portion of his fourth chapter to identifying the ways people sabotage themselves before external failure even enters the picture. He catalogues ten obstacles that are entirely self-inflicted, meaning they originate from within rather than from circumstances or other people.\n\nThe list begins with poor people skills, the inability to communicate effectively or build productive relationships. Next comes a negative attitude, which Maxwell considers one of the most corrosive forces in any career. A bad fit, meaning pursuing work or goals that do not align with your genuine abilities, ranks third. Lack of focus scatters your energy across too many targets, ensuring that none receives enough attention to succeed.\n\nWeak commitment means starting projects without the resolve to finish them when things get difficult. An unwillingness to change keeps people locked into strategies that have already proven ineffective. A shortcut mindset leads to cutting corners that ultimately undermine the quality of your work. Relying on talent alone is dangerous because talent without discipline produces inconsistent results.\n\nResponding to poor information, meaning making decisions based on bad data or unreliable advice, leads to avoidable mistakes. Finally, having no goals leaves you drifting without direction, making it impossible to measure progress or know when you have succeeded. Maxwell presents this list not as an accusation but as a diagnostic tool. Most people struggling with chronic failure will recognize at least two or three of these patterns in their own behavior, and awareness is the first step toward change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a41765ea-c70f-44d9-9e37-e32da6f62e9e",
+      "feedId": "failing-forward-conquering-fear",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Bicycle Mechanics vs. a Government Scientist"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of Maxwell's most memorable illustrations of how fear shapes outcomes is the contrast between the Wright Brothers and Samuel Langley. In the early 1900s, both parties were racing to achieve the first powered flight. On paper, Langley held every advantage. He was a respected scientist and the secretary of the Smithsonian Institution. He had received a fifty-thousand-dollar grant from the War Department, a massive sum at the time. He had access to the best equipment, the best facilities, and the credibility of the scientific establishment behind him.\n\nThe Wright Brothers had almost none of these advantages. Orville and Wilbur were bicycle mechanics from Dayton, Ohio, with no university degrees, no government funding, and no scientific credentials. They financed their experiments out of their own pockets using profits from their bicycle shop. Nobody in the scientific community took them seriously.\n\nLangley's well-funded aircraft crashed during two high-profile public tests. Rather than analyzing what went wrong and iterating on the design, Langley abandoned the project. The public embarrassment was too much. He let fear of further failure end his pursuit. Just nine days after Langley's second failure, the Wright Brothers achieved powered flight at Kitty Hawk. The critical difference was not resources, intelligence, or talent. It was response to failure. Langley quit. The Wrights adjusted. Maxwell uses this story to argue that fear of failure is a more reliable predictor of defeat than any lack of money, education, or opportunity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ac4774bb-ace9-40f2-9997-00fdb18600cb",
+      "feedId": "failing-forward-conquering-fear",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Fear's Four Toxic Effects"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell identifies four specific ways that the fear of failure poisons a person's ability to move forward. Understanding these effects is important because fear rarely announces itself directly. Instead, it disguises itself as other emotions and behaviors that feel justified in the moment but lead nowhere productive.\n\nThe first toxic effect is self-pity. When fear takes hold, it is easy to shift into a mindset where you feel sorry for yourself. You focus on how unfair the situation is rather than what you can do about it. Self-pity feels comforting in the short term because it absolves you of responsibility, but it is a trap that keeps you stationary.\n\nThe second effect is excuses. Fear generates an endless supply of reasons why action is not possible right now. The timing is wrong, the resources are insufficient, the conditions are not ideal. These excuses sound reasonable, but their function is to justify inaction.\n\nThird, fear leads to misused energy. Instead of channeling effort toward solutions, fearful people spend their energy worrying, overthinking, and imagining worst-case scenarios. The energy is real, but it is directed inward instead of outward, producing anxiety rather than progress.\n\nThe fourth and most dangerous effect is hopelessness. When self-pity, excuses, and misused energy persist long enough, they can calcify into a belief that improvement is simply not possible. Hopelessness is where fear wins permanently, because a person who believes nothing can change will never attempt to change anything. Maxwell argues that recognizing these four effects early is essential to breaking the cycle before it reaches that final stage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "adb80b41-f3fe-4166-bdbd-e3a994fa7c81",
+      "feedId": "failing-forward-conquering-fear",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Failure Freeway"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell introduces a vivid metaphor in his fifth chapter: the failure freeway. He describes chronic failure as a highway that many people drive on without realizing there are exits available to them. They keep speeding along the same road, encountering the same problems, and arriving at the same disappointing destinations, all while wondering why their life never seems to change.\n\nThe reason most people cannot find the exit, Maxwell argues, is that they refuse to accept responsibility for being on the freeway in the first place. It is always someone else's fault, whether a boss, a spouse, the economy, or bad luck. As long as the blame sits with an external factor, there is no motivation to look for an exit, because you believe the road itself is the problem rather than your decision to stay on it.\n\nTaking responsibility is not the same as taking blame. Maxwell draws a clear line between the two. Blame is backward-looking and punitive. Responsibility is forward-looking and empowering. When you accept responsibility for your situation, you are not saying the failure was entirely your fault. You are saying that regardless of what caused it, you are the one with the power to do something about it. That shift in ownership is what makes the exit ramp visible.\n\nMaxwell observes that people who struggle with chronic failure often have an allergic reaction to responsibility. They would rather stay on the freeway forever than admit they have the steering wheel. But the exit is always there, waiting for anyone willing to take the turn."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9546ee32-301b-418f-8c79-7d493a66234d",
+      "feedId": "failing-forward-conquering-fear",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Roger Crawford's Impossible Dream"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Of all the stories Maxwell shares about overcoming obstacles, few are as physically dramatic as that of Roger Crawford. Born with a condition called ectrodactylism, Crawford came into the world missing most of his fingers and toes. His hands and feet were severely malformed from birth. By any conventional measure, a career in professional sports was out of the question.\n\nCrawford saw it differently. Rather than focusing on what his body could not do, he focused relentlessly on what it could. He was drawn to tennis and committed himself to learning the sport despite the obvious physical challenges. Gripping a racket required creative adaptation. Footwork was more difficult with his condition. Every aspect of the game that most players take for granted required Crawford to find a workaround.\n\nHe did not just learn to play. He became genuinely good. Crawford went on to earn certification from the United States Professional Tennis Association, becoming the first person with his condition to achieve that credential. He competed professionally and built a career as both a player and a motivational speaker.\n\nMaxwell uses Crawford to illustrate a principle that runs through the entire book: your circumstances do not determine your outcome, your response to those circumstances does. Crawford had every reason to accept his limitations as permanent. Instead, he treated them as design constraints, boundaries within which he could still build something remarkable. His story demolishes the excuse that external conditions make success impossible, because very few people face obstacles as severe as his."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "29e13891-4663-484c-948b-d2cda7346727",
+      "feedId": "failing-forward-conquering-fear",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Responsibility Is the Exit Ramp"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell concludes his treatment of fear and responsibility with a practical framework for finding the exit off the failure freeway. The process begins with a simple but often uncomfortable act: honest self-assessment. Before you can take responsibility for where you are, you need to see clearly where you actually stand, not where you wish you were or where you tell other people you are.\n\nThis means examining your failures without the buffer of excuses. It means asking whether the patterns you see in your life, the repeated disappointments, the stalled projects, the relationships that end the same way, have a common element. Maxwell argues that the common element is almost always you. Not because you are a bad person, but because you are the one variable that appears in every situation.\n\nOnce you accept this, the next step is to identify specifically what you can control and what you cannot. You cannot control the economy, other people's decisions, or random misfortune. You can control your preparation, your attitude, your response to setbacks, and the amount of effort you invest. Maxwell advises readers to redirect all their energy away from the things they cannot change and toward the things they can.\n\nThe final step is action. Responsibility without action is just awareness, and awareness alone does not change outcomes. Maxwell insists that the exit ramp from the failure freeway is not a thought or a feeling. It is a decision followed by movement. You take the turn, and you keep driving in a new direction until the new road becomes familiar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a4bcf036-5199-40f5-bbbd-00a7327abb00",
+      "feedId": "failing-forward-guarding-your-inner-world",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/4_202603272033.jpeg",
+          "title": "Guarding Your Inner World",
+          "subtitle": "Why failure is an inside job and how to release yesterday's grip"
+        }
+      ]
+    },
+    {
+      "_id": "3b8ba21a-bab0-4696-8dc0-5f719e27458f",
+      "feedId": "failing-forward-guarding-your-inner-world",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Failure Is an Inside Job"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell's sixth chapter delivers one of the book's most powerful claims: both failure and success originate inside you, not in your external circumstances. He frames this as a direct challenge to the common belief that people fail because of what happens to them, arguing instead that people fail because of what happens within them when things go wrong.\n\nThe external event is the same for everyone. A company downsizes and multiple employees lose their jobs simultaneously. The economic conditions, the corporate decisions, and the market forces are identical for each person affected. Yet six months later, some of those people have found better positions, started businesses, or redirected their careers in productive ways, while others remain unemployed, bitter, and convinced that the world is against them.\n\nThe difference is internal. The people who recovered did not have better luck or more connections. They had a different internal response to the same external event. Their inner world, their thoughts, beliefs, and emotional processing, allowed them to convert a setback into fuel rather than poison.\n\nMaxwell acknowledges that this is a difficult principle to accept, especially in the immediate aftermath of a painful failure. When you have just been fired, divorced, or publicly humiliated, the last thing you want to hear is that the real battle is happening inside your own head. But Maxwell argues that this is actually the most empowering realization available: if failure is an inside job, then so is the recovery, and the recovery is entirely within your control."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1e3db336-111e-46ed-9482-9e6732571c6b",
+      "feedId": "failing-forward-guarding-your-inner-world",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Attitude as a Practical Tool"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "One of the most common criticisms of positive thinking is that it amounts to wishful thinking, a naive refusal to face reality. Maxwell addresses this head-on by reframing a positive attitude as a practical tool rather than a philosophical stance. He argues that maintaining a positive attitude is not about denying problems or pretending everything is fine. It is about preserving your ability to see options that fear and negativity would otherwise hide.\n\nWhen your attitude is negative, your perception narrows. You see only obstacles, limitations, and reasons why action is pointless. This is not pessimism speaking the truth. It is a distorted lens that filters out possibilities while magnifying threats. A negative attitude does not give you a clearer view of reality. It gives you a smaller one.\n\nA positive attitude works in the opposite direction. It does not eliminate the obstacles, but it keeps the full picture visible, including the opportunities, the alternative paths, and the resources you might otherwise overlook. Maxwell compares it to driving at night with your headlights on versus driving with them off. The road is the same either way, but one approach lets you see where you are going.\n\nThis distinction matters because it removes the most common objection to positive thinking. Maxwell is not asking you to ignore your problems. He is asking you to keep your headlights on so you can navigate through them. A positive attitude is not a substitute for hard work or smart strategy. It is what makes both of those things possible when circumstances get difficult."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "35d18cb6-f4ce-4b63-a486-4916554c7b6a",
+      "feedId": "failing-forward-guarding-your-inner-world",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Five Traps of Past Failure"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell identifies five specific psychological traps that keep people chained to their past failures long after those failures should have lost their power. These traps are subtle because they often feel like natural responses to pain, but each one is a mechanism that converts a past event into a present prison.\n\nThe first trap is comparison. When you constantly measure your current situation against where you used to be or where others are, you create a gap that feels impossible to close. Comparison steals your focus from what is possible and redirects it toward what is missing.\n\nThe second trap is rationalization. This is the habit of creating elaborate stories to explain away your failures without ever examining your role in them. Rationalizations feel like insights, but they function as shields that protect you from the uncomfortable truth that change requires personal accountability.\n\nThird is isolation. After a significant failure, many people withdraw from relationships and support systems. They convince themselves that nobody understands, or that they need to figure things out alone. But isolation removes you from the people and perspectives that could help you recover.\n\nThe fourth trap is regret, the habit of replaying what you should have done differently until the past consumes your present. Maxwell distinguishes between useful reflection, which extracts lessons, and destructive regret, which produces nothing but pain. The fifth and most toxic trap is bitterness. Bitterness is what happens when regret hardens into resentment. It poisons not just your relationship with the past but your ability to engage with the future. Maxwell argues that recognizing these traps by name is the first step to escaping them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e008ab2b-07ed-452d-9b13-f08da15a67a2",
+      "feedId": "failing-forward-guarding-your-inner-world",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Arnold Palmer's Plaque of Shame"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Golf legend Arnold Palmer was one of the most dominant athletes of his era, a man whose name became synonymous with excellence on the course. But in the 1961 Los Angeles Open, Palmer experienced a failure so spectacular that it was literally memorialized in stone. On the ninth hole of the tournament, Palmer shot a 12, one of the worst scores imaginable for a single hole at the professional level. The performance was so strikingly bad that the golf course eventually installed a plaque on the hole commemorating the event.\n\nImagine that for a moment. Not a plaque celebrating a victory or a record-breaking performance, but a physical monument to your worst moment, bolted permanently to the place where it happened. For most people, that kind of public humiliation would be devastating enough to end a career, or at least cast a permanent shadow over it.\n\nPalmer's response was the opposite. He did not let the plaque define him, and he did not let a single catastrophic hole rewrite the story of his career. He continued competing, continued winning, and continued building a legacy that would make him one of the most respected figures in the history of golf. Maxwell uses Palmer's story to drive home a point that echoes throughout the book: your worst moment is not your whole story. Everyone will have a hole where they score a 12. What matters is whether you let that hole become a plaque on your identity or just an unusual footnote in a much larger narrative."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5ebcde62-1aaa-40ac-b130-20371085a547",
+      "feedId": "failing-forward-guarding-your-inner-world",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Saying Goodbye to Yesterday"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell's seventh chapter addresses one of the hardest emotional tasks in the entire failing forward process: letting go of the past. He argues that many people remain trapped in failure not because new obstacles keep appearing, but because old ones refuse to release their grip. The past holds your life hostage when you allow it to, and breaking free requires deliberate, sometimes painful action.\n\nThe process Maxwell describes involves three stages. The first is acknowledging the pain. Pretending a failure did not hurt, or minimizing its impact, does not make it go away. It pushes the pain underground where it continues to influence your decisions without your awareness. Maxwell insists that honest acknowledgment is not weakness. It is the necessary starting point for genuine healing.\n\nThe second stage is grieving. Maxwell gives readers permission to mourn what was lost, whether it was a relationship, a business, a dream, or a version of yourself that no longer exists. Grieving is not the same as wallowing. It is a finite process with a purpose: to honor what happened and then release it.\n\nThe third stage is forgiveness. This is often the hardest part because it requires you to forgive not just others who may have contributed to your failure, but also yourself. Self-forgiveness is where many people get stuck. They can let go of anger toward others while holding themselves to an impossibly harsh standard. Maxwell argues that until you forgive yourself for past mistakes, you will carry them into every future attempt, weighing yourself down with guilt that serves no productive purpose."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "be543108-164b-4e7e-8b17-10fe475f4c16",
+      "feedId": "failing-forward-guarding-your-inner-world",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Contentment vs. Circumstances"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell makes a claim that challenges one of society's most deeply held assumptions: that your happiness depends on your circumstances. He argues that contentment and circumstances are completely unrelated, that it is entirely possible to be content in difficult conditions and deeply unhappy in comfortable ones.\n\nThis is not abstract philosophy. Maxwell points to countless examples of people who have very little yet radiate satisfaction, and people who have enormous wealth, status, and security yet remain perpetually dissatisfied. The variable is not what they have. It is how they process what happens to them.\n\nMaxwell distinguishes between what he calls real contentment and the counterfeit version. The counterfeit version is the belief that acquiring more, whether more money, more success, or more recognition, will eventually produce lasting satisfaction. This version is a trap because it creates a moving target. No matter how much you achieve, the next milestone always seems to be the one that will finally make you feel complete.\n\nReal contentment, according to Maxwell, comes from positive action. It is generated by engaging meaningfully with the world, contributing to something larger than yourself, and making progress toward goals that align with your values. Real contentment is not a reward you receive after success. It is a byproduct of the journey itself. This distinction is crucial for the failing forward framework because it means failure cannot steal your contentment unless you let it. If contentment comes from the process rather than the outcome, then setbacks along the way are bumps in the road, not attacks on your happiness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "835a0caf-ca0b-4811-9bfc-c4626126c065",
+      "feedId": "failing-forward-the-transformation",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/5_202603272033.jpeg",
+          "title": "The Transformation",
+          "subtitle": "When you change yourself, everything around you changes too"
+        }
+      ]
+    },
+    {
+      "_id": "e0600983-b4d2-4fa2-a73b-17b29bce6757",
+      "feedId": "failing-forward-the-transformation",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Check the Mirror First"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell's eighth chapter poses a blunt question that most people would rather avoid: when things keep going wrong, have you considered that you might be the problem? This is not an accusation. It is an invitation to honest self-examination, and Maxwell argues it is one of the most productive things a person can do after experiencing repeated failures.\n\nThe natural response to failure is to look outward. We examine our circumstances, our colleagues, our resources, and our luck, searching for the external factor that caused things to go wrong. Sometimes we find legitimate culprits. Bad timing, unreliable partners, and unfavorable conditions do exist. But Maxwell challenges readers to notice when the same kinds of failures keep recurring across different situations with different people.\n\nIf you keep getting fired from different jobs, the common factor is not the employers. If every business you start fails for similar reasons, the common factor is not the market. If your relationships all end the same way, the common factor is not your partners. The common factor is you. Maxwell presents this realization not as a moment of shame but as a moment of power. As long as the problem is external, you are helpless to fix it because you cannot control other people or circumstances. The moment you recognize that you are the variable you can actually change, the entire situation transforms. You shift from being a victim of your failures to being the architect of your recovery. That shift starts with looking in the mirror and being willing to see what is actually there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c15358ec-cea5-4799-a0e1-585ba9146621",
+      "feedId": "failing-forward-the-transformation",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Change Yourself, Change Your World"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The core message of Maxwell's eighth chapter extends beyond personal diagnosis into a broader principle: when you change yourself, your world changes around you. This is not magical thinking. It is a practical observation about how personal transformation ripples outward into every area of your life.\n\nConsider how a change in attitude affects your workplace. When you stop blaming colleagues for problems and start taking ownership of your contributions, the dynamic shifts. People respond differently to someone who takes responsibility than to someone who points fingers. Your relationships improve, your reputation strengthens, and opportunities that were previously invisible begin to appear, not because the external world has changed, but because you have.\n\nThe same principle applies to personal relationships, finances, and health. A person who changes their spending habits does not just improve their bank account. They reduce stress, sleep better, and gain confidence that spills over into other decisions. A person who starts exercising does not just get stronger. They gain discipline, energy, and self-respect that transforms how they approach challenges in every domain.\n\nMaxwell emphasizes that this is not about cosmetic adjustments or surface-level behavior changes. Real transformation means examining the beliefs, habits, and patterns that have been producing your results and being willing to replace the ones that are not working. It requires courage because change is uncomfortable, and the familiar patterns feel safe even when they are clearly broken. But Maxwell insists the discomfort of changing is always smaller than the cost of staying the same."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4109d8e7-bc83-46d8-8dc5-0bbba3f6da7c",
+      "feedId": "failing-forward-the-transformation",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Selflessness Pivot"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell's ninth chapter introduces what might be the most unexpected turn in the book. After eight chapters focused on how you think, feel, and respond to failure, he shifts the spotlight outward with a provocative argument: many people who fail chronically do so because they think about nobody but themselves.\n\nSelf-absorption is a natural response to pain. When you are struggling, your attention turns inward. You focus on your problems, your frustrations, your unmet needs. This feels reasonable because you are the one suffering. But Maxwell argues that prolonged self-focus creates a toxic cycle. The more you think about yourself, the worse you feel. The worse you feel, the more you think about yourself. The cycle feeds itself until it becomes the dominant pattern of your life.\n\nThe solution is what Maxwell calls the selflessness pivot: deliberately shifting your attention from your own situation to the needs of others. This is not about ignoring your problems or pretending they do not exist. It is about breaking the cycle of self-absorption by investing energy in something productive.\n\nMaxwell argues that when you focus on adding value to other people's lives, several things happen simultaneously. Your own problems shrink in relative terms because you gain perspective. Your skills improve because serving others requires you to develop competence. Your relationships deepen because generosity builds trust. And perhaps most importantly, your self-image improves because you are no longer defined by your failures. You are defined by your contributions. The pivot from self to service is, in Maxwell's framework, one of the most reliable escapes from chronic failure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "425bf6fd-a644-43bc-bb55-d5d2098146f8",
+      "feedId": "failing-forward-the-transformation",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Dan Reiland's Growth"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell illustrates the selflessness pivot through the story of Dan Reiland, a colleague who worked closely with him in leadership development. When Reiland first began his career, he struggled with a challenge that many ambitious people face: he was focused primarily on his own advancement and recognition. His people skills were underdeveloped, and his interactions often centered on what he could gain from a situation rather than what he could contribute.\n\nThrough mentorship and deliberate practice, Reiland underwent a significant transformation. He shifted his focus from self-advancement to serving the people around him. He invested time in understanding what others needed, developed the ability to listen before speaking, and learned to prioritize the team's success over personal credit.\n\nThe results were dramatic. As Reiland's focus shifted outward, his effectiveness as a leader multiplied. People responded to his genuine interest in their growth. Teams he led became more productive and more cohesive. His reputation shifted from someone who was competent but self-centered to someone who made everyone around him better.\n\nMaxwell uses Reiland's story to make a point that applies far beyond professional development. The transformation did not require Reiland to become a fundamentally different person. It required him to redirect his existing energy and ambition from inward to outward. The same skills that drove his self-focused behavior, his intensity, his work ethic, his desire to succeed, became powerful assets the moment they were aimed at helping others rather than promoting himself. Maxwell argues that this redirect is available to anyone willing to make it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "117e6abc-5cf2-4118-af0a-d49637152f69",
+      "feedId": "failing-forward-the-transformation",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Adding Value Breaks the Cycle"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell closes his treatment of personal transformation with a principle that ties the eighth and ninth chapters together: the most reliable way to break a cycle of chronic failure is to start adding value to other people's lives. This is not a feel-good platitude. It is a practical strategy grounded in how human motivation and self-perception actually work.\n\nWhen you are trapped in a failure cycle, your internal narrative becomes dominated by loss. You think about what you have lost, what you cannot do, and what has gone wrong. This narrative creates a sense of depletion that makes it difficult to summon the energy for another attempt. You feel empty, and empty people have nothing left to give, or so the story goes.\n\nMaxwell challenges this narrative directly. He argues that giving to others is precisely what fills you back up. When you help someone solve a problem, you experience competence. When you encourage someone who is struggling, you exercise empathy. When you contribute to a team's success, you feel connection. These experiences counteract the depletion narrative by providing real evidence that you have something valuable to offer.\n\nThe cycle-breaking mechanism is straightforward: you cannot simultaneously believe you are worthless and watch yourself making a meaningful difference in someone else's life. The evidence conflicts with the belief, and over time, the evidence wins. Maxwell argues that this is why the most effective recovery from failure often involves outward service rather than inward reflection. Reflection diagnoses the problem. Service provides the cure. Combining both is what the failing forward framework ultimately demands."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a565424-bcec-47ca-b054-30515b156b52",
+      "feedId": "failing-forward-mining-gold-from-failure",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/6_202603272033.jpeg",
+          "title": "Mining Gold from Failure",
+          "subtitle": "Finding hidden benefits in bad experiences and why comfort kills growth"
+        }
+      ]
+    },
+    {
+      "_id": "a9a73ec2-9df1-46d6-8e7c-535e20c1b350",
+      "feedId": "failing-forward-mining-gold-from-failure",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Every Bad Experience Has a Gift Inside"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell's tenth chapter introduces a discipline that separates resilient people from everyone else: the ability to find genuine benefits hidden inside bad experiences. This is not about forcing optimism onto painful situations or pretending that everything happens for a reason. It is about deliberately mining each setback for whatever useful material it contains.\n\nThe process requires time and intentional reflection. Maxwell acknowledges that in the immediate aftermath of a failure, the pain is too fresh and the emotions are too raw for productive analysis. Trying to find the silver lining while you are still bleeding is not resilience. It is denial. The benefits become visible only after you have processed the initial shock and are ready to look at the experience with clear eyes.\n\nWhat you find depends on the nature of the failure. A failed business venture might reveal a gap in your financial knowledge that, once filled, makes your next venture more sustainable. A broken relationship might expose patterns in your behavior that you can address before entering the next one. A project that fell apart might teach you about team dynamics, timeline management, or the importance of contingency planning.\n\nMaxwell argues that every significant failure contains at least one lesson that could not have been learned any other way. The knowledge gained from failure is different from theoretical knowledge because it is embedded in lived experience. You do not just understand the principle intellectually. You feel it. That emotional anchoring makes the lesson stick in ways that reading about it in a book never could."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d7f05a11-fc49-47d7-a3c3-f3cf5fde8495",
+      "feedId": "failing-forward-mining-gold-from-failure",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The New Coke Catastrophe"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Few corporate failures in American history are as famous as New Coke, and Maxwell uses it to demonstrate that even massive, expensive disasters can contain hidden value. In the mid-1980s, Coca-Cola made the extraordinary decision to discontinue its flagship product and replace it with a reformulated version called New Coke. The man behind the push was Sergio Zyman, a marketing executive who had previously masterminded the successful launch of Diet Coke.\n\nThe public reaction was swift and brutal. Consumers revolted. Protest groups formed. The company's phone lines were overwhelmed with angry calls. New Coke was a spectacular failure that cost Coca-Cola an estimated one hundred million dollars and generated enormous negative publicity. Zyman lost his job over it.\n\nBut here is where the story takes an unexpected turn. Coca-Cola responded to the backlash by reintroducing the original formula under the name Coca-Cola Classic. The returning product generated an explosion of consumer enthusiasm that dwarfed anything the original formula had produced in years. Sales surged. Brand loyalty intensified. The company emerged from the debacle stronger than it had been before the reformulation.\n\nThe lesson Maxwell draws from this is not that failure is secretly good. Losing a hundred million dollars and your career is genuinely painful. The lesson is that even catastrophic failure can produce outcomes that would have been impossible without it. Nobody at Coca-Cola planned to boost their brand through a disastrous product change, but the disaster created conditions that no amount of positive marketing could have replicated."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e214b220-5fb8-439a-b182-e0428806009e",
+      "feedId": "failing-forward-mining-gold-from-failure",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Sergio Zyman's Second Chance"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The New Coke story has a second act that Maxwell finds even more instructive than the first. After Sergio Zyman was fired for championing the disastrous reformulation, most people would have expected his career to be over, at least at Coca-Cola. He had been responsible for one of the most public failures in corporate history. His name was permanently associated with a hundred-million-dollar mistake.\n\nBut Roberto Goizueta, Coca-Cola's chairman, saw things differently. In 1993, years after the New Coke debacle, Goizueta made the decision to rehire Zyman. His reasoning was striking: he valued people who dared to think boldly and take big swings, even when those swings missed. Goizueta understood that the kind of aggressive, creative thinking that produced New Coke was the same kind of thinking that had produced Diet Coke, one of the most successful product launches in beverage history.\n\nMaxwell uses this decision to illustrate a principle that applies far beyond the corporate world. The person who fails spectacularly at a bold attempt is often more valuable than the person who never fails because they never try anything ambitious. Zyman's failure was not evidence of incompetence. It was evidence of courage. He had the skill and the nerve to take enormous risks, and Goizueta bet that redirecting those qualities would produce more wins than losses over time.\n\nThe bet paid off. After returning, Zyman helped oversee a period of significant growth and innovation at Coca-Cola. His story demonstrates that a single failure, even a massive one, does not have to be the defining event of your career."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4b2dc713-4238-4ece-b7f0-392ecbe3dac1",
+      "feedId": "failing-forward-mining-gold-from-failure",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Risk Equation"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell's eleventh chapter contains one of his most practical frameworks: a new way to think about risk. Most people evaluate risk by asking a single question: what is the probability that this will fail? If the probability seems high, they avoid the action. Maxwell argues this is the wrong question because it treats all risks as equal regardless of what is at stake.\n\nInstead, Maxwell proposes evaluating risk based on the value of the goal. A risk that could lead to a life-changing outcome deserves a higher tolerance for failure than a risk with modest potential returns. The chance of failure might be the same in both cases, but the potential reward is dramatically different, and that difference should change your willingness to take the leap.\n\nConsider two scenarios. In the first, you risk a small investment on a project that could transform your career if it succeeds but will teach you valuable lessons even if it fails. In the second, you risk the same investment on something that will produce only marginal improvement regardless of the outcome. The probability of failure is identical, but the first risk is vastly more worth taking because the upside justifies the cost.\n\nMaxwell argues that most people are not too cautious in general. They are too cautious about the wrong things. They take small, safe risks on low-value opportunities while avoiding the high-value risks that could genuinely change their trajectory. Rebalancing your risk portfolio to favor high-value goals, even when the probability of failure is significant, is a core discipline of the failing forward mindset."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7c6c80f3-97a1-4657-a146-37f7dbce35f5",
+      "feedId": "failing-forward-mining-gold-from-failure",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Joseph Lister's Antiseptic Revolution"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell uses the story of Joseph Lister to illustrate what happens when someone takes a risk based on the value of the goal rather than the probability of rejection. In the nineteenth century, surgery was extraordinarily dangerous, not because of the procedures themselves, but because of infection. Surgeons operated with unwashed hands and unsterilized instruments, and patients frequently died from infections contracted during otherwise successful operations.\n\nLister believed he had found the solution: antiseptic procedures that would dramatically reduce infection rates. He advocated for surgeons to wash their hands, sterilize their instruments, and maintain clean operating environments. The idea seems obvious today, but in Lister's time, it was met with intense resistance. The medical establishment ridiculed him. Colleagues dismissed his theories as unnecessary and even insulting, implying that their hands were somehow dirty.\n\nLister faced a choice that Maxwell considers defining. He could accept the rejection, preserve his standing among peers, and allow patients to continue dying from preventable infections. Or he could persist in the face of professional ridicule because the value of the goal, saving lives, was worth the social cost.\n\nHe chose to persist. Over time, the evidence became too strong to ignore, and antiseptic procedures became the foundation of modern surgery. Lister's willingness to endure years of mockery and resistance transformed medicine and saved countless lives. Maxwell uses this story to argue that when the goal is truly valuable, the fear of rejection and failure should carry less weight than the potential impact of success. Some risks are not just worth taking. They are morally necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a333ce6b-92a1-4512-b150-9203f5627f21",
+      "feedId": "failing-forward-mining-gold-from-failure",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "If You Succeed, Try Harder"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell titles his eleventh chapter with a deliberately provocative twist on the old saying: if at first you do succeed, try something harder. The traditional version encourages persistence after failure. Maxwell's version addresses a different and often overlooked problem: what happens after success.\n\nMany people treat success as permission to stop pushing. They reach a goal, achieve a milestone, or master a skill, and then settle into the comfortable territory they have conquered. The risk-taking that got them there gives way to risk avoidance designed to protect what they have gained. Maxwell argues this is one of the most dangerous traps in the entire failing forward framework because it is disguised as wisdom.\n\nThe logic of comfort sounds reasonable: why risk what you have built? Why venture back into uncertain territory when you have finally reached a safe plateau? The answer, Maxwell argues, is that plateaus are where growth dies. The skills and attitudes that carried you to your current level of success were forged through struggle, discomfort, and repeated failure. When you stop subjecting yourself to those forces, you stop developing.\n\nMaxwell's prescription is counterintuitive but consistent with everything the book teaches. After every success, raise the bar. Seek challenges that are beyond your current ability. Put yourself in situations where failure is possible because that is where new growth happens. The goal is not to fail for the sake of failing but to ensure that you never stop learning, adapting, and expanding. Comfort is pleasant, but it is the territory where ambitions go to quietly retire. Failing forward requires leaving that territory regularly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5752f952-173c-464c-a9cc-b7dec4da8541",
+      "feedId": "failing-forward-building-resilience",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/7_202603272033.jpeg",
+          "title": "Building Resilience",
+          "subtitle": "Making failure your ally and diagnosing your personal failure patterns"
+        }
+      ]
+    },
+    {
+      "_id": "6aa278f7-7b9d-47de-bead-69f6fd69db09",
+      "feedId": "failing-forward-building-resilience",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Making Failure Your Best Friend"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell's twelfth chapter asks readers to do something that feels counterintuitive: stop fighting failure and start befriending it. The metaphor is deliberate. You do not merely tolerate a friend or endure their presence. You welcome them, learn from them, and trust that the relationship makes you better over time. Maxwell argues that your relationship with failure should work the same way.\n\nThis requires a fundamental shift in how you think about bad experiences. Most people process failure through one of two lenses: avoidance or suffering. The avoiders do everything possible to prevent failure from happening, which limits their willingness to take risks. The sufferers endure failure when it happens but view it as punishment, an unpleasant experience to get through as quickly as possible. Neither lens extracts the full value from the experience.\n\nMaxwell proposes a third lens: learning partnership. When you treat failure as a partner in your development, you approach each setback with curiosity instead of dread. What went wrong? What does this teach me? What would I do differently? These questions are only available to people who have stopped running from failure and started engaging with it.\n\nThe transition from adversary to ally does not happen overnight. It requires repeated practice, and it requires tolerating the discomfort of sitting with a failure long enough to learn from it rather than immediately moving on. But Maxwell argues that people who make this transition gain an enormous competitive advantage. While others are busy avoiding or recovering from failure, they are busy learning from it, and that learning compounds into wisdom that no amount of success alone could produce."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "b0f01e13-3fd3-45f1-99f5-c136004f2733",
+      "feedId": "failing-forward-building-resilience",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Left for Dead on Everest"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In 1996, Dr. Beck Weathers joined an expedition to climb Mount Everest that would become one of the deadliest disasters in the mountain's history. A violent storm trapped multiple climbing teams near the summit, and Weathers was among those caught in the open. When rescuers found him, he was unconscious, severely frostbitten, and showing almost no vital signs. They concluded he was beyond saving and left him.\n\nWeathers woke up. Alone, disoriented, and badly injured, he somehow managed to stumble back to camp. The team again assessed his condition as terminal and left him in a tent to die. He woke up a second time. Eventually he was evacuated from the mountain, but the damage was catastrophic. He lost his nose, half of one arm, and all the fingers on his other hand. His face required extensive reconstructive surgery.\n\nMost people would consider this a story about loss, about the terrible price of a decision to climb a dangerous mountain. Weathers chose a different interpretation. Rather than defining himself by what he had lost, he focused on what he had gained: perspective, gratitude, and a story of survival that could inspire others. He built a second career as a speaker, sharing his experience with audiences around the world.\n\nMaxwell uses Weathers to illustrate the most extreme version of his principle. If a man who was literally left for dead twice can transform that experience into something meaningful, then the failures most people face, job losses, business setbacks, relationship breakdowns, are well within the range of experiences that can be converted into forward progress."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a8302426-2007-4783-af1f-d14911c7cda3",
+      "feedId": "failing-forward-building-resilience",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Edison's Accidental Phonograph"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Thomas Edison appears throughout Failing Forward as a recurring example of someone who embodied the failing forward mindset. But Maxwell highlights one particular episode that captures the concept perfectly: Edison's accidental invention of the phonograph.\n\nEdison had spent years working to improve the telegraph, pouring time, money, and effort into a project that was producing minimal results. The telegraph improvements he envisioned were not materializing. By conventional measures, the project was a failure. But Edison's habit of tinkering, adjusting, and experimenting with his failed designs led him somewhere entirely unexpected.\n\nWhile making modifications to equipment that had failed at its intended purpose, Edison noticed that certain configurations could record and reproduce sound. The observation had nothing to do with telegraphy. It was a byproduct of sustained engagement with failure, a discovery that emerged because Edison refused to walk away from experiments that were not working as planned.\n\nThe phonograph changed the world. It created an entirely new industry, launched the era of recorded music, and cemented Edison's reputation as one of history's greatest inventors. And it would never have existed if Edison had treated his telegraph failures as dead ends rather than as raw material worth exploring.\n\nMaxwell draws a broader lesson: failure does not just teach you what does not work. Sometimes it introduces you to possibilities you never would have encountered on the path you originally planned. The phonograph was not a consolation prize for failing at the telegraph. It was a breakthrough that was hidden inside the failure, waiting for someone curious and persistent enough to find it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e4718ced-a664-4e67-9a78-923e80ee4047",
+      "feedId": "failing-forward-building-resilience",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Whatever Hurts, Instructs"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Benjamin Franklin's observation that whatever hurts also instructs provides Maxwell with a compact summary of how resilient people process pain. The principle is simple: painful experiences carry more educational weight than comfortable ones because pain demands your full attention in ways that comfort never does.\n\nThink about how you learn from minor, painless experiences versus major, painful ones. When something goes smoothly, you move on quickly. There is nothing to analyze, nothing to fix, nothing to remember. But when something goes badly and the consequences sting, every detail burns into your memory. You remember exactly what happened, exactly what went wrong, and exactly how it felt. That vivid recall is not just emotional baggage. It is raw material for learning.\n\nMaxwell argues that pain-based learning has a unique advantage: it sticks. You can read a hundred articles about financial planning and retain very little. But if you lose ten thousand dollars due to a poor investment, you will remember the lesson for the rest of your life. The pain functions as an adhesive that bonds the lesson to your long-term memory in a way that intellectual understanding alone cannot match.\n\nThis does not mean you should seek out pain or welcome suffering for its own sake. It means that when pain arrives uninvited, as it inevitably will, you should recognize it as a carrier of instruction. The people who learn the most from failure are not the ones who feel the least pain. They are the ones who feel the full force of the pain and then ask what it has to teach them before letting it go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "7ec9e0f1-5c87-4704-ad0e-89b6caaaee40",
+      "feedId": "failing-forward-building-resilience",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Failure Diagnostic"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "In his thirteenth chapter, Maxwell returns to the ten reasons people fail that he introduced earlier in the book, but this time with a different purpose. Instead of simply listing obstacles, he presents them as a diagnostic checklist that readers can use to identify their personal failure patterns. The shift is from awareness to action.\n\nThe ten patterns are: poor people skills, a negative attitude, a bad fit, lack of focus, weak commitment, an unwillingness to change, a shortcut mindset, relying on talent alone, responding to poor information, and having no goals. Maxwell argues that while all ten can contribute to failure, most people have only two or three that are truly active in their lives. Identifying which ones belong to you is the key to targeted improvement.\n\nMaxwell suggests reading the full list and honestly assessing which patterns resonate most with your own experience. This is harder than it sounds because self-deception is one of the most powerful forces in human psychology. The patterns that most affect you are often the ones you are least willing to acknowledge.\n\nOnce identified, the diagnostic becomes a roadmap. Rather than trying to fix everything at once, Maxwell recommends focusing on your single biggest weakness first. Not your smallest weakness, not the one that is easiest to address, but the one that is doing the most damage. He calls this working on the weakness that weakens you. This approach concentrates your limited energy and willpower on the change that will produce the greatest return, creating momentum that makes subsequent changes easier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "bb19e1bc-2592-4318-b106-d9a92d8e6ae0",
+      "feedId": "failing-forward-building-resilience",
+      "order": 6,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Work on What Weakens You"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell's prescription for addressing personal failure patterns is deceptively simple: find the one weakness that is causing the most damage and focus all your improvement energy there. He calls this working on the weakness that weakens you, and it is one of the most practical pieces of advice in the entire book.\n\nThe natural tendency when confronting a list of weaknesses is to either address the easiest one first or try to fix several simultaneously. Maxwell warns against both approaches. Fixing the easiest weakness first feels productive but does not move the needle on your biggest problem. Trying to fix multiple weaknesses at once spreads your effort too thin, resulting in marginal improvement across several areas rather than meaningful improvement where it matters most.\n\nThe hard part is honest identification. Your biggest weakness is rarely the one you think it is, because the most damaging patterns are often the ones you have spent the most time rationalizing. Maxwell suggests seeking input from trusted friends, mentors, or colleagues who can see your blind spots more clearly than you can. Their perspective is uncomfortable but invaluable.\n\nOnce you have identified the right target, the process is straightforward but demanding: dedicate focused, daily effort to improving in that one area until the weakness no longer has the power to undermine your other strengths. Maxwell compares it to a chain with one weak link. You can polish every other link to perfection, but the chain will still break at the weak point. Strengthening that single link transforms the entire chain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "2501aff1-1d78-495b-a1a7-a77500ef1cf2",
+      "feedId": "failing-forward-get-up-and-go",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/8_202603272033.jpeg",
+          "title": "Get Up and Go",
+          "subtitle": "The razor-thin margin between failure and success, and your call to action"
+        }
+      ]
+    },
+    {
+      "_id": "e09eb6a8-763a-4e39-8c21-45af5ccb7d48",
+      "feedId": "failing-forward-get-up-and-go",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Razor-Thin Margin"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell's fourteenth chapter makes an argument that should encourage anyone who has ever felt like a complete failure: the difference between failing and succeeding is usually much smaller than it appears. He claims that most people who give up are closer to a breakthrough than they realize, and the margin separating their current position from success is razor-thin.\n\nThis is not wishful thinking. Maxwell supports the claim with an observation from Edison, who noted that many of life's failures are people who did not realize how close they were to success when they gave up. The statement carries extra weight coming from a man who conducted thousands of failed experiments before his breakthroughs.\n\nThe perception gap is the real enemy. When you are in the middle of a struggle, the distance between where you are and where you want to be feels enormous. Every setback seems to push the finish line further away. But Maxwell argues that this perception is systematically distorted. Failure looks worst right before the turning point because you have accumulated all the costs of your journey without yet receiving any of the rewards.\n\nConsider how this plays out in practice. A salesperson who has been rejected ninety-nine times feels like a complete failure. But if the hundredth call produces a sale, the entire narrative changes. The ninety-nine rejections were not evidence of hopelessness. They were the cost of finding the one opportunity that would break through. Maxwell insists that when you feel furthest from success, it often means you have already paid most of the price and the payoff is closer than you think."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "d4c9ea00-8e85-4dc3-8813-0cc3f9411af9",
+      "feedId": "failing-forward-get-up-and-go",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Famous Dave's Long Road"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Few stories in Failing Forward illustrate the razor-thin margin better than that of Famous Dave Anderson, whose path to restaurant success was paved with an extraordinary number of failures. Anderson's entrepreneurial journey began when his father invested twenty-five hundred dollars, a significant sum for the family, into his son's first business venture. The business failed quickly and completely.\n\nWhat followed was a years-long series of setbacks that would test anyone's resolve. Anderson struggled through college, accumulating poor grades and incomplete coursework. Additional business ventures launched and collapsed. He faced bankruptcy. The pattern of failure was so consistent that it would have been entirely rational to conclude that entrepreneurship was not his path.\n\nBut Anderson kept going. In 1982, he helped revitalize his tribal organization's businesses, gaining experience in operations and management that his earlier failures had not provided. He later co-founded the Rain Forest Cafe, gaining more experience in the restaurant industry. Then he launched Famous Dave's of America, a barbecue restaurant concept that grew into a chain with over three thousand employees and annual revenues exceeding forty million dollars. Anderson was eventually named Emerging Entrepreneur of the Year by Ernst and Young.\n\nMaxwell cites a striking pattern: entrepreneurs average roughly four failures before building a sustainable business. Anderson's story fits this pattern. Each failure was not a disqualification from success. It was tuition, a payment toward the knowledge and experience he needed to succeed when the right opportunity finally arrived. The margin between his last failure and his breakthrough success was exactly one more attempt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "95d526ad-3fff-42bf-8adf-c731bf4508d6",
+      "feedId": "failing-forward-get-up-and-go",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The FORWARD Action Formula"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell closes the book with a practical action framework designed to convert the principles of failing forward into daily behavior. The framework uses the word FORWARD as an acronym, with each letter representing a step in the process of turning failure into progress.\n\nF stands for Finalize your goals. You cannot fail forward if you do not know what forward means. Clear, specific goals provide the direction that prevents aimless wandering after a setback. O stands for Order your plans. Once you know where you are going, create a structured approach for getting there. Planning does not guarantee success, but it dramatically improves your odds.\n\nR stands for Risk failing by taking action. This is where most people stall. Plans without action are fantasies, and action inherently carries risk. Maxwell argues that accepting this risk is non-negotiable. W stands for Welcome mistakes. This is the attitudinal shift the entire book has been building toward, treating mistakes as expected and useful rather than catastrophic and shameful.\n\nA stands for Advance based on your character, not your circumstances. Your character is within your control. Your circumstances are often not. Building your forward movement on the foundation of character rather than favorable conditions makes your progress resilient to external disruption. R stands for Reevaluate your strategies and progress regularly. What worked yesterday may not work tomorrow, and regular assessment keeps you adaptive. D stands for Develop new strategies to succeed. When reevaluation reveals that your current approach is not working, create a new one rather than doubling down on the old one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "da6850d8-7c7b-4a0f-8f71-cd531e9bfca7",
+      "feedId": "failing-forward-get-up-and-go",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Failing Forward vs. Failing Backward"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell presents one of his clearest and most practical frameworks by placing the behaviors of people who fail forward alongside the behaviors of people who fail backward. The contrast is not about talent, intelligence, or luck. It is entirely about chosen responses to the same circumstances.\n\nPeople who fail backward blame others for their setbacks. People who fail forward take responsibility. Backward failers repeat the same mistakes because they never analyze what went wrong. Forward failers learn from each mistake and adjust their approach before trying again.\n\nPeople who fail backward expect never to fail again, setting themselves up for devastating disappointment when the next failure inevitably arrives. People who fail forward know that failure is a permanent feature of any ambitious life and prepare accordingly. Backward failers accept tradition blindly, doing things the way they have always been done even when the results are consistently poor. Forward failers challenge assumptions and look for better methods.\n\nPeople who fail backward are limited by their past mistakes, carrying them like weights that slow every future effort. People who fail forward treat past mistakes as completed lessons, valuable for their teaching but no longer relevant as constraints. Backward failers think the statement \"I am a failure\" is an identity. Forward failers think \"I failed at this\" is an event.\n\nThe final and most decisive contrast: people who fail backward quit. People who fail forward persevere. Maxwell argues that this single difference, the willingness to continue after setback, is the ultimate dividing line between those who achieve and those who do not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a666418d-6f8b-4f34-9495-cd3ec9351a1c",
+      "feedId": "failing-forward-get-up-and-go",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Your Move"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Maxwell closes Failing Forward with a direct challenge to every reader: now that you understand the principles, what are you going to do about it? The book's final step is simply this: get up, get over it, and get going. No more analysis, no more preparation, no more waiting for the perfect moment. The time to start failing forward is right now.\n\nThis final chapter is deliberately short on new concepts and long on urgency. Maxwell has spent fourteen chapters building the intellectual and emotional framework for a new relationship with failure. He has provided stories, principles, diagnostic tools, and action formulas. The fifteenth step strips away everything except the one thing that actually matters: movement.\n\nMaxwell acknowledges that reading a book about failing forward is not the same as actually doing it. Knowledge without application is just entertainment. The real test begins when you close the book and face your next failure, which he promises is coming. The question is not whether you will fail again. The question is whether your next failure will push you backward or propel you forward.\n\nThe choice is daily and ongoing. Failing forward is not a one-time decision. It is a posture you adopt toward life, a commitment to treating every setback as information, every mistake as tuition, and every disappointment as a detour rather than a dead end. Maxwell's final message is both simple and demanding: you now have everything you need. The remaining variable is your willingness to act. Your move."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c5580482-6037-4126-969b-baa9979bb347",
+      "feedId": "failing-forward-quiz",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/1_202603272033.jpeg",
+          "title": "The Achiever's Mindset",
+          "subtitle": "The one trait that separates those who succeed from those who stay average"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does REAL stand for in Maxwell's opening framework?",
+              "options": [
+                {
+                  "label": "Relationships, Equipping, Attitude, Leadership",
+                  "correct": true
+                },
+                {
+                  "label": "Resilience, Education, Attitude, Learning",
+                  "correct": false
+                },
+                {
+                  "label": "Responsibility, Engagement, Ambition, Loyalty",
+                  "correct": false
+                },
+                {
+                  "label": "Results, Excellence, Accountability, Legacy",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell opens the book with the REAL framework, identifying Relationships, Equipping, Attitude, and Leadership as the four pillars of genuine success, with Attitude being the focus of the entire book."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many career outs did Tony Gwynn accumulate during his baseball career?",
+              "options": [
+                {
+                  "label": "2,847",
+                  "correct": false
+                },
+                {
+                  "label": "5,113",
+                  "correct": true
+                },
+                {
+                  "label": "8,200",
+                  "correct": false
+                },
+                {
+                  "label": "3,500",
+                  "correct": false
+                }
+              ],
+              "explanation": "Despite being one of the greatest hitters in baseball history, Gwynn accumulated 5,113 outs, failing to get a hit roughly two out of every three at-bats."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "At what age did Mary Kay Ash launch Mary Kay Cosmetics?",
+              "options": [
+                {
+                  "label": "32",
+                  "correct": false
+                },
+                {
+                  "label": "38",
+                  "correct": false
+                },
+                {
+                  "label": "45",
+                  "correct": true
+                },
+                {
+                  "label": "52",
+                  "correct": false
+                }
+              ],
+              "explanation": "After 25 years of being passed over for promotion in the corporate world, Ash launched Mary Kay Cosmetics at age 45 on September 13, 1963."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Maxwell, what is the main difference between average and achieving people?",
+              "options": [
+                {
+                  "label": "Their level of education and training",
+                  "correct": false
+                },
+                {
+                  "label": "Their perception of and response to failure",
+                  "correct": true
+                },
+                {
+                  "label": "Their access to financial resources",
+                  "correct": false
+                },
+                {
+                  "label": "Their natural talent and intelligence",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell's central thesis is that the one major difference is how people perceive and respond to failure, not talent, education, or resources."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/1b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How does Maxwell describe the achiever's view of failure?",
+              "options": [
+                {
+                  "label": "As a sign to change careers",
+                  "correct": false
+                },
+                {
+                  "label": "As an unavoidable punishment",
+                  "correct": false
+                },
+                {
+                  "label": "As a detour, not a dead end",
+                  "correct": true
+                },
+                {
+                  "label": "As proof that more planning is needed",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell uses the metaphor of a detour versus a dead end throughout the book. Achievers see failure as a temporary rerouting, not a signal to stop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4bfbc021-73f1-4642-8c78-c4e7ed8522dd",
+      "feedId": "failing-forward-quiz",
+      "order": 1,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/2_202603272033.jpeg",
+          "title": "Redefining Failure",
+          "subtitle": "Why failing at something does not make you a failure"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How does Maxwell redefine failure in relation to success?",
+              "options": [
+                {
+                  "label": "Failure is the opposite of success",
+                  "correct": false
+                },
+                {
+                  "label": "Failure is a price you pay to achieve success",
+                  "correct": true
+                },
+                {
+                  "label": "Failure is a permanent condition",
+                  "correct": false
+                },
+                {
+                  "label": "Failure and success are completely unrelated",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell frames failure as a transaction cost rather than the opposite of success, arguing that every achievement requires paying the price of multiple failures along the way."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What tragedy did Truett Cathy overcome before founding Chick-fil-A?",
+              "options": [
+                {
+                  "label": "He was fired from his previous restaurant job",
+                  "correct": false
+                },
+                {
+                  "label": "He lost both brothers in a plane crash and his restaurant to fire",
+                  "correct": true
+                },
+                {
+                  "label": "He survived a car accident that left him unable to walk",
+                  "correct": false
+                },
+                {
+                  "label": "He lost his savings in a stock market crash",
+                  "correct": false
+                }
+              ],
+              "explanation": "Cathy lost both of his brothers and business partners in a plane crash and had his restaurant destroyed by fire before going on to build Chick-fil-A."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many abilities does Maxwell list for failing forward?",
+              "options": [
+                {
+                  "label": "Five",
+                  "correct": false
+                },
+                {
+                  "label": "Seven",
+                  "correct": true
+                },
+                {
+                  "label": "Ten",
+                  "correct": false
+                },
+                {
+                  "label": "Twelve",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell identifies seven specific abilities: reject rejection, see failure as temporary, view failures as isolated incidents, keep expectations realistic, focus on strengths, vary approaches, and bounce back."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which of these is one of the seven abilities to fail forward?",
+              "options": [
+                {
+                  "label": "Ignore all criticism",
+                  "correct": false
+                },
+                {
+                  "label": "View each failure as an isolated incident",
+                  "correct": true
+                },
+                {
+                  "label": "Eliminate all risk from decisions",
+                  "correct": false
+                },
+                {
+                  "label": "Wait for perfect conditions before acting",
+                  "correct": false
+                }
+              ],
+              "explanation": "Viewing each failure as an isolated incident prevents one setback from contaminating your confidence across all areas of life. It is the third of Maxwell's seven abilities."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/44_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Erma Bombeck's successful career?",
+              "options": [
+                {
+                  "label": "Television news anchor",
+                  "correct": false
+                },
+                {
+                  "label": "Professional chef and cookbook author",
+                  "correct": false
+                },
+                {
+                  "label": "Newspaper columnist and humorist",
+                  "correct": true
+                },
+                {
+                  "label": "Corporate executive and entrepreneur",
+                  "correct": false
+                }
+              ],
+              "explanation": "Despite being told she could not have children and starting as a copy girl, Bombeck became one of America's most popular newspaper columnists, with her humor column appearing in over 900 newspapers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "85430ecb-b065-4982-b8dc-0df71c35c4c7",
+      "feedId": "failing-forward-quiz",
+      "order": 2,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/3_202603272033.jpeg",
+          "title": "Conquering Fear",
+          "subtitle": "How action defeats paralysis and responsibility opens the exit"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who beat the well-funded Samuel Langley in the race to achieve powered flight?",
+              "options": [
+                {
+                  "label": "Thomas Edison",
+                  "correct": false
+                },
+                {
+                  "label": "The Wright Brothers",
+                  "correct": true
+                },
+                {
+                  "label": "Alexander Graham Bell",
+                  "correct": false
+                },
+                {
+                  "label": "Nikola Tesla",
+                  "correct": false
+                }
+              ],
+              "explanation": "Despite having no government funding and being dismissed as mere bicycle mechanics, the Wright Brothers achieved powered flight at Kitty Hawk while the well-funded Langley abandoned his attempt after public failures."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many self-inflicted obstacles does Maxwell identify?",
+              "options": [
+                {
+                  "label": "Five",
+                  "correct": false
+                },
+                {
+                  "label": "Seven",
+                  "correct": false
+                },
+                {
+                  "label": "Ten",
+                  "correct": true
+                },
+                {
+                  "label": "Fifteen",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell lists ten ways people get in their own way, including poor people skills, negative attitude, bad fit, lack of focus, weak commitment, unwillingness to change, shortcut mindset, relying on talent alone, responding to poor information, and having no goals."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What condition was Roger Crawford born with?",
+              "options": [
+                {
+                  "label": "Blindness in one eye",
+                  "correct": false
+                },
+                {
+                  "label": "Ectrodactylism, missing most fingers and toes",
+                  "correct": true
+                },
+                {
+                  "label": "A spinal cord injury limiting mobility",
+                  "correct": false
+                },
+                {
+                  "label": "A heart condition restricting physical activity",
+                  "correct": false
+                }
+              ],
+              "explanation": "Crawford was born with ectrodactylism, a condition that left him missing most of his fingers and toes, yet he became the first person with this condition to earn APTA tennis certification."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which of these is NOT one of fear's four toxic effects according to Maxwell?",
+              "options": [
+                {
+                  "label": "Self-pity",
+                  "correct": false
+                },
+                {
+                  "label": "Excuses",
+                  "correct": false
+                },
+                {
+                  "label": "Ambition",
+                  "correct": true
+                },
+                {
+                  "label": "Hopelessness",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell identifies four toxic effects of fear: self-pity, excuses, misused energy, and hopelessness. Ambition is not among them, as it is a positive trait that fear often suppresses."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/47_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Maxwell, what is the antidote to fear of failure?",
+              "options": [
+                {
+                  "label": "Careful planning and preparation",
+                  "correct": false
+                },
+                {
+                  "label": "Taking action",
+                  "correct": true
+                },
+                {
+                  "label": "Avoiding risky situations",
+                  "correct": false
+                },
+                {
+                  "label": "Consulting experts before every decision",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell argues that action is the direct antidote to fear. While planning has its place, fear is overcome through movement, not through more analysis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "45463848-4b6b-466e-92ba-97267f38fa7d",
+      "feedId": "failing-forward-quiz",
+      "order": 3,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/4_202603272033.jpeg",
+          "title": "Guarding Your Inner World",
+          "subtitle": "Why failure is an inside job and how to release yesterday's grip"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Maxwell, where do both failure and success originate?",
+              "options": [
+                {
+                  "label": "In your circumstances and environment",
+                  "correct": false
+                },
+                {
+                  "label": "Inside you, in your thoughts and responses",
+                  "correct": true
+                },
+                {
+                  "label": "In the quality of people around you",
+                  "correct": false
+                },
+                {
+                  "label": "In the opportunities available to you",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell's sixth chapter argues that both failure and success are inside jobs, originating in your internal responses to external events rather than in the events themselves."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What embarrassing score did Arnold Palmer make on a single hole at the 1961 Los Angeles Open?",
+              "options": [
+                {
+                  "label": "8",
+                  "correct": false
+                },
+                {
+                  "label": "10",
+                  "correct": false
+                },
+                {
+                  "label": "12",
+                  "correct": true
+                },
+                {
+                  "label": "15",
+                  "correct": false
+                }
+              ],
+              "explanation": "Palmer scored a 12 on the ninth hole of the 1961 Los Angeles Open, a performance so notable that a plaque was eventually installed on the hole to commemorate it."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which of these is NOT one of Maxwell's five traps of past failure?",
+              "options": [
+                {
+                  "label": "Comparison",
+                  "correct": false
+                },
+                {
+                  "label": "Isolation",
+                  "correct": false
+                },
+                {
+                  "label": "Ambition",
+                  "correct": true
+                },
+                {
+                  "label": "Bitterness",
+                  "correct": false
+                }
+              ],
+              "explanation": "The five traps are comparison, rationalization, isolation, regret, and bitterness. Ambition is a positive quality, not one of the traps that keep people chained to past failures."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Maxwell say about the relationship between circumstances and contentment?",
+              "options": [
+                {
+                  "label": "Better circumstances always lead to greater contentment",
+                  "correct": false
+                },
+                {
+                  "label": "They are completely unrelated",
+                  "correct": true
+                },
+                {
+                  "label": "Contentment requires eliminating all negative circumstances",
+                  "correct": false
+                },
+                {
+                  "label": "Circumstances determine 80% of contentment",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell argues that contentment and circumstances are completely unrelated, pointing to examples of content people in difficult situations and unhappy people in comfortable ones."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/4b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What are the three stages Maxwell prescribes for letting go of the past?",
+              "options": [
+                {
+                  "label": "Plan, execute, evaluate",
+                  "correct": false
+                },
+                {
+                  "label": "Acknowledge pain, grieve, and forgive",
+                  "correct": true
+                },
+                {
+                  "label": "Deny, distract, and move on",
+                  "correct": false
+                },
+                {
+                  "label": "Analyze, strategize, and act",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell outlines three stages for releasing the past: honestly acknowledging the pain, allowing yourself to grieve what was lost, and forgiving both others and yourself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "daca41b8-4e15-46c7-8407-6d0d4dfc2588",
+      "feedId": "failing-forward-quiz",
+      "order": 4,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/5_202603272033.jpeg",
+          "title": "The Transformation",
+          "subtitle": "When you change yourself, everything around you changes too"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Maxwell mean by telling readers to check the mirror?",
+              "options": [
+                {
+                  "label": "Focus on personal appearance to boost confidence",
+                  "correct": false
+                },
+                {
+                  "label": "Examine whether you are the common factor in repeated failures",
+                  "correct": true
+                },
+                {
+                  "label": "Compare yourself to successful people to identify gaps",
+                  "correct": false
+                },
+                {
+                  "label": "Practice positive affirmations each morning",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell encourages readers to look honestly at whether they themselves are the recurring variable in their failures, recognizing that the common factor across all your experiences is you."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the selflessness pivot?",
+              "options": [
+                {
+                  "label": "Quitting your job to volunteer full-time",
+                  "correct": false
+                },
+                {
+                  "label": "Shifting focus from yourself to adding value to others",
+                  "correct": true
+                },
+                {
+                  "label": "Letting other people make all decisions for you",
+                  "correct": false
+                },
+                {
+                  "label": "Ignoring your own needs completely",
+                  "correct": false
+                }
+              ],
+              "explanation": "The selflessness pivot is Maxwell's term for deliberately redirecting your attention from self-absorption to serving others, which breaks the destructive cycle of chronic failure."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who improved his leadership by shifting focus from himself to others?",
+              "options": [
+                {
+                  "label": "Roger Crawford",
+                  "correct": false
+                },
+                {
+                  "label": "Dan Reiland",
+                  "correct": true
+                },
+                {
+                  "label": "Sergio Zyman",
+                  "correct": false
+                },
+                {
+                  "label": "Famous Dave Anderson",
+                  "correct": false
+                }
+              ],
+              "explanation": "Dan Reiland, Maxwell's colleague, transformed his effectiveness as a leader by shifting from self-advancement to genuinely serving the people around him through mentorship and deliberate practice."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "According to Maxwell, what often drives chronic failure?",
+              "options": [
+                {
+                  "label": "Lack of intelligence or education",
+                  "correct": false
+                },
+                {
+                  "label": "Self-absorption and self-centeredness",
+                  "correct": true
+                },
+                {
+                  "label": "Too much ambition and risk-taking",
+                  "correct": false
+                },
+                {
+                  "label": "External economic conditions",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell argues that many people who fail chronically do so because they are preoccupied with themselves, creating a toxic cycle where self-focus produces worse feelings that generate more self-focus."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/2b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How does adding value to others help break the failure cycle?",
+              "options": [
+                {
+                  "label": "It makes other people feel obligated to help you",
+                  "correct": false
+                },
+                {
+                  "label": "It provides evidence that contradicts the belief you are worthless",
+                  "correct": true
+                },
+                {
+                  "label": "It guarantees financial success through networking",
+                  "correct": false
+                },
+                {
+                  "label": "It distracts you from all personal problems",
+                  "correct": false
+                }
+              ],
+              "explanation": "When you make a meaningful difference in someone's life, you cannot simultaneously believe you are worthless. The evidence of your contribution gradually overwrites the narrative of failure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1be719e4-5ee4-464b-bd6f-a0385685d5ae",
+      "feedId": "failing-forward-quiz",
+      "order": 5,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/6_202603272033.jpeg",
+          "title": "Mining Gold from Failure",
+          "subtitle": "Finding hidden benefits in bad experiences and why comfort kills growth"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How much money did the New Coke failure reportedly cost Coca-Cola?",
+              "options": [
+                {
+                  "label": "Ten million dollars",
+                  "correct": false
+                },
+                {
+                  "label": "Fifty million dollars",
+                  "correct": false
+                },
+                {
+                  "label": "One hundred million dollars",
+                  "correct": true
+                },
+                {
+                  "label": "Five hundred million dollars",
+                  "correct": false
+                }
+              ],
+              "explanation": "The New Coke reformulation was a spectacular failure that cost Coca-Cola an estimated one hundred million dollars, though the reintroduction of Coca-Cola Classic ultimately boosted the brand."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to Sergio Zyman after the New Coke disaster?",
+              "options": [
+                {
+                  "label": "He was permanently banned from the beverage industry",
+                  "correct": false
+                },
+                {
+                  "label": "He was fired, then rehired years later by Coca-Cola's chairman",
+                  "correct": true
+                },
+                {
+                  "label": "He immediately launched a competing soda company",
+                  "correct": false
+                },
+                {
+                  "label": "He retired from marketing entirely",
+                  "correct": false
+                }
+              ],
+              "explanation": "After being fired for the New Coke debacle, Zyman was rehired in 1993 by chairman Roberto Goizueta, who valued bold thinkers willing to take big risks even when they sometimes miss."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How should risk be evaluated according to Maxwell?",
+              "options": [
+                {
+                  "label": "Only take risks with less than 10% chance of failure",
+                  "correct": false
+                },
+                {
+                  "label": "Evaluate risk based on the value of the goal, not just failure probability",
+                  "correct": true
+                },
+                {
+                  "label": "Avoid all risks until you have guaranteed success",
+                  "correct": false
+                },
+                {
+                  "label": "Take equal risks regardless of potential reward",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell argues that people should weigh the value of the potential outcome, not just the probability of failure. High-value goals deserve a higher tolerance for risk."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was Joseph Lister ridiculed for advocating?",
+              "options": [
+                {
+                  "label": "A new type of surgical instrument",
+                  "correct": false
+                },
+                {
+                  "label": "Antiseptic procedures and clean surgery",
+                  "correct": true
+                },
+                {
+                  "label": "Patient rehabilitation after operations",
+                  "correct": false
+                },
+                {
+                  "label": "General anesthesia during surgery",
+                  "correct": false
+                }
+              ],
+              "explanation": "Lister faced intense resistance from the medical establishment for promoting hand-washing, instrument sterilization, and clean operating environments, ideas that now form the foundation of modern surgery."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/58_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Maxwell mean by 'if at first you succeed, try something harder'?",
+              "options": [
+                {
+                  "label": "Success should make you more cautious",
+                  "correct": false
+                },
+                {
+                  "label": "After succeeding, raise the bar and seek new challenges",
+                  "correct": true
+                },
+                {
+                  "label": "First-time success is usually just luck",
+                  "correct": false
+                },
+                {
+                  "label": "Easy successes are not worth celebrating",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell deliberately inverts the traditional saying to warn against complacency. After success, the temptation is to coast, but growth only continues when you push beyond your comfort zone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "fe0988cd-0345-4ef6-a271-23315a807317",
+      "feedId": "failing-forward-quiz",
+      "order": 6,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/7_202603272033.jpeg",
+          "title": "Building Resilience",
+          "subtitle": "Making failure your ally and diagnosing your personal failure patterns"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What happened to Beck Weathers on Mount Everest in 1996?",
+              "options": [
+                {
+                  "label": "He successfully reached the summit without incident",
+                  "correct": false
+                },
+                {
+                  "label": "He was left for dead twice but survived",
+                  "correct": true
+                },
+                {
+                  "label": "He turned back before the storm hit and avoided injury",
+                  "correct": false
+                },
+                {
+                  "label": "He rescued three other climbers during the storm",
+                  "correct": false
+                }
+              ],
+              "explanation": "Weathers was left for dead twice during the 1996 Everest disaster. He survived, losing his nose, half of one arm, and all fingers on his other hand, then built a speaking career from the experience."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What did Edison accidentally discover while trying to improve the telegraph?",
+              "options": [
+                {
+                  "label": "The light bulb",
+                  "correct": false
+                },
+                {
+                  "label": "The telephone",
+                  "correct": false
+                },
+                {
+                  "label": "The phonograph",
+                  "correct": true
+                },
+                {
+                  "label": "The electric motor",
+                  "correct": false
+                }
+              ],
+              "explanation": "While working on failed telegraph improvements, Edison's tinkering led him to discover that certain configurations could record and reproduce sound, leading to the invention of the phonograph."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which of these is NOT one of Maxwell's top ten reasons people fail?",
+              "options": [
+                {
+                  "label": "Poor people skills",
+                  "correct": false
+                },
+                {
+                  "label": "A shortcut mindset",
+                  "correct": false
+                },
+                {
+                  "label": "Excessive generosity",
+                  "correct": true
+                },
+                {
+                  "label": "Lack of focus",
+                  "correct": false
+                }
+              ],
+              "explanation": "The ten reasons include poor people skills, negative attitude, bad fit, lack of focus, weak commitment, unwillingness to change, shortcut mindset, relying on talent alone, responding to poor information, and no goals. Excessive generosity is not among them."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Benjamin Franklin's phrase 'whatever hurts, instructs' mean in this context?",
+              "options": [
+                {
+                  "label": "Pain should be avoided at all costs",
+                  "correct": false
+                },
+                {
+                  "label": "Painful experiences carry more educational value because they demand attention",
+                  "correct": true
+                },
+                {
+                  "label": "You should deliberately seek painful situations",
+                  "correct": false
+                },
+                {
+                  "label": "Only physical pain leads to real learning",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell uses Franklin's observation to argue that painful failures create stronger, more lasting lessons than comfortable experiences because pain bonds the lesson to long-term memory."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/uploads/download%20(4)/41_202603272005.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does Maxwell recommend regarding your biggest weakness?",
+              "options": [
+                {
+                  "label": "Ignore it and focus on your strengths instead",
+                  "correct": false
+                },
+                {
+                  "label": "Try to improve all weaknesses equally at the same time",
+                  "correct": false
+                },
+                {
+                  "label": "Focus all improvement energy on the one weakness causing the most damage",
+                  "correct": true
+                },
+                {
+                  "label": "Ask other people to compensate for your weaknesses",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell advises targeting the single weakness that weakens you the most, concentrating all improvement energy there rather than spreading it across multiple areas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "cc7c2286-ada4-4b2d-9edb-33c656008fe6",
+      "feedId": "failing-forward-quiz",
+      "order": 7,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/failing-forward/8_202603272033.jpeg",
+          "title": "Get Up and Go",
+          "subtitle": "The razor-thin margin between failure and success, and your call to action"
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What does the F in Maxwell's FORWARD action formula stand for?",
+              "options": [
+                {
+                  "label": "Find your passion",
+                  "correct": false
+                },
+                {
+                  "label": "Fight through adversity",
+                  "correct": false
+                },
+                {
+                  "label": "Finalize your goals",
+                  "correct": true
+                },
+                {
+                  "label": "Forget past failures",
+                  "correct": false
+                }
+              ],
+              "explanation": "FORWARD stands for Finalize goals, Order plans, Risk failing by taking action, Welcome mistakes, Advance based on character, Reevaluate strategies, and Develop new strategies."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How much did Famous Dave Anderson's father invest in his son's first business?",
+              "options": [
+                {
+                  "label": "Five hundred dollars",
+                  "correct": false
+                },
+                {
+                  "label": "One thousand dollars",
+                  "correct": false
+                },
+                {
+                  "label": "Twenty-five hundred dollars",
+                  "correct": true
+                },
+                {
+                  "label": "Ten thousand dollars",
+                  "correct": false
+                }
+              ],
+              "explanation": "Anderson's father invested $2,500, a significant sum for the family, into his son's first business venture, which failed quickly and completely before Anderson's eventual success with Famous Dave's restaurant chain."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Which behavior belongs to people who fail BACKWARD according to Maxwell?",
+              "options": [
+                {
+                  "label": "Taking responsibility for outcomes",
+                  "correct": false
+                },
+                {
+                  "label": "Blaming others for their setbacks",
+                  "correct": true
+                },
+                {
+                  "label": "Learning from each mistake",
+                  "correct": false
+                },
+                {
+                  "label": "Challenging outdated assumptions",
+                  "correct": false
+                }
+              ],
+              "explanation": "People who fail backward blame others, repeat mistakes, expect never to fail again, and quit. People who fail forward take responsibility, learn from mistakes, and persevere."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the main message of the razor-thin margin?",
+              "options": [
+                {
+                  "label": "Success and failure are separated by a vast unbridgeable gap",
+                  "correct": false
+                },
+                {
+                  "label": "Small adjustments often make the difference between failure and success",
+                  "correct": true
+                },
+                {
+                  "label": "Only extraordinary talent can bridge the gap to success",
+                  "correct": false
+                },
+                {
+                  "label": "The margin of success is determined entirely by luck",
+                  "correct": false
+                }
+              ],
+              "explanation": "Maxwell argues that most people who give up are closer to success than they realize, and the difference between failing and succeeding is usually much smaller than it appears."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/atomic/3b_202603271213.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the final step in Maxwell's 15-step framework?",
+              "options": [
+                {
+                  "label": "Create a detailed five-year plan",
+                  "correct": false
+                },
+                {
+                  "label": "Find a mentor who has already succeeded",
+                  "correct": false
+                },
+                {
+                  "label": "Get up, get over it, and get going",
+                  "correct": true
+                },
+                {
+                  "label": "Analyze every past failure in writing",
+                  "correct": false
+                }
+              ],
+              "explanation": "Step 15 is the ultimate call to action: stop analyzing, stop waiting, and start moving. Maxwell closes the book by insisting that the time to begin failing forward is right now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "forks": [
+    {
+      "_id": "counting-sheep",
+      "title": "Counting Sheep",
+      "description": "A calm, peaceful scroll to replace your doom scrolling at bedtime. Just sheep, one after another. Keep scrolling and you might find a special one.",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/counting-sheep/fork.jpg",
+      "feedIds": [
+        "counting-sheep-feed"
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "_id": "counting-sheep-feed",
+      "title": "Sheep, Sheep, Sheep...",
+      "description": "Infinite sheep to help you fall asleep",
+      "imageSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/counting-sheep/fork.jpg",
+      "mode": "random",
+      "engagement": true,
+      "generatorId": "counting-sheep",
+      "scrollDirection": "horizontal"
+    }
+  ],
+  "cards": []
+}

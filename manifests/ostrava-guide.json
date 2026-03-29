@@ -1,0 +1,1817 @@
+{
+  "forks": [
+    {
+      "_id": "ostrava-guide",
+      "title": "Ostrava",
+      "description": "The complete guide to Czech Republic's steel city turned cultural powerhouse. Industrial heritage, Silesian cuisine, world-class festivals, and mountain trails just 40 minutes away.",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ostrava-mainsquare.jpg",
+      "feedIds": [
+        "ostrava-guide-industrial-heritage",
+        "ostrava-guide-food-drink",
+        "ostrava-guide-nightlife-festivals",
+        "ostrava-guide-nature-outdoors",
+        "ostrava-guide-culture-arts",
+        "ostrava-guide-practical-tips",
+        "ostrava-guide-quiz"
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "_id": "ostrava-guide-industrial-heritage",
+      "title": "Industrial Heritage",
+      "description": "From blast furnaces to concert halls, Ostrava's industrial past has been reborn as one of Europe's most extraordinary cultural landscapes.",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Doln%C3%AD_V%C3%ADtkovice%2C_%C4%8Cesk%C3%A1_republika%2C_2015_-_panoramio_%281%29.jpg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "ostrava-guide-food-drink",
+      "title": "Food & Drink",
+      "description": "Silesian comfort food, craft beer in former factories, and some of the cheapest pub culture in Europe.",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ostravar-svetle_pivo_a_svetly_lezak.jpg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "ostrava-guide-nightlife-festivals",
+      "title": "Nightlife & Festivals",
+      "description": "From the legendary Stodolni Street to blast-furnace music festivals, Ostrava knows how to throw a party.",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/23/Colours_of_Ostrava.jpg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "ostrava-guide-nature-outdoors",
+      "title": "Nature & Outdoors",
+      "description": "A burning slag heap, mountain trails 40 minutes away, Central Europe's second-largest zoo, and greenways connecting it all.",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ostravice.jpg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "ostrava-guide-culture-arts",
+      "title": "Culture & Arts",
+      "description": "Contemporary galleries in former slaughterhouses, anti-smog murals, and one of Europe's most daring industrial-to-cultural transformations.",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/44/Divadlo_Anton%C3%ADna_Dvo%C5%99%C3%A1ka.jpg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "ostrava-guide-practical-tips",
+      "title": "Practical Tips",
+      "description": "Everything you need to know before visiting: how to get there, getting around, what things cost, and when to go.",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ostrava%2C_Nov%C3%A1_Ves%2C_vod%C3%A1rna%2C_Varia_LF2.jpg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    },
+    {
+      "_id": "ostrava-guide-quiz",
+      "title": "Quiz",
+      "description": "Test your knowledge of Ostrava",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ostrava-radnice.jpg",
+      "mode": "sequential",
+      "engagement": true,
+      "scrollDirection": "vertical"
+    }
+  ],
+  "cards": [
+    {
+      "_id": "8eb75beb-9356-4676-9dfa-334b9ea564da",
+      "feedId": "ostrava-guide-industrial-heritage",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Doln%C3%AD_V%C3%ADtkovice%2C_%C4%8Cesk%C3%A1_republika%2C_2015_-_panoramio_%281%29.jpg",
+          "title": "Industrial Heritage",
+          "subtitle": "From blast furnaces to concert halls, Ostrava's industrial past has been reborn as one of Europe's most extraordinary cultural landscapes."
+        }
+      ]
+    },
+    {
+      "_id": "87507367-97a5-432c-a159-21708af4f545",
+      "feedId": "ostrava-guide-industrial-heritage",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Gong_Vitkovice_Ostrava_2013_4422.JPG",
+              "alt": "The GONG concert hall at Dolni Vitkovice, converted from a former gas storage tank",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Iron Heart of Ostrava"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Founded in 1828 by order of Olomouc Archbishop Archduke Rudolph Johann of Habsburg, the Dolni Vitkovice ironworks became one of Europe's most important industrial complexes. Iron production began in 1832, and by 1836 the site operated the first coke blast furnace in the entire Austrian Monarchy. For 162 years, coal was mined, coked, and smelted in a single interconnected complex, the only preserved site of its kind in Europe.\n\nWhen production finally ended in 1998, the city faced a choice: demolish or transform. Architect Josef Pleskot led the reinvention, turning rusted infrastructure into gleaming cultural venues. The former gasometer became the GONG concert hall (capacity 1,500), the blast furnace became the Bolt Tower observation deck, and the surrounding grounds became an open-air campus for science, education, and the arts.\n\nToday Dolni Vitkovice draws over 1.3 million visitors per year, making it the fourth most visited tourist destination in the Czech Republic. It holds the European Heritage Label (the first Czech site to receive it in 2008) and sits on the country's tentative UNESCO World Heritage list. Guided tours depart daily at 10:00, 12:00, 14:00, and 16:00 from the tourist information center."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9894c530-bdb7-4f3b-8355-cbdbf78776c8",
+      "feedId": "ostrava-guide-industrial-heritage",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ostrava%2C_Doln%C3%AD_oblast_V%C3%ADtkovice%2C_Bolt_Tower.jpg",
+              "alt": "The Bolt Tower glass observation structure atop Blast Furnace No. 1",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Rise Above the Furnaces"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Bolt Tower sits atop Blast Furnace No. 1, a 20-meter glass superstructure perched on 19th-century iron, bringing the total height to nearly 80 meters. The name was chosen through a public competition, referencing both the bolt shape of the spiraling glass design and sprinter Usain Bolt, who regularly competed at Ostrava's Golden Spike athletics event. Bolt himself officially christened the tower when it opened in May 2015, and the building won Czech Building of the Year that same year.\n\nThe observation terrace offers panoramic views across the city to the Beskydy Mountains. Inside, the Bolt Cafe lets you sip coffee at floor-to-ceiling windows overlooking the industrial landscape below. The short route costs 200 CZK, which includes 100 CZK to spend at the cafe.\n\nBelow the tower, the GONG multifunctional hall occupies a former gas storage tank from 1924. Architect Josef Pleskot kept the original 70-meter-diameter cylinder but physically lifted part of it 15 meters into the air to create a dramatic skylight underneath. The result seats 1,500 and was ranked among the top 10 buildings in the world at a Munich trade fair. The GONG won Best Czech Building of 2013 and hosts everything from rock concerts to tech conferences."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "a97517fd-9d6d-4aac-bc07-46021c09e795",
+      "feedId": "ostrava-guide-industrial-heritage",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Where Humans First Burned Coal"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Landek Park is the largest mining museum in the Czech Republic, spread across 35 hectares on a wooded hillside about 5 km from the city center. The underground exhibition takes you through the historic Anselm Mine, where you descend in an authentic mine cage to original coal seams with working mining equipment. A 1960s mine train rattles you through the tunnels. Tours start every hour, with the last departure at 16:00.\n\nWhat makes Landek truly extraordinary is its prehistoric significance. In 1953, archaeologist Bohuslav Klima discovered the Landek Venus here, a tiny 48mm hematite figurine of a woman's torso, roughly 25,000 years old. Even more remarkable, the site holds evidence of the world's oldest known use of black coal by humans. Mammoth hunters who camped here approximately 23,000 years ago collected coal from exposed surface seams and burned it in their fireplaces, confirmed by coked coal fragments found in prehistoric hearths. That is roughly 22,800 years before coal's modern rediscovery.\n\nThe park is open daily from April through August (9:00 to 18:00), and Tuesday through Sunday during the rest of the year. Entry costs approximately 12 EUR. A 6 km walking circuit loops through the park with only about 100 meters of elevation change, making it accessible for most visitors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c3eccd98-8bd5-4183-be5f-8676b224ad05",
+      "feedId": "ostrava-guide-industrial-heritage",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Frozen in 1915"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Michal Colliery is one of the most haunting industrial sites in Central Europe. Established in 1843, the mine operated continuously until 1993, but here is the catch: nothing was modernized after 1915. When the last shift ended, the engine halls, lamp rooms, and changing facilities were frozen in time exactly as the miners had left them. The Czech government declared it a National Cultural Monument in 1995, preserving an accidental time capsule spanning nearly 80 years.\n\nGuided tours follow the exact daily route that miners took to start their shift. You begin in the chain changing rooms, where workers hung their civilian clothes on hooks attached to chains and hoisted them up to the ceiling to keep them safe. Then you move through the lamp room where each miner collected and returned their personal safety lamp, the registration room where attendance was logged, and finally the massive engine hall with its original winding machines still in place.\n\nTours depart at 9:00, 11:00, 13:00, and 15:00. The experience feels less like a museum and more like stepping into a photograph. There are no interactive displays or modern installations, just the genuine spaces where thousands of men spent their working lives underground. If you only visit one industrial site outside Dolni Vitkovice, make it this one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c099a3d1-122a-4742-b26a-9d1bb0044654",
+      "feedId": "ostrava-guide-industrial-heritage",
+      "order": 5,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Slezskoostravsk%C3%BD_hrad_5.JPG",
+              "alt": "Silesian Ostrava Castle on its rocky promontory",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Castles, Towers, and Views"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Silesian Ostrava Castle sits on a rocky promontory above the Ostravice River, built around 1280 by Duke Mieszko I of Cieszyn as a border fortress guarding the route from Opava to Krakow. In the 16th century it was rebuilt into a Renaissance chateau, but its story took a dramatic turn when coal mining began directly beneath the castle foundations. The excavations caused the structure to sink and crack, and a devastating fire in 1872 left it in ruins. After decades of neglect, the castle was restored and reopened in 2004. Today it hosts exhibitions, medieval festivals, and the oldest open-air Shakespeare festival in Europe (2026 premiere: Comedy of Errors). Tickets cost about 90 CZK for adults. Watch for the traditional witch-burning celebration on April 30.\n\nFor the best panoramic views of the city, head to the New City Hall observation tower. Completed in 1930, it is the tallest city hall tower in the Czech Republic, with an observation terrace at 73 meters (total height 85.6 meters). On clear days you can see into Poland and out to the mountain ranges. Free binoculars are available at the top. Open daily year-round with extended summer hours (April through October, 9:00 to 19:00). Adult tickets cost 80 CZK, and family tickets for two adults plus three children run 180 CZK."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "bccb210c-940d-443c-a8fc-900b4f3cc606",
+      "feedId": "ostrava-guide-food-drink",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ostravar-svetle_pivo_a_svetly_lezak.jpg",
+          "title": "Food & Drink",
+          "subtitle": "Silesian comfort food, craft beer in former factories, and some of the cheapest pub culture in Europe."
+        }
+      ]
+    },
+    {
+      "_id": "743fb1a8-c5f2-480a-b55f-21f847094ca3",
+      "feedId": "ostrava-guide-food-drink",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg27_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Eat Like a Silesian"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ostrava's culinary identity sits at the crossroads of Czech, Polish, German, and Austrian traditions, creating a regional cuisine unlike anything you will find in Prague. The signature dish is Slezske nebe, or Silesian Heaven: slow-cooked smoked pork simmered with dried fruits (pears, apples, prunes), cinnamon, and lemon peel, served with bread dumplings. The sweet-savory combination sounds unlikely, but it is one of those dishes that makes you wonder why nobody else thought of it.\n\nAnother local favorite is Olomoucke tvaruzky, a pungent fat-free cheese from the nearby Hana region that has been made since the 15th century. You either love it or need a moment. Pubs like U Rady serve it fried with bread, which takes the edge off the aroma and creates a crispy, salty bar snack that pairs perfectly with cold beer. There is even a dedicated retail shop in Ostrava selling fresh bread with tvaruzky on Tuesdays and Thursdays.\n\nTraditional Czech staples are everywhere too: goulash with dumplings, fried cheese (smazeny syr), svickova (marinated beef with cream sauce and cranberries), and kolace (round pastries filled with poppy seed, plum jam, or tvaroh cheese). Most local pubs serve hearty portions at prices that would make Prague weep. A full meal at a traditional restaurant will rarely cost more than 200 CZK (about 8 EUR)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "9f74866c-2976-4b65-aa09-41f011bb1105",
+      "feedId": "ostrava-guide-food-drink",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg27_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Where to Eat"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ostrava has 17 restaurants in the Gault and Millau Czech guide, making it the third most represented city in the country after Prague and Brno. Leading the pack is HogoFogo Bistro, a Gault and Millau-listed restaurant in the city center with a beautiful garden courtyard. The menu changes weekly, offering five creative dishes inspired by local tradition, nature, and sustainability. If the weather cooperates, the garden with its fountain is one of the best dining spots in town.\n\nFor something completely unexpected, La Petite Conversation is one of the only Belgian restaurants in the Czech Republic. Run by a Belgian co-owner, it serves a weekly changing menu that always includes the famous Belgian boulet frites (meatballs and fries). Meals start around 350 CZK.\n\nMoravska chalupa (Moravian Cottage) blends old and new, serving traditional Moravian cuisine including fried cheese and what they call rustic mine workers' meals, a nod to the city's coal heritage presented with modern cooking techniques. Radegastovna Na namesti on Masarykovo Namesti (the main square) pairs traditional Czech dishes with Radegast beer and dry-aged steaks in a spacious wooden interior. For authentic pub atmosphere at working-class prices, Restaurace U Rady serves Pilsner Urquell on tap alongside goulash, pork knuckle, and those fried tvaruzky."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "bd9f50e1-2a50-497f-82e8-07bd84af50d7",
+      "feedId": "ostrava-guide-food-drink",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg27_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ostravar-svetle_pivo_a_svetly_lezak.jpg",
+              "alt": "Ostravar beer, Ostrava's local brewery since 1897",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Beer City"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Czech beer culture runs deep, and Ostrava adds its own industrial-strength twist. The city's flagship brewery is Ostravar, founded in 1897 and one of the few Czech breweries to produce a dry stout (branded as Kelt). While Ostravar is now owned by Molson Coors through the Staropramen group, the brand remains a source of local pride, the beer of the people at the factory gates. The brewery still uses traditional open fermentation vats, and a half-liter draft costs around 27 CZK (barely over one euro), some of the cheapest pub beer in the European Union.\n\nBeyond the big lager, Ostrava has a growing craft scene with about nine breweries in the city. HoppyDog Brewery runs a small taproom called Psi kusy with six taps (four house brews, two rotating guests) and a vegetarian food menu. Their experimental range includes chestnut ale and chocolate ale. The vibe is tiny, cozy, and very local.\n\nFor a truly unique setting, Zamek Zabreh is a 16th-century chateau converted into a brewpub and beer spa. Beer has been brewed on the premises since 1574. The brewpub sits in the chateau's attic under stunning wood beam architecture, and the basement houses a beer spa experience in domed brick vaults."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "c8a1e160-cb96-4bc4-aa50-6c82e0e080e7",
+      "feedId": "ostrava-guide-food-drink",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg27_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Coffee and Street Food"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "COKAFE is Ostrava's specialty coffee powerhouse, with five locations across the city including a flagship in Dolni Vitkovice set inside a former coal mine boiler room. The industrial brick walls frame a glass-enclosed roastery where you can watch beans being roasted in real time. They also run their own bakery and offer seasonal cooking events. A cappuccino costs about 62 CZK (around 3 EUR). If there is one cafe that captures Ostrava's industrial-to-creative transformation in a single cup, this is it.\n\nFor street food, head to Cerny Kun Market (Black Horse Market) on Nadrazni 43, Ostrava's first dedicated street food market. Located under an iconic horse mural, it features food trucks from across the Moravian-Silesian region. Open Tuesday through Sunday from 11:00 to 21:30 (Sundays until 20:00), it is the kind of casual, affordable spot where locals actually eat.\n\nA quick note on Stodolni Street: while it is famous for nightlife, food options there are mostly fast food kiosks and kebabs rather than proper restaurants. If you want to eat well, explore the streets around Masarykovo Namesti or the Vitkovice neighborhood instead. The Bolt Cafe in Dolni Vitkovice is also worth a stop for coffee and cake with panoramic views through floor-to-ceiling windows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5faaec0c-8724-4563-a0cc-faaf472e7418",
+      "feedId": "ostrava-guide-nightlife-festivals",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/23/Colours_of_Ostrava.jpg",
+          "title": "Nightlife & Festivals",
+          "subtitle": "From the legendary Stodolni Street to blast-furnace music festivals, Ostrava knows how to throw a party."
+        }
+      ]
+    },
+    {
+      "_id": "3d885c36-7c67-4b28-b34f-c4f9a78feb81",
+      "feedId": "ostrava-guide-nightlife-festivals",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg4_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "The Street That Never Sleeps"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Stodolni Street is so famous in the Czech Republic that it has its own dedicated train stop (Ostrava-Stodolni, opened in 2008). Known nationally as the street that never sleeps, it packs over 60 bars, clubs, and venues into a single pedestrian-friendly stretch. On weekend nights, the entire street becomes an open-air party with music spilling out of doorways and food stalls selling burgers, grilled meats, and kebabs between the venues.\n\nMost bars on Stodolni have no cover charge, so you can hop freely from place to place. The street was reconstructed in 2006 and has a well-maintained, safe feel despite the party atmosphere. It works best as a bar crawl starting around 9 or 10 PM, when the venues fill up and the energy builds.\n\nHere is the honest truth though: locals tend to avoid Stodolni after dark, viewing it as increasingly touristy. If you want a more authentic night out, head to the craft beer and cocktail spots scattered across the city center. Bar A.M.A. serves seasonal cocktails including an Ostrava Sour made with local ingredients. Iron Bar focuses on whisky in a more relaxed atmosphere. Psi kusy (the HoppyDog taproom) offers craft beer with a front patio perfect for warm evenings. The real Ostrava nightlife happens off the famous street."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "95fa9bce-daae-4c40-a838-34c2e2526f92",
+      "feedId": "ostrava-guide-nightlife-festivals",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg4_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Colours_of_Ostrava_2018.jpg",
+              "alt": "Colours of Ostrava music festival at the Dolni Vitkovice industrial complex",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Colours of Ostrava"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Imagine a music festival set among blast furnaces, gasometers, smokestacks, and rusted industrial pipelines. That is Colours of Ostrava, the largest international music festival in the Czech Republic, and one of the most visually distinctive in Europe. Stages sit inside warehouses, tunnels, and cavernous gas storage tanks, giving the whole event a post-apocalyptic aesthetic that travel writers have struggled to compare to anything else.\n\nThe festival runs annually in mid-July at Dolni Vitkovice. The 2026 edition is set for July 15 through 18, with confirmed headliners including Twenty One Pilots, Lorde, Moby, Teddy Swims, LP, Skunk Anansie, and The Libertines. With 18 to 24 stages spread across 150 hectares and around 70,000 attendees, it is both massive and surprisingly intimate thanks to the varied industrial spaces.\n\nColours started in 2002 as a smaller city-center event and moved to the Dolni Vitkovice complex in 2012, which turned out to be a perfect match. Four-day passes start at 4,490 CZK (about 180 EUR). Beyond music, the festival includes the Meltingpot forum for debates and talks, making it as much a cultural gathering as a party. Book accommodation early, as the city fills up completely during festival week."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5e763563-b06e-422c-8032-00a24688cb52",
+      "feedId": "ostrava-guide-nightlife-festivals",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg4_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Beats for Love and the Festival Double-Header"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Two weeks before Colours of Ostrava, the same Dolni Vitkovice complex hosts an entirely different beast. Beats for Love is the largest electronic music festival in Central Europe, with over 160 international artists across 18 stages. The 2026 edition runs July 1 through 4, featuring Calvin Harris, Marshmello, Dimitri Vegas and Like Mike, Paul van Dyk, and Dimension. The age restriction is 15 and up.\n\nThe back-to-back scheduling (Beats for Love July 1 to 4, then Colours of Ostrava July 15 to 18) makes early July a festival double-header unlike anything else in Europe. Some dedicated music fans plan their vacations to catch both, with ten days between them to recover and explore the city. Czech Railways schedules extra trains during both festivals to handle the influx.\n\nThe industrial setting works differently for electronic music. Where Colours uses the gas tanks and warehouses for acoustic variety, Beats for Love transforms them into pulsing, light-filled dance spaces. The concrete walls and iron structures create a raw, warehouse-rave atmosphere that purpose-built festival grounds cannot replicate. If you are into electronic music and you have never experienced a DJ set inside a 19th-century blast furnace complex, this is your chance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3720f7e2-2555-46e4-b913-19884565020d",
+      "feedId": "ostrava-guide-nightlife-festivals",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg4_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Beyond the Party"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ostrava's entertainment scene extends well beyond bars and festivals. The National Moravian-Silesian Theatre, founded in 1919, is the biggest professional theater in the region with four companies covering opera, drama, operetta and musicals, and ballet. They stage 16 to 19 premieres and nearly 500 performances each year across three venues. The Antonin Dvorak Theatre (opened 1907, designed by Viennese architect Alexander Graf) is a neo-baroque gem with 517 seats worth seeing for the architecture alone.\n\nEvery summer, Silesian Ostrava Castle hosts the oldest and largest open-air Shakespeare festival in Europe. The 2026 premiere is Comedy of Errors. Watching Shakespeare performed against the backdrop of a medieval castle that was literally undermined by coal mining is a uniquely Ostrava experience.\n\nFor contemporary cinema with a twist, PLATO gallery's Bauhaus Cinema seats 50 people on loungers and carpet cushions (no chairs) and screens art films, indie cinema, and video art in a converted 19th-century slaughterhouse. Ostrava Days, a biennial festival of contemporary classical music, draws over 250 young composers from 28 countries. And a new concert hall designed by Steven Holl Architects (140,000 square feet, 1,300-seat main hall) is under construction with completion expected in 2028, signaling that the city's cultural ambitions are only growing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "fe3a5911-4e34-415f-8890-0387b271f957",
+      "feedId": "ostrava-guide-nature-outdoors",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ostravice.jpg",
+          "title": "Nature & Outdoors",
+          "subtitle": "A burning slag heap, mountain trails 40 minutes away, Central Europe's second-largest zoo, and greenways connecting it all."
+        }
+      ]
+    },
+    {
+      "_id": "4b00b6a7-e73f-49fd-8de0-23918fbd0f58",
+      "feedId": "ostrava-guide-nature-outdoors",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg9_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Halda_Ema_Ostrava.JPG",
+              "alt": "Halda Ema, the burning slag heap known as Ostrava's Vesuvius",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Ostrava's Vesuvius"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Halda Ema is unlike anything you have ever hiked. This 315-meter artificial hill was built from mining waste dumped between the 1920s and 1960s. Sometime in the 1960s, the slag caught fire deep within its core, and it is still burning today. Internal temperatures reach up to 1,500 degrees Celsius, creating visible gas vapors that rise from cracks in the surface and a subtropical microclimate where rare minerals form inside the heap.\n\nNicknamed Ostrava's Vesuvius (though it is not a volcano, just an impressively combustible pile of industrial debris), Halda Ema is a 45 to 60 minute walk from the city center. The climb to the summit rewards you with panoramic views of the city and the surrounding countryside. On cooler mornings, steam visibly rises from the ground beneath your feet, making the whole experience feel slightly surreal.\n\nThe heap is a protected monument and a popular destination for locals who jog or walk their dogs on its trails. It is named after Countess Emma Maria Emo Capodilista, wife of Count Wilczek, who founded the coal mine here in 1861. There are three different hiking routes to the top, none of them difficult. It is free to visit and open year-round, making it one of the most unusual and accessible attractions in any European city."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "530339cc-1d42-44b5-8674-60b71a140b6e",
+      "feedId": "ostrava-guide-nature-outdoors",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg9_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Mountains at Your Doorstep"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Beskydy Mountains are just 40 minutes from Ostrava by car, making the city an ideal base for mountain adventures. The Protected Landscape Area (CHKO Beskydy) is the largest in the Czech Republic, with over 50 smaller natural areas and more than 100 mapped hiking trails.\n\nThe highest peak, Lysa Hora, stands at 1,323 meters. The most popular route from the village of Ostravice covers about 16 km round trip with 890 meters of elevation gain, taking 4 to 6 hours. It is a proper mountain hike but achievable for anyone with reasonable fitness.\n\nFor something more unusual, Pustevny sits at 1,018 meters between the peaks of Radhost and Tanecnice. A chairlift (220 CZK one way, 270 CZK return) carries you up, and from there you can walk the Valaska Trail, a 621-meter wooden treetop walkway featuring a 100-meter Himalayan suspension footbridge and a 22-meter tower reaching 1,099 meters above sea level. The walkway includes what is probably the longest glass viewing platform in Europe. On nearby Radhost peak (1,129 meters), you will find the statue of Radegast, the Slavic pagan god of sun and abundance, sculpted by Albin Polasek and installed in 1931. Religious ceremonies have taken place on this mountain since ancient times."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "513a6fc9-dc90-43a8-89b3-9b11898a283b",
+      "feedId": "ostrava-guide-nature-outdoors",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg9_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/11/2016-02-25_Zoo_Ostrava.jpg",
+              "alt": "Entrance to Ostrava Zoo, the second-largest zoo in the Czech Republic",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Zoo, Parks, and Green Spaces"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ostrava Zoo is the second-largest in the Czech Republic, spanning 100 hectares and home to over 4,000 animals of 435 species. What sets it apart from typical city zoos is the setting: suspended footbridges and wooden walkways traverse a forested valley with wetlands and forest pools. It feels more like a nature reserve than a traditional zoo. The botanical section features 8,000 rhododendron and azalea plants along 6 km of trails, plus 190-year-old trees that predate the zoo's founding in 1951.\n\nIn the city itself, Komenskeho sady (Komensky Gardens) is one of the largest urban parks in the Czech Republic at 30 hectares, stretching 1.3 km along the left bank of the Ostravice River. The park has approximately 3,000 trees and has been a green refuge for over 100 years. Tennis legend Ivan Lendl, an Ostrava native, started his career on the outdoor courts here.\n\nBelsky les forest park covers 160 hectares of walking, cycling, and cross-country skiing trails. During summer, the Ostrava-Poruba open-air swimming pool is the largest in the Czech Republic at 41,200 square meters of water surface (about 10 acres). First opened in 1962, it can attract up to 15,000 visitors on sunny days and resembles a small lake more than a swimming pool. It is seasonal, open in summer only."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "58268d51-4b6e-417e-8d85-a4277620e228",
+      "feedId": "ostrava-guide-nature-outdoors",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg9_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Cycling, Paddling, and Beyond"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ostrava is surprisingly well connected by bike paths. The city has over 1,258 mapped cycling routes, and a greenway along the Ostravice River links Komenskeho sady park in the center all the way to the Beskydy Mountains in one direction and to Landek mining museum in the other. You can literally bike from an urban park to mountain foothills without leaving dedicated trails.\n\nNextbike operates a bike-sharing system across the city with over 1,000 bikes at 250 stations. The first 15 minutes of each ride are free, which is enough for quick hops between sights. For a full day of cycling, rates remain very affordable.\n\nOn the Ostravice River near Silesian Ostrava Castle, you can try an on-water slalom course using inflatable rafts. The water is very shallow (usually knee-deep), making it beginner-friendly and more about fun than adrenaline. It is a quirky way to see the castle from the water.\n\nFor winter visitors, Skalka in Ostrava-Poruba has a small ski slope right in the city, while the Beskydy Mountains offer proper skiing at resorts like Pustevny within easy driving distance. Cross-country skiing trails wind through Belsky les forest park and along the river greenways when snow conditions allow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "beb62326-8d4c-402f-a3a3-82cdef6332fb",
+      "feedId": "ostrava-guide-culture-arts",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/44/Divadlo_Anton%C3%ADna_Dvo%C5%99%C3%A1ka.jpg",
+          "title": "Culture & Arts",
+          "subtitle": "Contemporary galleries in former slaughterhouses, anti-smog murals, and one of Europe's most daring industrial-to-cultural transformations."
+        }
+      ]
+    },
+    {
+      "_id": "f91fb1e4-9c06-4f3a-bc1f-8fba60787fb9",
+      "feedId": "ostrava-guide-culture-arts",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg17_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "PLATO: Art in a Slaughterhouse"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "PLATO is Ostrava's city gallery of contemporary art, and its building is as much a work of art as anything inside. Housed in a converted 19th-century municipal slaughterhouse, the gallery was redesigned by Polish architecture studio KWK Promes (Robert Konieczny) and completed in 2022. It was shortlisted as a finalist for the prestigious Mies van der Rohe Award in 2024.\n\nThe standout architectural feature is six rotating concrete walls that can open the entire building to its surroundings. When closed, they are structurally almost airtight. When open, the gallery merges seamlessly with the surrounding Garden of Present, a 9,000-square-meter ecological green space with permaculture plantings and public seating. The exhibition space covers 1,370 square meters across six halls.\n\nBeyond the art, PLATO functions as a cultural campus. The Bauhaus Cinema seats 50 on loungers (no traditional chairs) and screens art films and video art. A hydroponic salad garden grows on the cafe wall. There is a library, a bistro, and regular community events. Celebrating its 10th anniversary as an institution, PLATO represents the new Ostrava: a city that takes former industrial infrastructure and turns it into something unexpected, ambitious, and open to everyone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "8183d8d9-7f74-43b0-9249-bb03704a2dc4",
+      "feedId": "ostrava-guide-culture-arts",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg17_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Czech Capital of Street Art"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ostrava has officially declared itself the Czech capital of street art, and it has the credentials to back it up. The city maintains an official street art website (streetart.ostrava.cz) and self-guided walking routes through dozens of murals, making it one of the few cities in Europe to formally curate and promote its street art scene.\n\nThe most imposing piece is Madonna Ostravica, a 30-meter-high mural by American artist Nils Westergard painted in 2016 on the wall of an abandoned department store between Campus Palace and the Imperial Hotel. Westergard also created Ostrava's first official mural in 2014, a portrait of a girl named Taylor in the Cerna louka area. The Bazaly mural, completed in 2022 through an international competition, covers nearly 1,000 square meters of retaining wall near the Banik Ostrava stadium. A team of ten artists led by local street artist Bogy painted it over 25 days.\n\nNear the Hlubina Mine in Dolni Vitkovice, you will find anti-smog murals created with special paint that actually purifies the air. Brooklyn artist Gaia contributed a large piece in 2016 on a building opposite the National Agricultural Museum. It is a poetic response to Ostrava's industrial pollution legacy: art that literally cleans the city while beautifying it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "ed7b0840-d33e-4e95-9564-3f5f77d44952",
+      "feedId": "ostrava-guide-culture-arts",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg17_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/44/Divadlo_Anton%C3%ADna_Dvo%C5%99%C3%A1ka.jpg",
+              "alt": "Interior of the Antonin Dvorak Theatre in Ostrava",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Museums and Galleries"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The Gallery of Fine Arts in Ostrava (GVUO) is the largest art gallery in the Moravian-Silesian Region, holding approximately 24,000 works and ranking among the five most important art galleries in the Czech Republic. The collection spans centuries and borders, including works by Durer, Cranach, and Klimt alongside major Czech modern and contemporary artists. The main building, the House of Art (Dum umeni), was built in 1926 and is a listed National Heritage site.\n\nThe Ostrava Museum occupies a former 16th-century Old Town Hall first mentioned in records from 1539. The modern exhibition, opened in 2009, covers the natural environment, city history, and coal mining heritage. The star exhibits include a unique interior astronomical clock built by a single craftsman named Masek over 11 years (1924 to 1935) and a 200-year-old orchestrion, a mechanical instrument that mimics an entire orchestra. The museum itself was established in 1872, making it one of the oldest cultural institutions in the region.\n\nFor contemporary art with a smaller, more personal feel, GDM Contemporary Gallery operates from a former garage in Dolni Vitkovice near the Hlubina Mine winding tower. Run by an Ostrava University curator and a local artist, it focuses on contemporary work from Central Europe, the United States, Canada, and Japan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e0352fa4-b049-45ee-8b32-cc509546f41a",
+      "feedId": "ostrava-guide-culture-arts",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg17_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "From Industrial City to Cultural Powerhouse"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The story of Ostrava's cultural transformation is almost as compelling as the attractions themselves. When the city bid to become European Capital of Culture in 2015, it lost to Pilsen. But the failed bid turned out to be a catalyst. An academic paper titled The Benefit of Failure documented how the process unified the city's cultural community, attracted investment, and launched projects that continued regardless of the outcome.\n\nThe numbers tell the story. Dolni Vitkovice went from a rusting industrial wasteland to the fourth most visited tourist destination in the Czech Republic, drawing over 1.3 million visitors annually. The Moravian-Silesian region welcomed over one million tourists in 2024, up 2.3 percent year over year. A world-class concert hall designed by Steven Holl Architects (a 140,000-square-foot complex with a 1,300-seat main hall) is under construction with completion expected in 2028.\n\nThe Leos Janacek connection adds a classical dimension. The famous Czech composer (1854 to 1928) was born in nearby Hukvaldy and died in Ostrava. The International Music Festival Leos Janacek, considered the third most important classical music festival in the country, runs from late May to early July in both locations (2026 dates: June 1 to July 3). Every year it opens with a performance of Janacek's Sinfonietta, a fitting tribute to a region that has always thrived on intensity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "37a3ad30-b36c-473f-be0b-02f59da36fff",
+      "feedId": "ostrava-guide-practical-tips",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ostrava%2C_Nov%C3%A1_Ves%2C_vod%C3%A1rna%2C_Varia_LF2.jpg",
+          "title": "Practical Tips",
+          "subtitle": "Everything you need to know before visiting: how to get there, getting around, what things cost, and when to go."
+        }
+      ]
+    },
+    {
+      "_id": "1cf3cf49-871a-4c9c-ab6e-174440a6ea18",
+      "feedId": "ostrava-guide-practical-tips",
+      "order": 1,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg6_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ostrava%2C_Svinov%2C_panorama_n%C3%A1dra%C5%BE%C3%AD.jpg",
+              "alt": "Ostrava-Svinov railway station, a major junction for trains to Prague, Krakow, and Vienna",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Getting to Ostrava"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ostrava sits at a strategic crossroads in Central Europe, making it easy to reach by train. From Prague, three competing operators (Czech Railways Pendolino, RegioJet, and Leo Express) run about 53 trains daily, with journey times of 3 hours 7 minutes to 3 hours 35 minutes. The competition keeps prices remarkably low: advance tickets start from about 6 EUR. All three offer free WiFi, power outlets, and comfortable seating.\n\nFrom Krakow, Poland, the trip is even shorter at just 2 hours 21 minutes by PKP Intercity train (about 5 daily departures, 30 to 70 EUR). FlixBus runs every 2 hours for 13 to 23 EUR, taking about 3 hours. From Vienna, OBB EuroCity trains depart every 4 hours for a 3-hour journey (35 to 120 EUR). Ostrava has two main stations: Ostrava hlavni nadrazi (central station) and Ostrava-Svinov (a major junction).\n\nLeos Janacek Airport (OSR) is small but has some connections. Ryanair flies to London Stansted, Barcelona-Girona, and Malaga, while LOT connects to Warsaw. Most routes are seasonal (March through October). A direct airport bus runs to the city center for 32 CZK, coordinated with flight schedules. For most international visitors, flying into Prague, Vienna, or Katowice and taking a train is the better option."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "3b68b71f-9345-4163-bc36-6446a562e7e4",
+      "feedId": "ostrava-guide-practical-tips",
+      "order": 2,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg6_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_IMAGE",
+              "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ostrava%2C_Nov%C3%A1_Ves%2C_vod%C3%A1rna%2C_Varia_LF2.jpg",
+              "alt": "Ostrava tram at Nova Ves station",
+              "sizing": "wide"
+            },
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Getting Around"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ostrava is the first city in the Czech Republic to go fully cashless on public transport. You literally cannot pay with coins or notes on a tram, bus, or trolleybus. Instead, just tap your contactless bank card when you board and the system charges the correct fare automatically. You can also use the MojeDPO app or send an SMS (text DPO70 to 902 30 for a 70-minute ticket at 35 CZK).\n\nSingle ticket prices are very reasonable. A 60-minute ticket costs 30 CZK (just over 1 EUR), and a 10-minute ticket is 23 CZK. For a full day of exploring, the 24-hour pass at 110 CZK is excellent value. A 72-hour pass costs 270 CZK. If you use a contactless card, the daily spending cap is 330 CZK, so you never overpay. The network covers about 700 vehicles across trams, buses, and trolleybuses.\n\nFor quick trips between sights, Nextbike operates a bike-sharing system with over 1,000 bikes at 250 stations. The first 15 minutes are free. Bolt and Liftago are the ride-hailing apps available in Ostrava (Uber does not operate here). Important: the Czech Republic does not use the Euro. The currency is the Czech koruna (CZK), with approximately 25 CZK to 1 EUR. Cards are widely accepted at larger establishments, but carry some cash for smaller shops and markets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "e2980719-3b13-46a1-aabf-a2a2028cf6dc",
+      "feedId": "ostrava-guide-practical-tips",
+      "order": 3,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg6_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "What Things Cost"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "Ostrava is one of the most affordable cities in Central Europe for visitors. Here is what you can expect to spend. A meal at a local restaurant costs about 200 CZK (8 EUR). A three-course dinner for two at a mid-range restaurant runs around 455 CZK (18 EUR). Fast food meals start at about 109 CZK (4.50 EUR). A half-liter of draft beer costs roughly 27 CZK (just over 1 EUR), and a cappuccino is about 62 CZK (2.50 EUR).\n\nFor accommodation, budget hotels start around 40 EUR per night, three-star hotels average 85 EUR, and four-star options average 131 EUR. The cheapest months for hotels are March, April, and August. During Colours of Ostrava and Beats for Love in July, prices spike significantly, so book well in advance if visiting during festival season.\n\nAttraction prices are equally gentle on the wallet. The New City Hall observation tower costs 80 CZK (3 EUR), the Bolt Tower short route is 200 CZK (including 100 CZK cafe credit), and Silesian Ostrava Castle is about 90 CZK. Landek Park entry is roughly 12 EUR, and Ostrava Zoo is similarly priced. Many of the city's best experiences, including Halda Ema, street art walking routes, and the Ostravice River greenway, are completely free. A solo traveler on a moderate budget can expect to spend about 68 EUR per day including meals, transport, and activities (about 90 EUR with hotel)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "244ea74c-c7dd-4332-9824-59446739c24b",
+      "feedId": "ostrava-guide-practical-tips",
+      "order": 4,
+      "variants": [
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg6_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "When to Visit and Tips"
+            },
+            {
+              "type": "CONTENT_TEXT",
+              "text": "The best time to visit Ostrava depends on what you are after. Summer (June to August) brings the festival season, outdoor activities, and the longest days, with average July temperatures around 20 degrees Celsius. Early July is the festival double-header (Beats for Love and Colours of Ostrava), making it the busiest and most exciting time to visit.\n\nSpring (April to May) and early autumn (September) offer pleasant weather, smaller crowds, and lower hotel prices. These are ideal for sightseeing and hiking without the festival frenzy. Winter (November to February) can be challenging: temperatures drop below freezing, and the Ostrava basin is prone to smog inversions where cold air traps pollution in the valley. Up to 47 percent of winter particulate pollution comes from neighboring Poland. If you visit in winter, check air quality forecasts and plan indoor activities for bad days.\n\nPractical tips to remember: tipping is customary but simple, just round up the bill to a convenient number (363 CZK becomes 400 CZK) rather than calculating percentages. At ATMs, always choose to be charged in CZK to avoid dynamic currency conversion markups of 5 to 10 percent. American Express cards are generally not accepted. English is widely spoken by younger people and at tourist sites, but learning a few Czech phrases (dekuji for thank you, prosim for please) goes a long way with locals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "178d4b3c-b629-45b4-a2ab-7e181db97379",
+      "feedId": "ostrava-guide-quiz",
+      "order": 0,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Doln%C3%AD_V%C3%ADtkovice%2C_%C4%8Cesk%C3%A1_republika%2C_2015_-_panoramio_%281%29.jpg",
+          "title": "Industrial Heritage",
+          "subtitle": "From blast furnaces to concert halls, Ostrava's industrial past has been reborn as one of Europe's most extraordinary cultural landscapes."
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "When was the Dolni Vitkovice ironworks founded?",
+              "options": [
+                {
+                  "label": "1798",
+                  "correct": false
+                },
+                {
+                  "label": "1828",
+                  "correct": true
+                },
+                {
+                  "label": "1856",
+                  "correct": false
+                },
+                {
+                  "label": "1901",
+                  "correct": false
+                }
+              ],
+              "explanation": "The ironworks were founded in 1828 by order of Olomouc Archbishop Archduke Rudolph Johann of Habsburg. Iron production began in 1832."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the Bolt Tower built on top of?",
+              "options": [
+                {
+                  "label": "A former coal mine shaft",
+                  "correct": false
+                },
+                {
+                  "label": "A former blast furnace",
+                  "correct": true
+                },
+                {
+                  "label": "A former water tower",
+                  "correct": false
+                },
+                {
+                  "label": "A former church steeple",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Bolt Tower is a glass superstructure atop Blast Furnace No. 1 at Dolni Vitkovice, reaching nearly 80 meters in total height."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Approximately how old is the Landek Venus figurine?",
+              "options": [
+                {
+                  "label": "5,000 years",
+                  "correct": false
+                },
+                {
+                  "label": "10,000 years",
+                  "correct": false
+                },
+                {
+                  "label": "25,000 years",
+                  "correct": true
+                },
+                {
+                  "label": "100,000 years",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Landek Venus is a 48mm hematite figurine of a woman's torso, approximately 25,000 years old, discovered in 1953 by archaeologist Bohuslav Klima."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What makes the Michal Mine unique as a museum?",
+              "options": [
+                {
+                  "label": "It is the deepest mine in Europe",
+                  "correct": false
+                },
+                {
+                  "label": "Nothing was modernized after 1915",
+                  "correct": true
+                },
+                {
+                  "label": "It was built entirely underground",
+                  "correct": false
+                },
+                {
+                  "label": "It still produces coal for local use",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Michal Colliery operated from 1843 to 1993 without any modernization after 1915, creating an accidental time capsule spanning nearly 80 years."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg3_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the height of the New City Hall observation terrace?",
+              "options": [
+                {
+                  "label": "45 meters",
+                  "correct": false
+                },
+                {
+                  "label": "73 meters",
+                  "correct": true
+                },
+                {
+                  "label": "120 meters",
+                  "correct": false
+                },
+                {
+                  "label": "55 meters",
+                  "correct": false
+                }
+              ],
+              "explanation": "The observation terrace sits at 73 meters, with the total tower height reaching 85.6 meters. It is the tallest city hall tower in the Czech Republic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "80b8b326-ea3c-413e-b4e7-f6498499015c",
+      "feedId": "ostrava-guide-quiz",
+      "order": 1,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ostravar-svetle_pivo_a_svetly_lezak.jpg",
+          "title": "Food & Drink",
+          "subtitle": "Silesian comfort food, craft beer in former factories, and some of the cheapest pub culture in Europe."
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg27_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Slezske nebe (Silesian Heaven)?",
+              "options": [
+                {
+                  "label": "A type of Czech pastry",
+                  "correct": false
+                },
+                {
+                  "label": "Smoked pork with dried fruits and dumplings",
+                  "correct": true
+                },
+                {
+                  "label": "A traditional cheese fondue",
+                  "correct": false
+                },
+                {
+                  "label": "A honey-based dessert wine",
+                  "correct": false
+                }
+              ],
+              "explanation": "Silesian Heaven is smoked pork simmered with dried fruits (pears, apples, prunes), cinnamon, and lemon peel, served with bread dumplings."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg27_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is unique about the Ostravar Brewery's Kelt brand?",
+              "options": [
+                {
+                  "label": "It is one of the few Czech dry stouts",
+                  "correct": true
+                },
+                {
+                  "label": "It is brewed from wheat",
+                  "correct": false
+                },
+                {
+                  "label": "It uses no hops",
+                  "correct": false
+                },
+                {
+                  "label": "It is the oldest beer brand in Europe",
+                  "correct": false
+                }
+              ],
+              "explanation": "Ostravar is one of the few Czech breweries to produce a dry stout, branded as Kelt. The brewery was founded in 1897."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg27_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Where is the COKAFE flagship in Dolni Vitkovice located?",
+              "options": [
+                {
+                  "label": "A former gas storage tank",
+                  "correct": false
+                },
+                {
+                  "label": "A former blast furnace control room",
+                  "correct": false
+                },
+                {
+                  "label": "A former coal mine boiler room",
+                  "correct": true
+                },
+                {
+                  "label": "A former train station waiting hall",
+                  "correct": false
+                }
+              ],
+              "explanation": "COKAFE's Dolni Vitkovice flagship is set inside a former coal mine boiler room with a glass-enclosed roastery."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg27_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many Ostrava restaurants are in the Gault and Millau Czech guide?",
+              "options": [
+                {
+                  "label": "5",
+                  "correct": false
+                },
+                {
+                  "label": "17",
+                  "correct": true
+                },
+                {
+                  "label": "32",
+                  "correct": false
+                },
+                {
+                  "label": "8",
+                  "correct": false
+                }
+              ],
+              "explanation": "Ostrava has 17 restaurants in the guide, making it the third most represented city after Prague (128) and Brno (36)."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg27_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Cerny Kun Market?",
+              "options": [
+                {
+                  "label": "A traditional farmers' market from the 1800s",
+                  "correct": false
+                },
+                {
+                  "label": "Ostrava's first street food market",
+                  "correct": true
+                },
+                {
+                  "label": "An antiques and vintage goods fair",
+                  "correct": false
+                },
+                {
+                  "label": "A weekly fish market by the river",
+                  "correct": false
+                }
+              ],
+              "explanation": "Cerny Kun (Black Horse) Market is Ostrava's first dedicated street food market, located under an iconic horse mural on Nadrazni 43."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "132d4d80-ee72-4402-a7cd-b179130130ae",
+      "feedId": "ostrava-guide-quiz",
+      "order": 2,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/23/Colours_of_Ostrava.jpg",
+          "title": "Nightlife & Festivals",
+          "subtitle": "From the legendary Stodolni Street to blast-furnace music festivals, Ostrava knows how to throw a party."
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg4_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Stodolni Street's famous nickname?",
+              "options": [
+                {
+                  "label": "The golden mile",
+                  "correct": false
+                },
+                {
+                  "label": "The street that never sleeps",
+                  "correct": true
+                },
+                {
+                  "label": "The party quarter",
+                  "correct": false
+                },
+                {
+                  "label": "The neon boulevard",
+                  "correct": false
+                }
+              ],
+              "explanation": "Stodolni Street is known across the Czech Republic as the street that never sleeps and has its own dedicated train stop opened in 2008."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg4_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Where has Colours of Ostrava been held since 2012?",
+              "options": [
+                {
+                  "label": "Silesian Ostrava Castle",
+                  "correct": false
+                },
+                {
+                  "label": "Masarykovo Namesti square",
+                  "correct": false
+                },
+                {
+                  "label": "Dolni Vitkovice industrial complex",
+                  "correct": true
+                },
+                {
+                  "label": "Ostrava Zoo grounds",
+                  "correct": false
+                }
+              ],
+              "explanation": "Colours of Ostrava moved to the Dolni Vitkovice industrial complex in 2012. Before that, it was held in the city center since 2002."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg4_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is Beats for Love?",
+              "options": [
+                {
+                  "label": "A film festival about music documentaries",
+                  "correct": false
+                },
+                {
+                  "label": "The largest electronic music festival in Central Europe",
+                  "correct": true
+                },
+                {
+                  "label": "A traditional folk music celebration",
+                  "correct": false
+                },
+                {
+                  "label": "A DJ competition for local artists",
+                  "correct": false
+                }
+              ],
+              "explanation": "Beats for Love is the largest electronic music festival in Central Europe, with over 160 international artists across 18 stages at Dolni Vitkovice."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg4_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "When was the Antonin Dvorak Theatre opened?",
+              "options": [
+                {
+                  "label": "1885",
+                  "correct": false
+                },
+                {
+                  "label": "1907",
+                  "correct": true
+                },
+                {
+                  "label": "1932",
+                  "correct": false
+                },
+                {
+                  "label": "1955",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Antonin Dvorak Theatre opened on October 28, 1907. It was designed by Viennese architect Alexander Graf and seats 517."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg4_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is special about PLATO's Bauhaus Cinema?",
+              "options": [
+                {
+                  "label": "It only shows silent films",
+                  "correct": false
+                },
+                {
+                  "label": "Viewers sit on loungers instead of chairs",
+                  "correct": true
+                },
+                {
+                  "label": "It projects films onto the building exterior",
+                  "correct": false
+                },
+                {
+                  "label": "It is the smallest cinema in Europe",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Bauhaus Cinema at PLATO gallery seats 50 people on loungers and carpet cushions instead of traditional chairs, screening art films and video art."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "4388eca9-a5e4-4aff-800f-7f0ce82c3d29",
+      "feedId": "ostrava-guide-quiz",
+      "order": 3,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ostravice.jpg",
+          "title": "Nature & Outdoors",
+          "subtitle": "A burning slag heap, mountain trails 40 minutes away, Central Europe's second-largest zoo, and greenways connecting it all."
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg9_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Why is Halda Ema nicknamed Ostrava's Vesuvius?",
+              "options": [
+                {
+                  "label": "It erupts with hot water geysers",
+                  "correct": false
+                },
+                {
+                  "label": "Its interior is still burning at up to 1,500 C",
+                  "correct": true
+                },
+                {
+                  "label": "It was built to look like a volcano",
+                  "correct": false
+                },
+                {
+                  "label": "Ancient Romans once camped there",
+                  "correct": false
+                }
+              ],
+              "explanation": "Halda Ema is a slag heap that caught fire in the 1960s and is still burning, with internal temperatures reaching 1,500 degrees Celsius."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg9_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the highest peak in the Moravian-Silesian Beskydy?",
+              "options": [
+                {
+                  "label": "Radhost at 1,129 meters",
+                  "correct": false
+                },
+                {
+                  "label": "Lysa Hora at 1,323 meters",
+                  "correct": true
+                },
+                {
+                  "label": "Tanecnice at 987 meters",
+                  "correct": false
+                },
+                {
+                  "label": "Pustevny at 1,018 meters",
+                  "correct": false
+                }
+              ],
+              "explanation": "Lysa Hora is the highest peak at 1,323 meters. Radhost (1,129m) and Pustevny (1,018m) are lower peaks in the same range."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg9_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many animals does Ostrava Zoo house?",
+              "options": [
+                {
+                  "label": "About 500",
+                  "correct": false
+                },
+                {
+                  "label": "About 1,200",
+                  "correct": false
+                },
+                {
+                  "label": "Over 4,000",
+                  "correct": true
+                },
+                {
+                  "label": "Over 10,000",
+                  "correct": false
+                }
+              ],
+              "explanation": "Ostrava Zoo is home to over 4,000 animals of 435 species across 100 hectares, making it the second-largest zoo in the Czech Republic."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg9_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What famous Czech sports legend started playing in Komenskeho sady park?",
+              "options": [
+                {
+                  "label": "Jaromir Jagr",
+                  "correct": false
+                },
+                {
+                  "label": "Ivan Lendl",
+                  "correct": true
+                },
+                {
+                  "label": "Emil Zatopek",
+                  "correct": false
+                },
+                {
+                  "label": "Martina Navratilova",
+                  "correct": false
+                }
+              ],
+              "explanation": "Tennis legend Ivan Lendl, an Ostrava native, got his start on the outdoor tennis courts in Komenskeho sady park."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg9_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What is the Valaska Trail at Pustevny?",
+              "options": [
+                {
+                  "label": "A white-water rafting course",
+                  "correct": false
+                },
+                {
+                  "label": "A wooden treetop walkway with suspension bridge",
+                  "correct": true
+                },
+                {
+                  "label": "An underground cave exploration route",
+                  "correct": false
+                },
+                {
+                  "label": "A mountain bike downhill track",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Valaska Trail is a 621-meter wooden treetop walkway featuring a 100-meter Himalayan suspension footbridge and a 22-meter tower."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "989506c7-e18b-49b4-a617-f32615bd6fdd",
+      "feedId": "ostrava-guide-quiz",
+      "order": 4,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/44/Divadlo_Anton%C3%ADna_Dvo%C5%99%C3%A1ka.jpg",
+          "title": "Culture & Arts",
+          "subtitle": "Contemporary galleries in former slaughterhouses, anti-smog murals, and one of Europe's most daring industrial-to-cultural transformations."
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg17_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What was the PLATO gallery building originally used as?",
+              "options": [
+                {
+                  "label": "A textile factory",
+                  "correct": false
+                },
+                {
+                  "label": "A train station",
+                  "correct": false
+                },
+                {
+                  "label": "A municipal slaughterhouse",
+                  "correct": true
+                },
+                {
+                  "label": "A military barracks",
+                  "correct": false
+                }
+              ],
+              "explanation": "PLATO is housed in a converted 19th-century municipal slaughterhouse, redesigned by Polish studio KWK Promes and completed in 2022."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg17_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How tall is the Madonna Ostravica street art mural?",
+              "options": [
+                {
+                  "label": "10 meters",
+                  "correct": false
+                },
+                {
+                  "label": "30 meters",
+                  "correct": true
+                },
+                {
+                  "label": "50 meters",
+                  "correct": false
+                },
+                {
+                  "label": "15 meters",
+                  "correct": false
+                }
+              ],
+              "explanation": "Madonna Ostravica is a 30-meter-high mural by American artist Nils Westergard, painted in 2016 on an abandoned department store wall."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg17_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How many works of art does the Gallery of Fine Arts (GVUO) hold?",
+              "options": [
+                {
+                  "label": "About 5,000",
+                  "correct": false
+                },
+                {
+                  "label": "About 24,000",
+                  "correct": true
+                },
+                {
+                  "label": "About 50,000",
+                  "correct": false
+                },
+                {
+                  "label": "About 12,000",
+                  "correct": false
+                }
+              ],
+              "explanation": "The GVUO holds approximately 24,000 works and ranks among the five most important art galleries in the Czech Republic."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg17_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Where was composer Leos Janacek born?",
+              "options": [
+                {
+                  "label": "Ostrava",
+                  "correct": false
+                },
+                {
+                  "label": "Prague",
+                  "correct": false
+                },
+                {
+                  "label": "Hukvaldy",
+                  "correct": true
+                },
+                {
+                  "label": "Brno",
+                  "correct": false
+                }
+              ],
+              "explanation": "Leos Janacek was born in the village of Hukvaldy near Ostrava in 1854. He died in Ostrava in 1928."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg17_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "Who is designing the new Ostrava Concert Hall?",
+              "options": [
+                {
+                  "label": "Zaha Hadid Architects",
+                  "correct": false
+                },
+                {
+                  "label": "Steven Holl Architects",
+                  "correct": true
+                },
+                {
+                  "label": "Norman Foster and Partners",
+                  "correct": false
+                },
+                {
+                  "label": "Bjarke Ingels Group",
+                  "correct": false
+                }
+              ],
+              "explanation": "The new concert hall is designed by Steven Holl Architects, featuring a 1,300-seat main hall. Completion is expected in 2028."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "1bdc6c6c-10ca-4b08-8e3b-0b65cd03cef1",
+      "feedId": "ostrava-guide-quiz",
+      "order": 5,
+      "variants": [
+        {
+          "type": "FULL_IMAGE",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ostrava%2C_Nov%C3%A1_Ves%2C_vod%C3%A1rna%2C_Varia_LF2.jpg",
+          "title": "Practical Tips",
+          "subtitle": "Everything you need to know before visiting: how to get there, getting around, what things cost, and when to go."
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg6_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 1"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What makes Ostrava's public transport unique in the Czech Republic?",
+              "options": [
+                {
+                  "label": "It runs 24 hours a day",
+                  "correct": false
+                },
+                {
+                  "label": "It is completely cashless",
+                  "correct": true
+                },
+                {
+                  "label": "It is free for all visitors",
+                  "correct": false
+                },
+                {
+                  "label": "It only uses electric buses",
+                  "correct": false
+                }
+              ],
+              "explanation": "Ostrava is the first city in the Czech Republic to go fully cashless on public transport. You pay by tapping a contactless card, using an app, or SMS."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg6_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 2"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How long does the train from Prague to Ostrava take?",
+              "options": [
+                {
+                  "label": "About 1 hour",
+                  "correct": false
+                },
+                {
+                  "label": "About 3 hours",
+                  "correct": true
+                },
+                {
+                  "label": "About 5 hours",
+                  "correct": false
+                },
+                {
+                  "label": "About 7 hours",
+                  "correct": false
+                }
+              ],
+              "explanation": "Direct trains from Prague take 3 hours 7 minutes to 3 hours 35 minutes. Three competing operators keep prices low, starting from about 6 EUR."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg6_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 3"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What currency does the Czech Republic use?",
+              "options": [
+                {
+                  "label": "Euro",
+                  "correct": false
+                },
+                {
+                  "label": "Czech koruna",
+                  "correct": true
+                },
+                {
+                  "label": "Polish zloty",
+                  "correct": false
+                },
+                {
+                  "label": "Slovak koruna",
+                  "correct": false
+                }
+              ],
+              "explanation": "The Czech Republic uses the Czech koruna (CZK), not the Euro. Approximately 25 CZK equals 1 EUR."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg6_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 4"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "How much does a half-liter of draft beer cost in Ostrava?",
+              "options": [
+                {
+                  "label": "About 5 EUR",
+                  "correct": false
+                },
+                {
+                  "label": "About 3 EUR",
+                  "correct": false
+                },
+                {
+                  "label": "About 1 EUR",
+                  "correct": true
+                },
+                {
+                  "label": "About 8 EUR",
+                  "correct": false
+                }
+              ],
+              "explanation": "A half-liter of draft beer costs roughly 27 CZK (just over 1 EUR), some of the cheapest pub beer in the European Union."
+            }
+          ]
+        },
+        {
+          "type": "CONTENT",
+          "backgroundSrc": "https://d5rfy0lpah1cz.cloudfront.net/content/push/bg6_202603270001.jpeg",
+          "blocks": [
+            {
+              "type": "CONTENT_TITLE",
+              "title": "Question 5"
+            },
+            {
+              "type": "CONTENT_QUIZ",
+              "question": "What ride-hailing apps work in Ostrava?",
+              "options": [
+                {
+                  "label": "Uber and Lyft",
+                  "correct": false
+                },
+                {
+                  "label": "Bolt and Liftago",
+                  "correct": true
+                },
+                {
+                  "label": "Grab and Gojek",
+                  "correct": false
+                },
+                {
+                  "label": "FreeNow and MyTaxi",
+                  "correct": false
+                }
+              ],
+              "explanation": "Bolt and Liftago are the ride-hailing apps available in Ostrava. Uber does not operate in the city."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
