@@ -49,6 +49,8 @@ Edit `.dev.vars`:
 | `READ_KEY` | A strong random string for public read endpoints |
 | `CARD_SERVER_URL` | Leave blank for now, fill after first deploy (step 7) |
 | `CDN_DOMAIN` | Your CDN domain for image hosting (see Image Hosting below) |
+| `FORKFEED_TOKEN` | User API token for pushing content. Get at `forkfeed.link/admin/user/token` |
+| `APP_SERVER_URL` | App-server base URL (default: `https://api.forkfeed.link`) |
 
 This file is gitignored. Scripts read it automatically.
 
@@ -120,7 +122,6 @@ The repo includes skills for AI-assisted content generation:
 |---|---|
 | `/generate-content` | Create content for any topic with web research and AI images |
 | `/generate-book` | Convert a book into chapter feeds, content cards, and quiz feeds |
-| `/generate-push` | Turn GitHub commits into swipeable cards |
 | `/generate-sheep` | Generate the counting sheep sleep-aid feed |
 
 These skills handle JSON generation, image prompt creation, and CDN upload. They read background images from `permanent_content/` files, which use `{{CDN_DOMAIN}}` as a placeholder resolved from your `.dev.vars`.
@@ -148,35 +149,22 @@ Or create entirely new `permanent_content/` files with your own images and descr
 
 The counting sheep generator has one hardcoded CDN domain in `src/generators/counting-sheep-data.ts`. If you fork and want to use your own sheep images, update the `CDN` constant on line 5 with your domain.
 
-## Uploading and Deploying Content
+## Pushing Content
 
 ```bash
-# Upload a single manifest to your server
-node scripts/upload.mjs manifests/my-content.json
+# Push a single manifest
+npm run push -- manifests/my-content.json
 
-# Deploy code + sync all manifests (most common)
+# Push all manifests
+npm run push
+
+# Deploy code + push all manifests (most common)
 npm run publish
-
-# Local development
-npm run dev
-node scripts/upload.mjs manifests/my-content.json http://localhost:8787
 ```
 
-## App-Server Registration (Optional)
+Push sends manifests to the app-server, which forwards them to the card server and registers forks automatically. Forks start as **private**. Change visibility in the mobile app (requires admin approval).
 
-Registration connects your forkfeed server to the forkfeed app-server, making your forks visible in the mobile app. **This step is optional.** Your forkfeed server works standalone as a content API without registration.
-
-To register:
-
-1. Get an auth token from the app-server
-2. Set `AUTH_TOKEN` and `APP_SERVER_URL` in your environment or `.dev.vars`
-3. Register your forks:
-   ```bash
-   AUTH_TOKEN=<your-jwt> APP_SERVER_URL=<app-server-url> npm run register
-   ```
-4. Forks start as **private**. Change visibility in the mobile app (requires admin approval)
-
-See [README.md](README.md) for the full registration flow.
+Requires `FORKFEED_TOKEN` in `.dev.vars` (get one at `forkfeed.link/admin/user/token`).
 
 ## Included Example Content
 
@@ -188,6 +176,7 @@ The `manifests/` directory contains ready-to-upload content packs (book summarie
 - [ ] Production secrets set via `wrangler secret put` (not just in `.dev.vars`)
 - [ ] `CARD_SERVER_URL` in `.dev.vars` points to your deployed worker
 - [ ] `CDN_DOMAIN` in `.dev.vars` matches your image hosting domain
+- [ ] `FORKFEED_TOKEN` in `.dev.vars` is set (get at `forkfeed.link/admin/user/token`)
 - [ ] `.dev.vars` is in `.gitignore` (it is by default)
 - [ ] `wrangler.toml` is in `.gitignore` (it is by default, contains your database ID)
 - [ ] Schema migration has been run (`npm run db:migrate`)

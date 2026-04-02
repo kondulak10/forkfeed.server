@@ -880,5 +880,5 @@ These are enforced server-side. Generating invalid data will cause upload failur
 
 Tell the user:
 - The file was saved to `manifests/<topic-slug>.json`
-- They can upload it with: `/server-actions` (Sync only)
+- They can push it with: `/server-actions` (Push manifests)
 - Show a summary: number of feeds, number of cards, variant type breakdown, number of quiz questions (if any)

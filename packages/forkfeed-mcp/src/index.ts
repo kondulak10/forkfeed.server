@@ -1,8 +1,11 @@
 #!/usr/bin/env node
 
+import { mkdir, writeFile } from 'node:fs/promises';
+import { join } from 'node:path';
 import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
 import { z } from 'zod';
+import QRCode from 'qrcode';
 import { GUIDE_CONTENT } from './guide-content.js';
 import { IMAGE_CATALOG } from './image-catalog.js';
 
@@ -95,6 +98,19 @@ server.tool(
       };
     }
 
+    // Save manifest locally before uploading (best-effort, doesn't block push)
+    const forkId = manifest.forks?.[0]?._id;
+    const filename = `${forkId || `manifest-${Date.now()}`}.json`;
+    const dir = join(process.cwd(), 'forkfeed');
+    const filepath = join(dir, filename);
+    let saveError = '';
+    try {
+      await mkdir(dir, { recursive: true });
+      await writeFile(filepath, JSON.stringify(manifest, null, 2));
+    } catch (err) {
+      saveError = `Warning: failed to save manifest to ${filepath}: ${err instanceof Error ? err.message : String(err)}`;
+    }
+
     try {
       const res = await fetch(`${APP_SERVER_URL}/api/content/push`, {
         method: 'POST',
@@ -120,6 +136,25 @@ server.tool(
         ?.map((f: { title: string; feeds: number }) => `  - ${f.title} (${f.feeds} feeds)`)
         .join('\n');
 
+      // Generate QR code for the first fork's deep link
+      const forkId = manifest.forks?.[0]?.id;
+      let qrBlock = '';
+      if (forkId) {
+        const url = `https://forkfeed.link/fork/${forkId}`;
+        try {
+          const qr = await QRCode.toString(url, { type: 'utf8', errorCorrectionLevel: 'L' });
+          qrBlock = [
+            '',
+            'Scan to open in forkfeed:',
+            '',
+            qr,
+            url,
+          ].join('\n');
+        } catch {
+          qrBlock = `\nLink: ${url}`;
+        }
+      }
+
       return {
         content: [
           {
@@ -132,8 +167,11 @@ server.tool(
               'Forks:',
               forkSummary || '  (none)',
               '',
+              saveError || `Manifest saved to ${filepath}`,
+              '',
               'Your content is now live in the forkfeed app. It starts as private.',
               'To make it public, change visibility in the app (requires admin approval).',
+              qrBlock,
             ].join('\n'),
           },
         ],

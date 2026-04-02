@@ -7,13 +7,11 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
-    "sync": "node scripts/sync-manifests.mjs",
-    "publish": "wrangler deploy && node scripts/sync-manifests.mjs",
+    "push": "node scripts/push.mjs",
+    "publish": "wrangler deploy && node scripts/push.mjs",
     "typecheck": "tsc --noEmit",
     "db:create": "wrangler d1 create forkfeed-server-db",
     "db:migrate": "wrangler d1 execute forkfeed-server-db --file=schema.sql",
-    "register": "node scripts/register.mjs --all",
-    "update": "node scripts/update.mjs",
     "deregister": "node scripts/delete.mjs"
   },
   "dependencies": {

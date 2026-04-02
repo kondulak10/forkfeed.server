@@ -212,9 +212,8 @@ The cards array is EMPTY - all cards come from the generator at runtime.
 Tell the user:
 1. Run `npm run typecheck` to verify the generator compiles
 2. Deploy with `npm run deploy` to push the generator to Cloudflare Workers
-3. Upload the manifest: `node scripts/upload.mjs manifests/counting-sheep.json`
-4. Register with app-server: `AUTH_TOKEN=<jwt> node scripts/register.mjs --fork=counting-sheep`
-5. Generate images from prompts (1 fork + 1 background + 3 jump + 25 rare = 30 total), upload to CDN, update `counting-sheep-data.ts` IMAGE_URLS, and redeploy
+3. Push the manifest: `npm run push -- manifests/counting-sheep.json`
+4. Generate images from prompts (1 fork + 1 background + 3 jump + 25 rare = 30 total), upload to CDN, update `counting-sheep-data.ts` IMAGE_URLS, and redeploy
 
 ---
 

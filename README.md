@@ -46,10 +46,10 @@ All scripts read from `.dev.vars` automatically (gitignored). Copy `.dev.vars.ex
 |---|---|---|
 | `ADMIN_KEY` | Bearer token for admin API routes | `admin` |
 | `READ_KEY` | Bearer token for public read routes | `read` |
-| `CARD_SERVER_URL` | Public URL of your deployed worker | (required for sync/upload/register) |
-| `AUTH_TOKEN` | JWT from the app-server | (required for register/update/deregister) |
-| `APP_SERVER_URL` | App-server base URL | `http://localhost:4001` |
-| `CDN_DOMAIN` | CDN domain for image hosting (used by skills and upload script) | (required for images) |
+| `FORKFEED_TOKEN` | User API token for pushing content | (required for push) |
+| `APP_SERVER_URL` | App-server base URL | `https://api.forkfeed.link` |
+| `CARD_SERVER_URL` | Public URL of your deployed worker | (required for deregister) |
+| `CDN_DOMAIN` | CDN domain for image hosting (used by skills) | (required for images) |
 | `S3_BUCKET` | S3 bucket name (used by `upload-image.sh`) | (required for S3 uploads) |
 
 ## Common Commands
@@ -59,25 +59,14 @@ All scripts read from `.dev.vars` automatically (gitignored). Copy `.dev.vars.ex
 | A manifest JSON file | `npm run publish` |
 | Generator code only | `npm run deploy` |
 | Both | `npm run publish` |
-| Testing locally | `npm run dev` + `node scripts/upload.mjs manifests/foo.json http://localhost:8787` |
-| Want forks in the app | Upload first, then `AUTH_TOKEN=<jwt> npm run register` |
+| Push one manifest only | `npm run push -- manifests/foo.json` |
 
 ```bash
-npm run publish                # Deploy code + sync all manifests (most common)
-npm run deploy                 # Deploy code only
-npm run sync                   # Sync all manifests to D1 (no code deploy)
-node scripts/upload.mjs manifests/foo.json           # Upload single manifest to production
-node scripts/upload.mjs manifests/foo.json http://localhost:8787  # Upload to local
-```
-
-## Register with Forkfeed
-
-After uploading content, register your forks with the forkfeed app-server so they appear in the mobile app:
-
-```bash
-AUTH_TOKEN=<your-jwt> APP_SERVER_URL=<your-app-server-url> npm run register
-AUTH_TOKEN=<your-jwt> npm run update      # Re-sync after content changes
-AUTH_TOKEN=<your-jwt> npm run deregister  # Remove all forks from app-server
+npm run publish                              # Deploy code + push all manifests (most common)
+npm run deploy                               # Deploy code only
+npm run push                                 # Push all manifests (no code deploy)
+npm run push -- manifests/foo.json           # Push a single manifest
+npm run deregister                           # Remove all forks from app-server
 ```
 
 Forks start as **private**. To make them public, change visibility in the app (requires admin approval).
@@ -165,15 +154,12 @@ This pattern is not implemented in the built-in generators but the architecture 
 |---|---|
 | `npm run publish` | Deploy code + sync all manifests (most common) |
 | `npm run deploy` | Deploy code to Cloudflare Workers |
-| `npm run sync` | Upload all manifests to D1 |
+| `npm run push` | Push all manifests via app-server |
 | `npm run dev` | Local development server |
 | `npm run typecheck` | TypeScript type checking |
 | `npm run db:create` | Create D1 database (once) |
 | `npm run db:migrate` | Run schema on remote D1 |
-| `npm run register` | Register all forks with forkfeed app-server |
-| `npm run update` | Re-sync forks after content changes |
 | `npm run deregister` | Remove all forks from app-server |
-| `node scripts/upload.mjs <manifest>` | Upload a single content manifest to D1 |
 
 ## License
 

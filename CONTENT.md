@@ -46,10 +46,10 @@ Content is defined in JSON files with three top-level arrays:
 }
 ```
 
-Upload with:
+Push with:
 
 ```bash
-node scripts/upload.mjs manifests/my-content.json
+npm run push -- manifests/my-content.json
 ```
 
 ### Fork Fields
@@ -390,23 +390,21 @@ bash scripts/upload-image.sh photo.jpg content/my-project/photo.jpg
 
 Configure with environment variables: `S3_BUCKET` and `CDN_DOMAIN`.
 
-## Uploading Content
+## Pushing Content
 
-The upload script (`scripts/upload.mjs`) pushes JSON content to your server via the admin API:
+Push manifests to forkfeed via the app-server:
 
 ```bash
-# Local dev server (default)
-node scripts/upload.mjs manifests/my-content.json
+# Push a single manifest
+npm run push -- manifests/my-content.json
 
-# Production
-ADMIN_KEY=your-secret node scripts/upload.mjs manifests/my-content.json https://your-worker.workers.dev
+# Push all manifests
+npm run push
 ```
 
-The script performs **idempotent upserts** — if a feed/card/fork already exists, it updates it. Safe to run repeatedly.
+Push performs **idempotent upserts** - safe to run repeatedly. The app-server forwards content to the card server and registers forks automatically.
 
-Auth: reads `ADMIN_KEY` from environment (falls back to `"admin"` for local dev).
-
-After uploading, register your forks with the app-server using `npm run register` so they appear in the mobile app (see [README.md](README.md) for details).
+Auth: reads `FORKFEED_TOKEN` from `.dev.vars` (get one at `forkfeed.link/admin/user/token`).
 
 ## ID Conventions
 
@@ -472,8 +470,8 @@ A copy-pasteable starting point — one fork, one feed, two cards:
 }
 ```
 
-Save as `manifests/my-content.json` and upload:
+Save as `manifests/my-content.json` and push:
 
 ```bash
-node scripts/upload.mjs manifests/my-content.json
+npm run push -- manifests/my-content.json
 ```

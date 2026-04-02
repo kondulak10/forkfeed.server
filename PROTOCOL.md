@@ -294,17 +294,14 @@ All admin endpoints require `Authorization: Bearer <ADMIN_KEY>` header.
 ## Upload Script
 
 ```bash
-# Set admin key
-export ADMIN_KEY=your-secret-key
+# Push a single manifest
+npm run push -- manifests/hp-philosophers-stone.json
 
-# Upload to local dev server
-node scripts/upload.mjs manifests/hp-philosophers-stone.json
-
-# Upload to production
-node scripts/upload.mjs manifests/hp-philosophers-stone.json https://your-worker.workers.dev
+# Push all manifests
+npm run push
 ```
 
-The upload script accepts `_id` or `id` fields in JSON files for backwards compatibility with the original card-server content format.
+The push script sends manifests to the app-server, which forwards to the card server and registers forks automatically. Requires `FORKFEED_TOKEN` in `.dev.vars`.
 
 ---
 

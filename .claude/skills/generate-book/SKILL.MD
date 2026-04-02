@@ -817,4 +817,4 @@ Tell the user:
 3. **Prompts**: `content/<book-slug>-images.md` - kept for reference
 4. **URLs**: `content/<book-slug>-urls.txt` - CDN URL mapping
 5. **Summary**: {N} chapter feeds + 1 quiz feed, {N} total cards, {N} quiz questions
-6. **Next step**: "Upload with `/server-actions` (Sync only) - the JSON is ready to go."
+6. **Next step**: "Push with `/server-actions` (Push manifests) - the JSON is ready to go."

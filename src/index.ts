@@ -20,6 +20,7 @@ type Bindings = {
   ADMIN_KEY: string;
   READ_KEY: string;
   ALLOWED_ORIGINS?: string;
+  APP_SERVER_URL?: string;
 };
 
 type AppEnv = { Bindings: Bindings };
@@ -309,6 +310,131 @@ app.get('/cards/:cardId', readAuth, async (c) => {
   } catch (err) {
     console.error('Card detail error:', err);
     return c.json({ error: 'Failed to fetch card' }, 500);
+  }
+});
+
+// ── Authenticated push (ff_ token verified via app server) ──────
+
+const MAX_PUSH_CARDS = 200;
+
+app.post('/push', async (c) => {
+  const auth = c.req.header('Authorization');
+  const token = auth?.startsWith('Bearer ') ? auth.slice(7).trim() : '';
+  if (!token) return c.json({ error: 'Unauthorized' }, 401);
+
+  const appServerUrl = c.env.APP_SERVER_URL;
+  if (!appServerUrl) return c.json({ error: 'Push not configured (missing APP_SERVER_URL)' }, 503);
+
+  // Verify ff_ token with app server
+  try {
+    const verifyRes = await fetch(`${appServerUrl}/api/auth/verify`, {
+      headers: { Authorization: `Bearer ${token}` },
+    });
+    if (!verifyRes.ok) return c.json({ error: 'Unauthorized' }, 401);
+  } catch {
+    return c.json({ error: 'Auth service unavailable' }, 503);
+  }
+
+  try {
+    const { feeds = [], forks = [], cards = [] } = await c.req.json();
+
+    if (cards.length > MAX_PUSH_CARDS) {
+      return c.json({ error: `Too many cards (max ${MAX_PUSH_CARDS})` }, 400);
+    }
+
+    // Validate card variants
+    for (const card of cards) {
+      const variants = Array.isArray(card.variants) ? card.variants : [];
+      const err = validateVariants(variants);
+      if (err) return c.json({ error: `Card "${card._id || card.id}": ${err}` }, 400);
+    }
+
+    const now = new Date().toISOString();
+    const db = c.env.DB;
+    const stmts: D1PreparedStatement[] = [];
+
+    // Upsert feeds
+    for (const feed of feeds) {
+      const id = feed._id || feed.id;
+      if (!id) continue;
+      stmts.push(
+        db.prepare(
+          `INSERT INTO feeds (id, title, description, image_src, supported_modes, scroll_direction, generator_id, engagement, created_at, updated_at)
+           VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?9)
+           ON CONFLICT(id) DO UPDATE SET
+             title = ?2, description = ?3, image_src = ?4, supported_modes = ?5,
+             scroll_direction = ?6, generator_id = ?7, engagement = ?8, updated_at = ?9`
+        ).bind(
+          id,
+          feed.title || '',
+          feed.description || '',
+          feed.imageSrc || '',
+          JSON.stringify([feed.mode || 'sequential']),
+          feed.scrollDirection || 'vertical',
+          feed.generatorId || null,
+          feed.engagement ? 1 : 0,
+          now,
+        ),
+      );
+    }
+
+    // Upsert forks
+    for (const fork of forks) {
+      const id = fork._id || fork.id;
+      if (!id) continue;
+      stmts.push(
+        db.prepare(
+          `INSERT INTO forks (id, title, description, image_src, feed_ids, action_label, action_url, created_at, updated_at)
+           VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?8)
+           ON CONFLICT(id) DO UPDATE SET
+             title = ?2, description = ?3, image_src = ?4, feed_ids = ?5,
+             action_label = ?6, action_url = ?7, updated_at = ?8`
+        ).bind(
+          id,
+          fork.title || '',
+          fork.description || '',
+          fork.imageSrc || '',
+          JSON.stringify(fork.feedIds || []),
+          fork.actionLabel || null,
+          fork.actionUrl || null,
+          now,
+        ),
+      );
+    }
+
+    // Delete old cards for affected feeds, then insert new cards
+    const feedIdsInCards = new Set(
+      cards.map((card: { feedId?: string }) => card.feedId).filter(Boolean),
+    );
+    for (const feedId of feedIdsInCards) {
+      stmts.push(db.prepare('DELETE FROM cards WHERE feed_id = ?1').bind(feedId));
+    }
+    for (const card of cards) {
+      const id = card._id || card.id;
+      if (!id) continue;
+      stmts.push(
+        db.prepare(
+          `INSERT INTO cards (id, feed_id, "order", variants, created_at, updated_at)
+           VALUES (?1, ?2, ?3, ?4, ?5, ?5)`
+        ).bind(
+          id,
+          card.feedId || '',
+          card.order ?? 0,
+          typeof card.variants === 'string' ? card.variants : JSON.stringify(card.variants || []),
+          now,
+        ),
+      );
+    }
+
+    // D1 supports ~100 statements per batch; chunk if needed
+    for (let i = 0; i < stmts.length; i += 100) {
+      await db.batch(stmts.slice(i, i + 100));
+    }
+
+    return c.json({ ok: true, feeds: feeds.length, forks: forks.length, cards: cards.length }, 201);
+  } catch (err) {
+    console.error('Push error:', err);
+    return c.json({ error: 'Push failed' }, 500);
   }
 });
 
