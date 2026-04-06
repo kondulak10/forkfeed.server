@@ -6,22 +6,30 @@ Lightweight, edge-deployed content backend for the forkfeed protocol.
 
 ```
 src/
-  index.ts       - Hono routes (public + admin)
+  index.ts       - Hono routes (public + admin + push)
   db.ts          - D1 query helpers, snake_case <-> camelCase mapping
   types.ts       - CardVariant and ContentBlock type definitions
   registry.ts    - Card generator registry
   engagement.ts  - Engagement event storage + aggregation (opt-in via manifest `engagement: true`)
-schema.sql       - D1 table definitions
-migrations/      - D1 schema migrations (rename tables, add engagement)
+  generators/    - Card generators (counting-sheep with deterministic UUIDs + rarity system)
+schema.sql       - D1 table definitions (settings, feeds, cards, forks, engagement_events)
+migrations/      - D1 schema migrations
 scripts/
-  push.mjs       - Push manifest(s) to forkfeed via app-server /api/content/push
+  push.mjs       - Push manifest(s) to forkfeed via app-server /api/content/push (with chunking for >200 cards)
   delete.mjs     - Deregister this forkfeed server from the app-server (cascade deletes)
   upload-image.sh - Upload images to S3, print CDN URL
+  env.mjs        - Environment variable loader for scripts
 manifests/       - Content JSON manifest files (forks, feeds, cards)
 content/         - Image prompts, lookup tables, and companion files
+permanent_content/ - Developer-themed images and backgrounds for MCP content generation
+packages/
+  forkfeed-mcp/  - MCP server (npm: forkfeed-mcp) for generating content from git commits
+forkfeed/        - Generated manifests saved by MCP push operations
 PROTOCOL.md      - Complete API specification, data model, generators, deployment
 CONTENT.md       - Content creation guide (JSON format, variant types, block types, image hosting)
 DEPLOY.md        - Fork-to-deploy guide (Cloudflare setup, image hosting, content creation)
+MCP.md           - MCP server setup and usage guide
+Manifests.md     - Manifest registry (update when adding/removing/changing manifests)
 ```
 
 ## Commands
@@ -49,9 +57,61 @@ npm run push -- manifests/<file>.json     # push one manifest
 2. To go public, the creator changes visibility in the mobile app, which creates a pending approval request
 3. Admin approves/denies via the admin panel's Visibility Requests page
 
-**Environment variables for push:**
-- `FORKFEED_TOKEN` - User API token (required). Get at `forkfeed.link/admin/user/token`
-- `APP_SERVER_URL` - App-server base URL (default: `https://api.forkfeed.link`)
+## Database Schema
+
+Five D1 tables (defined in `schema.sql`):
+- **settings** - server manifest metadata (name, description, version, maintainer, maxPageSize)
+- **feeds** - feed definitions with mode, scrollDirection, engagement flag, optional generatorId
+- **cards** - card content (variants stored as JSON TEXT), ordered within a feed
+- **forks** - fork definitions with feedIds (JSON TEXT), action label/URL
+- **engagement_events** - async engagement tracking (session, feed, card, time spent, variant views)
+
+## Endpoints
+
+**Public (READ_KEY auth):**
+- `GET /.well-known/forkfeed.json` - manifest (feeds, forks, card counts)
+- `GET /feeds/:feedId/cards` - paginated cards (supports mode=sequential|random)
+- `POST /feeds/:feedId/cards` - paginated cards + async engagement write
+- `GET /cards/:cardId` - single card by ID (supports generator re-derivation)
+- `GET /health` - health check (no auth)
+
+**Push (app-server ff_ token auth, verified via APP_SERVER_URL/api/auth/verify):**
+- `POST /push` - upsert feeds, forks, cards (max 200 cards per push, D1 batched)
+
+**Admin (ADMIN_KEY auth):**
+- `GET/POST/PUT/DELETE /admin/feeds` - feed CRUD
+- `GET/POST/PUT/DELETE /admin/cards` - card CRUD (+ bulk delete by feed)
+- `GET/POST/PUT/DELETE /admin/forks` - fork CRUD
+- `PUT /admin/settings` - update server manifest settings
+- `GET /admin/stats` - aggregate counts
+- `GET /admin/engagement` - engagement stats (optionally filtered by feedId)
+
+## MCP Server (`packages/forkfeed-mcp/`)
+
+Published as `forkfeed-mcp` on npm. Turns GitHub commits into swipeable forkfeed content. See [MCP.md](MCP.md) for setup.
+
+**Tools:**
+- `forkfeed_guide` - returns the content generation guide
+- `forkfeed_commits` - lists recent commits with publication status, or analyzes a specific commit (diff + stats + tag-matched images)
+- `forkfeed_build` - simplified content builder: takes 6 cards with shorthand blocks, auto-detects repo info, assigns backgrounds by commit tags, resolves image IDs, pushes to server
+- `forkfeed_push` - validates and pushes a raw manifest to the app-server
+- `forkfeed_status` - lists published forks, feeds, and card counts
+
+**Prompt:** `/forkfeed` - interactive workflow that chains guide -> commits -> build
+
+**Image catalog:** 100+ developer-themed scene images and backgrounds in `src/image-catalog.ts`, referenced by short IDs (e.g. `img47`, `bg12`). Tags enable auto-matching to commit content.
+
+## Environment Variables
+
+**Cloudflare Workers (wrangler.toml secrets):**
+- `ADMIN_KEY` - admin route auth token
+- `READ_KEY` - public read route auth token
+- `ALLOWED_ORIGINS` - comma-separated CORS origins (optional, defaults to `*`)
+- `APP_SERVER_URL` - app-server base URL (required for `/push` endpoint token verification)
+
+**Scripts/MCP (shell env):**
+- `FORKFEED_TOKEN` - user API token (`ff_...` format, from forkfeed.link/admin/user/token)
+- `APP_SERVER_URL` - app-server base URL (default: `https://api.forkfeed.link`)
 
 ## Conventions
 

@@ -38,14 +38,32 @@ const VALID_SIZING = new Set(['automatic', 'wide', 'portrait', 'square', 'small_
 function validateVariants(variants: unknown[]): string | null {
   for (let vi = 0; vi < variants.length; vi++) {
     const variant = variants[vi] as Record<string, unknown>;
+    if (variant.type === 'FULL_IMAGE' && !variant.imageSrc) {
+      return `variants[${vi}]: FULL_IMAGE requires imageSrc`;
+    }
     if (variant.type !== 'CONTENT') continue;
     const blocks = variant.blocks;
     if (!Array.isArray(blocks)) continue;
     for (let bi = 0; bi < blocks.length; bi++) {
       const block = blocks[bi] as Record<string, unknown>;
-      if (block.type !== 'CONTENT_IMAGE') continue;
-      if (!block.sizing || !VALID_SIZING.has(block.sizing as string)) {
-        return `variants[${vi}].blocks[${bi}]: CONTENT_IMAGE requires "sizing" (one of: ${[...VALID_SIZING].join(', ')})`;
+      if (block.type === 'CONTENT_IMAGE') {
+        if (!block.sizing || !VALID_SIZING.has(block.sizing as string)) {
+          return `variants[${vi}].blocks[${bi}]: CONTENT_IMAGE requires "sizing" (one of: ${[...VALID_SIZING].join(', ')})`;
+        }
+      }
+      if (block.type === 'CONTENT_QUIZ') {
+        const opts = block.options;
+        if (!Array.isArray(opts) || opts.length < 2) {
+          return `variants[${vi}].blocks[${bi}]: CONTENT_QUIZ requires >= 2 options`;
+        }
+        if (!opts.some((o: { correct?: boolean }) => o.correct === true)) {
+          return `variants[${vi}].blocks[${bi}]: CONTENT_QUIZ must have at least one correct option`;
+        }
+      }
+      if (block.type === 'CONTENT_BUTTON') {
+        if (!block.label || !block.action || !block.target) {
+          return `variants[${vi}].blocks[${bi}]: CONTENT_BUTTON requires label, action, and target`;
+        }
       }
     }
   }
@@ -342,11 +360,43 @@ app.post('/push', async (c) => {
       return c.json({ error: `Too many cards (max ${MAX_PUSH_CARDS})` }, 400);
     }
 
-    // Validate card variants
+    // Validate feeds
+    for (const feed of feeds) {
+      const id = feed._id || feed.id;
+      if (!id || typeof id !== 'string') return c.json({ error: 'Feed missing _id' }, 400);
+      if (!feed.title) return c.json({ error: `Feed "${id}": title required` }, 400);
+      if (feed.title.length > 120) return c.json({ error: `Feed "${id}": title max 120 chars` }, 400);
+      if (feed.mode && !['sequential', 'random'].includes(feed.mode)) {
+        return c.json({ error: `Feed "${id}": mode must be sequential or random` }, 400);
+      }
+      if (feed.scrollDirection && !['vertical', 'horizontal'].includes(feed.scrollDirection)) {
+        return c.json({ error: `Feed "${id}": scrollDirection must be vertical or horizontal` }, 400);
+      }
+    }
+
+    // Validate forks
+    for (const fork of forks) {
+      const id = fork._id || fork.id;
+      if (!id || typeof id !== 'string') return c.json({ error: 'Fork missing _id' }, 400);
+      if (!fork.title) return c.json({ error: `Fork "${id}": title required` }, 400);
+      if (!Array.isArray(fork.feedIds) || fork.feedIds.length === 0) {
+        return c.json({ error: `Fork "${id}": feedIds required (non-empty array)` }, 400);
+      }
+    }
+
+    // Validate cards (cross-ref only checked when feeds are in the same push;
+    // cards referencing pre-existing feeds in DB are allowed through)
+    const pushFeedIds = new Set(feeds.map((f: { _id?: string; id?: string }) => f._id || f.id));
     for (const card of cards) {
+      const cardId = card._id || card.id;
+      if (!cardId) return c.json({ error: 'Card missing _id' }, 400);
+      if (!card.feedId) return c.json({ error: `Card "${cardId}": feedId required` }, 400);
+      if (pushFeedIds.size > 0 && !pushFeedIds.has(card.feedId)) {
+        return c.json({ error: `Card "${cardId}": feedId "${card.feedId}" not in pushed feeds` }, 400);
+      }
       const variants = Array.isArray(card.variants) ? card.variants : [];
       const err = validateVariants(variants);
-      if (err) return c.json({ error: `Card "${card._id || card.id}": ${err}` }, 400);
+      if (err) return c.json({ error: `Card "${cardId}": ${err}` }, 400);
     }
 
     const now = new Date().toISOString();
