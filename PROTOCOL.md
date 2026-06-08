@@ -92,6 +92,19 @@ All endpoints except `/health` require `Authorization: Bearer <READ_KEY>`.
 { "status": "ok", "forks": 9 }
 ```
 
+### `GET /forks` — list fork ids (discovery)
+
+Used by `npm run publish` to register every fork, and lets a client import all forks
+from a server at once.
+
+```json
+{
+  "forks": [
+    { "id": "atomic-habits", "title": "Atomic Habits", "feedCount": 10 }
+  ]
+}
+```
+
 ### `GET /forks/:forkId` — fork metadata + feed summaries
 
 ```json

@@ -73,10 +73,24 @@ Note the worker URL from the output (e.g. `https://forkfeed-server.your-name.wor
 Verify it serves: `GET /forks/:forkId` and `GET /forks/:forkId/feeds/:feedId/cards`
 (both require `Authorization: Bearer <READ_KEY>`).
 
-## 6. Publish to the forkfeed app (optional)
+## 6. Publish to the forkfeed app
 
-To surface a fork in the forkfeed app, register its metadata (the app fetches
-`GET /forks/:forkId` from your worker and stores it as private):
+To surface your forks in the forkfeed app, register them. The easy way registers
+**every** fork on your server in one command:
+
+```bash
+# set these in .dev.vars first:
+#   FORKFEED_SERVER_URL=https://your-worker.workers.dev   (your deployed worker)
+#   FORKFEED_TOKEN=ff_...                                 (forkfeed.link/admin/user/token)
+npm run publish      # deploys, then registers every fork with the app
+```
+
+`npm run publish` = `npm run deploy` + `scripts/publish.mjs`, which hits the worker's
+`GET /forks` to discover your fork ids and POSTs each to the app's
+`/api/content/publish`. Use `npm run register` to register against the already-deployed
+worker without redeploying.
+
+Prefer to do one fork by hand? POST it directly:
 
 ```bash
 curl -X POST https://api.forkfeed.link/api/content/publish \
@@ -85,9 +99,8 @@ curl -X POST https://api.forkfeed.link/api/content/publish \
   -d '{"forkServerUrl":"https://your-worker.workers.dev","forkId":"my-fork","readKey":"read"}'
 ```
 
-Get a token at `forkfeed.link/admin/user/token`. Forks register as **private**; to go
-public, change visibility in the app (requires admin approval). The MCP server's
-`forkfeed_publish` tool does this for you.
+Forks register as **private**; to go public, change visibility in the app (requires
+admin approval). The MCP server's `forkfeed_publish` tool also does a single fork.
 
 ## Image Hosting
 

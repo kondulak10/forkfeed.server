@@ -33,7 +33,9 @@ MCP.md           - MCP server setup and usage
 ## Commands
 
 ```bash
-npm run deploy           # Full release: regen registry + typecheck + wrangler deploy. The one command you need.
+npm run publish          # Deploy the worker AND register every fork with the forkfeed app (needs FORKFEED_SERVER_URL + FORKFEED_TOKEN in .dev.vars)
+npm run deploy           # Deploy only: regen registry + typecheck + wrangler deploy
+npm run register         # Register forks with the app without re-deploying (scripts/publish.mjs against the live worker)
 npm run typecheck        # tsc --noEmit (type-checks all content under forks/) - run standalone if you just want to validate
 npm run convert          # Regenerate forks/index.ts (and migrate manifests/*.json if present) - deploy runs this for you
 ```
@@ -52,6 +54,7 @@ npm run convert          # Regenerate forks/index.ts (and migrate manifests/*.js
 All except `/health` require `Authorization: Bearer <READ_KEY>` (default `"read"`).
 
 - `GET /health` - `{ status, forks }`
+- `GET /forks` - list of `{ id, title, feedCount }` (discovery; used by `npm run publish`)
 - `GET /forks/:forkId` - fork metadata + feed summaries (each with `dynamic` + `cardCount`)
 - `GET /forks/:forkId/feeds/:feedId/cards?page&limit` - a page of cards
 - `GET /forks/:forkId/cards/:cardId` - single card (static feeds only)

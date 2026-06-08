@@ -11,8 +11,8 @@ Content lives as typed files under `forks/` and is bundled into the worker at de
 time. There is no database and no push step. Ask the user which action they want using
 AskUserQuestion with these options:
 
-1. **Deploy** - Regenerate the registry, typecheck, and deploy the worker. The common release.
-2. **Publish a fork** - Register a deployed fork's metadata with the forkfeed app (so it shows up in the app, as private).
+1. **Publish** - Deploy the worker AND register every fork with the forkfeed app. The common release.
+2. **Deploy only** - Regenerate the registry, typecheck, and deploy the worker (no app registration).
 3. **Publish MCP** - Build and publish the forkfeed-mcp npm package only.
 4. **Convert manifests** - Migrate legacy `manifests/*.json` into typed `forks/` files.
 
@@ -20,20 +20,20 @@ AskUserQuestion with these options:
 
 Run the corresponding commands:
 
-- **Deploy**:
+- **Publish** (deploy + register every fork):
+  ```bash
+  npm run publish
+  ```
+  Needs `FORKFEED_SERVER_URL` (deployed worker URL) and `FORKFEED_TOKEN` in `.dev.vars`.
+  It deploys, then `scripts/publish.mjs` reads `GET /forks` and registers each fork with
+  the app. Forks register as **private**; to go public, change visibility in the app
+  (requires admin approval). Use `npm run register` to register without redeploying.
+
+- **Deploy only**:
   ```bash
   npm run deploy
   ```
   (`deploy` self-runs the registry regen + typecheck before `wrangler deploy`.)
-
-- **Publish a fork**: ask for the fork id and the deployed worker URL, then:
-  ```bash
-  curl -X POST "${APP_SERVER_URL:-https://api.forkfeed.link}/api/content/publish" \
-    -H "Authorization: Bearer $FORKFEED_TOKEN" \
-    -H "Content-Type: application/json" \
-    -d '{"forkServerUrl":"<your-worker-url>","forkId":"<fork-id>","readKey":"read"}'
-  ```
-  Forks register as **private**. To go public, change visibility in the app (requires admin approval).
 
 - **Publish MCP**:
   ```bash

@@ -1,2 +1,6 @@
 READ_KEY=read
 CDN_DOMAIN=your-cdn-domain.example.com
+# For `npm run publish` (registering your forks with the forkfeed app):
+FORKFEED_SERVER_URL=https://your-worker.workers.dev
+FORKFEED_TOKEN=ff_your_token_here
+APP_SERVER_URL=https://api.forkfeed.link

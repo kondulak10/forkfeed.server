@@ -71,6 +71,18 @@ const readAuth: MiddlewareHandler<AppEnv> = async (c, next) => {
 // Health check (no auth).
 app.get('/health', (c) => c.json({ status: 'ok', forks: Object.keys(FORKS).length }));
 
+// Discovery: list all fork ids on this server (used by `npm run publish` and to
+// let the app import every fork from a server at once).
+app.get('/forks', readAuth, (c) => {
+  return c.json({
+    forks: Object.values(FORKS).map((f) => ({
+      id: f.meta.id,
+      title: f.meta.title,
+      feedCount: f.feeds.length,
+    })),
+  });
+});
+
 // Endpoint A: fork metadata + feed summaries.
 app.get('/forks/:forkId', readAuth, (c) => {
   const fork = FORKS[c.req.param('forkId')];

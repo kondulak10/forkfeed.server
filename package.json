@@ -7,6 +7,8 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "node scripts/manifest-to-fork.mjs && tsc --noEmit && wrangler deploy",
+    "publish": "npm run deploy && node scripts/publish.mjs",
+    "register": "node scripts/publish.mjs",
     "typecheck": "tsc --noEmit",
     "convert": "node scripts/manifest-to-fork.mjs"
   },

@@ -58,15 +58,18 @@ For the image/content scripts (shell env): `CDN_DOMAIN`, `S3_BUCKET` (used by
 ## Common Commands
 
 ```bash
-npm run deploy        # full release: regen registry + typecheck + deploy the worker
+npm run publish       # deploy the worker AND register every fork with the forkfeed app
+npm run deploy        # just deploy: regen registry + typecheck + wrangler deploy
 npm run typecheck     # validate all content under forks/ (deploy runs this for you)
 npm run convert       # regenerate forks/index.ts (deploy runs this for you)
 npm run dev           # local dev server
 ```
 
-After adding or editing a fork, just run `npm run deploy` - it regenerates the registry
-and typechecks before deploying. To register a fork in the app, see
-[DEPLOY.md](DEPLOY.md#6-publish-to-the-forkfeed-app-optional).
+The whole loop is **edit files → `npm run publish` → flip the fork to public in the
+app**. `npm run publish` deploys your worker and registers every fork in `forks/` with
+the forkfeed app (as private). It needs `FORKFEED_SERVER_URL` (your worker URL) and
+`FORKFEED_TOKEN` in `.dev.vars` - see [DEPLOY.md](DEPLOY.md). Use `npm run deploy` alone
+if you just want to ship the worker without touching the app.
 
 ## Creating Content
 
@@ -114,7 +117,9 @@ stable across requests. See [PROTOCOL.md](PROTOCOL.md) and the counting-sheep ex
 
 | Command | Description |
 |---|---|
-| `npm run deploy` | Full release: regen registry + typecheck + deploy to Cloudflare |
+| `npm run publish` | Deploy the worker **and** register every fork with the forkfeed app |
+| `npm run deploy` | Deploy only: regen registry + typecheck + deploy to Cloudflare |
+| `npm run register` | Register forks with the app without re-deploying (uses the live worker) |
 | `npm run typecheck` | TypeScript type checking (validates content); deploy runs it for you |
 | `npm run convert` | Regenerate `forks/index.ts` / migrate manifests; deploy runs it for you |
 | `npm run dev` | Local development server |
