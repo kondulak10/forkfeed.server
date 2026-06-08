@@ -577,7 +577,7 @@ See `content/atomic-habits-images.html` for a reference implementation.
 
 ### Content block type safety (CRITICAL)
 
-Before writing the final JSON, extract every unique `type` value from all `blocks` arrays across all cards. Then read the `ContentBlock.__resolveType` switch statement in `../forkfeed.app/app-server/src/graphql/resolvers/index.ts` and verify that **every block type in the manifest has a matching case**. If any block type is missing from the resolver, **stop and add the missing case to the resolver before proceeding**. This prevents the "Abstract type must resolve to an Object type at runtime" error that breaks the entire feed.
+Before writing the final JSON, extract every unique `type` value from all `blocks` arrays across all cards. Then read the `ContentBlock.__resolveType` switch statement in `../forkfeed-app/app-server/src/graphql/resolvers/index.ts` and verify that **every block type in the manifest has a matching case**. If any block type is missing from the resolver, **stop and add the missing case to the resolver before proceeding**. This prevents the "Abstract type must resolve to an Object type at runtime" error that breaks the entire feed.
 
 The allowed block types as of now are: `CONTENT_IMAGE`, `CONTENT_TEXT`, `CONTENT_TITLE`, `CONTENT_VIDEO`, `CONTENT_SOCIAL`, `CONTENT_SUBTEXT`, `CONTENT_CODE`, `CONTENT_QUIZ`, `CONTENT_BUTTON`. If you introduce a new block type, you MUST add it to the resolver first.
 
@@ -810,11 +810,18 @@ IMAGE N+1 (Quiz): https://{{CDN_DOMAIN}}/content/<book-slug>/<name>.png
 
 ## After Completing All Phases
 
-Tell the user:
+Convert the manifest into typed fork files and validate it:
 
-1. **Content**: `manifests/<book-slug>.json` - ready to upload, all image URLs resolved
+```bash
+npm run convert -- manifests/<book-slug>.json   # writes forks/<book-slug>/*.ts + regenerates forks/index.ts
+npm run typecheck                                # the TS compiler validates the content
+```
+
+Then tell the user:
+
+1. **Content**: `manifests/<book-slug>.json` converted to `forks/<book-slug>/` - all image URLs resolved
 2. **Images**: {N} cover images generated, downloaded, and uploaded to CDN (backgrounds sourced from pre-made catalog)
 3. **Prompts**: `content/<book-slug>-images.md` - kept for reference
 4. **URLs**: `content/<book-slug>-urls.txt` - CDN URL mapping
 5. **Summary**: {N} chapter feeds + 1 quiz feed, {N} total cards, {N} quiz questions
-6. **Next step**: "Push with `/server-actions` (Push manifests) - the JSON is ready to go."
+6. **Next step**: Deploy with `/server-actions` (Deploy), then make it visible with `/server-actions` (Publish a fork) using the deployed worker URL.

@@ -2,7 +2,12 @@ name = "forkfeed-server"
 main = "src/index.ts"
 compatibility_date = "2025-03-01"
 
-[[d1_databases]]
-binding = "DB"
-database_name = "forkfeed-server-db"
-database_id = "<your-d1-database-id>"
+# Content lives as typed TS files under forks/ and is bundled into the worker
+# at build time. There is no database.
+
+[vars]
+# Read-access key clients must send as `Authorization: Bearer <READ_KEY>`.
+# Defaults to "read" if unset. Change it after forking if you want a private feed.
+READ_KEY = "read"
+# Optional: comma-separated CORS origins (defaults to "*").
+# ALLOWED_ORIGINS = "https://app.example.com"

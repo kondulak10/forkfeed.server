@@ -34,55 +34,73 @@ Fork
 - **Card**: A single piece of content. Cards scroll vertically with snap-to-card behavior.
 - **Variant**: One visual view of a card. Cards with multiple variants support horizontal swiping (e.g. an image on the first swipe, details on the second).
 
-## JSON File Format
+## File Format
 
-Content is defined in JSON files with three top-level arrays:
+Content is defined as **typed TypeScript files** under `forks/`, one folder per fork:
 
-```json
-{
-  "forks": [...],
-  "feeds": [...],
-  "cards": [...]
-}
+```
+forks/
+  <fork-id>/
+    fork.ts              # Fork: metadata + ordered feeds (default export)
+    <feed-id>.ts         # StaticFeed: a fixed array of cards (default export)
+    <feed-id>.dynamic.ts # DynamicFeed: a generate() function (default export)
 ```
 
-Push with:
+The types live in [`src/types.ts`](src/types.ts) and ARE the schema: run
+`npm run typecheck` and the TypeScript compiler validates your content. Wrangler
+bundles these files into the worker at build time, so there is no database and no
+push step - to change content, edit a file and `npm run deploy`.
 
-```bash
-npm run push -- manifests/my-content.json
+### Fork (`forks/<fork-id>/fork.ts`)
+
+```ts
+import type { Fork } from '../../src/types.js';
+import intro from './my-feed.js';
+
+const fork: Fork = {
+  meta: {
+    id: 'my-fork',            // kebab-case, unique
+    title: 'My Fork',
+    description: 'Short description',
+    imageSrc: 'https://cdn.example.com/cover.jpg',
+    actionLabel: 'Buy the Full Book', // optional CTA button
+    actionUrl: 'https://example.com', // optional CTA URL
+  },
+  feeds: [intro],             // ordered
+};
+
+export default fork;
 ```
 
-### Fork Fields
+### Feed (`forks/<fork-id>/<feed-id>.ts`)
 
-| Field | Type | Required | Description |
-|---|---|---|---|
-| `_id` | `string` | Yes | Unique identifier (kebab-case) |
-| `title` | `string` | Yes | Display title |
-| `description` | `string` | Yes | Short description |
-| `imageSrc` | `string` | Yes | Cover image URL |
-| `feedIds` | `string[]` | Yes | Ordered list of feed IDs |
-| `actionLabel` | `string` | No | Button text (e.g. "Buy the Full Book") |
-| `actionUrl` | `string` | No | URL the button opens in the browser |
+```ts
+import type { StaticFeed } from '../../src/types.js';
 
-### Feed Fields
+const feed: StaticFeed = {
+  id: 'my-feed',              // kebab-case, unique
+  title: 'My Feed',
+  description: 'Short description',
+  imageSrc: 'https://cdn.example.com/cover.jpg',
+  mode: 'sequential',        // 'sequential' (default) or 'random'
+  scrollDirection: 'vertical', // 'vertical' (default) or 'horizontal'
+  engagement: true,          // app-server records engagement when true
+  cards: [
+    { id: 'my-feed-0', variants: [ /* CardVariant[] - see below */ ] },
+  ],
+};
 
-| Field | Type | Required | Description |
-|---|---|---|---|
-| `_id` | `string` | Yes | Unique identifier (kebab-case) |
-| `title` | `string` | Yes | Display title |
-| `description` | `string` | Yes | Short description |
-| `imageSrc` | `string` | Yes | Cover image URL |
-| `mode` | `string` | No | `"sequential"` (default) or `"random"` |
-| `engagement` | `boolean` | No | `true` to enable engagement tracking (default `false`) |
+export default feed;
+```
 
-### Card Fields
+For infinite/procedural feeds, use a `<feed-id>.dynamic.ts` exporting a
+`DynamicFeed` with a `generate(page, limit, seed)` function - see
+[`forks/counting-sheep/`](forks/counting-sheep) for a worked example.
 
-| Field | Type | Required | Description |
-|---|---|---|---|
-| `_id` | `string` | Yes | Unique identifier |
-| `feedId` | `string` | Yes | Parent feed ID |
-| `order` | `integer` | No | Sort order within feed (default `0`) |
-| `variants` | `CardVariant[]` | Yes | One or more variant objects |
+### Card
+
+Each card is `{ id: string; variants: CardVariant[] }`. Card order is the array
+order in the feed. Variant types are below.
 
 ## Card Variant Types
 
@@ -315,30 +333,28 @@ Cards with multiple variants display a horizontal pager - users swipe left/right
 - **Product showcase**: Multiple `FULL_IMAGE` variants with shared `backgroundSrc` and different foreground PNGs - background stays static while products swipe
 - **Code + Explanation**: `CONTENT` with code blocks, then `CONTENT` with walkthrough
 
-Example:
+Example card (an element of a feed's `cards` array):
 
-```json
+```ts
 {
-  "_id": "concept-001",
-  "feedId": "intro",
-  "order": 0,
-  "variants": [
+  id: 'concept-001',
+  variants: [
     {
-      "type": "FULL_IMAGE",
-      "imageSrc": "https://example.com/cover.jpg",
-      "title": "Variables",
-      "subtitle": "Swipe for details →"
+      type: 'FULL_IMAGE',
+      imageSrc: 'https://example.com/cover.jpg',
+      title: 'Variables',
+      subtitle: 'Swipe for details →',
     },
     {
-      "type": "CONTENT",
-      "backgroundSrc": "https://example.com/code-bg.jpg",
-      "blocks": [
-        { "type": "CONTENT_TITLE", "title": "Variables" },
-        { "type": "CONTENT_TEXT", "text": "A variable stores a value that can change..." },
-        { "type": "CONTENT_CODE", "code": "let name = 'world';", "language": "javascript" }
-      ]
-    }
-  ]
+      type: 'CONTENT',
+      backgroundSrc: 'https://example.com/code-bg.jpg',
+      blocks: [
+        { type: 'CONTENT_TITLE', title: 'Variables' },
+        { type: 'CONTENT_TEXT', text: 'A variable stores a value that can change...' },
+        { type: 'CONTENT_CODE', code: "let name = 'world';", language: 'javascript' },
+      ],
+    },
+  ],
 }
 ```
 
@@ -390,88 +406,101 @@ bash scripts/upload-image.sh photo.jpg content/my-project/photo.jpg
 
 Configure with environment variables: `S3_BUCKET` and `CDN_DOMAIN`.
 
-## Pushing Content
+## Deploying & Publishing
 
-Push manifests to forkfeed via the app-server:
+Content ships with the worker. From the forkserver repo:
 
 ```bash
-# Push a single manifest
-npm run push -- manifests/my-content.json
-
-# Push all manifests
-npm run push
+npm run convert     # regenerate forks/index.ts (scans forks/*/fork.ts)
+npm run typecheck   # the TS compiler validates all content under forks/
+npm run deploy      # deploy the worker to Cloudflare
 ```
 
-Push performs **idempotent upserts** - safe to run repeatedly. The app-server forwards content to the card server and registers forks automatically.
+To surface a fork in the forkfeed app, register its metadata once it is deployed
+(the app fetches `GET /forks/:forkId` from your worker and stores it as private):
 
-Auth: reads `FORKFEED_TOKEN` from `.dev.vars` (get one at `forkfeed.link/admin/user/token`).
+```bash
+curl -X POST https://api.forkfeed.link/api/content/publish \
+  -H "Authorization: Bearer $FORKFEED_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"forkServerUrl":"https://your-worker.workers.dev","forkId":"my-fork","readKey":"read"}'
+```
+
+Get a token at `forkfeed.link/admin/user/token`. Forks register as **private**; to go
+public, change visibility in the app (requires admin approval). Re-running publish is
+an idempotent upsert.
 
 ## ID Conventions
 
-- **Fork and Feed IDs**: kebab-case, namespaced by project (e.g., `hp-ps-privet-drive`, `tj-overview`)
-- **Card IDs**: UUID v4 format (e.g., `9e990a75-3e3a-4dff-8dde-26663e711754`). Required for the app's like/reaction system.
-- Keep IDs **stable** — they're referenced by forks and used in API URLs
+- **Fork and Feed IDs**: kebab-case, namespaced by project (e.g., `hp-ps-privet-drive`, `tj-overview`). Used as folder/file names under `forks/` and in API URLs.
+- **Card IDs**: stable unique strings (e.g. `my-feed-0`). Required for the app's like/reaction system.
+- Keep IDs **stable** - they're referenced by forks and used in API URLs.
 
 ## Minimal Template
 
-A copy-pasteable starting point — one fork, one feed, two cards:
+A copy-pasteable starting point - one fork, one feed, two cards.
 
-```json
-{
-  "forks": [
+`forks/my-fork/my-feed.ts`:
+
+```ts
+import type { StaticFeed } from '../../src/types.js';
+
+const feed: StaticFeed = {
+  id: 'my-feed',
+  title: 'Getting Started',
+  description: 'Your first cards',
+  imageSrc: 'https://picsum.photos/seed/my-feed/800/600',
+  mode: 'sequential',
+  scrollDirection: 'vertical',
+  engagement: true,
+  cards: [
     {
-      "_id": "my-fork",
-      "title": "My First Fork",
-      "description": "A sample fork to get started",
-      "imageSrc": "https://picsum.photos/seed/my-fork/800/1200",
-      "feedIds": ["my-feed"]
-    }
-  ],
-  "feeds": [
-    {
-      "_id": "my-feed",
-      "title": "Getting Started",
-      "description": "Your first cards",
-      "imageSrc": "https://picsum.photos/seed/my-feed/800/600",
-      "mode": "sequential",
-      "engagement": true
-    }
-  ],
-  "cards": [
-    {
-      "_id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f80",
-      "feedId": "my-feed",
-      "order": 0,
-      "variants": [
+      id: 'my-feed-0',
+      variants: [
         {
-          "type": "FULL_IMAGE",
-          "imageSrc": "https://picsum.photos/seed/card-001/800/1200",
-          "title": "Welcome",
-          "subtitle": "Your first card"
-        }
-      ]
+          type: 'FULL_IMAGE',
+          imageSrc: 'https://picsum.photos/seed/card-001/800/1200',
+          title: 'Welcome',
+          subtitle: 'Your first card',
+        },
+      ],
     },
     {
-      "_id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8091",
-      "feedId": "my-feed",
-      "order": 1,
-      "variants": [
+      id: 'my-feed-1',
+      variants: [
         {
-          "type": "CONTENT",
-          "blocks": [
-            { "type": "CONTENT_TITLE", "title": "Hello World" },
-            { "type": "CONTENT_TEXT", "text": "This is a rich content card. You can mix text, images, code, and more." },
-            { "type": "CONTENT_CODE", "code": "console.log('hello');", "language": "javascript" }
-          ]
-        }
-      ]
-    }
-  ]
-}
+          type: 'CONTENT',
+          blocks: [
+            { type: 'CONTENT_TITLE', title: 'Hello World' },
+            { type: 'CONTENT_TEXT', text: 'This is a rich content card. You can mix text, images, code, and more.' },
+            { type: 'CONTENT_CODE', code: "console.log('hello');", language: 'javascript' },
+          ],
+        },
+      ],
+    },
+  ],
+};
+
+export default feed;
 ```
 
-Save as `manifests/my-content.json` and push:
+`forks/my-fork/fork.ts`:
 
-```bash
-npm run push -- manifests/my-content.json
+```ts
+import type { Fork } from '../../src/types.js';
+import myFeed from './my-feed.js';
+
+const fork: Fork = {
+  meta: {
+    id: 'my-fork',
+    title: 'My First Fork',
+    description: 'A sample fork to get started',
+    imageSrc: 'https://picsum.photos/seed/my-fork/800/1200',
+  },
+  feeds: [myFeed],
+};
+
+export default fork;
 ```
+
+Then `npm run convert && npm run typecheck && npm run deploy`, and publish as above.

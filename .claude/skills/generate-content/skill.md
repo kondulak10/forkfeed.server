@@ -347,7 +347,10 @@ Rules:
 
 ## Output
 
-Write a JSON file to `manifests/<topic-slug>.json` with this exact structure:
+Write a JSON file to `manifests/<topic-slug>.json`. This is an **intermediate**: the
+final content lives as typed TypeScript files under `forks/`, but writing the manifest
+first lets you author all cards/feeds in one place and then convert it. Use this exact
+structure:
 
 ```json
 {
@@ -739,7 +742,7 @@ Before writing the file, check if `manifests/<topic-slug>.json` already exists. 
 
 ### Content block type safety (CRITICAL)
 
-Before writing the final JSON, extract every unique `type` value from all `blocks` arrays across all cards. Then read the `ContentBlock.__resolveType` switch statement in `../forkfeed.app/app-server/src/graphql/resolvers/index.ts` and verify that **every block type in the manifest has a matching case**. If any block type is missing from the resolver, **stop and add the missing case to the resolver before proceeding**. This prevents the "Abstract type must resolve to an Object type at runtime" error that breaks the entire feed.
+Before writing the final JSON, extract every unique `type` value from all `blocks` arrays across all cards. Then read the `ContentBlock.__resolveType` switch statement in `../forkfeed-app/app-server/src/graphql/resolvers/index.ts` and verify that **every block type in the manifest has a matching case**. If any block type is missing from the resolver, **stop and add the missing case to the resolver before proceeding**. This prevents the "Abstract type must resolve to an Object type at runtime" error that breaks the entire feed.
 
 The allowed block types as of now are: `CONTENT_IMAGE`, `CONTENT_TEXT`, `CONTENT_TITLE`, `CONTENT_VIDEO`, `CONTENT_SOCIAL`, `CONTENT_SUBTEXT`, `CONTENT_CODE`, `CONTENT_QUIZ`, `CONTENT_BUTTON`. If you introduce a new block type, you MUST add it to the resolver first.
 
@@ -878,7 +881,14 @@ These are enforced server-side. Generating invalid data will cause upload failur
 
 ## After Generating
 
+Convert the manifest into typed fork files and validate it:
+
+```bash
+npm run convert -- manifests/<topic-slug>.json   # writes forks/<topic-slug>/*.ts + regenerates forks/index.ts
+npm run typecheck                                 # the TS compiler validates the content
+```
+
 Tell the user:
-- The file was saved to `manifests/<topic-slug>.json`
-- They can push it with: `/server-actions` (Push manifests)
+- The manifest was saved to `manifests/<topic-slug>.json` and converted to `forks/<topic-slug>/`
+- Deploy with `/server-actions` (Deploy), then make it visible with `/server-actions` (Publish a fork) using the deployed worker URL
 - Show a summary: number of feeds, number of cards, variant type breakdown, number of quiz questions (if any)

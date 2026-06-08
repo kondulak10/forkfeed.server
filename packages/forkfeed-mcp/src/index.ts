@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, writeFile, readdir } from 'node:fs/promises';
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 import { join, basename } from 'node:path';
@@ -18,27 +18,7 @@ const APP_SERVER_URL = (
 ).replace(/\/+$/, '');
 const TOKEN = process.env.FORKFEED_TOKEN || '';
 
-// ── Manifest schemas ──────────────────────────────────────────────────
-
-const forkSchema = z.object({
-  _id: z.string().min(1, 'Fork _id is required'),
-  title: z.string().min(1, 'Fork title is required'),
-  description: z.string(),
-  imageSrc: z.string().min(1, 'Fork imageSrc is required'),
-  feedIds: z.array(z.string().min(1)).min(1, 'Fork must reference at least one feed'),
-  actionLabel: z.string().optional(),
-  actionUrl: z.string().optional(),
-}).passthrough();
-
-const feedSchema = z.object({
-  _id: z.string().min(1, 'Feed _id is required'),
-  title: z.string().min(1, 'Feed title is required').max(60, 'Feed title max 60 chars'),
-  description: z.string().optional(),
-  imageSrc: z.string().min(1, 'Feed imageSrc is required'),
-  mode: z.string(),
-  scrollDirection: z.string(),
-  engagement: z.boolean().optional(),
-}).passthrough();
+// ── Content schemas (validate generated cards before writing) ──────────
 
 const sizingEnum = z.enum(['automatic', 'wide', 'portrait', 'square', 'small_portrait']);
 const socialSourceEnum = z.enum(['x', 'linkedin', 'instagram', 'facebook', 'threads', 'bluesky']);
@@ -65,45 +45,47 @@ const variantSchema = z.discriminatedUnion('type', [
   z.object({ type: z.literal('CONTENT'), blocks: z.array(contentBlockSchema).min(1, 'CONTENT variant needs at least one block'), backgroundSrc: z.string().optional() }).passthrough(),
 ]);
 
-const cardSchema = z.object({
-  _id: z.string().min(1, 'Card _id is required'),
-  feedId: z.string().min(1, 'Card feedId is required'),
-  order: z.number().int().min(0),
-  variants: z.array(variantSchema).min(2, 'Card needs at least 2 variants (cover + detail)'),
-}).passthrough();
+type Variant = z.infer<typeof variantSchema>;
 
-const manifestSchema = z.object({
-  forks: z.array(forkSchema).min(1, 'Manifest must have at least one fork'),
-  feeds: z.array(feedSchema).min(1, 'Manifest must have at least one feed'),
-  cards: z.array(cardSchema).min(1, 'Manifest must have at least one card'),
-});
+interface BuiltCard { id: string; variants: Variant[] }
+interface BuiltFeed {
+  id: string;
+  title: string;
+  description: string;
+  imageSrc: string;
+  mode: 'sequential';
+  scrollDirection: 'vertical';
+  engagement: true;
+  cards: BuiltCard[];
+}
+interface ForkMeta {
+  id: string;
+  title: string;
+  description: string;
+  imageSrc: string;
+  actionLabel?: string;
+  actionUrl?: string;
+}
 
-/** Cross-reference checks that Zod can't express. Returns error string or null.
- *  knownFeedIds: feed IDs that exist server-side but aren't in this manifest (skip fork ref check for these). */
-function crossValidate(manifest: z.infer<typeof manifestSchema>, knownFeedIds?: Set<string>): string | null {
-  const feedIds = new Set(manifest.feeds.map((f) => f._id));
+/** Validate a built card's variants. Returns an error string or null. */
+function validateCards(cards: BuiltCard[]): string | null {
   const errors: string[] = [];
-
-  for (const fork of manifest.forks) {
-    for (const fid of fork.feedIds) {
-      if (!feedIds.has(fid) && !knownFeedIds?.has(fid)) errors.push(`Fork "${fork._id}" references feed "${fid}" which is not in feeds array`);
-    }
-  }
-
-  for (const card of manifest.cards) {
-    if (!feedIds.has(card.feedId)) errors.push(`Card "${card._id}" references feed "${card.feedId}" which is not in feeds array`);
-    for (let vi = 0; vi < card.variants.length; vi++) {
-      const v = card.variants[vi];
-      if (v.type !== 'CONTENT') continue;
-      for (const block of v.blocks) {
-        if (block.type === 'CONTENT_QUIZ') {
-          const hasCorrect = block.options.some((o) => o.correct === true);
-          if (!hasCorrect) errors.push(`Card "${card._id}" variants[${vi}]: CONTENT_QUIZ must have at least one correct option`);
+  cards.forEach((card, ci) => {
+    if (card.variants.length < 2) errors.push(`card[${ci}] needs at least 2 variants (cover + detail)`);
+    card.variants.forEach((v, vi) => {
+      const parsed = variantSchema.safeParse(v);
+      if (!parsed.success) {
+        errors.push(`card[${ci}].variants[${vi}]: ${parsed.error.issues.map((i) => i.message).join(', ')}`);
+      }
+      if (v.type === 'CONTENT') {
+        for (const block of v.blocks) {
+          if (block.type === 'CONTENT_QUIZ' && !block.options.some((o) => o.correct === true)) {
+            errors.push(`card[${ci}].variants[${vi}]: CONTENT_QUIZ must have at least one correct option`);
+          }
         }
       }
-    }
-  }
-
+    });
+  });
   return errors.length > 0 ? errors.join('\n') : null;
 }
 
@@ -271,18 +253,15 @@ const LANG_BG: Record<string, string> = {
   python: 'bg13',
   rust: 'bg14',
   deploy: 'bg15',
-  // bg17 = Frontend (fallback for language tag without specific match)
 };
 
 function assignBackgrounds(tags: string[]): string[] {
   const used = new Set<string>();
 
-  // For card 3 (Learning), reorder prefs based on detected language tags
   const learningPrefs = [...BG_PREFS[3]];
   for (const tag of tags) {
     const preferred = LANG_BG[tag];
     if (preferred && learningPrefs.includes(preferred)) {
-      // Move matched bg to front
       learningPrefs.splice(learningPrefs.indexOf(preferred), 1);
       learningPrefs.unshift(preferred);
       break;
@@ -417,19 +396,19 @@ const buildInputSchema = z.object({
       blocks: z.array(z.record(z.string(), z.unknown())).min(1),
     })).min(1),
   })).length(6),
-  cwd: z.string().optional().describe('Working directory (defaults to process.cwd())'),
+  cwd: z.string().optional().describe('Working directory for git (defaults to process.cwd())'),
+  outDir: z.string().optional().describe('Forkserver repo root to write forks/ into (defaults to cwd)'),
   bgOverride: z.array(z.string()).length(6).optional().describe('Override auto-assigned background IDs'),
   coverOverride: z.array(z.string()).length(6).optional().describe('Override cover image IDs (defaults to backgrounds)'),
 });
 
 type BuildInput = z.infer<typeof buildInputSchema>;
 
-// ── Manifest builder ─────────────────────────────────────────────────
+// ── Content builder ──────────────────────────────────────────────────
 
-async function buildManifest(input: BuildInput): Promise<{ manifest: z.infer<typeof manifestSchema>; existingFeedIds: string[] }> {
+async function buildFeed(input: BuildInput): Promise<{ forkId: string; feed: BuiltFeed; forkMeta: ForkMeta }> {
   const cwd = input.cwd || process.cwd();
 
-  // Auto-detect repo info
   const repoInfo = await getRepoInfo(cwd);
   const owner = repoInfo.owner || 'local';
   const repo = repoInfo.repo;
@@ -450,70 +429,87 @@ async function buildManifest(input: BuildInput): Promise<{ manifest: z.infer<typ
     bgs = assignBackgrounds(tags);
   }
 
-  // Auto-fetch existing feed IDs (best-effort)
-  let existingFeedIds: string[] = [];
-  if (TOKEN) {
-    try {
-      const status = await fetchStatusData();
-      existingFeedIds = (status.feeds || []).map((f) => f.externalFeedId);
-    } catch { /* best-effort */ }
-  }
-
-  // Resolve image IDs
   const bgUrls = bgs.map(resolveImageId);
-  const coverUrls = input.coverOverride
-    ? input.coverOverride.map(resolveImageId)
-    : bgUrls;
+  const coverUrls = input.coverOverride ? input.coverOverride.map(resolveImageId) : bgUrls;
 
   const actionUrl = repoInfo.owner
     ? `https://github.com/${repoInfo.owner}/${repoInfo.repo}`
     : undefined;
 
-  const fork = {
-    _id: forkId,
+  const forkMeta: ForkMeta = {
+    id: forkId,
     title: input.forkTitle,
     description: input.forkDescription,
     imageSrc: coverUrls[0],
-    feedIds: [feedId, ...existingFeedIds],
     ...(actionUrl ? { actionLabel: 'View on GitHub', actionUrl } : {}),
   };
 
-  const feed = {
-    _id: feedId,
+  const cards: BuiltCard[] = input.cards.map((card, i) => {
+    const coverVariant: Variant = {
+      type: 'FULL_IMAGE',
+      imageSrc: coverUrls[i],
+      title: COVERS[i].title,
+      subtitle: COVERS[i].subtitle,
+    };
+    const detailVariants: Variant[] = card.variants.map((v) => ({
+      type: 'CONTENT',
+      backgroundSrc: bgUrls[i],
+      blocks: v.blocks.map((b) => inferBlock(b as Record<string, unknown>)),
+    }));
+    return { id: `${feedId}-card-${i}`, variants: [coverVariant, ...detailVariants] };
+  });
+
+  const feed: BuiltFeed = {
+    id: feedId,
     title: input.feedTitle,
     description: input.feedDescription,
     imageSrc: coverUrls[0],
     mode: 'sequential',
     scrollDirection: 'vertical',
     engagement: true,
+    cards,
   };
 
-  const cards = input.cards.map((card, i) => {
-    const coverVariant = {
-      type: 'FULL_IMAGE' as const,
-      imageSrc: coverUrls[i],
-      title: COVERS[i].title,
-      subtitle: COVERS[i].subtitle,
-    };
-
-    const detailVariants = card.variants.map((v) => ({
-      type: 'CONTENT' as const,
-      backgroundSrc: bgUrls[i],
-      blocks: v.blocks.map((b) => inferBlock(b as Record<string, unknown>)),
-    }));
-
-    return {
-      _id: crypto.randomUUID(),
-      feedId,
-      order: i,
-      variants: [coverVariant, ...detailVariants],
-    };
-  });
-
-  return { manifest: { forks: [fork], feeds: [feed], cards }, existingFeedIds };
+  return { forkId, feed, forkMeta };
 }
 
-// ── Push helper (shared by forkfeed_push and forkfeed_build) ─────────
+// ── File scaffolding ─────────────────────────────────────────────────
+
+function feedFileSource(feed: BuiltFeed): string {
+  return `import type { StaticFeed } from '../../src/types.js';\n\n` +
+    `const feed: StaticFeed = ${JSON.stringify(feed, null, 2)};\n\n` +
+    `export default feed;\n`;
+}
+
+function forkFileSource(forkMeta: ForkMeta, feedIds: string[]): string {
+  const imports = feedIds.map((id, i) => `import feed${i} from './${id}.js';`).join('\n');
+  const feedList = feedIds.map((_, i) => `feed${i}`).join(', ');
+  return `import type { Fork } from '../../src/types.js';\n${imports}\n\n` +
+    `const fork: Fork = {\n  meta: ${JSON.stringify(forkMeta, null, 2).replace(/\n/g, '\n  ')},\n  feeds: [${feedList}],\n};\n\n` +
+    `export default fork;\n`;
+}
+
+/**
+ * Write the feed file and (re)generate fork.ts importing every feed file in the
+ * fork directory. Returns the directory written to.
+ */
+async function writeForkFiles(outDir: string, forkId: string, feed: BuiltFeed, forkMeta: ForkMeta): Promise<string> {
+  const dir = join(outDir, 'forks', forkId);
+  await mkdir(dir, { recursive: true });
+  await writeFile(join(dir, `${feed.id}.ts`), feedFileSource(feed));
+
+  // Collect every feed file in the dir (excludes fork.ts) so fork.ts imports them all.
+  const entries = await readdir(dir);
+  const feedIds = entries
+    .filter((f) => f.endsWith('.ts') && f !== 'fork.ts')
+    .map((f) => f.replace(/\.ts$/, ''))
+    .sort();
+  await writeFile(join(dir, 'fork.ts'), forkFileSource(forkMeta, feedIds));
+
+  return dir;
+}
+
+// ── MCP result type ───────────────────────────────────────────────────
 
 interface McpResult {
   [key: string]: unknown;
@@ -521,103 +517,18 @@ interface McpResult {
   isError?: boolean;
 }
 
-async function pushManifestToServer(manifest: z.infer<typeof manifestSchema>): Promise<McpResult> {
-  if (!TOKEN) {
-    return {
-      content: [{ type: 'text', text: 'Error: FORKFEED_TOKEN not set. Get your API token from forkfeed.link/admin/user/token and add it to your .mcp.json env.' }],
-      isError: true,
-    };
-  }
-
-  // Save manifest locally (best-effort)
-  const forkId = manifest.forks?.[0]?._id;
-  const filename = `${forkId || `manifest-${Date.now()}`}.json`;
-  const dir = join(process.cwd(), 'forkfeed');
-  const filepath = join(dir, filename);
-  let saveError = '';
-  try {
-    await mkdir(dir, { recursive: true });
-    await writeFile(filepath, JSON.stringify(manifest, null, 2));
-  } catch (err) {
-    saveError = `Warning: failed to save manifest to ${filepath}: ${err instanceof Error ? err.message : String(err)}`;
-  }
-
-  try {
-    const res = await fetch(`${APP_SERVER_URL}/api/content/push`, {
-      method: 'POST',
-      headers: authHeaders(),
-      body: JSON.stringify({ manifest }),
-      signal: AbortSignal.timeout(15_000),
-    });
-
-    const data = await res.json();
-
-    if (!res.ok) {
-      return {
-        content: [{ type: 'text', text: `Push failed (${res.status}): ${data.error || JSON.stringify(data)}` }],
-        isError: true,
-      };
-    }
-
-    const forkSummary = data.forks
-      ?.map((f: { title: string; feeds: number }) => `  - ${f.title} (${f.feeds} feeds)`)
-      .join('\n');
-
-    // Use the real MongoDB ObjectId returned by the server, not the manifest slug
-    const realForkId = data.forks?.[0]?.forkId || forkId;
-    let qrBlock = '';
-    if (realForkId) {
-      const url = `https://forkfeed.link/fork/${realForkId}`;
-      try {
-        const qr = await QRCode.toString(url, { type: 'utf8', errorCorrectionLevel: 'L' });
-        qrBlock = ['', 'Scan to open in forkfeed:', '', qr].join('\n');
-      } catch {
-        qrBlock = '';
-      }
-    }
-
-    const blocks: Array<{ type: 'text'; text: string }> = [{
-      type: 'text',
-      text: [
-        'Content pushed successfully!',
-        '',
-        `Uploaded: ${data.uploaded?.feeds || 0} feeds, ${data.uploaded?.cards || 0} cards`,
-        '',
-        'Forks:',
-        forkSummary || '  (none)',
-        '',
-        saveError || `Manifest saved to ${filepath}`,
-        '',
-        'Your content is now live in the forkfeed app. It starts as private.',
-        'To make it public, change visibility in the app (requires admin approval).',
-      ].join('\n'),
-    }];
-
-    if (qrBlock) {
-      blocks.push({ type: 'text', text: qrBlock });
-    }
-
-    return { content: blocks };
-  } catch (err) {
-    return {
-      content: [{ type: 'text', text: `Push failed: ${err instanceof Error ? err.message : String(err)}` }],
-      isError: true,
-    };
-  }
-}
-
 // ── MCP Server ─────────────────────────────────────────────────────────
 
 const server = new McpServer({
   name: 'forkfeed',
-  version: '1.0.0',
+  version: '2.0.0',
 });
 
 // ── Tool: forkfeed_guide ───────────────────────────────────────────────
 
 server.tool(
   'forkfeed_guide',
-  'Get the complete guide for generating forkfeed content from GitHub commits. Call this first to learn the format before generating content.',
+  'Get the complete guide for generating forkfeed content from GitHub commits. Call this first to learn the card format before generating content.',
   {},
   async () => ({
     content: [{ type: 'text', text: GUIDE_CONTENT }],
@@ -628,7 +539,7 @@ server.tool(
 
 server.tool(
   'forkfeed_commits',
-  'Read git commits from the current repo. Without sha: lists recent commits with published status. With sha: returns structured commit details + pre-filtered images for content generation.',
+  'Read git commits from the current repo. Without sha: lists recent commits. With sha: returns structured commit details + pre-filtered images for content generation.',
   {
     sha: z.string().optional().describe('Full or short SHA to analyze in detail. Omit to list recent commits.'),
     cwd: z.string().optional().describe('Working directory. Defaults to process.cwd().'),
@@ -656,41 +567,17 @@ server.tool(
         return { content: [{ type: 'text' as const, text: 'No commits found in this repository.' }] };
       }
 
-      // Fetch published status (best-effort)
-      let publishedShas = new Set<string>();
-      let existingFeedIds: string[] = [];
-      let statusWarning = '';
-      if (TOKEN) {
-        try {
-          const status = await fetchStatusData();
-          existingFeedIds = (status.feeds || []).map((f) => f.externalFeedId);
-          for (const feedId of existingFeedIds) {
-            const parts = feedId.split('-');
-            const feedSha = parts[parts.length - 1];
-            if (feedSha) publishedShas.add(feedSha);
-          }
-        } catch {
-          statusWarning = '\nNote: could not check published status (network error or token issue).';
-        }
-      }
-
       const lines = [
         `Repo: ${repoLabel}`,
         '',
-        '| # | SHA | Message | Author | Date | Published |',
-        '|---|-----|---------|--------|------|-----------|',
+        '| # | SHA | Message | Author | Date |',
+        '|---|-----|---------|--------|------|',
       ];
 
       for (let i = 0; i < commits.length; i++) {
         const c = commits[i];
-        const pub = publishedShas.has(c.shortSha) ? 'yes' : '';
-        lines.push(`| ${i + 1} | ${c.shortSha} | ${c.message.slice(0, 60)} | ${c.author} | ${c.date} | ${pub} |`);
+        lines.push(`| ${i + 1} | ${c.shortSha} | ${c.message.slice(0, 60)} | ${c.author} | ${c.date} |`);
       }
-
-      if (existingFeedIds.length > 0) {
-        lines.push('', `Published feeds: ${existingFeedIds.length} (builder auto-includes them)`);
-      }
-      if (statusWarning) lines.push(statusWarning);
 
       return { content: [{ type: 'text' as const, text: lines.join('\n') }] };
     }
@@ -703,9 +590,7 @@ server.tool(
       return { content: [{ type: 'text' as const, text: `Failed to read commit ${sha}: ${err instanceof Error ? err.message : String(err)}` }], isError: true };
     }
 
-    // Extract file paths from stats for tag detection
     const filePaths = parseFilePathsFromStats(detail.stats);
-
     const tags = detectTags(detail.message, filePaths);
     const images = filterImagesByTags(tags);
 
@@ -731,97 +616,110 @@ server.tool(
   },
 );
 
-// ── Tool: forkfeed_push ────────────────────────────────────────────────
-
-server.tool(
-  'forkfeed_push',
-  'Push a generated manifest (forks, feeds, cards) to forkfeed. The manifest JSON must conform to the structure described in forkfeed_guide.',
-  {
-    manifest: z
-      .object({
-        forks: z.array(z.any()),
-        feeds: z.array(z.any()),
-        cards: z.array(z.any()),
-      })
-      .describe('The complete manifest with forks, feeds, and cards arrays'),
-  },
-  async ({ manifest }) => {
-    // Validate manifest structure before pushing
-    const parsed = manifestSchema.safeParse(manifest);
-    if (!parsed.success) {
-      const issues = parsed.error.issues
-        .map((i) => `  ${i.path.join('.')}: ${i.message}`)
-        .join('\n');
-      return {
-        content: [{ type: 'text', text: `Manifest validation failed:\n${issues}\n\nFix the issues above and try again.` }],
-        isError: true,
-      };
-    }
-
-    const crossErr = crossValidate(parsed.data);
-    if (crossErr) {
-      return {
-        content: [{ type: 'text', text: `Manifest cross-reference errors:\n${crossErr}\n\nFix the issues above and try again.` }],
-        isError: true,
-      };
-    }
-
-    return pushManifestToServer(parsed.data);
-  },
-);
-
 // ── Tool: forkfeed_build ──────────────────────────────────────────────
 
 server.tool(
   'forkfeed_build',
-  'Build a forkfeed manifest from simplified content and push it. Auto-detects repo info, assigns backgrounds, fetches existing feeds. Use this instead of forkfeed_push.',
+  'Build forkfeed content from a commit and write it as typed TypeScript files into a forkserver repo (forks/<forkId>/). Auto-detects repo info and assigns backgrounds. After this, run `npm run convert && npm run deploy` in the forkserver repo, then forkfeed_publish.',
   {
-    content: buildInputSchema.describe('Simplified content: sha, titles, descriptions, and 6 cards with blocks'),
-    push: z.boolean().optional().describe('Push immediately after building (default: true)'),
+    content: buildInputSchema.describe('Simplified content: sha, titles, descriptions, 6 cards with blocks, and optional outDir (forkserver repo root)'),
   },
-  async ({ content, push }) => {
-    const shouldPush = push !== false;
-
-    // Build the full manifest from simplified input
-    let manifest: z.infer<typeof manifestSchema>;
-    let existingFeedIds: string[];
+  async ({ content }): Promise<McpResult> => {
+    let forkId: string;
+    let feed: BuiltFeed;
+    let forkMeta: ForkMeta;
     try {
-      ({ manifest, existingFeedIds } = await buildManifest(content));
+      ({ forkId, feed, forkMeta } = await buildFeed(content));
     } catch (err) {
-      return {
-        content: [{ type: 'text', text: `Build failed: ${err instanceof Error ? err.message : String(err)}` }],
-        isError: true,
-      };
+      return { content: [{ type: 'text', text: `Build failed: ${err instanceof Error ? err.message : String(err)}` }], isError: true };
     }
 
-    // Validate the assembled manifest
-    const parsed = manifestSchema.safeParse(manifest);
-    if (!parsed.success) {
-      const issues = parsed.error.issues
-        .map((i) => `  ${i.path.join('.')}: ${i.message}`)
-        .join('\n');
-      return {
-        content: [{ type: 'text', text: `Built manifest failed validation:\n${issues}` }],
-        isError: true,
-      };
+    const validationError = validateCards(feed.cards);
+    if (validationError) {
+      return { content: [{ type: 'text', text: `Content validation failed:\n${validationError}\n\nFix the issues above and try again.` }], isError: true };
     }
 
-    const crossErr = crossValidate(parsed.data, new Set(existingFeedIds));
-    if (crossErr) {
-      return {
-        content: [{ type: 'text', text: `Built manifest cross-reference errors:\n${crossErr}` }],
-        isError: true,
-      };
+    const outDir = content.outDir || content.cwd || process.cwd();
+    let dir: string;
+    try {
+      dir = await writeForkFiles(outDir, forkId, feed, forkMeta);
+    } catch (err) {
+      return { content: [{ type: 'text', text: `Failed to write files: ${err instanceof Error ? err.message : String(err)}` }], isError: true };
     }
 
-    if (shouldPush) {
-      return pushManifestToServer(parsed.data);
-    }
-
-    // Return the manifest for review
     return {
-      content: [{ type: 'text', text: `Manifest built successfully (${manifest.cards.length} cards). Review below, then call forkfeed_push to publish.\n\n${JSON.stringify(manifest, null, 2)}` }],
+      content: [{
+        type: 'text',
+        text: [
+          'Content written to your forkserver repo!',
+          '',
+          `Fork:  ${forkMeta.title}  (${forkId})`,
+          `Feed:  ${feed.title}  (${feed.cards.length} cards)`,
+          `Files: ${dir}/${feed.id}.ts`,
+          `       ${dir}/fork.ts (regenerated)`,
+          '',
+          'Next steps (in the forkserver repo):',
+          '  1. npm run convert   # regenerate forks/index.ts',
+          '  2. npm run typecheck # validate the typed content',
+          '  3. npm run deploy    # deploy the worker',
+          `  4. Then register it with the app: forkfeed_publish forkId=${forkId} forkServerUrl=<your-worker-url>`,
+        ].join('\n'),
+      }],
     };
+  },
+);
+
+// ── Tool: forkfeed_publish ────────────────────────────────────────────
+
+server.tool(
+  'forkfeed_publish',
+  'Register a deployed fork with the forkfeed app. Fetches the fork metadata from your forkserver and stores it (as private). Run after the forkserver is deployed.',
+  {
+    forkId: z.string().min(1).describe('The fork id (e.g. tfip-owner-repo)'),
+    forkServerUrl: z.string().min(1).describe('Base URL of your deployed forkserver worker'),
+    readKey: z.string().optional().describe('Read key for the forkserver (defaults to "read")'),
+  },
+  async ({ forkId, forkServerUrl, readKey }): Promise<McpResult> => {
+    if (!TOKEN) {
+      return { content: [{ type: 'text', text: 'Error: FORKFEED_TOKEN not set. Get your API token from forkfeed.link/admin/user/token.' }], isError: true };
+    }
+    try {
+      const res = await fetch(`${APP_SERVER_URL}/api/content/publish`, {
+        method: 'POST',
+        headers: authHeaders(),
+        body: JSON.stringify({ forkServerUrl, forkId, readKey }),
+        signal: AbortSignal.timeout(15_000),
+      });
+      const data = await res.json();
+      if (!res.ok) {
+        return { content: [{ type: 'text', text: `Publish failed (${res.status}): ${data.error || JSON.stringify(data)}` }], isError: true };
+      }
+
+      const realForkId = data.fork?.id || forkId;
+      let qrBlock = '';
+      try {
+        const url = `https://forkfeed.link/fork/${realForkId}`;
+        const qr = await QRCode.toString(url, { type: 'utf8', errorCorrectionLevel: 'L' });
+        qrBlock = ['', 'Scan to open in forkfeed:', '', qr].join('\n');
+      } catch { /* qr optional */ }
+
+      const blocks: { type: 'text'; text: string }[] = [{
+        type: 'text',
+        text: [
+          'Fork published!',
+          '',
+          `Fork:  ${data.fork?.title || forkId}`,
+          `Feeds: ${data.feeds?.length ?? 0}`,
+          `Visibility: ${data.fork?.visibility || 'private'}`,
+          '',
+          'Your content starts as private. To make it public, change visibility in the app (requires admin approval).',
+        ].join('\n'),
+      }];
+      if (qrBlock) blocks.push({ type: 'text', text: qrBlock });
+      return { content: blocks };
+    } catch (err) {
+      return { content: [{ type: 'text', text: `Publish failed: ${err instanceof Error ? err.message : String(err)}` }], isError: true };
+    }
   },
 );
 
@@ -834,12 +732,7 @@ server.tool(
   async () => {
     if (!TOKEN) {
       return {
-        content: [
-          {
-            type: 'text',
-            text: 'Error: FORKFEED_TOKEN not set. Get your API token from forkfeed.link/admin/user/token and add it to your .mcp.json env.',
-          },
-        ],
+        content: [{ type: 'text', text: 'Error: FORKFEED_TOKEN not set. Get your API token from forkfeed.link/admin/user/token.' }],
         isError: true,
       };
     }
@@ -849,12 +742,7 @@ server.tool(
 
       if (!data.forks?.length) {
         return {
-          content: [
-            {
-              type: 'text',
-              text: 'No forks published yet. Use forkfeed_guide to learn how to generate content, then push it with forkfeed_build.',
-            },
-          ],
+          content: [{ type: 'text', text: 'No forks published yet. Use forkfeed_guide to learn the format, build content with forkfeed_build, then forkfeed_publish.' }],
         };
       }
 
@@ -877,12 +765,7 @@ server.tool(
       return { content: [{ type: 'text', text: lines.join('\n') }] };
     } catch (err) {
       return {
-        content: [
-          {
-            type: 'text',
-            text: `Status check failed: ${err instanceof Error ? err.message : String(err)}`,
-          },
-        ],
+        content: [{ type: 'text', text: `Status check failed: ${err instanceof Error ? err.message : String(err)}` }],
         isError: true,
       };
     }
@@ -893,21 +776,21 @@ server.tool(
 
 server.prompt(
   'forkfeed',
-  'Turn GitHub commits into swipeable forkfeed content. Analyzes your repo, generates 6-card feeds, and pushes them live.',
+  'Turn GitHub commits into swipeable forkfeed content as typed files in your forkserver repo.',
   async () => ({
     messages: [
       {
         role: 'user' as const,
         content: {
           type: 'text' as const,
-          text: `Turn the commits in this repo into forkfeed content. Follow these steps exactly:
+          text: `Turn a commit in this repo into forkfeed content. Follow these steps exactly:
 
 1. Call **forkfeed_guide** and **forkfeed_commits()** in parallel (no arguments for commits = list mode).
-2. Show the commits table from forkfeed_commits. It already indicates which commits have published feeds. Ask which ONE commit to process. One commit at a time, never more. Do NOT ask about image style.
+2. Show the commits table. Ask which ONE commit to process. One commit at a time, never more. Do NOT ask about image style.
 3. Call **forkfeed_commits** with the selected commit SHA. This returns the diff, file stats, and suggested scene images. Do NOT run git commands yourself.
-4. Generate the simplified content JSON: sha, feedTitle, feedDescription, forkTitle, forkDescription, and 6 cards with blocks. Use short image IDs (img47) for inline images. Do NOT provide owner, repo, backgrounds, existingFeedIds, UUIDs, covers, or type wrappers. The builder auto-detects and generates all of that.
-5. Call **forkfeed_build** with the simplified content (push defaults to true).
-6. Display the QR code block from the push result exactly as returned, so the user can scan it.
+4. Generate the simplified content: sha, feedTitle, feedDescription, forkTitle, forkDescription, and 6 cards with blocks. Use short image IDs (img47) for inline images. Do NOT provide owner, repo, backgrounds, UUIDs, covers, or type wrappers. The builder generates all of that. If the forkserver repo is a different directory, pass its root as outDir.
+5. Call **forkfeed_build** with the simplified content. It writes typed .ts files into forks/<forkId>/.
+6. Tell the user to run \`npm run convert && npm run typecheck && npm run deploy\` in the forkserver repo, then call **forkfeed_publish** with their deployed forkServerUrl to register the fork.
 
 Start now.`,
         },

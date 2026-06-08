@@ -1,48 +1,54 @@
 # Protocol & API Reference
 
-A lightweight, edge-deployed content backend built on Cloudflare Workers + D1 (SQLite) + Hono.
+A tiny, edge-deployed content server built on Cloudflare Workers + Hono. There is
+**no database**: content lives as typed TypeScript files under `forks/` and is
+bundled into the worker at build time. Dynamic feeds are functions that ship in the
+bundle. The server exposes **two read endpoints** (plus health and an optional
+single-card lookup).
 
 ## Running
 
 ```bash
-npm install              # Install dependencies
-npm run db:create        # Create D1 database (once)
-npm run db:migrate       # Run schema migration on remote D1
-wrangler secret put ADMIN_KEY  # Set admin auth key
-wrangler secret put READ_KEY   # Set read auth key
-npm run deploy           # Deploy to Cloudflare Workers
+npm install              # install dependencies
+npm run typecheck        # tsc --noEmit (type-checks all content in forks/)
+npm run deploy           # deploy to Cloudflare Workers
 ```
 
-### Environment / Secrets
+### Environment
 
 | Variable | Required | Description |
 |---|---|---|
-| `ADMIN_KEY` | Yes | Bearer token for admin API (set via `wrangler secret put`) |
-| `READ_KEY` | Yes | Bearer token for read endpoints (set via `wrangler secret put`) |
+| `READ_KEY` | No | Bearer token for read endpoints. Defaults to `"read"`. Set in `wrangler.toml` `[vars]` or via `wrangler secret put READ_KEY`. |
+| `ALLOWED_ORIGINS` | No | Comma-separated CORS origins. Defaults to `*`. |
 
-D1 database binding is configured in `wrangler.toml`.
+No database binding is needed.
 
 ---
 
 ## Data Model
 
-### Settings (Manifest)
+Defined as TypeScript in [`src/types.ts`](src/types.ts) — the types ARE the schema,
+so authoring mistakes are caught by `npm run typecheck`.
 
-Single row (`id = 'manifest'`) containing server-wide configuration.
+### Fork (`forks/<fork-id>/fork.ts`)
 
-| Field | Type | Required |
-|---|---|---|
-| `name` | `string` | Yes |
-| `description` | `string` | Yes |
-| `version` | `string` | Yes (semver) |
-| `maintainerName` | `string` | Yes |
-| `maintainerUrl` | `string` | No |
-| `maintainerEmail` | `string` | No |
-| `maxPageSize` | `integer` | Yes (default 50) |
+```ts
+interface Fork {
+  meta: {
+    id: string;
+    title: string;
+    description: string;
+    imageSrc: string;
+    actionLabel?: string;   // optional CTA button text
+    actionUrl?: string;     // optional CTA button URL
+  };
+  feeds: Feed[];            // ordered
+}
+```
 
-### Feed
+### Feed (`forks/<fork-id>/<feed-id>.ts`)
 
-A named collection of cards with one or more supported loading modes.
+Shared metadata:
 
 | Field | Type | Required |
 |---|---|---|
@@ -50,84 +56,52 @@ A named collection of cards with one or more supported loading modes.
 | `title` | `string` | Yes |
 | `description` | `string` | Yes |
 | `imageSrc` | `string` | Yes |
-| `mode` | `string` | Yes (`"sequential"` or `"random"`) |
-| `scrollDirection` | `string` | No (`"vertical"` or `"horizontal"`, default `"vertical"`) |
-| `generatorId` | `string` | No (references a registered card generator) |
-| `engagement` | `boolean` | No (default `false`) |
-| `createdAt` | `string` (ISO 8601) | Auto |
-| `updatedAt` | `string` (ISO 8601) | Auto |
+| `mode` | `"sequential" \| "random"` | No (default `sequential`) |
+| `scrollDirection` | `"vertical" \| "horizontal"` | No (default `vertical`) |
+| `engagement` | `boolean` | No (default `false`; tracking is collected by the app-server) |
+
+A **static feed** (`StaticFeed`) additionally has `cards: Card[]`.
+A **dynamic feed** (`DynamicFeed`, file suffix `.dynamic.ts`) instead has
+`dynamic: true` and `generate(page, limit, seed) => { cards: Card[]; hasMore: boolean }`.
 
 ### Card
 
-A single piece of content with one or more visual variants.
-
-| Field | Type | Required |
-|---|---|---|
-| `id` | `string` | Yes |
-| `feedId` | `string` | Yes |
-| `order` | `integer` | Yes (>= 0) |
-| `variants` | `CardVariant[]` | Yes (min 1) |
-| `createdAt` | `string` (ISO 8601) | Auto |
-| `updatedAt` | `string` (ISO 8601) | Auto |
-
-### Fork
-
-A curated sequence of feeds.
-
-| Field | Type | Required |
-|---|---|---|
-| `id` | `string` | Yes |
-| `title` | `string` | Yes |
-| `description` | `string` | Yes |
-| `imageSrc` | `string` | Yes |
-| `feedIds` | `string[]` | Yes |
-| `actionLabel` | `string` | No (button text, e.g. "Buy the Full Book") |
-| `actionUrl` | `string` | No (URL opened when the button is tapped) |
-| `createdAt` | `string` (ISO 8601) | Auto |
-| `updatedAt` | `string` (ISO 8601) | Auto |
+```ts
+interface Card { id: string; variants: CardVariant[]; }
+```
 
 ### CardVariant Types
 
-`FULL_IMAGE`, `FULL_VIDEO`, `CONTENT`. Both `FULL_IMAGE` and `CONTENT` variants support an optional `backgroundSrc` field. For `CONTENT`, it renders a full-bleed background behind the glass card with a dark overlay. For `FULL_IMAGE`, it enables a two-layer composition: `backgroundSrc` as full-bleed background and `imageSrc` as a contained foreground element (transparent PNGs, product shots, character art). See [CONTENT.md](CONTENT.md) for detailed examples of each type and all content block types.
+`FULL_IMAGE`, `FULL_VIDEO`, `CONTENT`. Both `FULL_IMAGE` and `CONTENT` support an
+optional `backgroundSrc`. See [CONTENT.md](CONTENT.md) for full examples.
 
 ### ContentBlock Types
 
-`CONTENT_IMAGE`, `CONTENT_TEXT`, `CONTENT_TITLE`, `CONTENT_VIDEO`, `CONTENT_SOCIAL`, `CONTENT_SUBTEXT`, `CONTENT_CODE`, `CONTENT_QUIZ`, `CONTENT_BUTTON`. See [CONTENT.md](CONTENT.md) for JSON examples.
+`CONTENT_IMAGE`, `CONTENT_TEXT`, `CONTENT_TITLE`, `CONTENT_VIDEO`, `CONTENT_SOCIAL`,
+`CONTENT_SUBTEXT`, `CONTENT_CODE`, `CONTENT_QUIZ`, `CONTENT_BUTTON`. See [CONTENT.md](CONTENT.md).
 
 ---
 
-## Read Endpoints
+## Endpoints
 
-All read endpoints (except `/health`) require `Authorization: Bearer <READ_KEY>` header. These are consumed by the app-server.
+All endpoints except `/health` require `Authorization: Bearer <READ_KEY>`.
 
 ### `GET /health`
 
-**Response `200`:**
 ```json
-{ "status": "ok" }
+{ "status": "ok", "forks": 9 }
 ```
 
-If D1 is unreachable: `{ "status": "degraded" }` with HTTP 500.
+### `GET /forks/:forkId` — fork metadata + feed summaries
 
----
-
-### `GET /.well-known/forkfeed.json`
-
-Discovery manifest.
-
-**Response `200`:**
 ```json
 {
-  "protocol": "forkfeed-v1",
-  "name": "My Card Server",
-  "description": "Nature photography cards",
-  "version": "1.0.0",
-  "maintainer": {
-    "name": "Jane Doe",
-    "url": "https://example.com",
-    "email": "jane@example.com"
+  "fork": {
+    "id": "nature-fork",
+    "title": "Nature Fork",
+    "description": "A calming nature experience",
+    "imageSrc": "https://example.com/fork.jpg"
   },
-  "maxPageSize": 50,
   "feeds": [
     {
       "id": "calming-nature",
@@ -137,220 +111,61 @@ Discovery manifest.
       "mode": "sequential",
       "scrollDirection": "vertical",
       "engagement": true,
+      "dynamic": false,
       "cardCount": 42
-    }
-  ],
-  "forks": [
-    {
-      "id": "nature-fork",
-      "title": "Nature Fork",
-      "description": "A calming nature experience",
-      "imageSrc": "https://example.com/fork.jpg",
-      "feedIds": ["calming-nature"],
-      "actionLabel": "Visit our website",
-      "actionUrl": "https://example.com"
     }
   ]
 }
 ```
 
-Only feeds assigned to at least one fork are included. `cardCount` is `null` for generative feeds. `maintainer.url` and `maintainer.email` are omitted if not configured. `actionLabel` and `actionUrl` are only included when both are set.
+`cardCount` is `null` and `dynamic` is `true` for dynamic feeds. `actionLabel` /
+`actionUrl` appear on `fork` only when set.
 
----
+**Error `404`:** `{ "error": "Fork not found" }`
 
-### `GET /feeds/:feedId/cards`
-
-Paginated card list (backwards-compatible, no engagement).
-
-**Query Parameters:**
+### `GET /forks/:forkId/feeds/:feedId/cards` — a page of cards
 
 | Param | Type | Default | Description |
 |---|---|---|---|
-| `page` | integer | `1` | 1-indexed page number |
-| `limit` | integer | `10` | Cards per page (clamped to `maxPageSize`) |
-| `mode` | `"sequential" \| "random"` | `"sequential"` | Loading mode |
-
-**Response `200`:**
-```json
-{
-  "cards": [
-    { "id": "nature-001", "variants": [...] }
-  ],
-  "pagination": {
-    "page": 1,
-    "limit": 10,
-    "totalCards": 42,
-    "totalPages": 5,
-    "hasMore": true
-  },
-  "meta": {
-    "feedId": "calming-nature",
-    "mode": "sequential"
-  }
-}
-```
-
-- **Sequential mode**: offset pagination, `hasMore = page * limit < totalCards`
-- **Random mode**: D1 `ORDER BY RANDOM()`, `hasMore` always `false`
-- **Generative feeds**: `totalCards` and `totalPages` are `null`, `meta.generative` is `true`
-
-**Error `404`:** `{ "error": "Feed 'xyz' not found" }`
-**Error `400`:** `{ "error": "Mode 'random' is not supported..." }`
-
----
-
-### `POST /feeds/:feedId/cards` (optional)
-
-Paginated card list **with engagement data**. Only available when the feed declares `"engagement": true`. The app-server checks this during backend registration and uses POST when the feed supports it, GET otherwise.
-
-Same query parameters as GET. Additionally accepts a JSON request body with engagement data from the previous batch of cards.
-
-**Request Body:**
+| `page` | integer | `1` | 1-indexed page |
+| `limit` | integer | `10` | cards per page (clamped to 50) |
 
 ```json
 {
-  "sessionId": "550e8400-e29b-41d4-a716-446655440000",
-  "hashedUserId": "a1b2c3d4e5f6...",
-  "engagement": [
-    {
-      "cardId": "nature-001",
-      "timeSpentMs": 4200,
-      "variantViewCount": 3
-    },
-    {
-      "cardId": "nature-002",
-      "timeSpentMs": 1800,
-      "variantViewCount": 1
-    }
-  ]
+  "cards": [ { "id": "nature-001", "variants": [] } ],
+  "pagination": { "page": 1, "limit": 10, "totalCards": 42, "totalPages": 5, "hasMore": true },
+  "meta": { "forkId": "nature-fork", "feedId": "calming-nature", "dynamic": false }
 }
 ```
 
-| Field | Type | Required | Description |
-|---|---|---|---|
-| `sessionId` | `string` (UUID v4) | Yes | Unique per feed-viewing session, generated by the client |
-| `hashedUserId` | `string` (SHA-256 hex) | No | Hash of the user's internal ID for cross-session correlation. `null` for anonymous users |
-| `engagement` | `CardEngagement[]` | No | Engagement signals from the previous batch of cards |
-| `engagement[].cardId` | `string` | Yes | The card that was viewed |
-| `engagement[].timeSpentMs` | `integer` | Yes | Milliseconds the card was visible on screen |
-| `engagement[].variantViewCount` | `integer` | Yes | Number of unique variants the user swiped through (min 1) |
+- **Static feeds**: slice of the bundled `cards` array; `totalCards` / `totalPages` are real numbers.
+- **Dynamic feeds**: `generate()` is called; `totalCards` / `totalPages` are `null`, `hasMore` comes from the generator. For `mode: "random"` the page is used as the generator seed (stable, non-repeating infinite scroll).
 
-**Behavior:**
-- Engagement data is written to D1 asynchronously (non-blocking) — it does not affect the card response
-- The first page request typically has no engagement data (nothing to report yet)
-- If `sessionId` is missing or `engagement` is empty, the endpoint behaves identically to GET
-- Feeds that declare `"engagement": true` MUST accept this endpoint
-- Card servers MUST handle empty/missing engagement gracefully
+**Error `404`:** `{ "error": "Feed not found" }`
 
-**Response:** Identical to `GET /feeds/:feedId/cards`
+### `GET /forks/:forkId/cards/:cardId` — single card (optional)
 
----
+Looks the card up in the fork's static feeds. Dynamic cards are page-derived and not
+addressable by id.
 
-### `GET /cards/:cardId`
-
-Single card by ID. Falls back to generator derivation for generative card IDs.
-
-**Response `200`:**
 ```json
-{ "id": "nature-001", "variants": [...] }
+{ "id": "nature-001", "variants": [] }
 ```
 
-**Error `404`:** `{ "error": "Card 'xyz' not found" }`
+**Error `404`:** `{ "error": "Card not found" }`
 
 ---
 
-## Admin API Endpoints
+## Authoring content
 
-All admin endpoints require `Authorization: Bearer <ADMIN_KEY>` header.
+1. Create `forks/<fork-id>/fork.ts` exporting a `Fork` (default export).
+2. Add one file per feed in the same folder, next to `fork.ts`:
+   - static: `<feed-id>.ts` exporting a `StaticFeed`
+   - dynamic: `<feed-id>.dynamic.ts` exporting a `DynamicFeed`
+3. Run `npm run convert` to (re)generate the `forks/index.ts` registry, or add the
+   import by hand. The converter can also migrate a legacy JSON manifest:
+   `node scripts/manifest-to-fork.mjs manifests/<file>.json`.
+4. `npm run typecheck` then `npm run deploy`.
 
-### Write
-
-| Method | Path | Notes |
-|---|---|---|
-| `PUT /admin/settings` | Upsert server settings |
-| `POST /admin/feeds` | Create feed (409 if exists) |
-| `PUT /admin/feeds/:id` | Update feed |
-| `DELETE /admin/feeds/:id` | Delete feed + cascade cards |
-| `DELETE /admin/feeds/:feedId/cards` | Delete all cards for a feed (used before re-upload) |
-| `POST /admin/cards` | Create card (409 if exists) |
-| `PUT /admin/cards/:id` | Update card |
-| `DELETE /admin/cards/:id` | Delete card |
-| `POST /admin/forks` | Create fork (409 if exists) |
-| `PUT /admin/forks/:id` | Update fork |
-| `DELETE /admin/forks/:id` | Delete fork |
-
-### Read-Only
-
-| Method | Path | Notes |
-|---|---|---|
-| `GET /admin/stats` | `{ feeds, cards, forks }` counts |
-| `GET /admin/feeds` | All feeds with card counts |
-| `GET /admin/cards?feedId=X` | Cards list, filterable by feed |
-| `GET /admin/forks` | All forks |
-| `GET /admin/engagement?feedId=X` | Engagement stats (total events, unique sessions, avg time, per-feed breakdown) |
-
----
-
-## Upload Script
-
-```bash
-# Push a single manifest
-npm run push -- manifests/hp-philosophers-stone.json
-
-# Push all manifests
-npm run push
-```
-
-The push script sends manifests to the app-server, which forwards to the card server and registers forks automatically. Requires `FORKFEED_TOKEN` in `.dev.vars`.
-
----
-
-## Generators
-
-Feeds can be backed by a **card generator** instead of stored cards. A generator produces cards on-demand — enabling infinite, procedurally generated content without storing anything in D1.
-
-### How It Works
-
-1. A feed has a `generatorId` field (e.g. `"counting-sheep"`)
-2. When `/feeds/:feedId/cards` is requested, the server calls the matching generator instead of querying D1
-3. The generator returns a page of cards with `hasMore: true` for infinite pagination
-
-### CardGenerator Type Signature
-
-```typescript
-type CardGenerator = (
-  feedId: string,
-  page: number,
-  limit: number,
-) => { cards: GeneratedCard[]; hasMore: boolean };
-```
-
-Where `GeneratedCard` is `{ id: string; variants: CardVariant[] }`.
-
-### Registering a Generator
-
-Create a file in `src/generators/`, implement the `CardGenerator` interface, call `registerGenerator()`, and import it in `src/index.ts`:
-
-```typescript
-import { registerGenerator, type CardGenerator } from '../registry.js';
-
-const myGenerator: CardGenerator = (feedId, page, limit) => {
-  const cards = Array.from({ length: limit }, (_, i) => ({
-    id: crypto.randomUUID(),
-    variants: [{ type: 'FULL_IMAGE', imageSrc: `https://example.com/${page}-${i}.jpg` }],
-  }));
-  return { cards, hasMore: true };
-};
-
-registerGenerator('my-generator', myGenerator);
-```
-
-Then create a feed with `generatorId: "my-generator"`.
-
-### Card IDs
-
-All entity IDs (forks, feeds, cards) should be UUID v4. For generative cards, use deterministic UUIDs derived from the seed (page + index) so the same request always returns stable IDs. The app-server treats card IDs as opaque strings and does not attempt to parse or re-derive them.
-
-### Built-in Generator
-
-The `counting-sheep` generator produces an infinite stream of sheep-jumping cards with deterministic rare variants (uncommon, rare, legendary) using Knuth's multiplicative hash.
+See [CONTENT.md](CONTENT.md) for variant/block examples and the dynamic-feed pattern
+in [`forks/counting-sheep/`](forks/counting-sheep).

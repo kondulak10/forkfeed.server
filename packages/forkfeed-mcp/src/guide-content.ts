@@ -1,7 +1,7 @@
 /**
  * Condensed skill guide for generating forkfeed content from GitHub commits.
  * Returned by the forkfeed_guide tool. This is the single-read reference
- * that teaches Claude how to generate a valid manifest.
+ * that teaches Claude how to generate valid card content.
  */
 export const GUIDE_CONTENT = `
 # Forkfeed Content Guide - "The Fuck I Pushed"
@@ -16,13 +16,14 @@ Turn GitHub commits into swipeable card content. One fork per repo, one feed per
 2. Show commits table, ask which ONE to process
 3. Call **forkfeed_commits(sha)** to get diff, stats, and suggested scene images
 4. Generate simplified content JSON (see format below)
-5. Call **forkfeed_build** with the content (push defaults to true)
+5. Call **forkfeed_build** with the content - it writes typed .ts files into the forkserver repo's forks/ folder
+6. In the forkserver repo run \`npm run convert && npm run typecheck && npm run deploy\`, then call **forkfeed_publish** with your deployed forkServerUrl
 
 ---
 
 ## Simplified content format (for forkfeed_build)
 
-The builder auto-detects repo info (owner, repo, GitHub URL), auto-assigns card backgrounds, and fetches existing feed IDs from the server. You only provide creative content.
+The builder auto-detects repo info (owner, repo, GitHub URL) and auto-assigns card backgrounds, then writes the typed feed file into the forkserver repo. You only provide creative content.
 
 \`\`\`json
 {
@@ -62,18 +63,18 @@ Only 5 fields + cards. Everything else is auto-populated.
 - Detects repo owner/name from git remote
 - Generates fork/feed IDs from convention (tfip-{owner}-{repo}-{sha})
 - Constructs GitHub action URL
-- Fetches existing feed IDs from server (for incremental updates)
 - Assigns 6 unique card backgrounds from preference table + commit tags
-- Generates UUID v4 for each card ID
+- Generates a stable id for each card
 - Resolves short image IDs (img47, bg10) to full CDN URLs
 - Adds FULL_IMAGE cover variant with fixed title/subtitle per card type
-- Sets backgroundSrc, feedId, and order on each card
-- Validates the assembled manifest before pushing
+- Sets backgroundSrc on each detail variant
+- Validates the content, then writes typed StaticFeed files into forks/<forkId>/ and regenerates fork.ts
 
 ### Optional overrides
 - \`bgOverride\`: array of 6 background IDs to override auto-assignment
 - \`coverOverride\`: array of 6 cover image IDs (defaults to backgrounds)
-- \`cwd\`: working directory if not process.cwd()
+- \`cwd\`: working directory for git if not process.cwd()
+- \`outDir\`: forkserver repo root to write into (defaults to cwd)
 
 ---
 
@@ -115,9 +116,12 @@ Each card = array of detail variants (cover is auto-generated). Provide 1+ varia
 Casual, cheeky, technically accurate. Use "you," contractions, short paragraphs, occasional swearing. Humor is the default.
 
 ### Incremental updates
-**forkfeed_commits()** (list mode) shows which commits have published feeds. The builder auto-fetches existing feed IDs, so you don't need to track them.
+Each commit becomes one feed file named from its SHA (fork-sha7.ts), so a fork
+accumulates one feed per processed commit. Re-building the same commit overwrites that
+same feed file; building a new commit adds a new feed file and regenerates fork.ts to
+import them all.
 
-- **New commit**: Just generate content. The builder handles feed ID preservation.
-- **Existing commit**: Warn the user. Only regenerate if they confirm.
+- **New commit**: Just generate content; the new feed is added to the fork.
+- **Existing commit**: Warn the user - rebuilding overwrites that commit's feed file.
 - **One commit per run**: Never process multiple commits at once.
 `.trim();

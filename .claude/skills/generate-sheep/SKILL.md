@@ -1,6 +1,6 @@
 ---
 name: generate-sheep
-description: Generate the counting sheep sleep-aid feed - 3-card jump cycle with 25 rare sheep across 5 rarity tiers, image prompts, and manifest
+description: Generate the counting sheep sleep-aid feed - 3-card jump cycle with 25 rare sheep across 5 rarity tiers, image prompts, and the dynamic feed files
 user_invocable: true
 ---
 
@@ -8,7 +8,7 @@ user_invocable: true
 
 Generate the "Counting Sheep" infinite sleep-aid feed. Users swipe through sheep jumping over a fence in a 3-card flipbook cycle (approach, mid-air, landing). Rare/special sheep appear randomly with humorous titles across 5 rarity tiers (common, uncommon, rare, epic, legendary).
 
-This is a unique generator concept, not a parameterized animal-in-setting template. The generator code (`src/generators/counting-sheep.ts` + `counting-sheep-data.ts`) is maintained separately.
+This is a unique generator concept, not a parameterized animal-in-setting template. The feed code (`forks/counting-sheep/counting-sheep-feed.dynamic.ts` + `sheep-data.ts`) is maintained separately.
 
 ## How to use
 
@@ -176,44 +176,33 @@ Each rare sheep on solid green background. Modify the character while keeping it
 
 ---
 
-## Phase 2 - Generate Manifest
+## Phase 2 - Update the dynamic feed data
 
-Create `manifests/counting-sheep.json`:
+Counting Sheep is a **dynamic feed** that already exists as typed files under
+`forks/counting-sheep/`. There is no manifest and no generator registry. The feed
+metadata + the infinite `generate()` function live in
+`forks/counting-sheep/counting-sheep-feed.dynamic.ts`, and the sheep image pool lives
+in `forks/counting-sheep/sheep-data.ts`.
 
-```json
-{
-  "forks": [{
-    "_id": "counting-sheep",
-    "title": "Counting Sheep",
-    "description": "Swipe through sheep jumping over a fence. Count them. Fall asleep. Watch for rare ones.",
-    "imageSrc": "FORK_IMAGE_URL",
-    "feedIds": ["counting-sheep-feed"]
-  }],
-  "feeds": [{
-    "_id": "counting-sheep-feed",
-    "title": "Jump, Jump, Jump",
-    "description": "Infinite sheep jumping over a fence",
-    "imageSrc": "FEED_IMAGE_URL",
-    "mode": "random",
-    "scrollDirection": "vertical",
-    "engagement": true,
-    "generatorId": "counting-sheep"
-  }],
-  "cards": []
-}
-```
+To add or change sheep, edit `forks/counting-sheep/sheep-data.ts`:
 
-The cards array is EMPTY - all cards come from the generator at runtime.
+- `NORMAL_SHEEP_IMAGE` / `BACKGROUND_IMAGE` - the base jump images
+- `UNCOMMON_SHEEP` / `RARE_SHEEP` / `LEGENDARY_SHEEP` - arrays of `{ imageSrc, title }`
+
+Each entry is `{ imageSrc: \`${CDN}/<name>.png\`, title: '...' }`. The `generate()`
+function in the `.dynamic.ts` file handles rarity rolls and stable card IDs - only
+touch it if you are changing the rarity math. Fork/feed metadata is in
+`fork.ts` / `counting-sheep-feed.dynamic.ts` (no manifest to write).
 
 ---
 
 ## After Generation
 
 Tell the user:
-1. Run `npm run typecheck` to verify the generator compiles
-2. Deploy with `npm run deploy` to push the generator to Cloudflare Workers
-3. Push the manifest: `npm run push -- manifests/counting-sheep.json`
-4. Generate images from prompts (1 fork + 1 background + 3 jump + 25 rare = 30 total), upload to CDN, update `counting-sheep-data.ts` IMAGE_URLS, and redeploy
+1. Run `npm run typecheck` to verify the feed compiles
+2. Deploy with `npm run deploy` (Wrangler bundles the feed into the worker)
+3. Make it visible with `/server-actions` (Publish a fork) using the deployed worker URL (fork id `counting-sheep`)
+4. Generate images from prompts (1 fork + 1 background + 3 jump + 25 rare = 30 total), upload to CDN, update the `CDN` constant and image names in `forks/counting-sheep/sheep-data.ts`, and redeploy
 
 ---
 
@@ -221,9 +210,9 @@ Tell the user:
 
 | Concept | Path |
 |---|---|
-| Generator | `src/generators/counting-sheep.ts` |
-| Data file | `src/generators/counting-sheep-data.ts` |
-| Manifest | `manifests/counting-sheep.json` |
+| Dynamic feed (generate fn + metadata) | `forks/counting-sheep/counting-sheep-feed.dynamic.ts` |
+| Sheep image pool | `forks/counting-sheep/sheep-data.ts` |
+| Fork metadata | `forks/counting-sheep/fork.ts` |
 | Image prompts (md) | `content/counting-sheep-images.md` |
 | Image prompts (html) | `content/counting-sheep-images.html` |
 

@@ -6,13 +6,9 @@
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
-    "deploy": "wrangler deploy",
-    "push": "node scripts/push.mjs",
-    "publish": "wrangler deploy && node scripts/push.mjs",
+    "deploy": "node scripts/manifest-to-fork.mjs && tsc --noEmit && wrangler deploy",
     "typecheck": "tsc --noEmit",
-    "db:create": "wrangler d1 create forkfeed-server-db",
-    "db:migrate": "wrangler d1 execute forkfeed-server-db --file=schema.sql",
-    "deregister": "node scripts/delete.mjs"
+    "convert": "node scripts/manifest-to-fork.mjs"
   },
   "dependencies": {
     "hono": "^4.7.0"

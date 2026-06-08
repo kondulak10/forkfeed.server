@@ -1,6 +1,2 @@
-ADMIN_KEY=admin
 READ_KEY=read
-CARD_SERVER_URL=https://your-worker.workers.dev
 CDN_DOMAIN=your-cdn-domain.example.com
-FORKFEED_TOKEN=ff_your_token_here
-APP_SERVER_URL=https://api.forkfeed.link
