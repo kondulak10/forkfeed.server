@@ -60,11 +60,25 @@ function getRepoInfo(cwd) {
 
 function getCommitList(cwd, count = 15) {
   const fmt = `%H${SEP}%h${SEP}%s${SEP}%an${SEP}%aI`;
-  const raw = git(['log', '--no-merges', `-${count}`, `--format=${fmt}`], cwd);
-  return raw.trim().split('\n').filter(Boolean).map((line) => {
-    const [sha, shortSha, message, author, date] = line.split(SEP);
-    return { sha, shortSha, message, author, date: (date || '').slice(0, 10) };
-  });
+  const raw = git(['log', '--no-merges', `-${count}`, '--numstat', `--format=${fmt}`], cwd);
+  const commits = [];
+  let cur = null;
+  for (const line of raw.split('\n')) {
+    if (line.includes(SEP)) {
+      // Commit header line (contains the record separator).
+      const [sha, shortSha, message, author, date] = line.split(SEP);
+      cur = { sha, shortSha, message, author, date: (date || '').slice(0, 10), added: 0, deleted: 0 };
+      commits.push(cur);
+    } else if (cur) {
+      // numstat row: "<added>\t<deleted>\t<path>" ("-" for binary files).
+      const m = line.match(/^(\d+|-)\t(\d+|-)\t/);
+      if (m) {
+        if (m[1] !== '-') cur.added += Number(m[1]);
+        if (m[2] !== '-') cur.deleted += Number(m[2]);
+      }
+    }
+  }
+  return commits;
 }
 
 function truncateDiff(diff, maxLinesPerFile = 200) {
@@ -329,8 +343,8 @@ function cmdCommits(cwd) {
   if (!isGitRepo(cwd)) { console.error('Not in a git repo. Run inside a git repository.'); process.exit(1); }
   const list = getCommitList(cwd);
   if (!list.length) { console.log('No commits found.'); return; }
-  const lines = ['| # | SHA | Message | Author | Date |', '|---|-----|---------|--------|------|'];
-  list.forEach((c, i) => lines.push(`| ${i + 1} | ${c.shortSha} | ${c.message.slice(0, 60)} | ${c.author} | ${c.date} |`));
+  const lines = ['| # | SHA | Message | Author | Date | + | - |', '|---|-----|---------|--------|------|---|---|'];
+  list.forEach((c, i) => lines.push(`| ${i + 1} | ${c.shortSha} | ${c.message.slice(0, 60)} | ${c.author} | ${c.date} | ${c.added} | ${c.deleted} |`));
   console.log(lines.join('\n'));
 }
 
