@@ -17,8 +17,11 @@ per commit, exactly 6 cards per feed. Process exactly ONE commit at a time.
 5. Generate the simplified content JSON (format below) and write it to a temp file.
 6. Publish: `... publish --file <tmp.json>` (add `--dry-run` first to preview).
    No token, no login: content publishes anonymously and unlisted (viewable by
-   anyone with the link, not shown in discovery). The command prints a URL and a QR
-   code that opens the feed directly in the forkfeed app.
+   anyone with the link, not shown in discovery). Then in your reply give the user
+   the `Open it: <url>` line AND reproduce the FULL QR code from the script output
+   verbatim inside a fenced code block (```), copied character-for-character. Never
+   summarize, redraw, or omit the QR - it must render as text so the user can scan
+   it on screen. The QR opens the feed directly in the forkfeed app.
 
 ## Simplified content format
 

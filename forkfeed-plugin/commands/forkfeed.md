@@ -32,6 +32,12 @@ rules. Steps:
    `--dry-run` to publish. No token, no login, nothing to install: it publishes
    anonymously and unlisted (shareable by link).
 
-5. Show the user the printed URL and the QR code: scanning it opens the feed
-   directly in the forkfeed app. The content is unlisted (anyone with the link can
-   view it, not shown in discovery). Each run creates a fresh link.
+5. Report the result to the user IN YOUR REPLY, in this exact order:
+   - the line `Open it: <url>` (the URL the publish script printed), then
+   - the **entire QR code** the publish script printed, reproduced **verbatim
+     inside a fenced code block** (```), copied character-for-character from the
+     command output. This is mandatory: do NOT summarize it, describe it, redraw it,
+     say "scan the QR above", or omit any rows. The QR must be visible as text in
+     your reply so the user can scan it on screen.
+   - one short line: the content is unlisted (anyone with the link can view it, not
+     shown in discovery) and each run makes a fresh link.

@@ -380,7 +380,14 @@ async function cmdPublish(cwd, file, dryRun) {
   console.log(`  Feeds: ${data.feeds?.length ?? 1}`);
   console.log(`  Cards: ${data.cardsStored ?? cardCount}`);
   if (data.url) console.log(`  Open:  ${data.url}`);
-  if (data.qr) console.log('\nScan to open it in the app on your phone:\n' + data.qr);
+  if (data.qr) {
+    // The orchestrating assistant must reproduce everything between the markers
+    // verbatim, in a code block, so the QR renders for the user to scan on screen.
+    console.log('\nQR CODE (show to the user verbatim, inside a code block):');
+    console.log('----- QR BEGIN -----');
+    console.log(data.qr.replace(/\s+$/, ''));
+    console.log('----- QR END -----');
+  }
   console.log('\nAnyone with the link can view it; it will not appear in discovery.');
 }
 
