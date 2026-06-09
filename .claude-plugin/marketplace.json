@@ -1,0 +1,14 @@
+{
+  "name": "forkfeed",
+  "owner": {
+    "name": "Forkfeed",
+    "email": "jan.kondula@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "forkfeed",
+      "source": "./forkfeed-plugin",
+      "description": "Turn your git commits into swipeable forkfeed content and publish them to forkfeed.link."
+    }
+  ]
+}

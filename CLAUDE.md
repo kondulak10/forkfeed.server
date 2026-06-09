@@ -22,12 +22,10 @@ scripts/
   env.mjs              - Env loader for scripts
 manifests/       - Legacy JSON manifests (source for the converter; forks/ is now the source of truth)
 permanent_content/ - Developer-themed images and backgrounds for MCP content generation
-packages/
-  forkfeed-mcp/  - MCP server (npm: forkfeed-mcp)
+forkfeed-plugin/ - Claude Code plugin (/forkfeed command + forkfeed-content skill + zero-dep publish script) for app-native content creation. Repo-root .claude-plugin/marketplace.json (source ./forkfeed-plugin) makes it installable via /plugin marketplace add. Talks to the forkfeed-app app-server, not this worker.
 PROTOCOL.md      - API spec + data model
 CONTENT.md       - Content authoring guide (variant/block types, image hosting)
 DEPLOY.md        - Fork-to-deploy guide
-MCP.md           - MCP server setup and usage
 ```
 
 ## Commands
@@ -110,4 +108,4 @@ ensure prompts cannot produce prohibited imagery.
 - **generate-content** - Generate forkfeed server content for a topic with web research and AI images
 - **generate-book** - Convert a book into forkfeed content (chapter feeds, text cards, quiz feed, AI images)
 - **generate-sheep** - Generate the counting sheep sleep-aid feed with rare collectible variants
-- **server-actions** - Deploy forkfeed server code, push manifests, publish MCP, or all
+- **server-actions** - Deploy forkfeed server code, push manifests, or all

@@ -75,8 +75,8 @@ if you just want to ship the worker without touching the app.
 
 - **Manual**: write typed files under `forks/` - see **[CONTENT.md](CONTENT.md)** for
   the format reference, all variant/block types, and a template.
-- **From git commits**: use the **[MCP server](MCP.md)** to generate card files
-  automatically.
+- **From git commits**: use the **[forkfeed plugin](forkfeed-plugin/)** (a Claude Code
+  `/forkfeed` command) to generate and publish content automatically.
 
 ## API Reference
 

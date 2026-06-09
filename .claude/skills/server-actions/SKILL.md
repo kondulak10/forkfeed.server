@@ -1,6 +1,6 @@
 ---
 name: server-actions
-description: "Deploy the forkfeed server, regenerate content, publish a fork to the app, or publish the MCP package. Asks which action to run."
+description: "Deploy the forkfeed server, regenerate content, or publish a fork to the app. Asks which action to run."
 user-invocable: true
 allowed-tools: Bash, AskUserQuestion
 ---
@@ -13,8 +13,7 @@ AskUserQuestion with these options:
 
 1. **Publish** - Deploy the worker AND register every fork with the forkfeed app. The common release.
 2. **Deploy only** - Regenerate the registry, typecheck, and deploy the worker (no app registration).
-3. **Publish MCP** - Build and publish the forkfeed-mcp npm package only.
-4. **Convert manifests** - Migrate legacy `manifests/*.json` into typed `forks/` files.
+3. **Convert manifests** - Migrate legacy `manifests/*.json` into typed `forks/` files.
 
 ## After the user picks
 
@@ -35,22 +34,12 @@ Run the corresponding commands:
   ```
   (`deploy` self-runs the registry regen + typecheck before `wrangler deploy`.)
 
-- **Publish MCP**:
-  ```bash
-  cd packages/forkfeed-mcp && npm run build && npm publish
-  ```
-
 - **Convert manifests**: regenerate typed files from legacy JSON (skips generator-backed manifests):
   ```bash
   npm run convert                          # all manifests/*.json
   npm run convert -- manifests/<file>.json # one manifest
   ```
   Then `npm run deploy` (which re-runs convert + typecheck before deploying).
-
-## MCP version bump
-
-Before publishing MCP, check if `packages/forkfeed-mcp/src/` has changed since the last
-publish. If yes, bump the version in `packages/forkfeed-mcp/package.json` before building.
 
 Show the output to the user. If it fails, show the error and suggest checking
 FORKFEED_TOKEN, npm auth, or network connectivity.

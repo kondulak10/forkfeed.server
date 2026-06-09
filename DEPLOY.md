@@ -54,7 +54,7 @@ cp .dev.vars.example .dev.vars
 
 Content is typed files under `forks/<fork-id>/`. See [CONTENT.md](CONTENT.md) for the
 format and a copy-pasteable template, or generate it from git commits with the
-[MCP server](MCP.md). You don't need to run anything after adding a fork - the deploy
+[forkfeed plugin](forkfeed-plugin/). You don't need to run anything after adding a fork - the deploy
 step below regenerates the registry and typechecks for you. To validate while
 iterating, you can run these standalone:
 
@@ -100,7 +100,7 @@ curl -X POST https://api.forkfeed.link/api/content/publish \
 ```
 
 Forks register as **private**; to go public, change visibility in the app (requires
-admin approval). The MCP server's `forkfeed_publish` tool also does a single fork.
+admin approval).
 
 ## Image Hosting
 
@@ -131,8 +131,8 @@ Card images can be hosted anywhere. The server stores URLs, not files. Two optio
 ## Creating Content
 
 - **Manual**: write typed files under `forks/` - see [CONTENT.md](CONTENT.md).
-- **From git commits**: use the [MCP server](MCP.md) (`forkfeed_build`) to generate
-  card files automatically.
+- **From git commits**: use the [forkfeed plugin](forkfeed-plugin/) (a Claude Code
+  `/forkfeed` command) to generate and publish content automatically.
 
 The counting-sheep generator has one hardcoded CDN domain in
 `forks/counting-sheep/sheep-data.ts`. If you want your own sheep images, update the

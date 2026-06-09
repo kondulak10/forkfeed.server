@@ -1,0 +1,11 @@
+{
+  "name": "forkfeed",
+  "description": "Turn your git commits into swipeable forkfeed content and publish them to your forkfeed.link account.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Forkfeed",
+    "email": "jan.kondula@gmail.com"
+  },
+  "homepage": "https://forkfeed.link",
+  "license": "MIT"
+}
