@@ -13,8 +13,18 @@
 
 import { execFileSync } from 'node:child_process';
 import { readFileSync } from 'node:fs';
-import { basename, resolve } from 'node:path';
+import { basename, resolve, dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { IMAGE_CATALOG, resolveImageId } from './image-catalog.mjs';
+
+// Plugin version (single source of truth: ../.claude-plugin/plugin.json). Printed
+// in the output so users can confirm which version ran.
+const VERSION = (() => {
+  try {
+    const p = join(dirname(fileURLToPath(import.meta.url)), '..', '.claude-plugin', 'plugin.json');
+    return JSON.parse(readFileSync(p, 'utf8')).version || '?';
+  } catch { return '?'; }
+})();
 
 const SEP = '\x1e'; // ASCII record separator, safe inside commit messages
 
@@ -352,7 +362,7 @@ async function cmdPublish(cwd, file, dryRun) {
 
   if (dryRun) {
     console.log(JSON.stringify(payload, null, 2));
-    console.log(`\n[dry-run] OK: fork=${forkSlug} feed=${feedSlug} cards=${cardCount}. Nothing was published.`);
+    console.log(`\n[dry-run] forkfeed plugin v${VERSION} OK: fork=${forkSlug} feed=${feedSlug} cards=${cardCount}. Nothing was published.`);
     return;
   }
 
@@ -375,7 +385,7 @@ async function cmdPublish(cwd, file, dryRun) {
     console.error(`Publish failed (${res.status}): ${data.error || JSON.stringify(data)}`); process.exit(1);
   }
 
-  console.log('Published (unlisted, shareable by link).');
+  console.log(`Published with forkfeed plugin v${VERSION} (unlisted, shareable by link).`);
   console.log(`  Fork:  ${data.fork?.title || forkSlug}`);
   console.log(`  Feeds: ${data.feeds?.length ?? 1}`);
   console.log(`  Cards: ${data.cardsStored ?? cardCount}`);

@@ -33,6 +33,7 @@ rules. Steps:
    anonymously and unlisted (shareable by link).
 
 5. Report the result to the user IN YOUR REPLY, in this exact order:
+   - the `forkfeed plugin vX.X.X` line the script printed (so the user can confirm the version), then
    - the line `Open it: <url>` (the URL the publish script printed), then
    - the **entire QR code** the publish script printed, reproduced **verbatim
      inside a fenced code block** (```), copied character-for-character from the
